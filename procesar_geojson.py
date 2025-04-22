@@ -117,17 +117,11 @@ def process_xml_to_geojson(file_path):
                 json.dump(geojson, geojson_file, indent=4)
 
                 print(f"GeoJSON generado correctamente para {file_path}")
-    
-# Asegúrate de que esta parte esté dentro del contexto correcto si quieres usar un "else"
-# Este "else" debería pertenecer a una condición previa
-            if not geojson:
+            else:
                 print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
 
-
+# Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
-    """
-    Convierte una cadena de coordenadas en formato 'lat,lng lat,lng ...' a una lista de listas de floats.
-    """
     coordinates = coordinates_str.split()
     return [[float(coord.split(',')[0]), float(coord.split(',')[1])] for coord in coordinates]
 
