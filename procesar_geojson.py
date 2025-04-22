@@ -62,7 +62,7 @@ def extraer_tar():
     """Extrae los archivos GeoJSON del tar.gz."""
     if not os.path.exists(EXTRACT_PATH):
         os.makedirs(EXTRACT_PATH)
-    with tarfile.open(TAR_FILE_PATH, "r:gz") as tar:
+    with tarfile.open(TAR_FILE_PATH, "r:*") as tar:
         tar.extractall(EXTRACT_PATH)
     print("✅ Archivos extraídos.")
 
