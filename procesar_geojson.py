@@ -70,25 +70,27 @@ def extract_and_process_tar(tar_path='avisos.tar'):
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
 
-# Función para convertir el XML a GeoJSON
 def process_xml_to_geojson(file_path):
     try:
-        # Parsear el XML
+        # Intentamos parsear el archivo XML
         tree = ET.parse(file_path)
         root = tree.getroot()
-        
-        # Definir el espacio de nombres del XML
-        ns = {'cap': 'urn:oasis:names:tc:emergency:cap:1.2'}
+
+        print(f"Procesando archivo XML: {file_path}")
         
         # Aquí va el procesamiento del XML para convertirlo a GeoJSON
         features = []
         
-        for element in root.findall('.//someElement'):  # Aquí se puede ajustar según la estructura del XML
+        # Revisamos la estructura del XML (esto puede variar según tu archivo)
+        # Cambia esta línea según la estructura de tu XML
+        for element in root.findall('.//someElement'):  # Cambia './/someElement' por la ruta real en tu XML
             # Verificamos si el elemento tiene un valor no nulo
             if element.text is not None:
                 some_value = element.text
+                print(f"Encontrado valor: {some_value}")  # Mensaje de depuración
             else:
-                some_value = "valor por defecto"  # O cualquier otro manejo adecuado
+                some_value = "valor por defecto"
+                print(f"Valor no encontrado, usando valor por defecto: {some_value}")  # Mensaje de depuración
 
             # Ejemplo de cómo construir una Feature de GeoJSON
             feature = {
@@ -117,7 +119,6 @@ def process_xml_to_geojson(file_path):
                 geojson.dump(geojson_data, geojson_file)
 
             print(f"GeoJSON generado correctamente para {file_path}")
-
         else:
             print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
 
