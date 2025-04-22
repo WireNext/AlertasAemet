@@ -3,6 +3,9 @@ import os
 import shutil
 import requests
 import tarfile
+import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
+import geojson  # Importamos el módulo para crear archivos GeoJSON
+
 
 # Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
@@ -39,162 +42,85 @@ def obtener_url_datos_desde_api():
         print(f"❌ Error al obtener la URL de datos: {e}")
         return None
 
-def descargar_tar():
-    """Descarga el archivo tar.gz desde la URL proporcionada por la API de AEMET."""
-    url_datos = obtener_url_datos_desde_api()
-    if not url_datos:
-        print("❌ No se pudo obtener la URL de datos.")
-        return
-
+# Función para descargar el archivo .tar
+def download_tar(url, download_path='avisos.tar'):
     try:
-        response = requests.get(url_datos)
-        response.raise_for_status()
-        
-        os.makedirs(os.path.dirname(TAR_FILE_PATH), exist_ok=True)
-        with open(TAR_FILE_PATH, "wb") as f:
+        response = requests.get(url)
+        response.raise_for_status()  # Lanza un error si la descarga falla
+        with open(download_path, 'wb') as f:
             f.write(response.content)
-        print("✅ Archivo descargado correctamente.")
-    except requests.exceptions.RequestException as e:
-        print(f"❌ Error al descargar el archivo de datos: {e}")
+        print("Archivo TAR descargado correctamente.")
+    except Exception as e:
+        print(f"Error al descargar el archivo TAR: {e}")
 
+# Función para extraer el archivo TAR y procesar los XML
+def extract_and_process_tar(tar_path='avisos.tar'):
+    try:
+        # Extraer el contenido del archivo TAR
+        with tarfile.open(tar_path, 'r:*') as tar:
+            tar.extractall(path='datos')  # Extrae los archivos en la carpeta 'datos'
+        print("Archivos extraídos correctamente.")
+        
+        # Procesar cada archivo XML extraído
+        for file_name in os.listdir('datos'):
+            if file_name.endswith('.xml'):
+                file_path = os.path.join('datos', file_name)
+                process_xml_to_geojson(file_path)
 
-def extraer_tar():
-    """Extrae los archivos GeoJSON del tar.gz."""
-    if not os.path.exists(EXTRACT_PATH):
-        os.makedirs(EXTRACT_PATH)
-    with tarfile.open(TAR_FILE_PATH, "r:*") as tar:
-        tar.extractall(EXTRACT_PATH)
-    print("✅ Archivos extraídos.")
+    except Exception as e:
+        print(f"Error al extraer y procesar el archivo TAR: {e}")
 
+# Función para convertir el XML a GeoJSON
+def process_xml_to_geojson(file_path):
+    try:
+        # Parsear el XML
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        
+        # Definir el espacio de nombres del XML
+        ns = {'cap': 'urn:oasis:names:tc:emergency:cap:1.2'}
+        
+        # Buscar los datos dentro de los elementos 'info'
+        for info in root.findall('cap:info', ns):
+            # Obtener la descripción del evento
+            event = info.find('cap:event', ns).text
+            headline = info.find('cap:headline', ns).text
+            description = info.find('cap:description', ns).text
+            
+            # Obtener las coordenadas del polígono
+            polygon_data = info.find('.//cap:polygon', ns).text
+            coordinates = [tuple(map(float, coord.split(','))) for coord in polygon_data.split()]
+            
+            # Obtener el nivel de alerta
+            level = None
+            for param in info.findall('cap:parameter', ns):
+                value_name = param.find('cap:valueName', ns).text
+                if value_name == 'AEMET-Meteoalerta nivel':
+                    level = param.find('cap:value', ns).text
+            
+            # Crear el objeto GeoJSON
+            feature = geojson.Feature(
+                geometry=geojson.Polygon([coordinates]),
+                properties={
+                    'event': event,
+                    'headline': headline,
+                    'description': description,
+                    'alert_level': level,  # Añadimos el nivel de alerta
+                }
+            )
+            
+            # Guardar como GeoJSON
+            geojson_data = geojson.FeatureCollection([feature])
+            geojson_filename = file_path.replace('.xml', '.geojson')
+            with open(geojson_filename, 'w') as f:
+                geojson.dump(geojson_data, f, indent=4)
+            
+            print(f"GeoJSON generado correctamente para {file_path}.")
+    except Exception as e:
+        print(f"Error al procesar el archivo XML {file_path}: {e}")
 
-def procesar_geojson():
-    """Combina y colorea los archivos GeoJSON con el formato correcto para uMap."""
-    geojson_combinado = {"type": "FeatureCollection", "features": []}
-    niveles_maximos = {}
-
-    def formatear_fecha(fecha):
-        """Convierte una fecha ISO en formato DD-MM-YY HH:MM o devuelve 'Desconocida' si es inválida."""
-        try:
-            from datetime import datetime
-            dt = datetime.fromisoformat(fecha)
-            return dt.strftime("%d-%m-%y %H:%M")
-        except (ValueError, TypeError):
-            return "Desconocida"
-
-    for root, _, files in os.walk(EXTRACT_PATH):
-        for file in files:
-            if file.endswith(".geojson"):
-                with open(os.path.join(root, file), "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    for feature in data.get("features", []):
-                        zona = feature["properties"].get("Nombre_zona", "Zona desconocida")
-                        niveles = [
-                            feature["properties"].get("Sev_PRP1", "").lower(),
-                            feature["properties"].get("Sev_COCO", "").lower(),
-                            feature["properties"].get("Sev_PRP2", "").lower(),
-                            feature["properties"].get("Sev_NENV", "").lower(),
-                            feature["properties"].get("Sev_VIRM", "").lower()
-                        ]
-                        nivel = 0
-                        if "rojo" in niveles:
-                            nivel = 3
-                        elif "naranja" in niveles:
-                            nivel = 2
-                        elif "amarillo" in niveles:
-                            nivel = 1
-
-                        if zona not in niveles_maximos or nivel > niveles_maximos[zona]:
-                            niveles_maximos[zona] = nivel
-
-    for root, _, files in os.walk(EXTRACT_PATH):
-        for file in files:
-            if file.endswith(".geojson"):
-                with open(os.path.join(root, file), "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    for feature in data.get("features", []):
-                        zona = feature["properties"].get("Nombre_zona", "Zona desconocida")
-                        nivel_maximo = niveles_maximos.get(zona, 0)
-                        
-                        # Solo procesar zonas con alertas (nivel_maximo > 0)
-                        if nivel_maximo > 0:
-                            color = None
-                            mensaje_advertencia = ""
-
-                            if nivel_maximo == 3:
-                                color = COLORS["Rojo"]
-                                mensaje_advertencia = WARNING_MESSAGES["Rojo"]
-                            elif nivel_maximo == 2:
-                                color = COLORS["Naranja"]
-                                mensaje_advertencia = WARNING_MESSAGES["Naranja"]
-                            elif nivel_maximo == 1:
-                                color = COLORS["Amarillo"]
-                                mensaje_advertencia = WARNING_MESSAGES["Amarillo"]
-
-                            feature["properties"]["_umap_options"] = {
-                                "color": "#000000",
-                                "weight": 2,
-                                "opacity": 1,
-                                "fillOpacity": 0.3,
-                                "dashArray": 1,
-                                "fillColor": color,
-                                "stroke": True,
-                                "fill": True
-                            }
-
-                            descripcion_prp1 = feature["properties"].get("Des_PRP1")
-                            resumido_prp1 = feature["properties"].get("Resum_PRP1")
-                            onset_prp1 = formatear_fecha(feature["properties"].get("Onset_PRP1"))
-                            expire_prp1 = formatear_fecha(feature["properties"].get("Expire_PRP1"))
-                            
-                            descripcion_prp2 = feature["properties"].get("Des_PRP2")
-                            resumido_prp2 = feature["properties"].get("Resum_PRP2")
-                            onset_prp2 = formatear_fecha(feature["properties"].get("Onset_PRP2"))
-                            expire_prp2 = formatear_fecha(feature["properties"].get("Expire_PRP2"))
-
-                            descripcion_nenv = feature["properties"].get("Des_NENV")
-                            resumido_nenv = feature["properties"].get("Resum_NENV")
-                            onset_nenv = formatear_fecha(feature["properties"].get("Onset_NENV"))
-                            expire_nenv = formatear_fecha(feature["properties"].get("Expire_NENV"))
-
-                            description_parts = []
-                            if resumido_prp1:
-                                description_parts.append(f"<b>Resumen:</b> {resumido_prp1}<br>")
-                            if descripcion_prp1:
-                                description_parts.append(f"<b>Descripción:</b> {descripcion_prp1}<br>")
-                            if onset_prp1 != "Desconocida":
-                                description_parts.append(f"<b>Fecha de inicio:</b> {onset_prp1}<br>")
-                            if expire_prp1 != "Desconocida":
-                                description_parts.append(f"<b>Fecha de expiración:</b> {expire_prp1}<br><br>")
-                            if resumido_prp2:
-                                description_parts.append(f"<b>Resumen:</b> {resumido_prp2}<br>")
-                            if descripcion_prp2:
-                                description_parts.append(f"<b>Descripción:</b> {descripcion_prp2}<br>")
-                            if onset_prp2 != "Desconocida":
-                                description_parts.append(f"<b>Fecha de inicio:</b> {onset_prp2}<br>")
-                            if expire_prp2 != "Desconocida":
-                                description_parts.append(f"<b>Fecha de expiración:</b> {expire_prp2}<br><br>")
-                            if resumido_nenv:
-                                description_parts.append(f"<b>Resumen:</b> {resumido_nenv}<br>")
-                            if descripcion_nenv:
-                                description_parts.append(f"<b>Descripción:</b> {descripcion_nenv}<br>")
-                            if onset_nenv != "Desconocida":
-                                description_parts.append(f"<b>Fecha de inicio:</b> {onset_nenv}<br>")
-                            if expire_nenv != "Desconocida":
-                                description_parts.append(f"<b>Fecha de expiración:</b> {expire_nenv}<br><br>")
-                            description_parts.append(f"<b>Zona:</b> {zona}<br><br>")
-                            description_parts.append(f"<b>⚠️ Advertencia:</b> {mensaje_advertencia}")
-
-                            feature["properties"]["description"] = "".join(description_parts)
-
-                            feature["properties"].pop("style", None)
-                            geojson_combinado["features"].append(feature)
-
-    with open(SALIDA_GEOJSON, "w", encoding="utf-8") as f:
-        json.dump(geojson_combinado, f, ensure_ascii=False, indent=4)
-    print(f"✅ GeoJSON procesado y guardado en {SALIDA_GEOJSON}.")
-
-
-if __name__ == "__main__":
-    descargar_tar()
-    extraer_tar()
-    procesar_geojson()
+# Descargar el archivo TAR y procesarlo
+download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
+if download_url:
+    download_tar(download_url)  # Descargar el archivo TAR
+    extract_and_process_tar()  # Extraer y procesar los XML
