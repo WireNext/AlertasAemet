@@ -72,60 +72,64 @@ def extract_and_process_tar(tar_path='avisos.tar'):
 
 def process_xml_to_geojson(file_path):
     try:
-        # Intentamos parsear el archivo XML
+        # Parse the XML file
         tree = ET.parse(file_path)
         root = tree.getroot()
 
-        print(f"Procesando archivo XML: {file_path}")
+        # Namespace handling
+        namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
         
-        # Aquí va el procesamiento del XML para convertirlo a GeoJSON
-        features = []
+        # Find the area and its polygon data
+        areas = root.findall(".//info/area", namespaces)
         
-        # Revisamos la estructura del XML (esto puede variar según tu archivo)
-        # Cambia esta línea según la estructura de tu XML
-        for element in root.findall('.//someElement'):  # Cambia './/someElement' por la ruta real en tu XML
-            # Verificamos si el elemento tiene un valor no nulo
-            if element.text is not None:
-                some_value = element.text
-                print(f"Encontrado valor: {some_value}")  # Mensaje de depuración
-            else:
-                some_value = "valor por defecto"
-                print(f"Valor no encontrado, usando valor por defecto: {some_value}")  # Mensaje de depuración
+        geojson_features = []
 
-            # Ejemplo de cómo construir una Feature de GeoJSON
-            feature = {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",  # O el tipo de geometría que corresponda
-                    "coordinates": [0.0, 0.0]  # Aquí se deben poner las coordenadas correctas
-                },
-                "properties": {
-                    "value": some_value
+        for area in areas:
+            # Extract the polygon coordinates (if any)
+            polygon = area.find("polygon", namespaces)
+            if polygon is not None:
+                coordinates = polygon.text.strip()
+
+                # Create a GeoJSON feature
+                feature = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [parse_coordinates(coordinates)]
+                    },
+                    "properties": {
+                        "areaDesc": area.find("areaDesc", namespaces).text if area.find("areaDesc", namespaces) is not None else "",
+                        "geocode": area.find("geocode/value", namespaces).text if area.find("geocode/value", namespaces) is not None else ""
+                    }
                 }
-            }
-
-            features.append(feature)
-
-        # Si hay características (features), construimos el objeto GeoJSON
-        if features:
-            geojson_data = {
+                geojson_features.append(feature)
+        
+        if geojson_features:
+            # Create the GeoJSON structure
+            geojson = {
                 "type": "FeatureCollection",
-                "features": features
+                "features": geojson_features
             }
 
-            # Guardamos el archivo GeoJSON con el mismo nombre que el archivo XML
-            geojson_filename = os.path.splitext(file_path)[0] + ".geojson"
-            with open(geojson_filename, 'w') as geojson_file:
-                geojson.dump(geojson_data, geojson_file)
+            # Output the GeoJSON to a file
+            geojson_file_path = file_path.replace(".xml", ".geojson")
+            with open(geojson_file_path, 'w') as geojson_file:
+                json.dump(geojson, geojson_file, indent=4)
 
             print(f"GeoJSON generado correctamente para {file_path}")
         else:
             print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
-
+    
     except Exception as e:
-        # Si ocurre algún error, lo registramos y continuamos con el siguiente archivo
         print(f"Error al procesar el archivo XML {file_path}: {e}")
-        pass
+
+def parse_coordinates(coordinates_str):
+    """
+    Convierte una cadena de coordenadas en formato 'lat,lng lat,lng ...' a una lista de listas de floats.
+    """
+    coordinates = coordinates_str.split()
+    return [[float(coord.split(',')[0]), float(coord.split(',')[1])] for coord in coordinates]
+
 # Descargar el archivo TAR y procesarlo
 download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
 if download_url:
