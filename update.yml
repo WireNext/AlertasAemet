@@ -1,0 +1,37 @@
+name: Actualizar Avisos AEMET
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Ejecutar cada 10 minutos
+  workflow_dispatch:  # Permite ejecutar manualmente desde la interfaz de GitHub
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install iso8601 # Añadida la instalación de iso8601
+
+      - name: Run python procesar_geojson.py
+        run: python procesar_geojson.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
+          git status  # Añadir esta línea
+          git add avisos_espana.geojson
+          git commit -m "Update avisos_espana.geojson" || echo "No changes to commit"
+          git push origin main
