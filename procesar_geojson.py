@@ -112,9 +112,9 @@ def process_xml_to_geojson(file_path):
             }
 
             # Output the GeoJSON to a file
-    geojson_file_path = "avisos_espana.geojson"  # Aquí puedes poner el nombre fijo que prefieras
-    with open(geojson_file_path, 'w') as geojson_file:
-        json.dump(geojson, geojson_file, indent=4)
+        geojson_file_path = "avisos_espana.geojson"  # Aquí puedes poner el nombre fijo que prefieras
+        with open(geojson_file_path, 'w') as geojson_file:
+            json.dump(geojson, geojson_file, indent=4)
 
             print(f"GeoJSON generado correctamente para {file_path}")
         else:
