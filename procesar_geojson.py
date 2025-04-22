@@ -112,16 +112,17 @@ def process_xml_to_geojson(file_path):
             }
 
             # Output the GeoJSON to a file
-        geojson_file_path = "avisos_espana.geojson"  # Aquí puedes poner el nombre fijo que prefieras
-        with open(geojson_file_path, 'w') as geojson_file:
-            json.dump(geojson, geojson_file, indent=4)
+            geojson_file_path = "avisos_espana.geojson"  # Aquí puedes poner el nombre fijo que prefieras
+            with open(geojson_file_path, 'w') as geojson_file:
+                json.dump(geojson, geojson_file, indent=4)
 
-            print(f"GeoJSON generado correctamente para {file_path}")
-        else:
-            print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
+                print(f"GeoJSON generado correctamente para {file_path}")
     
-    except Exception as e:
-        print(f"Error al procesar el archivo XML {file_path}: {e}")
+# Asegúrate de que esta parte esté dentro del contexto correcto si quieres usar un "else"
+# Este "else" debería pertenecer a una condición previa
+            if not geojson:
+                print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
+
 
 def parse_coordinates(coordinates_str):
     """
