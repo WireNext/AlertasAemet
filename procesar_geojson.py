@@ -4,17 +4,12 @@ import shutil
 import requests
 import tarfile
 
-# Definir la variable para forzar actualización
-FORZAR_ACTUALIZACION = True  # Puedes cambiarlo a False si no quieres forzar
-
-# Leer configuración desde config.json
+# Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
 with open(CONFIG_FILE, "r", encoding="utf-8") as f:
     config = json.load(f)
 
-URL_TAR = config["url_tar"]  # URL del archivo tar.gz
-
-# Definir rutas
+API_URL = config["url_tar"]  # Esta es la URL fija a la API de AEMET con la api_key
 TAR_FILE_PATH = "datos/avisos.tar"
 EXTRACT_PATH = "datos/geojson_temp"
 SALIDA_GEOJSON = "avisos_espana.geojson"
@@ -33,20 +28,34 @@ WARNING_MESSAGES = {
     "Rojo": "Tome medidas de precaución, permanezca alerta y actúe según los consejos de las autoridades. Manténgase al día con las últimas previsiones meteorológicas. Viaje solo si su viaje es imprescindible. Pueden producirse daños extremos o catastróficos a personas y propiedades, especialmente a las personas vulnerables o en zonas expuestas."
 }
 
-def descargar_tar():
-    """Descarga el archivo tar.gz de la URL especificada en `config.json`."""
+def obtener_url_datos_desde_api():
+    """Obtiene la URL del archivo de datos desde la API de AEMET."""
     try:
-        response = requests.get(URL_TAR)
+        response = requests.get(API_URL)
+        response.raise_for_status()
+        datos = response.json()
+        return datos.get("datos")
+    except requests.RequestException as e:
+        print(f"❌ Error al obtener la URL de datos: {e}")
+        return None
+
+def descargar_tar():
+    """Descarga el archivo tar.gz desde la URL proporcionada por la API de AEMET."""
+    url_datos = obtener_url_datos_desde_api()
+    if not url_datos:
+        print("❌ No se pudo obtener la URL de datos.")
+        return
+
+    try:
+        response = requests.get(url_datos)
         response.raise_for_status()
         
-        # Crear la carpeta 'datos/' si no existe
         os.makedirs(os.path.dirname(TAR_FILE_PATH), exist_ok=True)
-
         with open(TAR_FILE_PATH, "wb") as f:
             f.write(response.content)
         print("✅ Archivo descargado correctamente.")
     except requests.exceptions.RequestException as e:
-        print(f"❌ Error al descargar: {e}")
+        print(f"❌ Error al descargar el archivo de datos: {e}")
 
 
 def extraer_tar():
@@ -183,6 +192,7 @@ def procesar_geojson():
     with open(SALIDA_GEOJSON, "w", encoding="utf-8") as f:
         json.dump(geojson_combinado, f, ensure_ascii=False, indent=4)
     print(f"✅ GeoJSON procesado y guardado en {SALIDA_GEOJSON}.")
+
 
 if __name__ == "__main__":
     descargar_tar()
