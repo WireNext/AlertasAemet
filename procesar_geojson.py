@@ -80,45 +80,51 @@ def process_xml_to_geojson(file_path):
         # Definir el espacio de nombres del XML
         ns = {'cap': 'urn:oasis:names:tc:emergency:cap:1.2'}
         
-        # Buscar los datos dentro de los elementos 'info'
-        for info in root.findall('cap:info', ns):
-            # Obtener la descripción del evento
-            event = info.find('cap:event', ns).text
-            headline = info.find('cap:headline', ns).text
-            description = info.find('cap:description', ns).text
-            
-            # Obtener las coordenadas del polígono
-            polygon_data = info.find('.//cap:polygon', ns).text
-            coordinates = [tuple(map(float, coord.split(','))) for coord in polygon_data.split()]
-            
-            # Obtener el nivel de alerta
-            level = None
-            for param in info.findall('cap:parameter', ns):
-                value_name = param.find('cap:valueName', ns).text
-                if value_name == 'AEMET-Meteoalerta nivel':
-                    level = param.find('cap:value', ns).text
-            
-            # Crear el objeto GeoJSON
-            feature = geojson.Feature(
-                geometry=geojson.Polygon([coordinates]),
-                properties={
-                    'event': event,
-                    'headline': headline,
-                    'description': description,
-                    'alert_level': level,  # Añadimos el nivel de alerta
-                }
-            )
-            
-            # Guardar como GeoJSON
-            geojson_data = geojson.FeatureCollection([feature])
-            geojson_filename = file_path.replace('.xml', '.geojson')
-            with open(geojson_filename, 'w') as f:
-                geojson.dump(geojson_data, f, indent=4)
-            
-            print(f"GeoJSON generado correctamente para {file_path}.")
-    except Exception as e:
-        print(f"Error al procesar el archivo XML {file_path}: {e}")
+        # Aquí va el procesamiento del XML para convertirlo a GeoJSON
+        features = []
+        
+        for element in root.findall('.//someElement'):  # Aquí se puede ajustar según la estructura del XML
+            # Verificamos si el elemento tiene un valor no nulo
+            if element.text is not None:
+                some_value = element.text
+            else:
+                some_value = "valor por defecto"  # O cualquier otro manejo adecuado
 
+            # Ejemplo de cómo construir una Feature de GeoJSON
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",  # O el tipo de geometría que corresponda
+                    "coordinates": [0.0, 0.0]  # Aquí se deben poner las coordenadas correctas
+                },
+                "properties": {
+                    "value": some_value
+                }
+            }
+
+            features.append(feature)
+
+        # Si hay características (features), construimos el objeto GeoJSON
+        if features:
+            geojson_data = {
+                "type": "FeatureCollection",
+                "features": features
+            }
+
+            # Guardamos el archivo GeoJSON con el mismo nombre que el archivo XML
+            geojson_filename = os.path.splitext(file_path)[0] + ".geojson"
+            with open(geojson_filename, 'w') as geojson_file:
+                geojson.dump(geojson_data, geojson_file)
+
+            print(f"GeoJSON generado correctamente para {file_path}")
+
+        else:
+            print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
+
+    except Exception as e:
+        # Si ocurre algún error, lo registramos y continuamos con el siguiente archivo
+        print(f"Error al procesar el archivo XML {file_path}: {e}")
+        pass
 # Descargar el archivo TAR y procesarlo
 download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
 if download_url:
