@@ -22,7 +22,8 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          pip install iso8601 # Añadida la instalación de iso8601
+          pip install iso8601  # Añadida la instalación de iso8601
+          pip install geojson  # Añadir la instalación de geojson
 
       - name: Run python procesar_geojson.py
         run: python procesar_geojson.py
