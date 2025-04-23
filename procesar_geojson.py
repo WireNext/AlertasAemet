@@ -21,7 +21,8 @@ SALIDA_GEOJSON = "avisos_espana.geojson"
 COLORS = {
     "Amarillo": "#FFFF00",  # Amarillo
     "Naranja": "#FFA500",  # Naranja
-    "Rojo": "#FF0000"      # Rojo
+    "Rojo": "#FF0000",      # Rojo
+    "verde": "#3cc962",
 }
 
 # Mensajes de advertencia según nivel de alerta
