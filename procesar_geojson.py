@@ -112,7 +112,7 @@ def process_xml_to_geojson(file_path):
 # Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
     coordinates = coordinates_str.split()
-    return [[float(coord.split(',')[0]), float(coord.split(',')[1])] for coord in coordinates]
+    return [[float(coord.split(',')[1]), float(coord.split(',')[0])] for coord in coordinates]
 
 # Descargar el archivo TAR y procesarlo
 download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
