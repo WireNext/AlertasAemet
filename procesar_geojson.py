@@ -72,25 +72,16 @@ def extract_and_process_tar(tar_path='avisos.tar'):
 
 def process_xml_to_geojson(file_path):
     try:
-        # Parse the XML file
         tree = ET.parse(file_path)
         root = tree.getroot()
-
-        # Namespace handling
         namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
-        
-        # Find the area and its polygon data
         areas = root.findall(".//info/area", namespaces)
-        
         geojson_features = []
 
         for area in areas:
-            # Extract the polygon coordinates (if any)
             polygon = area.find("polygon", namespaces)
             if polygon is not None:
                 coordinates = polygon.text.strip()
-
-                # Create a GeoJSON feature
                 feature = {
                     "type": "Feature",
                     "geometry": {
@@ -103,22 +94,20 @@ def process_xml_to_geojson(file_path):
                     }
                 }
                 geojson_features.append(feature)
-        
+
         if geojson_features:
-            # Create the GeoJSON structure
             geojson = {
                 "type": "FeatureCollection",
                 "features": geojson_features
             }
-
-            # Output the GeoJSON to a file
-            geojson_file_path = "avisos_espana.geojson"  # Aquí puedes poner el nombre fijo que prefieras
+            geojson_file_path = "avisos_espana.geojson"
             with open(geojson_file_path, 'w') as geojson_file:
                 json.dump(geojson, geojson_file, indent=4)
-
-                print(f"GeoJSON generado correctamente para {file_path}")
-            else:
-                print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
+            print(f"GeoJSON generado correctamente para {file_path}")
+        else:
+            print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
+    except Exception as e:
+        print(f"Error al procesar el archivo XML {file_path}: {e}")
 
 # Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
