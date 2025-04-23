@@ -79,22 +79,60 @@ def process_xml_to_geojson(file_path):
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
 
-        for area in areas:
-            polygon = area.find("polygon", namespaces)
-            if polygon is not None:
-                coordinates = polygon.text.strip()
-                feature = {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Polygon",
-                        "coordinates": [parse_coordinates(coordinates)]
-                    },
-                    "properties": {
-                        "areaDesc": area.find("areaDesc", namespaces).text if area.find("areaDesc", namespaces) is not None else "",
-                        "geocode": area.find("geocode/value", namespaces).text if area.find("geocode/value", namespaces) is not None else ""
-                    }
+    for area in areas:
+        polygon = area.find("polygon", namespaces)
+        if polygon is not None:
+            coordinates = polygon.text.strip()
+
+        # Navegar al nodo 'info' correspondiente
+            info = root.find(".//info", namespaces)
+
+        # Obtener detalles del aviso
+            category = info.findtext("category", default="", namespaces=namespaces)
+            event = info.findtext("event", default="", namespaces=namespaces)
+            responseType = info.findtext("responseType", default="", namespaces=namespaces)
+            urgency = info.findtext("urgency", default="", namespaces=namespaces)
+            severity = info.findtext("severity", default="", namespaces=namespaces)
+            certainty = info.findtext("certainty", default="", namespaces=namespaces)
+            effective = info.findtext("effective", default="", namespaces=namespaces)
+            onset = info.findtext("onset", default="", namespaces=namespaces)
+            expires = info.findtext("expires", default="", namespaces=namespaces)
+            senderName = info.findtext("senderName", default="", namespaces=namespaces)
+            headline = info.findtext("headline", default="", namespaces=namespaces)
+            web = info.findtext("web", default="", namespaces=namespaces)
+            contact = info.findtext("contact", default="", namespaces=namespaces)
+
+        # Obtener parámetros especiales
+            eventCode = info.findtext("eventCode/value", default="", namespaces=namespaces)
+            parameter = info.findtext("parameter/value", default="", namespaces=namespaces)
+
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [parse_coordinates(coordinates)]
+                },
+                "properties": {
+                    "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
+                    "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
+                    "category": category,
+                    "event": event,
+                    "responseType": responseType,
+                    "urgency": urgency,
+                    "severity": severity,
+                    "certainty": certainty,
+                    "effective": effective,
+                    "onset": onset,
+                    "expires": expires,
+                    "senderName": senderName,
+                    "headline": headline,
+                    "web": web,
+                    "contact": contact,
+                    "eventCode": eventCode,
+                    "parameter": parameter
                 }
-                geojson_features.append(feature)
+            }
+            geojson_features.append(feature)
 
         if geojson_features:
             geojson = {
