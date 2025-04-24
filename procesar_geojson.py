@@ -5,6 +5,7 @@ import requests
 import tarfile
 import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
 import geojson  # Importamos el módulo para crear archivos GeoJSON
+from datetime import datetime
 
 # Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
@@ -30,6 +31,12 @@ WARNING_MESSAGES = {
     "Naranja": "Esté atento y manténgase al día con las últimas previsiones meteorológicas. Pueden producirse daños moderados a personas y propiedades, especialmente a personas vulnerables o en zonas expuestas.",
     "Rojo": "Tome medidas de precaución, permanezca alerta y actúe según los consejos de las autoridades. Manténgase al día con las últimas previsiones meteorológicas. Viaje solo si su viaje es imprescindible. Pueden producirse daños extremos o catastróficos a personas y propiedades, especialmente a las personas vulnerables o en zonas expuestas."
 }
+
+def parse_iso_datetime(date_str):
+    try:
+        return datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+    except:
+        return None
 
 def obtener_url_datos_desde_api():
     """Obtiene la URL del archivo de datos desde la API de AEMET."""
@@ -103,6 +110,17 @@ def process_xml_to_geojson(file_path):
             if polygon is not None:
                 coordinates = polygon.text.strip()
                 info = root.find(".//info", namespaces)
+
+                # Obtener fechas
+                onset_text = info.findtext("onset", default="", namespaces=namespaces)
+                expires_text = info.findtext("expires", default="", namespaces=namespaces)
+                onset_dt = parse_iso_datetime(onset_text)
+                expires_dt = parse_iso_datetime(expires_text)
+                now = datetime.utcnow()
+
+                # Filtrar por vigencia
+                if (onset_dt and onset_dt > now) or (expires_dt and expires_dt < now):
+                continue
 
                 # Extraer nivel textual desde <parameter>
                 parametros = info.findall("parameter", namespaces)
