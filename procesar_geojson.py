@@ -125,7 +125,8 @@ def process_xml_to_geojson(file_path):
                     umap_options = {
                         "color": "#FFFFFF",  # Color neutro (no se verá por la opacidad)
                         "weight": 0,
-                        "opacity": 0
+                        "opacity": 0,
+                        "fillOpacity": 0
                     }
 
                 # Construir propiedades
