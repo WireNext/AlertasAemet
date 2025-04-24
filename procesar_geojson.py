@@ -84,7 +84,6 @@ def extract_and_process_tar(tar_path='avisos.tar'):
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
 
-# Definir colores para niveles activos
 colores = {
     "amarillo": "#FFA500",
     "naranja": "#FF7F00",
@@ -105,7 +104,7 @@ def process_xml_to_geojson(file_path):
                 coordinates = polygon.text.strip()
                 info = root.find(".//info", namespaces)
 
-                # Extraer parámetros
+                # Extraer nivel textual desde <parameter>
                 parametros = info.findall("parameter", namespaces)
                 nivel_textual = None
                 for p in parametros:
@@ -115,16 +114,21 @@ def process_xml_to_geojson(file_path):
                         nivel_textual = valor
                         break
 
-                # Solo aplicar color si es amarillo, naranja o rojo
-                umap_options = None
+                # Asignar estilo
                 if nivel_textual in colores:
                     umap_options = {
                         "color": colores[nivel_textual],
                         "weight": 3,
                         "opacity": 1
                     }
+                else:
+                    umap_options = {
+                        "color": "#FFFFFF",  # Color neutro (no se verá por la opacidad)
+                        "weight": 0,
+                        "opacity": 0
+                    }
 
-                # Construir feature
+                # Construir propiedades
                 properties = {
                     "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
                     "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
@@ -141,11 +145,9 @@ def process_xml_to_geojson(file_path):
                     "web": info.findtext("web", default="", namespaces=namespaces),
                     "contact": info.findtext("contact", default="", namespaces=namespaces),
                     "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
-                    "parameter": nivel_textual
+                    "parameter": nivel_textual,
+                    "_umap_options": umap_options
                 }
-
-                if umap_options:
-                    properties["_umap_options"] = umap_options
 
                 feature = {
                     "type": "Feature",
