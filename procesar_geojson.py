@@ -7,33 +7,38 @@ import os
 with open('config.json', 'r') as f:
     config = json.load(f)
 
-# Obtener la URL desde el campo 'datos'
-datos_url = config['datos']
+# Asegurarnos de que la clave 'url' existe en el archivo config.json
+if 'url' in config:
+    # Obtener la URL desde el campo 'url'
+    datos_url = config['url']
 
-# Descargar el archivo .tar
-print(f"Descargando el archivo desde: {datos_url}")
-response = requests.get(datos_url)
+    # Descargar el archivo .tar
+    print(f"Descargando el archivo desde: {datos_url}")
+    response = requests.get(datos_url)
 
-# Verificar si la descarga fue exitosa
-if response.status_code == 200:
-    # Guardar el archivo .tar en el disco
-    tar_file_path = 'avisos.tar'
-    with open(tar_file_path, 'wb') as f:
-        f.write(response.content)
-    print(f"Archivo {tar_file_path} descargado correctamente.")
+    # Verificar si la descarga fue exitosa
+    if response.status_code == 200:
+        # Guardar el archivo .tar en el disco
+        tar_file_path = 'avisos.tar'
+        with open(tar_file_path, 'wb') as f:
+            f.write(response.content)
+        print(f"Archivo {tar_file_path} descargado correctamente.")
+    else:
+        print(f"Error al descargar el archivo. Código de estado: {response.status_code}")
+        exit(1)
+
+    # Extraer el archivo .tar
+    if tarfile.is_tarfile(tar_file_path):
+        with tarfile.open(tar_file_path, 'r') as tar:
+            tar.extractall(path='.')
+            print("Archivos extraídos correctamente.")
+    else:
+        print("El archivo descargado no es un archivo .tar válido.")
+        exit(1)
+
 else:
-    print(f"Error al descargar el archivo. Código de estado: {response.status_code}")
+    print("El archivo config.json no contiene la clave 'url'. Asegúrate de que esté correctamente estructurado.")
     exit(1)
-
-# Extraer el archivo .tar
-if tarfile.is_tarfile(tar_file_path):
-    with tarfile.open(tar_file_path, 'r') as tar:
-        tar.extractall(path='.')
-        print("Archivos extraídos correctamente.")
-else:
-    print("El archivo descargado no es un archivo .tar válido.")
-    exit(1)
-
 # Paso 4: Procesar los XML y filtrar por la fecha de hoy
 fecha_hoy = datetime.now().strftime('%Y-%m-%d')
 avisos_filtrados = []
