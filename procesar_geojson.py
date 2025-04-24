@@ -95,7 +95,6 @@ def process_xml_to_geojson(file_path):
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
 
-        # Fecha actual en UTC
         today = datetime.now(timezone.utc).date()
 
         for area in areas:
@@ -104,7 +103,6 @@ def process_xml_to_geojson(file_path):
                 coordinates = polygon.text.strip()
                 info = root.find(".//info", namespaces)
 
-                # Fechas
                 onset_str = info.findtext("onset", default="", namespaces=namespaces)
                 expires_str = info.findtext("expires", default="", namespaces=namespaces)
 
@@ -112,13 +110,12 @@ def process_xml_to_geojson(file_path):
                     onset = datetime.fromisoformat(onset_str.replace("Z", "+00:00")).date()
                     expires = datetime.fromisoformat(expires_str.replace("Z", "+00:00")).date()
                 except Exception:
-                    continue  # Si no se pueden leer bien las fechas, ignoramos este aviso
-
-                # Filtrar: incluir si onset o expires es hoy
-                if not (onset == today or expires == today):
                     continue
 
-                # Construir el feature
+                # ✅ Nuevo filtro: si hoy está entre onset y expires (inclusive)
+                if not (onset <= today <= expires):
+                    continue
+
                 feature = {
                     "type": "Feature",
                     "geometry": {
