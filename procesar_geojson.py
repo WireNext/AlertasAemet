@@ -86,65 +86,65 @@ def extract_and_process_tar(tar_path='avisos.tar'):
     except Exception as e:
         print(f"❌ Error al extraer y procesar el archivo TAR: {e}")
 
-def process_xml_to_geojson(file_path):
+def process_xml_to_geojson(xml_file_path):
+    ns = {'cap': 'urn:oasis:names:tc:emergency:cap:1.2'}
+    tree = ET.parse(xml_file_path)
+    root = tree.getroot()
+
     features = []
-    try:
-        tree = ET.parse(file_path)
-        root = tree.getroot()
-        namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
-        areas = root.findall(".//info/area", namespaces)
 
-        info = root.find(".//info", namespaces)
-        if info is None:
-            return []
+    # Buscamos los bloques <info> en español
+    for info in root.findall('cap:info', ns):
+        language = info.findtext('cap:language', default='', namespaces=ns)
+        if language != 'es-ES':
+            continue  # saltamos si no es español
 
-        # Obtener fecha actual en formato UTC ISO (AEMET usa ese formato)
-        hoy = datetime.utcnow().date()
+        event = info.findtext('cap:event', default='', namespaces=ns)
+        severity = info.findtext('cap:severity', default='', namespaces=ns)
+        onset = info.findtext('cap:onset', default='', namespaces=ns)
+        expires = info.findtext('cap:expires', default='', namespaces=ns)
+        headline = info.findtext('cap:headline', default='', namespaces=ns)
+        description = info.findtext('cap:description', default='', namespaces=ns)
+        instruction = info.findtext('cap:instruction', default='', namespaces=ns)
+        web = info.findtext('cap:web', default='', namespaces=ns)
 
-        effective = info.findtext("effective", default="", namespaces=namespaces)
-        if effective:
-            try:
-                fecha_aviso = datetime.fromisoformat(effective[:10]).date()
-                if fecha_aviso != hoy:
-                    return []  # No es de hoy, ignorar
-            except ValueError:
-                return []  # Formato de fecha inválido
+        # Leemos todos los elementos <area>
+        for area in info.findall('cap:area', ns):
+            area_desc = area.findtext('cap:areaDesc', default='', namespaces=ns)
+            polygon_text = area.findtext('cap:polygon', default='', namespaces=ns)
 
-        for area in areas:
-            polygon = area.find("polygon", namespaces)
-            if polygon is None:
+            if not polygon_text:
                 continue
-            coordinates = polygon.text.strip()
+
+            coords = []
+            for coord in polygon_text.strip().split():
+                lat, lon = map(float, coord.split(','))
+                coords.append([lon, lat])  # GeoJSON usa lon,lat
+
+            # Cerramos el polígono si no lo está
+            if coords[0] != coords[-1]:
+                coords.append(coords[0])
 
             feature = {
                 "type": "Feature",
                 "geometry": {
                     "type": "Polygon",
-                    "coordinates": [parse_coordinates(coordinates)]
+                    "coordinates": [coords]
                 },
                 "properties": {
-                    "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
-                    "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
-                    "category": info.findtext("category", default="", namespaces=namespaces),
-                    "event": info.findtext("event", default="", namespaces=namespaces),
-                    "responseType": info.findtext("responseType", default="", namespaces=namespaces),
-                    "urgency": info.findtext("urgency", default="", namespaces=namespaces),
-                    "severity": info.findtext("severity", default="", namespaces=namespaces),
-                    "certainty": info.findtext("certainty", default="", namespaces=namespaces),
-                    "effective": effective,
-                    "onset": info.findtext("onset", default="", namespaces=namespaces),
-                    "expires": info.findtext("expires", default="", namespaces=namespaces),
-                    "senderName": info.findtext("senderName", default="", namespaces=namespaces),
-                    "headline": info.findtext("headline", default="", namespaces=namespaces),
-                    "web": info.findtext("web", default="", namespaces=namespaces),
-                    "contact": info.findtext("contact", default="", namespaces=namespaces),
-                    "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
-                    "parameter": info.findtext("parameter/value", default="", namespaces=namespaces),
+                    "evento": event,
+                    "nivel": severity,
+                    "inicio": onset,
+                    "fin": expires,
+                    "titulo": headline,
+                    "descripcion": description,
+                    "instrucciones": instruction,
+                    "zona": area_desc,
+                    "web": web
                 }
             }
             features.append(feature)
-    except Exception as e:
-        print(f"❌ Error al procesar el archivo XML {file_path}: {e}")
+
     return features
         
 # Aquí comienza la nueva función correctamente indentada
