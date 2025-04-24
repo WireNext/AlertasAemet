@@ -6,7 +6,6 @@ import tarfile
 import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
 import geojson  # Importamos el módulo para crear archivos GeoJSON
 
-
 # Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
 with open(CONFIG_FILE, "r", encoding="utf-8") as f:
@@ -22,7 +21,7 @@ COLORS = {
     "Amarillo": "#FFFF00",  # Amarillo
     "Naranja": "#FFA500",  # Naranja
     "Rojo": "#FF0000",      # Rojo
-    "verde": "#3cc962",
+    "verde": "#3cc962",     # Verde
 }
 
 # Mensajes de advertencia según nivel de alerta
@@ -120,6 +119,9 @@ def process_xml_to_geojson(file_path):
                 eventCode = info.findtext("eventCode/value", default="", namespaces=namespaces)
                 parameter = info.findtext("parameter/value", default="", namespaces=namespaces)
 
+                # Asignar color según el nivel de alerta
+                color = COLORS.get(urgency, "#808080")  # Si no hay urgencia, asigna color gris
+
                 feature = {
                     "type": "Feature",
                     "geometry": {
@@ -143,7 +145,8 @@ def process_xml_to_geojson(file_path):
                         "web": web,
                         "contact": contact,
                         "eventCode": eventCode,
-                        "parameter": parameter
+                        "parameter": parameter,
+                        "color": color  # Añadir color a las propiedades
                     }
                 }
                 geojson_features.append(feature)
