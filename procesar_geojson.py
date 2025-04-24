@@ -63,92 +63,89 @@ def extract_and_process_tar(tar_path='avisos.tar'):
             tar.extractall(path='datos')  # Extrae los archivos en la carpeta 'datos'
         print("Archivos extraídos correctamente.")
         
-        all_features = []  # Aquí acumulamos todos los avisos
+        all_features = []
 
         # Procesar cada archivo XML extraído
         for file_name in os.listdir('datos'):
             if file_name.endswith('.xml'):
                 file_path = os.path.join('datos', file_name)
-                features = process_xml_to_geojson(file_path)  # ← ahora devuelve los features
-                all_features.extend(features)
+                features = process_xml_to_geojson(file_path)
+                if features:
+                    all_features.extend(features)
 
-        # Guardar todos los features en un solo GeoJSON
         if all_features:
             geojson_data = {
                 "type": "FeatureCollection",
                 "features": all_features
             }
-            with open(SALIDA_GEOJSON, 'w') as geojson_file:
-                json.dump(geojson_data, geojson_file, indent=4)
-            print("✅ GeoJSON generado correctamente con todos los avisos.")
+            with open("avisos_espana.geojson", 'w', encoding="utf-8") as geojson_file:
+                json.dump(geojson_data, geojson_file, indent=4, ensure_ascii=False)
+            print(f"✅ GeoJSON generado correctamente con {len(all_features)} avisos.")
         else:
             print("⚠️ No se encontraron avisos válidos en los archivos XML.")
-
     except Exception as e:
-        print(f"Error al extraer y procesar el archivo TAR: {e}")
+        print(f"❌ Error al extraer y procesar el archivo TAR: {e}")
 
 def process_xml_to_geojson(file_path):
+    features = []
     try:
         tree = ET.parse(file_path)
         root = tree.getroot()
         namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
         areas = root.findall(".//info/area", namespaces)
-        geojson_features = []
 
-        today = datetime.now(timezone.utc).date()
+        info = root.find(".//info", namespaces)
+        if info is None:
+            return []
+
+        # Obtener fecha actual en formato UTC ISO (AEMET usa ese formato)
+        hoy = datetime.utcnow().date()
+
+        effective = info.findtext("effective", default="", namespaces=namespaces)
+        if effective:
+            try:
+                fecha_aviso = datetime.fromisoformat(effective[:10]).date()
+                if fecha_aviso != hoy:
+                    return []  # No es de hoy, ignorar
+            except ValueError:
+                return []  # Formato de fecha inválido
 
         for area in areas:
             polygon = area.find("polygon", namespaces)
-            if polygon is not None:
-                coordinates = polygon.text.strip()
-                info = root.find(".//info", namespaces)
+            if polygon is None:
+                continue
+            coordinates = polygon.text.strip()
 
-                onset_str = info.findtext("onset", default="", namespaces=namespaces)
-                expires_str = info.findtext("expires", default="", namespaces=namespaces)
-
-                try:
-                    onset = datetime.fromisoformat(onset_str.replace("Z", "+00:00")).date()
-                    expires = datetime.fromisoformat(expires_str.replace("Z", "+00:00")).date()
-                except Exception:
-                    continue
-
-                # ✅ Nuevo filtro: si hoy está entre onset y expires (inclusive)
-                if not (onset <= today <= expires):
-                    continue
-
-                feature = {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Polygon",
-                        "coordinates": [parse_coordinates(coordinates)]
-                    },
-                    "properties": {
-                        "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
-                        "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
-                        "category": info.findtext("category", default="", namespaces=namespaces),
-                        "event": info.findtext("event", default="", namespaces=namespaces),
-                        "responseType": info.findtext("responseType", default="", namespaces=namespaces),
-                        "urgency": info.findtext("urgency", default="", namespaces=namespaces),
-                        "severity": info.findtext("severity", default="", namespaces=namespaces),
-                        "certainty": info.findtext("certainty", default="", namespaces=namespaces),
-                        "effective": info.findtext("effective", default="", namespaces=namespaces),
-                        "onset": onset_str,
-                        "expires": expires_str,
-                        "senderName": info.findtext("senderName", default="", namespaces=namespaces),
-                        "headline": info.findtext("headline", default="", namespaces=namespaces),
-                        "web": info.findtext("web", default="", namespaces=namespaces),
-                        "contact": info.findtext("contact", default="", namespaces=namespaces),
-                        "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
-                        "parameter": info.findtext("parameter/value", default="", namespaces=namespaces)
-                    }
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [parse_coordinates(coordinates)]
+                },
+                "properties": {
+                    "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
+                    "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
+                    "category": info.findtext("category", default="", namespaces=namespaces),
+                    "event": info.findtext("event", default="", namespaces=namespaces),
+                    "responseType": info.findtext("responseType", default="", namespaces=namespaces),
+                    "urgency": info.findtext("urgency", default="", namespaces=namespaces),
+                    "severity": info.findtext("severity", default="", namespaces=namespaces),
+                    "certainty": info.findtext("certainty", default="", namespaces=namespaces),
+                    "effective": effective,
+                    "onset": info.findtext("onset", default="", namespaces=namespaces),
+                    "expires": info.findtext("expires", default="", namespaces=namespaces),
+                    "senderName": info.findtext("senderName", default="", namespaces=namespaces),
+                    "headline": info.findtext("headline", default="", namespaces=namespaces),
+                    "web": info.findtext("web", default="", namespaces=namespaces),
+                    "contact": info.findtext("contact", default="", namespaces=namespaces),
+                    "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
+                    "parameter": info.findtext("parameter/value", default="", namespaces=namespaces),
                 }
-                geojson_features.append(feature)
-
-        return geojson_features
-
+            }
+            features.append(feature)
     except Exception as e:
         print(f"❌ Error al procesar el archivo XML {file_path}: {e}")
-        return []
+    return features
         
 # Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
