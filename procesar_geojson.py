@@ -10,7 +10,7 @@ with open('config.json', 'r') as f:
 # Asegurarnos de que la clave 'url' existe en el archivo config.json
 if 'url_tar' in config:
     # Obtener la URL desde el campo 'url'
-    datos_url = config['url']
+    datos_url = config['url_tar']
 
     # Descargar el archivo .tar
     print(f"Descargando el archivo desde: {datos_url}")
