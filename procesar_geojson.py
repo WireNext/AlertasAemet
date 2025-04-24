@@ -5,6 +5,8 @@ import requests
 import tarfile
 import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
 import geojson  # Importamos el módulo para crear archivos GeoJSON
+from datetime import datetime, timezone
+
 
 
 # Leer la URL base desde el config.json
@@ -93,33 +95,30 @@ def process_xml_to_geojson(file_path):
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
 
+        # Fecha actual en UTC
+        today = datetime.now(timezone.utc).date()
+
         for area in areas:
             polygon = area.find("polygon", namespaces)
             if polygon is not None:
                 coordinates = polygon.text.strip()
-
-                # Obtener el nodo 'info'
                 info = root.find(".//info", namespaces)
 
-                # Obtener detalles del aviso
-                category = info.findtext("category", default="", namespaces=namespaces)
-                event = info.findtext("event", default="", namespaces=namespaces)
-                responseType = info.findtext("responseType", default="", namespaces=namespaces)
-                urgency = info.findtext("urgency", default="", namespaces=namespaces)
-                severity = info.findtext("severity", default="", namespaces=namespaces)
-                certainty = info.findtext("certainty", default="", namespaces=namespaces)
-                effective = info.findtext("effective", default="", namespaces=namespaces)
-                onset = info.findtext("onset", default="", namespaces=namespaces)
-                expires = info.findtext("expires", default="", namespaces=namespaces)
-                senderName = info.findtext("senderName", default="", namespaces=namespaces)
-                headline = info.findtext("headline", default="", namespaces=namespaces)
-                web = info.findtext("web", default="", namespaces=namespaces)
-                contact = info.findtext("contact", default="", namespaces=namespaces)
+                # Fechas
+                onset_str = info.findtext("onset", default="", namespaces=namespaces)
+                expires_str = info.findtext("expires", default="", namespaces=namespaces)
 
-                # Obtener parámetros especiales
-                eventCode = info.findtext("eventCode/value", default="", namespaces=namespaces)
-                parameter = info.findtext("parameter/value", default="", namespaces=namespaces)
+                try:
+                    onset = datetime.fromisoformat(onset_str.replace("Z", "+00:00")).date()
+                    expires = datetime.fromisoformat(expires_str.replace("Z", "+00:00")).date()
+                except Exception:
+                    continue  # Si no se pueden leer bien las fechas, ignoramos este aviso
 
+                # Filtrar: incluir si onset o expires es hoy
+                if not (onset == today or expires == today):
+                    continue
+
+                # Construir el feature
                 feature = {
                     "type": "Feature",
                     "geometry": {
@@ -129,21 +128,21 @@ def process_xml_to_geojson(file_path):
                     "properties": {
                         "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
                         "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
-                        "category": category,
-                        "event": event,
-                        "responseType": responseType,
-                        "urgency": urgency,
-                        "severity": severity,
-                        "certainty": certainty,
-                        "effective": effective,
-                        "onset": onset,
-                        "expires": expires,
-                        "senderName": senderName,
-                        "headline": headline,
-                        "web": web,
-                        "contact": contact,
-                        "eventCode": eventCode,
-                        "parameter": parameter
+                        "category": info.findtext("category", default="", namespaces=namespaces),
+                        "event": info.findtext("event", default="", namespaces=namespaces),
+                        "responseType": info.findtext("responseType", default="", namespaces=namespaces),
+                        "urgency": info.findtext("urgency", default="", namespaces=namespaces),
+                        "severity": info.findtext("severity", default="", namespaces=namespaces),
+                        "certainty": info.findtext("certainty", default="", namespaces=namespaces),
+                        "effective": info.findtext("effective", default="", namespaces=namespaces),
+                        "onset": onset_str,
+                        "expires": expires_str,
+                        "senderName": info.findtext("senderName", default="", namespaces=namespaces),
+                        "headline": info.findtext("headline", default="", namespaces=namespaces),
+                        "web": info.findtext("web", default="", namespaces=namespaces),
+                        "contact": info.findtext("contact", default="", namespaces=namespaces),
+                        "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
+                        "parameter": info.findtext("parameter/value", default="", namespaces=namespaces)
                     }
                 }
                 geojson_features.append(feature)
@@ -151,7 +150,7 @@ def process_xml_to_geojson(file_path):
         return geojson_features
 
     except Exception as e:
-        print(f"Error al procesar el archivo XML {file_path}: {e}")
+        print(f"❌ Error al procesar el archivo XML {file_path}: {e}")
         return []
         
 # Aquí comienza la nueva función correctamente indentada
