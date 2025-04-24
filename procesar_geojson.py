@@ -2,29 +2,37 @@ import json
 import requests
 import tarfile
 import os
-from datetime import datetime
-import xml.etree.ElementTree as ET
-import geojson
 
-# Paso 1: Leer el archivo config.json para obtener el enlace al archivo .tar
+# Cargar configuración
 with open('config.json', 'r') as f:
     config = json.load(f)
-    datos_url = config['datos']
 
-# Paso 2: Descargar el archivo .tar
-print("Descargando archivo .tar...")
+# Obtener la URL desde el campo 'datos'
+datos_url = config['datos']
+
+# Descargar el archivo .tar
+print(f"Descargando el archivo desde: {datos_url}")
 response = requests.get(datos_url)
-tar_file = "avisos.tar"
 
-with open(tar_file, 'wb') as f:
-    f.write(response.content)
-print("Archivo .tar descargado correctamente.")
+# Verificar si la descarga fue exitosa
+if response.status_code == 200:
+    # Guardar el archivo .tar en el disco
+    tar_file_path = 'avisos.tar'
+    with open(tar_file_path, 'wb') as f:
+        f.write(response.content)
+    print(f"Archivo {tar_file_path} descargado correctamente.")
+else:
+    print(f"Error al descargar el archivo. Código de estado: {response.status_code}")
+    exit(1)
 
-# Paso 3: Extraer el archivo .tar
-print("Extrayendo el archivo .tar...")
-with tarfile.open(tar_file, 'r') as tar:
-    tar.extractall(path="avisos")
-print("Archivo .tar extraído correctamente.")
+# Extraer el archivo .tar
+if tarfile.is_tarfile(tar_file_path):
+    with tarfile.open(tar_file_path, 'r') as tar:
+        tar.extractall(path='.')
+        print("Archivos extraídos correctamente.")
+else:
+    print("El archivo descargado no es un archivo .tar válido.")
+    exit(1)
 
 # Paso 4: Procesar los XML y filtrar por la fecha de hoy
 fecha_hoy = datetime.now().strftime('%Y-%m-%d')
