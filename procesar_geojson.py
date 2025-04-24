@@ -93,6 +93,10 @@ def process_xml_to_geojson(xml_file_path):
 
     features = []
 
+    # Definir límites de latitud y longitud para España
+    min_lat, max_lat = 36.0, 43.5  # Latitudes de España
+    min_lon, max_lon = -9.5, 3.5   # Longitudes de España
+
     # Buscamos los bloques <info> en español
     for info in root.findall('cap:info', ns):
         language = info.findtext('cap:language', default='', namespaces=ns)
@@ -121,8 +125,13 @@ def process_xml_to_geojson(xml_file_path):
                 lat, lon = map(float, coord.split(','))
                 coords.append([lon, lat])  # GeoJSON usa lon,lat
 
-            # Imprimir coordenadas para verificar
-            print(f"Coordenadas del polígono ({area_desc}): {coords}")
+                # Verificar coordenadas fuera de los límites
+                if not (min_lat <= lat <= max_lat and min_lon <= lon <= max_lon):
+                    print(f"Coordenada fuera de los límites: {coord} en el área {area_desc}")
+
+            # Filtrar polígonos con demasiados vértices (esto es solo una medida para identificar problemas)
+            if len(coords) > 200:  # Número arbitrario de vértices para ser un polígono "sospechoso"
+                print(f"Polígono con más de 200 vértices en el área {area_desc}. Número de vértices: {len(coords)}")
 
             # Cerramos el polígono si no lo está
             if coords[0] != coords[-1]:
