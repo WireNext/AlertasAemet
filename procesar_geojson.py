@@ -120,7 +120,7 @@ def process_xml_to_geojson(file_path):
 
                 # Filtrar por vigencia
                 if (onset_dt and onset_dt > now) or (expires_dt and expires_dt < now):
-                continue
+                    continue
 
                 # Extraer nivel textual desde <parameter>
                 parametros = info.findall("parameter", namespaces)
