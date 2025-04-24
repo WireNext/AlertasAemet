@@ -121,6 +121,9 @@ def process_xml_to_geojson(xml_file_path):
                 lat, lon = map(float, coord.split(','))
                 coords.append([lon, lat])  # GeoJSON usa lon,lat
 
+            # Imprimir coordenadas para verificar
+            print(f"Coordenadas del polígono ({area_desc}): {coords}")
+
             # Cerramos el polígono si no lo está
             if coords[0] != coords[-1]:
                 coords.append(coords[0])
