@@ -8,7 +8,7 @@ with open('config.json', 'r') as f:
     config = json.load(f)
 
 # Asegurarnos de que la clave 'url' existe en el archivo config.json
-if 'url' in config:
+if 'url_tar' in config:
     # Obtener la URL desde el campo 'url'
     datos_url = config['url']
 
