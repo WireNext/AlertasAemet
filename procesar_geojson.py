@@ -1,65 +1,166 @@
-import geojson
-from shapely.geometry import Point
 import json
+import os
+import shutil
+import requests
+import tarfile
+import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
+import geojson  # Importamos el módulo para crear archivos GeoJSON
 
-# Función para filtrar los avisos que están dentro de los límites de España
-def filtrar_avisos_espana(avisos):
-    avisos_filtrados = []
-    for aviso in avisos:
-        lat = aviso['coordenada']['lat']
-        lon = aviso['coordenada']['lon']
 
-        # Verificar si la coordenada está dentro de los límites geográficos de España
-        if 36 <= lat <= 43 and -10 <= lon <= 4:
-            avisos_filtrados.append(aviso)
-    
-    return avisos_filtrados
+# Leer la URL base desde el config.json
+CONFIG_FILE = "config.json"
+with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+    config = json.load(f)
 
-# Función para generar el archivo GeoJSON con los avisos filtrados
-def generar_geojson(avisos_filtrados):
-    feature_collection = {
-        'type': 'FeatureCollection',
-        'features': []
-    }
-    
-    for aviso in avisos_filtrados:
-        feature = {
-            'type': 'Feature',
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [aviso['coordenada']['lon'], aviso['coordenada']['lat']]
-            },
-            'properties': aviso['properties']
-        }
-        feature_collection['features'].append(feature)
-    
-    # Guardar el archivo GeoJSON generado
-    with open('avisos_filtrados.geojson', 'w') as f:
-        geojson.dump(feature_collection, f, indent=4)
+API_URL = config["url_tar"]  # Esta es la URL fija a la API de AEMET con la api_key
+TAR_FILE_PATH = "datos/avisos.tar"
+EXTRACT_PATH = "datos/geojson_temp"
+SALIDA_GEOJSON = "avisos_espana.geojson"
 
-# Cargar los avisos (ajustar según tu archivo de entrada)
-def cargar_avisos():
-    # Simulamos algunos avisos para este ejemplo
-    return [
-        {'coordenada': {'lat': 40.0, 'lon': -3.0}, 'properties': {'aviso': 'Amarillo', 'tipo': 'Cielo'}},
-        {'coordenada': {'lat': 42.5, 'lon': -7.0}, 'properties': {'aviso': 'Rojo', 'tipo': 'Viento'}},
-        {'coordenada': {'lat': 36.0, 'lon': -6.0}, 'properties': {'aviso': 'Naranja', 'tipo': 'Lluvias'}},
-        {'coordenada': {'lat': 34.5, 'lon': -5.0}, 'properties': {'aviso': 'Rojo', 'tipo': 'Viento'}},  # Fuera de España
-        # Más avisos...
-    ]
+# Definir colores según el nivel de aviso
+COLORS = {
+    "Amarillo": "#FFFF00",  # Amarillo
+    "Naranja": "#FFA500",  # Naranja
+    "Rojo": "#FF0000",      # Rojo
+    "verde": "#3cc962",
+}
 
-# Main: cargar los avisos y filtrar
-def main():
-    # Cargar los avisos (ajustar según tu formato)
-    avisos = cargar_avisos()
+# Mensajes de advertencia según nivel de alerta
+WARNING_MESSAGES = {
+    "Amarillo": "Tenga cuidado, manténgase informado de las últimas previsiones meteorológicas. Pueden producirse daños moderados a personas y propiedades, especialmente a personas vulnerables o en zonas expuestas.",
+    "Naranja": "Esté atento y manténgase al día con las últimas previsiones meteorológicas. Pueden producirse daños moderados a personas y propiedades, especialmente a personas vulnerables o en zonas expuestas.",
+    "Rojo": "Tome medidas de precaución, permanezca alerta y actúe según los consejos de las autoridades. Manténgase al día con las últimas previsiones meteorológicas. Viaje solo si su viaje es imprescindible. Pueden producirse daños extremos o catastróficos a personas y propiedades, especialmente a las personas vulnerables o en zonas expuestas."
+}
 
-    # Filtrar los avisos dentro de los límites de España
-    avisos_filtrados = filtrar_avisos_espana(avisos)
+def obtener_url_datos_desde_api():
+    """Obtiene la URL del archivo de datos desde la API de AEMET."""
+    try:
+        response = requests.get(API_URL)
+        response.raise_for_status()
+        datos = response.json()
+        return datos.get("datos")
+    except requests.RequestException as e:
+        print(f"❌ Error al obtener la URL de datos: {e}")
+        return None
 
-    # Generar el archivo GeoJSON con los avisos filtrados
-    generar_geojson(avisos_filtrados)
+# Función para descargar el archivo .tar
+def download_tar(url, download_path='avisos.tar'):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Lanza un error si la descarga falla
+        with open(download_path, 'wb') as f:
+            f.write(response.content)
+        print("Archivo TAR descargado correctamente.")
+    except Exception as e:
+        print(f"Error al descargar el archivo TAR: {e}")
 
-    print(f'GeoJSON generado con {len(avisos_filtrados)} avisos dentro de los límites de España.')
+def extract_and_process_tar(tar_path='avisos.tar'):
+    try:
+        # Extraer el contenido del archivo TAR
+        with tarfile.open(tar_path, 'r:*') as tar:
+            tar.extractall(path='datos')  # Extrae los archivos en la carpeta 'datos'
+        print("Archivos extraídos correctamente.")
+        
+        all_features = []  # Aquí acumulamos todos los avisos
 
-if __name__ == '__main__':
-    main()
+        # Procesar cada archivo XML extraído
+        for file_name in os.listdir('datos'):
+            if file_name.endswith('.xml'):
+                file_path = os.path.join('datos', file_name)
+                features = process_xml_to_geojson(file_path)  # ← ahora devuelve los features
+                all_features.extend(features)
+
+        # Guardar todos los features en un solo GeoJSON
+        if all_features:
+            geojson_data = {
+                "type": "FeatureCollection",
+                "features": all_features
+            }
+            with open(SALIDA_GEOJSON, 'w') as geojson_file:
+                json.dump(geojson_data, geojson_file, indent=4)
+            print("✅ GeoJSON generado correctamente con todos los avisos.")
+        else:
+            print("⚠️ No se encontraron avisos válidos en los archivos XML.")
+
+    except Exception as e:
+        print(f"Error al extraer y procesar el archivo TAR: {e}")
+
+def process_xml_to_geojson(file_path):
+    try:
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
+        areas = root.findall(".//info/area", namespaces)
+        geojson_features = []
+
+        for area in areas:
+            polygon = area.find("polygon", namespaces)
+            if polygon is not None:
+                coordinates = polygon.text.strip()
+
+                # Obtener el nodo 'info'
+                info = root.find(".//info", namespaces)
+
+                # Obtener detalles del aviso
+                category = info.findtext("category", default="", namespaces=namespaces)
+                event = info.findtext("event", default="", namespaces=namespaces)
+                responseType = info.findtext("responseType", default="", namespaces=namespaces)
+                urgency = info.findtext("urgency", default="", namespaces=namespaces)
+                severity = info.findtext("severity", default="", namespaces=namespaces)
+                certainty = info.findtext("certainty", default="", namespaces=namespaces)
+                effective = info.findtext("effective", default="", namespaces=namespaces)
+                onset = info.findtext("onset", default="", namespaces=namespaces)
+                expires = info.findtext("expires", default="", namespaces=namespaces)
+                senderName = info.findtext("senderName", default="", namespaces=namespaces)
+                headline = info.findtext("headline", default="", namespaces=namespaces)
+                web = info.findtext("web", default="", namespaces=namespaces)
+                contact = info.findtext("contact", default="", namespaces=namespaces)
+
+                # Obtener parámetros especiales
+                eventCode = info.findtext("eventCode/value", default="", namespaces=namespaces)
+                parameter = info.findtext("parameter/value", default="", namespaces=namespaces)
+
+                feature = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [parse_coordinates(coordinates)]
+                    },
+                    "properties": {
+                        "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
+                        "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
+                        "category": category,
+                        "event": event,
+                        "responseType": responseType,
+                        "urgency": urgency,
+                        "severity": severity,
+                        "certainty": certainty,
+                        "effective": effective,
+                        "onset": onset,
+                        "expires": expires,
+                        "senderName": senderName,
+                        "headline": headline,
+                        "web": web,
+                        "contact": contact,
+                        "eventCode": eventCode,
+                        "parameter": parameter
+                    }
+                }
+                geojson_features.append(feature)
+
+        return geojson_features
+
+    except Exception as e:
+        print(f"Error al procesar el archivo XML {file_path}: {e}")
+        return []
+        
+# Aquí comienza la nueva función correctamente indentada
+def parse_coordinates(coordinates_str):
+    coordinates = coordinates_str.split()
+    return [[float(coord.split(',')[1]), float(coord.split(',')[0])] for coord in coordinates]
+
+# Descargar el archivo TAR y procesarlo
+download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
+if download_url:
+    download_tar(download_url)  # Descargar el archivo TAR
+    extract_and_process_tar()  # Extraer y procesar los XML
