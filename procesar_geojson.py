@@ -54,7 +54,6 @@ def download_tar(url, download_path='avisos.tar'):
     except Exception as e:
         print(f"Error al descargar el archivo TAR: {e}")
 
-# Función para extraer el archivo TAR y procesar los XML
 def extract_and_process_tar(tar_path='avisos.tar'):
     try:
         # Extraer el contenido del archivo TAR
@@ -62,11 +61,26 @@ def extract_and_process_tar(tar_path='avisos.tar'):
             tar.extractall(path='datos')  # Extrae los archivos en la carpeta 'datos'
         print("Archivos extraídos correctamente.")
         
+        all_features = []  # Aquí acumulamos todos los avisos
+
         # Procesar cada archivo XML extraído
         for file_name in os.listdir('datos'):
             if file_name.endswith('.xml'):
                 file_path = os.path.join('datos', file_name)
-                process_xml_to_geojson(file_path)
+                features = process_xml_to_geojson(file_path)  # ← ahora devuelve los features
+                all_features.extend(features)
+
+        # Guardar todos los features en un solo GeoJSON
+        if all_features:
+            geojson_data = {
+                "type": "FeatureCollection",
+                "features": all_features
+            }
+            with open(SALIDA_GEOJSON, 'w') as geojson_file:
+                json.dump(geojson_data, geojson_file, indent=4)
+            print("✅ GeoJSON generado correctamente con todos los avisos.")
+        else:
+            print("⚠️ No se encontraron avisos válidos en los archivos XML.")
 
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
@@ -79,12 +93,12 @@ def process_xml_to_geojson(file_path):
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
 
-        for area in areas:  # ← esta línea estaba mal indentada
+        for area in areas:
             polygon = area.find("polygon", namespaces)
             if polygon is not None:
                 coordinates = polygon.text.strip()
 
-                # Navegar al nodo 'info' correspondiente
+                # Obtener el nodo 'info'
                 info = root.find(".//info", namespaces)
 
                 # Obtener detalles del aviso
@@ -134,19 +148,12 @@ def process_xml_to_geojson(file_path):
                 }
                 geojson_features.append(feature)
 
-        if geojson_features:
-            geojson_data = {
-                "type": "FeatureCollection",
-                "features": geojson_features
-            }
-            with open("avisos_espana.geojson", 'w') as geojson_file:
-                json.dump(geojson_data, geojson_file, indent=4)
-            print(f"GeoJSON generado correctamente para {file_path}")
-        else:
-            print(f"Archivo XML {file_path} no contiene datos válidos para generar un GeoJSON.")
+        return geojson_features
+
     except Exception as e:
         print(f"Error al procesar el archivo XML {file_path}: {e}")
-
+        return []
+        
 # Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
     coordinates = coordinates_str.split()
