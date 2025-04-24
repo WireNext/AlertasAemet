@@ -84,26 +84,11 @@ def extract_and_process_tar(tar_path='avisos.tar'):
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
 
-# Definir colores por niveles como enteros (0 a 9)
+# Definir colores para niveles activos
 colores = {
-    0: "#00FF00",  # verde
-    1: "#FFA500",  # naranja
-    2: "#FF0000",  # rojo
-    3: "#000000",  # negro
-    4: "#9b9b9b",
-    5: "#00FF00",
-    6: "#FFA500",
-    7: "#FF0000",
-    8: "#000000",
-    9: "#000000"
-}
-
-# Mapeo de nivel textual a índice numérico
-niveles_a_codigo = {
-    "verde": 0,
-    "amarillo": 1,
-    "naranja": 2,
-    "rojo": 3
+    "amarillo": "#FFA500",
+    "naranja": "#FF7F00",
+    "rojo": "#FF0000"
 }
 
 def process_xml_to_geojson(file_path):
@@ -130,48 +115,50 @@ def process_xml_to_geojson(file_path):
                         nivel_textual = valor
                         break
 
-                # Determinar color
-                codigo_nivel = niveles_a_codigo.get(nivel_textual, -1)
-                color = colores.get(codigo_nivel, "#808080")
+                # Solo aplicar color si es amarillo, naranja o rojo
+                umap_options = None
+                if nivel_textual in colores:
+                    umap_options = {
+                        "color": colores[nivel_textual],
+                        "weight": 3,
+                        "opacity": 1
+                    }
 
-                # Crear la feature
+                # Construir feature
+                properties = {
+                    "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
+                    "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
+                    "category": info.findtext("category", default="", namespaces=namespaces),
+                    "event": info.findtext("event", default="", namespaces=namespaces),
+                    "urgency": info.findtext("urgency", default="", namespaces=namespaces),
+                    "severity": info.findtext("severity", default="", namespaces=namespaces),
+                    "certainty": info.findtext("certainty", default="", namespaces=namespaces),
+                    "effective": info.findtext("effective", default="", namespaces=namespaces),
+                    "onset": info.findtext("onset", default="", namespaces=namespaces),
+                    "expires": info.findtext("expires", default="", namespaces=namespaces),
+                    "senderName": info.findtext("senderName", default="", namespaces=namespaces),
+                    "headline": info.findtext("headline", default="", namespaces=namespaces),
+                    "web": info.findtext("web", default="", namespaces=namespaces),
+                    "contact": info.findtext("contact", default="", namespaces=namespaces),
+                    "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
+                    "parameter": nivel_textual
+                }
+
+                if umap_options:
+                    properties["_umap_options"] = umap_options
+
                 feature = {
                     "type": "Feature",
                     "geometry": {
                         "type": "Polygon",
                         "coordinates": [parse_coordinates(coordinates)]
                     },
-                    "properties": {
-                        "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
-                        "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
-                        "category": info.findtext("category", default="", namespaces=namespaces),
-                        "event": info.findtext("event", default="", namespaces=namespaces),
-                        "urgency": info.findtext("urgency", default="", namespaces=namespaces),
-                        "severity": info.findtext("severity", default="", namespaces=namespaces),
-                        "certainty": info.findtext("certainty", default="", namespaces=namespaces),
-                        "effective": info.findtext("effective", default="", namespaces=namespaces),
-                        "onset": info.findtext("onset", default="", namespaces=namespaces),
-                        "expires": info.findtext("expires", default="", namespaces=namespaces),
-                        "senderName": info.findtext("senderName", default="", namespaces=namespaces),
-                        "headline": info.findtext("headline", default="", namespaces=namespaces),
-                        "web": info.findtext("web", default="", namespaces=namespaces),
-                        "contact": info.findtext("contact", default="", namespaces=namespaces),
-                        "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
-                        "parameter": nivel_textual,
-                        "_umap_options": {
-                            "color": color,
-                            "weight": 3,
-                            "opacity": 1
-                        }
-                    }
+                    "properties": properties
                 }
+
                 geojson_features.append(feature)
 
         return geojson_features
-
-    except Exception as e:
-        print(f"Error al procesar el archivo XML {file_path}: {e}")
-        return []
 
     except Exception as e:
         print(f"Error al procesar el archivo XML {file_path}: {e}")
