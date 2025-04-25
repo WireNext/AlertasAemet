@@ -209,7 +209,7 @@ def process_xml_to_geojson(file_path):
         return []
 
 # Función para generar el contenido HTML para el popup
-def generate_popup_html(info, area, nivel_textual):
+def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
     area_desc = area.findtext("areaDesc", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     headline = info.findtext("headline", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     description = info.findtext("description", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
