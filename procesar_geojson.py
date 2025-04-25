@@ -222,9 +222,9 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
         f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"  # Nivel de alerta en cursiva
         f"<b>Descripción:</b> {description}<br>"  # Descripción en negrita
         f"<b>Instrucciones:</b> {instruction}<br>"  # Instrucciones en negrita
-        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"  # Enlace a más información en negrita
         f"<b>Fecha de inicio:</b> {onset_dt}<br>"  # Fecha de inicio en negrita
         f"<b>Fecha de fin:</b> {expires_dt}<br>"  # Fecha de fin en negrita
+        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"  # Enlace a más información en negrita
     )
     return popup_content
         
