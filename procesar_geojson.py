@@ -97,8 +97,6 @@ def extract_and_process_tar(tar_path='avisos.tar'):
                 if expires_dt and expires_dt >= now:
                     filtered_existing_features.append(feature)
 
-        # Combinar los avisos existentes no caducados con los nuevos avisos
-        all_features = filtered_existing_features + all_features
 
         # Guardar todos los features en un solo GeoJSON, aunque esté vacío
         geojson_data = {
