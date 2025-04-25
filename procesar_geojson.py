@@ -6,6 +6,8 @@ import tarfile
 import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
 import geojson  # Importamos el módulo para crear archivos GeoJSON
 from datetime import datetime, timezone
+import pytz
+
 
 # Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
@@ -34,7 +36,9 @@ WARNING_MESSAGES = {
 
 def parse_iso_datetime(date_str):
     try:
-        return datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        # Convertimos la cadena ISO a objeto datetime con zona horaria incluida
+        dt = datetime.fromisoformat(date_str)
+        return dt.astimezone(pytz.utc)  # Lo convertimos a UTC
     except Exception:
         return None
 
@@ -116,7 +120,7 @@ def process_xml_to_geojson(file_path):
                 expires_text = info.findtext("expires", default="", namespaces=namespaces)
                 onset_dt = parse_iso_datetime(onset_text)
                 expires_dt = parse_iso_datetime(expires_text)
-                now = datetime.now(timezone.utc)
+                now = datetime.now(pytz.utc)
 
                 # Si ambas fechas existen, filtramos por ambas
                 if onset_dt and expires_dt:
