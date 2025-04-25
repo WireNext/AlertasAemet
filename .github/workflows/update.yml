@@ -2,7 +2,7 @@ name: Actualizar Avisos AEMET
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Ejecutar cada 10 minutos
+    - cron: '*/2 * * * *'  # Ejecutar cada 2 minutos
   workflow_dispatch:  # Permite ejecutar manualmente desde la interfaz de GitHub
 
 jobs:
