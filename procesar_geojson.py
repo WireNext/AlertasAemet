@@ -80,6 +80,26 @@ def extract_and_process_tar(tar_path='avisos.tar'):
                 features = process_xml_to_geojson(file_path)  # ← ahora devuelve los features
                 all_features.extend(features)
 
+        # Leer el archivo GeoJSON existente si existe
+        existing_features = []
+        if os.path.exists(SALIDA_GEOJSON):
+            with open(SALIDA_GEOJSON, 'r') as geojson_file:
+                existing_data = json.load(geojson_file)
+                existing_features = existing_data.get("features", [])
+
+        # Filtrar solo los avisos activos y no caducados
+        now = datetime.now(pytz.utc)
+        filtered_existing_features = []
+        for feature in existing_features:
+            expires = feature['properties'].get('expires')
+            if expires:
+                expires_dt = parse_iso_datetime(expires)
+                if expires_dt and expires_dt >= now:
+                    filtered_existing_features.append(feature)
+
+        # Combinar los avisos existentes no caducados con los nuevos avisos
+        all_features = filtered_existing_features + all_features
+
         # Guardar todos los features en un solo GeoJSON
         if all_features:
             geojson_data = {
