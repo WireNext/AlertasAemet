@@ -217,12 +217,14 @@ def generate_popup_html(info, area, nivel_textual):
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
 
     popup_content = (
-        f"<b>{headline}</b><br>"
-        f"<i>Área: {area_desc}</i><br>"
-        f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"
-        f"<b>Descripción:</b> {description}<br>"
-        f"<b>Instrucciones:</b> {instruction}<br>"
-        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"
+        f"<b>{headline}</b><br>"  # Título en negrita
+        f"<i>Área: {area_desc}</i><br>"  # Área en cursiva
+        f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"  # Nivel de alerta en cursiva
+        f"<b>Descripción:</b> {description}<br>"  # Descripción en negrita
+        f"<b>Instrucciones:</b> {instruction}<br>"  # Instrucciones en negrita
+        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"  # Enlace a más información en negrita
+        f"<b>Fecha de inicio:</b> {start_date}<br>"  # Fecha de inicio en negrita
+        f"<b>Fecha de fin:</b> {end_date}<br>"  # Fecha de fin en negrita
     )
     return popup_content
         
