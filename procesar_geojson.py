@@ -116,7 +116,7 @@ def extract_and_process_tar(tar_path='avisos.tar'):
         print(f"Error al extraer y procesar el archivo TAR: {e}")
 
 colores = {
-    "amarillo": "#FFA500",
+    "amarillo": "#ffa500",
     "naranja": "#FF7F00",
     "rojo": "#FF0000"
 }
