@@ -24,6 +24,7 @@ jobs:
           pip install requests
           pip install iso8601  # Añadida la instalación de iso8601
           pip install geojson  # Añadir la instalación de geojson
+          pip install pytz  # Añadir la instalación de pytz
 
       - name: Run python procesar_geojson.py
         run: python procesar_geojson.py
