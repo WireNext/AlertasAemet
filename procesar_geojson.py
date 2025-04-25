@@ -30,7 +30,10 @@ def parse_iso_datetime(date_str):
     try:
         # Convertimos la cadena ISO a objeto datetime con zona horaria incluida
         dt = datetime.fromisoformat(date_str)
-        return dt.astimezone(pytz.utc)  # Lo convertimos a UTC
+        # Convertir a la zona horaria de Madrid (Europe/Madrid)
+        madrid_tz = pytz.timezone('Europe/Madrid')
+        dt_madrid = dt.astimezone(madrid_tz)
+        return dt_madrid
     except Exception:
         return None
 
@@ -80,7 +83,7 @@ def extract_and_process_tar(tar_path='avisos.tar'):
                 existing_features = existing_data.get("features", [])
 
         # Filtrar solo los avisos activos y no caducados
-        now = datetime.now(pytz.utc)
+        now = datetime.now(pytz.timezone('Europe/Madrid'))  # Usamos la zona horaria de Madrid
         filtered_existing_features = []
         for feature in existing_features:
             expires = feature['properties'].get('expires')
@@ -117,7 +120,7 @@ def process_xml_to_geojson(file_path):
         namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
-        now = datetime.now(pytz.utc)
+        now = datetime.now(pytz.timezone('Europe/Madrid'))  # Usamos la zona horaria de Madrid
 
 
         for area in areas:
