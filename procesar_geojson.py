@@ -100,21 +100,17 @@ def extract_and_process_tar(tar_path='avisos.tar'):
         # Combinar los avisos existentes no caducados con los nuevos avisos
         all_features = filtered_existing_features + all_features
 
-        # Guardar todos los features en un solo GeoJSON
+        # Guardar todos los features en un solo GeoJSON, aunque esté vacío
         geojson_data = {
             "type": "FeatureCollection",
-            "features": all_features
+            "features": all_features  # puede estar vacío
         }
-        if os.path.exists(SALIDA_GEOJSON):
-            os.remove(SALIDA_GEOJSON)
-        with open(SALIDA_GEOJSON, 'w') as geojson_file:
-            json.dump(geojson_data, geojson_file, indent=4)
-
-        if all_features:
-            print("✅ GeoJSON generado correctamente con todos los avisos.")
-        else:
-            print("⚠️ No se encontraron avisos válidos. GeoJSON vacío generado.")
-
+        try:
+            with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as geojson_file:
+                json.dump(geojson_data, geojson_file, indent=4)
+            print(f"✅ GeoJSON guardado en {SALIDA_GEOJSON} con {len(all_features)} avisos.")
+        except Exception as e:
+            print(f"❌ Error al guardar el GeoJSON: {e}")
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
 
