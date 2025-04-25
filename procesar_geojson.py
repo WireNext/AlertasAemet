@@ -19,14 +19,6 @@ TAR_FILE_PATH = "datos/avisos.tar"
 EXTRACT_PATH = "datos/geojson_temp"
 SALIDA_GEOJSON = "avisos_espana.geojson"
 
-# Definir colores según el nivel de aviso
-COLORS = {
-    "Amarillo": "#FFFF00",  # Amarillo
-    "Naranja": "#FFA500",  # Naranja
-    "Rojo": "#FF0000",      # Rojo
-    "verde": "#3cc962",     # Verde
-}
-
 # Mensajes de advertencia según nivel de alerta
 WARNING_MESSAGES = {
     "Amarillo": "Tenga cuidado, manténgase informado de las últimas previsiones meteorológicas. Pueden producirse daños moderados a personas y propiedades, especialmente a personas vulnerables o en zonas expuestas.",
