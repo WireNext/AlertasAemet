@@ -139,8 +139,10 @@ def process_xml_to_geojson(file_path):
                 print(f"⏰ Aviso en archivo {file_path}: onset: {onset_dt}, expires: {expires_dt}, now: {now}")
 
                 # Filtrar por vigencia: solo mostrar avisos que están activos ahora
-                if onset_dt and onset_dt <= now <= expires_dt:
-                    print(f"✅ Aviso activo: onset: {onset_dt}, expires: {expires_dt}, now: {now}")
+                if onset_dt and expires_dt:
+                    # Comprobar si el aviso está activo en el día de hoy
+                    if onset_dt <= now <= expires_dt:
+                        print(f"✅ Aviso activo: onset: {onset_dt}, expires: {expires_dt}, now: {now}")
 
                     # Extraer nivel textual desde <parameter>
                     parametros = info.findall("parameter", namespaces)
@@ -218,6 +220,8 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
     description = info.findtext("description", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     instruction = info.findtext("instruction", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+    onset_str = onset_dt.strftime("%Y-%m-%d %H:%M:%S") if onset_dt else "No disponible"
+    expires_str = expires_dt.strftime("%Y-%m-%d %H:%M:%S") if expires_dt else "No disponible"
 
     popup_content = (
         f"<b>{headline}</b><br>"  # Título en negrita
@@ -225,8 +229,8 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
         f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"  # Nivel de alerta en cursiva
         f"<b>Descripción:</b> {description}<br>"  # Descripción en negrita
         f"<b>Instrucciones:</b> {instruction}<br>"  # Instrucciones en negrita
-        f"<b>Fecha de inicio:</b> {onset_dt}<br>"  # Fecha de inicio en negrita
-        f"<b>Fecha de fin:</b> {expires_dt}<br>"  # Fecha de fin en negrita
+        f"<b>Fecha de inicio:</b> {onset_str}<br>"  # Fecha de inicio en negrita
+        f"<b>Fecha de fin:</b> {expires_str}<br>"  # Fecha de fin en negrita
         f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"  # Enlace a más información en negrita
     )
     return popup_content
