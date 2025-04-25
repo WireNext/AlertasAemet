@@ -104,21 +104,26 @@ def extract_and_process_tar(tar_path='avisos.tar'):
             region = feature['properties']['areaDesc']
             onset = parse_iso_datetime(feature['properties']['onset'])
             severity = feature['properties']['severity']
-            
+
+            if onset is None:
+                continue  # Si no hay fecha válida, se ignora
+
+            diff_now = abs((onset - now).total_seconds())
+
             if region not in region_avisos:
-                region_avisos[region] = feature
+                region_avisos[region] = (feature, diff_now, severity)
             else:
-                existing_feature = region_avisos[region]
-                existing_onset = parse_iso_datetime(existing_feature['properties']['onset'])
-
-                # Si el nuevo aviso es más cercano o de mayor severidad, lo seleccionamos
-                if (onset > existing_onset) or (severity > existing_feature['properties']['severity']):
-                    region_avisos[region] = feature
-
+                _, existing_diff, existing_severity = region_avisos[region]
+                # Primero comparamos por proximidad
+                if diff_now < existing_diff:
+                    region_avisos[region] = (feature, diff_now, severity)
+                # Si la proximidad es la misma, desempata por severidad
+                elif diff_now == existing_diff and severity > existing_severity:
+                    region_avisos[region] = (feature, diff_now, severity)
         # Guardar todos los features en un solo GeoJSON, aunque esté vacío
         geojson_data = {
             "type": "FeatureCollection",
-            "features": list(region_avisos.values())  # Solo los más cercanos o de mayor severidad
+            "features": [item[0] for item in region_avisos.values()]
         }
 
         try:
