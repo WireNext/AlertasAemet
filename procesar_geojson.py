@@ -105,6 +105,8 @@ def extract_and_process_tar(tar_path='avisos.tar'):
             "type": "FeatureCollection",
             "features": all_features
         }
+        if os.path.exists(SALIDA_GEOJSON):
+            os.remove(SALIDA_GEOJSON)
         with open(SALIDA_GEOJSON, 'w') as geojson_file:
             json.dump(geojson_data, geojson_file, indent=4)
 
