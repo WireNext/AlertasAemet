@@ -243,8 +243,8 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
     description = info.findtext("description", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     instruction = info.findtext("instruction", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
-    onset_str = onset_dt.strftime("%Y-%m-%d %H:%M:%S") if onset_dt else "No disponible"
-    expires_str = expires_dt.strftime("%Y-%m-%d %H:%M:%S") if expires_dt else "No disponible"
+    onset_str = onset_dt.strftime("%d-%m-%Y %H:%M:%S") if onset_dt else "No disponible"
+    expires_str = expires_dt.strftime("%d-%m-%Y %H:%M:%S") if expires_dt else "No disponible"
 
     popup_content = (
         f"<b>{headline}</b><br>"  # Título en negrita
