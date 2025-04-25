@@ -184,7 +184,7 @@ def process_xml_to_geojson(file_path):
                     }
 
                     geojson_features.append(feature)
-                 else:
+                else:
                     # Aviso descartado por fechas
                     print(f"⏰ Aviso descartado por fechas - onset: {onset_dt}, expires: {expires_dt}, now: {now}")
 
