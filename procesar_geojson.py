@@ -132,7 +132,7 @@ def extract_and_process_tar(tar_path='avisos.tar'):
 
 colores = {
     "amarillo": "#f3f702",
-    "naranja": "#FF7F00",
+    "naranja": "#e6b94e",
     "rojo": "#FF0000"
 }
 
@@ -248,8 +248,8 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
 
     popup_content = (
         f"<b>{headline}</b><br>"  # Título en negrita
-        f"<i>Área: {area_desc}</i><br>"  # Área en cursiva
-        f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"  # Nivel de alerta en cursiva
+        f"<b>Área:</b> {area_desc}</i><br>"  # Área en cursiva
+        f"<b>Nivel de alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"  # Nivel de alerta en cursiva
         f"<b>Descripción:</b> {description}<br>"  # Descripción en negrita
         f"<b>Instrucciones:</b> {instruction}<br>"  # Instrucciones en negrita
         f"<b>Fecha de inicio:</b> {onset_str}<br>"  # Fecha de inicio en negrita
