@@ -216,14 +216,14 @@ def generate_popup_html(info, area, nivel_textual):
     instruction = info.findtext("instruction", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
 
-    popup_content = f"""
-    <b>{headline}</b><br>
-    <i>Área: {area_desc}</i><br>
-    <i>Nivel de alerta: <span style="color:{colores.get(nivel_textual, '#000')}">{nivel_textual.capitalize()}</span></i><br>
-    <b>Descripción:</b> {description}<br>
-    <b>Instrucciones:</b> {instruction}<br>
-    <b>Más información:</b> <a href="{web_url}" target="_blank">AEMET</a><br>
-    ""
+    popup_content = (
+        f"<b>{headline}</b><br>"
+        f"<i>Área: {area_desc}</i><br>"
+        f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"
+        f"<b>Descripción:</b> {description}<br>"
+        f"<b>Instrucciones:</b> {instruction}<br>"
+        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"
+    )
     return popup_content
         
 # Aquí comienza la nueva función correctamente indentada
