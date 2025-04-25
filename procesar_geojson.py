@@ -35,7 +35,7 @@ WARNING_MESSAGES = {
 def parse_iso_datetime(date_str):
     try:
         return datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-    except:
+    except Exception:
         return None
 
 def obtener_url_datos_desde_api():
