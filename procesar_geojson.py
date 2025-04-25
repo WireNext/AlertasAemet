@@ -166,7 +166,7 @@ def process_xml_to_geojson(file_path):
                             "interactive": False
                         }
 
-                    # Construir propiedades
+                    # Construir propiedades para el popup
                     properties = {
                         "areaDesc": area.findtext("areaDesc", default="", namespaces=namespaces),
                         "geocode": area.findtext("geocode/value", default="", namespaces=namespaces),
@@ -184,7 +184,8 @@ def process_xml_to_geojson(file_path):
                         "contact": info.findtext("contact", default="", namespaces=namespaces),
                         "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
                         "parameter": nivel_textual,
-                        "_umap_options": umap_options
+                        "_umap_options": umap_options,
+                        "popup_html": generate_popup_html(info, area, nivel_textual)
                     }
 
                     feature = {
@@ -206,6 +207,24 @@ def process_xml_to_geojson(file_path):
     except Exception as e:
         print(f"Error al procesar el archivo XML {file_path}: {e}")
         return []
+
+# Función para generar el contenido HTML para el popup
+def generate_popup_html(info, area, nivel_textual):
+    area_desc = area.findtext("areaDesc", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+    headline = info.findtext("headline", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+    description = info.findtext("description", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+    instruction = info.findtext("instruction", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+    web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+
+    popup_content = f"""
+    <b>{headline}</b><br>
+    <i>Área: {area_desc}</i><br>
+    <i>Nivel de alerta: <span style="color:{colores.get(nivel_textual, '#000')}">{nivel_textual.capitalize()}</span></i><br>
+    <b>Descripción:</b> {description}<br>
+    <b>Instrucciones:</b> {instruction}<br>
+    <b>Más información:</b> <a href="{web_url}" target="_blank">AEMET</a><br>
+    ""
+    return popup_content
         
 # Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
