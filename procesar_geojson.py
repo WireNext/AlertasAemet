@@ -5,7 +5,7 @@ import requests
 import tarfile
 import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
 import geojson  # Importamos el módulo para crear archivos GeoJSON
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
