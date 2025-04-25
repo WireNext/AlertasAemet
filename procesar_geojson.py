@@ -116,7 +116,7 @@ def process_xml_to_geojson(file_path):
                 expires_text = info.findtext("expires", default="", namespaces=namespaces)
                 onset_dt = parse_iso_datetime(onset_text)
                 expires_dt = parse_iso_datetime(expires_text)
-                now = datetime.now(datetime.timezone.utc)
+                now = datetime.now(timezone.utc)
 
                 # Filtrar por vigencia
                 if (onset_dt and onset_dt > now) or (expires_dt and expires_dt < now):
