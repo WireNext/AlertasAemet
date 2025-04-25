@@ -108,6 +108,8 @@ def process_xml_to_geojson(file_path):
         namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
+        now = datetime.now(pytz.utc)
+
 
         for area in areas:
             polygon = area.find("polygon", namespaces)
