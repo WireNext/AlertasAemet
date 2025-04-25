@@ -92,16 +92,39 @@ def extract_and_process_tar(tar_path='avisos.tar'):
                 if expires_dt and expires_dt >= now:
                     filtered_existing_features.append(feature)
 
+        # Filtrar los avisos de nivel verde
+        filtered_existing_features = [
+            feature for feature in filtered_existing_features
+            if feature['properties'].get('parameter') != 'verde'
+        ]
+
+        # Agrupar por región y seleccionar el aviso más cercano a la fecha de ahora o el de mayor severidad
+        region_avisos = {}
+        for feature in filtered_existing_features:
+            region = feature['properties']['areaDesc']
+            onset = parse_iso_datetime(feature['properties']['onset'])
+            severity = feature['properties']['severity']
+            
+            if region not in region_avisos:
+                region_avisos[region] = feature
+            else:
+                existing_feature = region_avisos[region]
+                existing_onset = parse_iso_datetime(existing_feature['properties']['onset'])
+
+                # Si el nuevo aviso es más cercano o de mayor severidad, lo seleccionamos
+                if (onset > existing_onset) or (severity > existing_feature['properties']['severity']):
+                    region_avisos[region] = feature
 
         # Guardar todos los features en un solo GeoJSON, aunque esté vacío
         geojson_data = {
             "type": "FeatureCollection",
-            "features": all_features  # puede estar vacío
+            "features": list(region_avisos.values())  # Solo los más cercanos o de mayor severidad
         }
+
         try:
             with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as geojson_file:
                 json.dump(geojson_data, geojson_file, indent=4)
-            print(f"✅ GeoJSON guardado en {SALIDA_GEOJSON} con {len(all_features)} avisos.")
+            print(f"✅ GeoJSON guardado en {SALIDA_GEOJSON} con {len(geojson_data['features'])} avisos.")
         except Exception as e:
             print(f"❌ Error al guardar el GeoJSON: {e}")
     except Exception as e:
@@ -236,9 +259,17 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
     return popup_content
         
 # Aquí comienza la nueva función correctamente indentada
-def parse_coordinates(coordinates_str):
-    coordinates = coordinates_str.split()
-    return [[float(coord.split(',')[1]), float(coord.split(',')[0])] for coord in coordinates]
+def parse_coordinates(coords_string):
+    """
+    Convierte una cadena de coordenadas separadas por espacio en una lista de tuplas.
+    """
+    try:
+        coords = coords_string.split()
+        coords = [tuple(map(float, coord.split(','))) for coord in coords]
+        return coords
+    except Exception as e:
+        print(f"Error al procesar coordenadas: {e}")
+        return []
 
 # Descargar el archivo TAR y procesarlo
 download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
