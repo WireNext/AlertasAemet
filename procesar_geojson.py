@@ -101,18 +101,17 @@ def extract_and_process_tar(tar_path='avisos.tar'):
         all_features = filtered_existing_features + all_features
 
         # Guardar todos los features en un solo GeoJSON
-        if all_features:
-           geojson_data = {
-                "type": "FeatureCollection",
-                "features": all_features  # puede estar vacío
-            }
-            with open(SALIDA_GEOJSON, 'w') as geojson_file:
-                json.dump(geojson_data, geojson_file, indent=4)
+        geojson_data = {
+            "type": "FeatureCollection",
+            "features": all_features
+        }
+        with open(SALIDA_GEOJSON, 'w') as geojson_file:
+            json.dump(geojson_data, geojson_file, indent=4)
 
-            if all_features:
-                print("✅ GeoJSON generado correctamente con todos los avisos.")
-            else:
-             print("⚠️ No se encontraron avisos válidos. GeoJSON vacío generado.")
+        if all_features:
+            print("✅ GeoJSON generado correctamente con todos los avisos.")
+        else:
+            print("⚠️ No se encontraron avisos válidos. GeoJSON vacío generado.")
 
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
