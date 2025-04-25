@@ -185,7 +185,7 @@ def process_xml_to_geojson(file_path):
                         "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
                         "parameter": nivel_textual,
                         "_umap_options": umap_options,
-                        "popup_html": generate_popup_html(info, area, nivel_textual)
+                        "popup_html": generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt)  
                     }
 
                     feature = {
