@@ -118,9 +118,18 @@ def process_xml_to_geojson(file_path):
                 expires_dt = parse_iso_datetime(expires_text)
                 now = datetime.now(timezone.utc)
 
-                # Filtrar por vigencia
-                if (onset_dt and onset_dt > now) or (expires_dt and expires_dt < now):
-                    continue
+                # Si ambas fechas existen, filtramos por ambas
+                if onset_dt and expires_dt:
+                    if not (onset_dt <= now <= expires_dt):
+                        continue
+                # Si solo hay fecha de expiración
+                elif expires_dt:
+                    if now > expires_dt:
+                        continue
+                # Si solo hay fecha de inicio
+                elif onset_dt:
+                    if now < onset_dt:
+                        continue
 
                 # Extraer nivel textual desde <parameter>
                 parametros = info.findall("parameter", namespaces)
