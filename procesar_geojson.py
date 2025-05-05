@@ -131,6 +131,10 @@ def process_xml_to_geojson(file_path):
                 expires_text = info.findtext("expires", default="", namespaces=namespaces)
                 onset_dt = parse_iso_datetime(onset_text)
                 expires_dt = parse_iso_datetime(expires_text)
+                
+                madrid_tz = pytz.timezone("Europe/Madrid")
+                onset_local = onset_dt.astimezone(madrid_tz)
+                expires_local = expires_dt.astimezone(madrid_tz)
 
                 # Debug: Ver las fechas que estamos comparando
                 print(f"⏰ Aviso en archivo {file_path}: onset: {onset_dt}, expires: {expires_dt}, now: {now}")
@@ -222,8 +226,8 @@ def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
         f"<i>Nivel de alerta: <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span></i><br>"  # Nivel de alerta en cursiva
         f"<b>Descripción:</b> {description}<br>"  # Descripción en negrita
         f"<b>Instrucciones:</b> {instruction}<br>"  # Instrucciones en negrita
-        f"<b>Fecha de inicio:</b> {onset_dt}<br>"  # Fecha de inicio en negrita
-        f"<b>Fecha de fin:</b> {expires_dt}<br>"  # Fecha de fin en negrita
+        f"<b>Fecha de inicio:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>"  # Fecha de inicio con hora local
+        f"<b>Fecha de fin:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>"  # Fecha de fin con hora local
         f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a><br>"  # Enlace a más información en negrita
     )
     return popup_content
