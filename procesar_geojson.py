@@ -30,7 +30,12 @@ def parse_iso_datetime(date_str):
     try:
         # Convertimos la cadena ISO a objeto datetime con zona horaria incluida
         dt = datetime.fromisoformat(date_str)
-        return dt.astimezone(pytz.utc)  # Lo convertimos a UTC
+        
+        # Si la hora no tiene zona horaria, establecerla explícitamente como UTC
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        
+        return dt.astimezone(pytz.timezone('Europe/Madrid'))  # Convertimos a la hora de Madrid
     except Exception:
         return None
 
