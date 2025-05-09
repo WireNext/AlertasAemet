@@ -1,4 +1,377 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T00:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de La Palma</b><br><i>\u00c1rea: Cumbres de La Palma</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Rachas muy fuertes del suroeste afectando a zonas altas y a median\u00edas de la vertiente este, sin descartar que localmente puedan afectar a zonas bajas de esta vertiente.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 01:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T00:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de La Palma</b><br><i>\u00c1rea: Cumbres de La Palma</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Rachas muy fuertes del suroeste afectando a zonas altas y a median\u00edas de la vertiente este, sin descartar que localmente puedan afectar a zonas bajas de esta vertiente.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 01:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T00:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este de La Palma</b><br><i>\u00c1rea: Este de La Palma</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Rachas muy fuertes del suroeste afectando a zonas altas y a median\u00edas de la vertiente este, sin descartar que localmente puedan afectar a zonas bajas de esta vertiente.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 01:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T00:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este de La Palma</b><br><i>\u00c1rea: Este de La Palma</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Rachas muy fuertes del suroeste afectando a zonas altas y a median\u00edas de la vertiente este, sin descartar que localmente puedan afectar a zonas bajas de esta vertiente.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 01:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        }
+    ]
 }
