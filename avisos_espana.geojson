@@ -16882,6 +16882,284 @@
                 "coordinates": [
                     [
                         [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Norte de Tenerife</b><br><i>\u00c1rea: Norte de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Norte de Tenerife</b><br><i>\u00c1rea: Norte de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -1.62,
                             40.94
                         ],
@@ -27319,6 +27597,548 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Probablemente, acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.52,
+                            43.31
+                        ],
+                        [
+                            -4.54,
+                            43.34
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.5,
+                            43.4
+                        ],
+                        [
+                            -4.41,
+                            43.4
+                        ],
+                        [
+                            -4.28,
+                            43.39
+                        ],
+                        [
+                            -4.22,
+                            43.4
+                        ],
+                        [
+                            -4.05,
+                            43.43
+                        ],
+                        [
+                            -4.05,
+                            43.44
+                        ],
+                        [
+                            -3.98,
+                            43.44
+                        ],
+                        [
+                            -3.94,
+                            43.47
+                        ],
+                        [
+                            -3.86,
+                            43.48
+                        ],
+                        [
+                            -3.81,
+                            43.5
+                        ],
+                        [
+                            -3.78,
+                            43.46
+                        ],
+                        [
+                            -3.83,
+                            43.44
+                        ],
+                        [
+                            -3.81,
+                            43.4
+                        ],
+                        [
+                            -3.81,
+                            43.41
+                        ],
+                        [
+                            -3.77,
+                            43.45
+                        ],
+                        [
+                            -3.69,
+                            43.48
+                        ],
+                        [
+                            -3.6,
+                            43.51
+                        ],
+                        [
+                            -3.55,
+                            43.51
+                        ],
+                        [
+                            -3.49,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.41
+                        ],
+                        [
+                            -3.33,
+                            43.42
+                        ],
+                        [
+                            -3.22,
+                            43.39
+                        ],
+                        [
+                            -3.19,
+                            43.36
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.31
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral c\u00e1ntabro",
+                "geocode": "663901",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-10T12:55:47+02:00",
+                "onset": "2025-05-10T12:00:00+02:00",
+                "expires": "2025-05-10T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro</b><br><i>\u00c1rea: Litoral c\u00e1ntabro</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. En el tercio oriental.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.52,
+                            43.31
+                        ],
+                        [
+                            -4.54,
+                            43.34
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.5,
+                            43.4
+                        ],
+                        [
+                            -4.41,
+                            43.4
+                        ],
+                        [
+                            -4.28,
+                            43.39
+                        ],
+                        [
+                            -4.22,
+                            43.4
+                        ],
+                        [
+                            -4.05,
+                            43.43
+                        ],
+                        [
+                            -4.05,
+                            43.44
+                        ],
+                        [
+                            -3.98,
+                            43.44
+                        ],
+                        [
+                            -3.94,
+                            43.47
+                        ],
+                        [
+                            -3.86,
+                            43.48
+                        ],
+                        [
+                            -3.81,
+                            43.5
+                        ],
+                        [
+                            -3.78,
+                            43.46
+                        ],
+                        [
+                            -3.83,
+                            43.44
+                        ],
+                        [
+                            -3.81,
+                            43.4
+                        ],
+                        [
+                            -3.81,
+                            43.41
+                        ],
+                        [
+                            -3.77,
+                            43.45
+                        ],
+                        [
+                            -3.69,
+                            43.48
+                        ],
+                        [
+                            -3.6,
+                            43.51
+                        ],
+                        [
+                            -3.55,
+                            43.51
+                        ],
+                        [
+                            -3.49,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.41
+                        ],
+                        [
+                            -3.33,
+                            43.42
+                        ],
+                        [
+                            -3.22,
+                            43.39
+                        ],
+                        [
+                            -3.19,
+                            43.36
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.31
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral c\u00e1ntabro",
+                "geocode": "663901",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-10T12:55:47+02:00",
+                "onset": "2025-05-10T12:00:00+02:00",
+                "expires": "2025-05-10T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro</b><br><i>\u00c1rea: Litoral c\u00e1ntabro</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. En el tercio oriental.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -42562,6 +43382,532 @@
                 "coordinates": [
                     [
                         [
+                            -4.55,
+                            43.27
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.29,
+                            43.3
+                        ],
+                        [
+                            -3.39,
+                            43.25
+                        ],
+                        [
+                            -3.45,
+                            43.24
+                        ],
+                        [
+                            -3.42,
+                            43.13
+                        ],
+                        [
+                            -3.51,
+                            43.14
+                        ],
+                        [
+                            -3.58,
+                            43.15
+                        ],
+                        [
+                            -3.65,
+                            43.18
+                        ],
+                        [
+                            -3.7,
+                            43.12
+                        ],
+                        [
+                            -3.79,
+                            43.08
+                        ],
+                        [
+                            -3.89,
+                            43.04
+                        ],
+                        [
+                            -3.91,
+                            43.02
+                        ],
+                        [
+                            -3.94,
+                            43.01
+                        ],
+                        [
+                            -4.01,
+                            42.99
+                        ],
+                        [
+                            -4.08,
+                            42.99
+                        ],
+                        [
+                            -4.1,
+                            43.05
+                        ],
+                        [
+                            -4.15,
+                            43.06
+                        ],
+                        [
+                            -4.17,
+                            42.98
+                        ],
+                        [
+                            -4.18,
+                            42.95
+                        ],
+                        [
+                            -4.24,
+                            42.95
+                        ],
+                        [
+                            -4.26,
+                            42.97
+                        ],
+                        [
+                            -4.35,
+                            42.97
+                        ],
+                        [
+                            -4.4,
+                            43.04
+                        ],
+                        [
+                            -4.46,
+                            43.06
+                        ],
+                        [
+                            -4.48,
+                            43.12
+                        ],
+                        [
+                            -4.46,
+                            43.15
+                        ],
+                        [
+                            -4.51,
+                            43.17
+                        ],
+                        [
+                            -4.55,
+                            43.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Centro y valle de Villaverde",
+                "geocode": "663903",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-10T12:55:47+02:00",
+                "onset": "2025-05-10T12:00:00+02:00",
+                "expires": "2025-05-10T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Centro y valle de Villaverde",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Centro y valle de Villaverde</b><br><i>\u00c1rea: Centro y valle de Villaverde</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. En el tercio oriental.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.55,
+                            43.27
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.29,
+                            43.3
+                        ],
+                        [
+                            -3.39,
+                            43.25
+                        ],
+                        [
+                            -3.45,
+                            43.24
+                        ],
+                        [
+                            -3.42,
+                            43.13
+                        ],
+                        [
+                            -3.51,
+                            43.14
+                        ],
+                        [
+                            -3.58,
+                            43.15
+                        ],
+                        [
+                            -3.65,
+                            43.18
+                        ],
+                        [
+                            -3.7,
+                            43.12
+                        ],
+                        [
+                            -3.79,
+                            43.08
+                        ],
+                        [
+                            -3.89,
+                            43.04
+                        ],
+                        [
+                            -3.91,
+                            43.02
+                        ],
+                        [
+                            -3.94,
+                            43.01
+                        ],
+                        [
+                            -4.01,
+                            42.99
+                        ],
+                        [
+                            -4.08,
+                            42.99
+                        ],
+                        [
+                            -4.1,
+                            43.05
+                        ],
+                        [
+                            -4.15,
+                            43.06
+                        ],
+                        [
+                            -4.17,
+                            42.98
+                        ],
+                        [
+                            -4.18,
+                            42.95
+                        ],
+                        [
+                            -4.24,
+                            42.95
+                        ],
+                        [
+                            -4.26,
+                            42.97
+                        ],
+                        [
+                            -4.35,
+                            42.97
+                        ],
+                        [
+                            -4.4,
+                            43.04
+                        ],
+                        [
+                            -4.46,
+                            43.06
+                        ],
+                        [
+                            -4.48,
+                            43.12
+                        ],
+                        [
+                            -4.46,
+                            43.15
+                        ],
+                        [
+                            -4.51,
+                            43.17
+                        ],
+                        [
+                            -4.55,
+                            43.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Centro y valle de Villaverde",
+                "geocode": "663903",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-05-10T12:55:47+02:00",
+                "onset": "2025-05-10T12:00:00+02:00",
+                "expires": "2025-05-10T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Centro y valle de Villaverde",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Centro y valle de Villaverde</b><br><i>\u00c1rea: Centro y valle de Villaverde</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. En el tercio oriental.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -17.84,
                             28.56
                         ],
@@ -56518,6 +57864,188 @@
                 "coordinates": [
                     [
                         [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria</b><br><i>\u00c1rea: Cumbres de Gran Canaria</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria</b><br><i>\u00c1rea: Cumbres de Gran Canaria</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -1.5,
                             39.42
                         ],
@@ -58621,6 +60149,252 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte de Burgos</b><br><i>\u00c1rea: Norte de Burgos</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.71,
+                            28.09
+                        ],
+                        [
+                            -15.7,
+                            28.16
+                        ],
+                        [
+                            -15.63,
+                            28.17
+                        ],
+                        [
+                            -15.61,
+                            28.15
+                        ],
+                        [
+                            -15.54,
+                            28.14
+                        ],
+                        [
+                            -15.52,
+                            28.15
+                        ],
+                        [
+                            -15.48,
+                            28.13
+                        ],
+                        [
+                            -15.43,
+                            28.13
+                        ],
+                        [
+                            -15.41,
+                            28.1
+                        ],
+                        [
+                            -15.42,
+                            28.06
+                        ],
+                        [
+                            -15.41,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Gran Canaria",
+                "geocode": "659001",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Norte de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Norte de Gran Canaria</b><br><i>\u00c1rea: Norte de Gran Canaria</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.71,
+                            28.09
+                        ],
+                        [
+                            -15.7,
+                            28.16
+                        ],
+                        [
+                            -15.63,
+                            28.17
+                        ],
+                        [
+                            -15.61,
+                            28.15
+                        ],
+                        [
+                            -15.54,
+                            28.14
+                        ],
+                        [
+                            -15.52,
+                            28.15
+                        ],
+                        [
+                            -15.48,
+                            28.13
+                        ],
+                        [
+                            -15.43,
+                            28.13
+                        ],
+                        [
+                            -15.41,
+                            28.1
+                        ],
+                        [
+                            -15.42,
+                            28.06
+                        ],
+                        [
+                            -15.41,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Gran Canaria",
+                "geocode": "659001",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Norte de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Norte de Gran Canaria</b><br><i>\u00c1rea: Norte de Gran Canaria</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -63805,6 +65579,292 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Cordillera Cant\u00e1brica de Burgos</b><br><i>\u00c1rea: Cordillera Cant\u00e1brica de Burgos</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Pueden ir ocasionalmente acompa\u00f1adas de granizo.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 12:00<br><b>Fecha de fin:</b> 10/05/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este, sur y oeste de Tenerife</b><br><i>\u00c1rea: Este, sur y oeste de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-05-09T10:22:20+01:00",
+                "onset": "2025-05-10T12:00:00+01:00",
+                "expires": "2025-05-10T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este, sur y oeste de Tenerife</b><br><i>\u00c1rea: Este, sur y oeste de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. No se descartan rachas muy fuertes del suroeste. En Tenerife, afectando al sureste, localmente a la vertiente norte y cumbres centrales. En Gran Canaria, afectando en median\u00edas del norte, zonas bajas del noroeste y en la Vega de San Mateo en cumbres.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/05/2025 13:00<br><b>Fecha de fin:</b> 10/05/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
