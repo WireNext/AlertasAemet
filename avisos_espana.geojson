@@ -8,6 +8,284 @@
                 "coordinates": [
                     [
                         [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Observed",
+                "effective": "2025-05-13T06:30:37+01:00",
+                "onset": "2025-05-13T06:00:00+01:00",
+                "expires": "2025-05-13T11:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte de Tenerife</b><br><i>\u00c1rea: Norte de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando a median\u00edas del \u00e1rea central del norte de Tenerife.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 07:00<br><b>Fecha de fin:</b> 13/05/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Observed",
+                "effective": "2025-05-13T06:30:37+01:00",
+                "onset": "2025-05-13T06:00:00+01:00",
+                "expires": "2025-05-13T11:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte de Tenerife</b><br><i>\u00c1rea: Norte de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando a median\u00edas del \u00e1rea central del norte de Tenerife.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 07:00<br><b>Fecha de fin:</b> 13/05/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             2.44,
                             39.64
                         ],
@@ -372,7 +650,7 @@
                 "areaDesc": "Interior de Mallorca",
                 "geocode": "645403",
                 "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
+                "event": "Aviso de tormentas de nivel amarillo",
                 "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
@@ -380,10 +658,10 @@
                 "onset": "2025-05-13T12:00:00+02:00",
                 "expires": "2025-05-13T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Interior de Mallorca",
+                "headline": "Aviso de tormentas de nivel amarillo. Interior de Mallorca",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
+                "eventCode": "TO;Tormentas",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -391,7 +669,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -511,7 +789,7 @@
                 "areaDesc": "Interior de Mallorca",
                 "geocode": "645403",
                 "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
+                "event": "Aviso de tormentas de nivel amarillo",
                 "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
@@ -519,10 +797,10 @@
                 "onset": "2025-05-13T12:00:00+02:00",
                 "expires": "2025-05-13T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Interior de Mallorca",
+                "headline": "Aviso de tormentas de nivel amarillo. Interior de Mallorca",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
+                "eventCode": "TO;Tormentas",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -530,7 +808,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -794,125 +1072,125 @@
                 "coordinates": [
                     [
                         [
-                            -16.43,
-                            28.49
+                            2.93,
+                            39.81
                         ],
                         [
-                            -16.39,
-                            28.43
+                            2.95,
+                            39.76
                         ],
                         [
-                            -16.44,
-                            28.39
+                            3.0,
+                            39.73
                         ],
                         [
-                            -16.48,
-                            28.35
+                            3.02,
+                            39.74
                         ],
                         [
-                            -16.5,
-                            28.31
+                            3.11,
+                            39.68
                         ],
                         [
-                            -16.54,
-                            28.28
+                            3.16,
+                            39.7
                         ],
                         [
-                            -16.55,
-                            28.25
+                            3.23,
+                            39.7
                         ],
                         [
-                            -16.64,
-                            28.2
+                            3.25,
+                            39.68
                         ],
                         [
-                            -16.68,
-                            28.21
+                            3.18,
+                            39.65
                         ],
                         [
-                            -16.7,
-                            28.27
+                            3.16,
+                            39.63
                         ],
                         [
-                            -16.79,
-                            28.31
+                            3.16,
+                            39.55
                         ],
                         [
-                            -16.85,
-                            28.27
+                            3.1,
+                            39.53
                         ],
                         [
-                            -16.88,
-                            28.31
+                            3.06,
+                            39.48
                         ],
                         [
-                            -16.92,
-                            28.34
+                            3.01,
+                            39.46
                         ],
                         [
-                            -16.92,
-                            28.36
+                            2.97,
+                            39.46
                         ],
                         [
-                            -16.86,
-                            28.37
+                            2.97,
+                            39.52
                         ],
                         [
-                            -16.83,
-                            28.39
+                            2.94,
+                            39.53
                         ],
                         [
-                            -16.81,
-                            28.38
+                            2.89,
+                            39.52
                         ],
                         [
-                            -16.75,
-                            28.37
+                            2.83,
+                            39.55
                         ],
                         [
-                            -16.7,
-                            28.38
+                            2.85,
+                            39.57
                         ],
                         [
-                            -16.67,
-                            28.4
+                            2.78,
+                            39.64
                         ],
                         [
-                            -16.6,
-                            28.39
+                            2.74,
+                            39.66
                         ],
                         [
-                            -16.55,
-                            28.42
+                            2.74,
+                            39.71
                         ],
                         [
-                            -16.52,
-                            28.42
+                            2.8,
+                            39.74
                         ],
                         [
-                            -16.47,
-                            28.44
+                            2.9,
+                            39.82
                         ],
                         [
-                            -16.43,
-                            28.49
+                            2.93,
+                            39.81
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Norte de Tenerife",
-                "geocode": "659601",
+                "areaDesc": "Interior de Mallorca",
+                "geocode": "645403",
                 "category": "Met",
                 "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
+                "urgency": "Future",
                 "severity": "Moderate",
-                "certainty": "Observed",
-                "effective": "2025-05-13T06:30:37+01:00",
-                "onset": "2025-05-13T06:00:00+01:00",
-                "expires": "2025-05-13T11:59:59+01:00",
+                "certainty": "Likely",
+                "effective": "2025-05-13T08:07:25+02:00",
+                "onset": "2025-05-13T12:00:00+02:00",
+                "expires": "2025-05-13T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Norte de Tenerife",
+                "headline": "Aviso de lluvias de nivel amarillo. Interior de Mallorca",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "PR;Lluvias",
@@ -923,146 +1201,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte de Tenerife</b><br><i>\u00c1rea: Norte de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando a median\u00edas del \u00e1rea central del norte de Tenerife.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 07:00<br><b>Fecha de fin:</b> 13/05/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.43,
-                            28.49
-                        ],
-                        [
-                            -16.39,
-                            28.43
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.88,
-                            28.31
-                        ],
-                        [
-                            -16.92,
-                            28.34
-                        ],
-                        [
-                            -16.92,
-                            28.36
-                        ],
-                        [
-                            -16.86,
-                            28.37
-                        ],
-                        [
-                            -16.83,
-                            28.39
-                        ],
-                        [
-                            -16.81,
-                            28.38
-                        ],
-                        [
-                            -16.75,
-                            28.37
-                        ],
-                        [
-                            -16.7,
-                            28.38
-                        ],
-                        [
-                            -16.67,
-                            28.4
-                        ],
-                        [
-                            -16.6,
-                            28.39
-                        ],
-                        [
-                            -16.55,
-                            28.42
-                        ],
-                        [
-                            -16.52,
-                            28.42
-                        ],
-                        [
-                            -16.47,
-                            28.44
-                        ],
-                        [
-                            -16.43,
-                            28.49
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte de Tenerife",
-                "geocode": "659601",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Observed",
-                "effective": "2025-05-13T06:30:37+01:00",
-                "onset": "2025-05-13T06:00:00+01:00",
-                "expires": "2025-05-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Norte de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte de Tenerife</b><br><i>\u00c1rea: Norte de Tenerife</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando a median\u00edas del \u00e1rea central del norte de Tenerife.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 07:00<br><b>Fecha de fin:</b> 13/05/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -1182,7 +1321,7 @@
                 "areaDesc": "Interior de Mallorca",
                 "geocode": "645403",
                 "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
+                "event": "Aviso de lluvias de nivel amarillo",
                 "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
@@ -1190,10 +1329,10 @@
                 "onset": "2025-05-13T12:00:00+02:00",
                 "expires": "2025-05-13T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Interior de Mallorca",
+                "headline": "Aviso de lluvias de nivel amarillo. Interior de Mallorca",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
+                "eventCode": "PR;Lluvias",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -1201,146 +1340,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.18,
-                            39.65
-                        ],
-                        [
-                            3.16,
-                            39.63
-                        ],
-                        [
-                            3.16,
-                            39.55
-                        ],
-                        [
-                            3.1,
-                            39.53
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.01,
-                            39.46
-                        ],
-                        [
-                            2.97,
-                            39.46
-                        ],
-                        [
-                            2.97,
-                            39.52
-                        ],
-                        [
-                            2.94,
-                            39.53
-                        ],
-                        [
-                            2.89,
-                            39.52
-                        ],
-                        [
-                            2.83,
-                            39.55
-                        ],
-                        [
-                            2.85,
-                            39.57
-                        ],
-                        [
-                            2.78,
-                            39.64
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Interior de Mallorca",
-                "geocode": "645403",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-05-13T08:07:25+02:00",
-                "onset": "2025-05-13T12:00:00+02:00",
-                "expires": "2025-05-13T17:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Interior de Mallorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Mallorca</b><br><i>\u00c1rea: Interior de Mallorca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable que afecte a los municipios del interior pr\u00f3ximos a la Sierra de Tramontana.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/05/2025 12:00<br><b>Fecha de fin:</b> 13/05/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         }
     ]
