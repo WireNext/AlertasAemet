@@ -1,4 +1,523 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.05,
+                            43.47
+                        ],
+                        [
+                            -7.0,
+                            43.47
+                        ],
+                        [
+                            -6.95,
+                            43.37
+                        ],
+                        [
+                            -6.9,
+                            43.42
+                        ],
+                        [
+                            -6.9,
+                            43.46
+                        ],
+                        [
+                            -6.84,
+                            43.45
+                        ],
+                        [
+                            -6.8,
+                            43.47
+                        ],
+                        [
+                            -6.77,
+                            43.46
+                        ],
+                        [
+                            -6.72,
+                            43.47
+                        ],
+                        [
+                            -6.72,
+                            43.49
+                        ],
+                        [
+                            -6.66,
+                            43.49
+                        ],
+                        [
+                            -6.6,
+                            43.46
+                        ],
+                        [
+                            -6.55,
+                            43.46
+                        ],
+                        [
+                            -6.52,
+                            43.44
+                        ],
+                        [
+                            -6.45,
+                            43.44
+                        ],
+                        [
+                            -6.43,
+                            43.41
+                        ],
+                        [
+                            -6.39,
+                            43.4
+                        ],
+                        [
+                            -6.36,
+                            43.43
+                        ],
+                        [
+                            -6.3,
+                            43.35
+                        ],
+                        [
+                            -6.3,
+                            43.32
+                        ],
+                        [
+                            -6.33,
+                            43.29
+                        ],
+                        [
+                            -6.33,
+                            43.22
+                        ],
+                        [
+                            -6.34,
+                            43.19
+                        ],
+                        [
+                            -6.38,
+                            43.14
+                        ],
+                        [
+                            -6.36,
+                            43.06
+                        ],
+                        [
+                            -6.42,
+                            42.99
+                        ],
+                        [
+                            -6.44,
+                            42.94
+                        ],
+                        [
+                            -6.51,
+                            42.93
+                        ],
+                        [
+                            -6.54,
+                            42.91
+                        ],
+                        [
+                            -6.64,
+                            42.93
+                        ],
+                        [
+                            -6.72,
+                            42.92
+                        ],
+                        [
+                            -6.77,
+                            42.9
+                        ],
+                        [
+                            -6.82,
+                            42.92
+                        ],
+                        [
+                            -6.83,
+                            42.96
+                        ],
+                        [
+                            -6.87,
+                            42.99
+                        ],
+                        [
+                            -6.91,
+                            42.99
+                        ],
+                        [
+                            -6.94,
+                            43.01
+                        ],
+                        [
+                            -6.97,
+                            43.0
+                        ],
+                        [
+                            -7.0,
+                            43.02
+                        ],
+                        [
+                            -6.95,
+                            43.08
+                        ],
+                        [
+                            -6.89,
+                            43.09
+                        ],
+                        [
+                            -6.83,
+                            43.12
+                        ],
+                        [
+                            -6.84,
+                            43.17
+                        ],
+                        [
+                            -6.87,
+                            43.18
+                        ],
+                        [
+                            -6.94,
+                            43.13
+                        ],
+                        [
+                            -6.97,
+                            43.15
+                        ],
+                        [
+                            -6.96,
+                            43.19
+                        ],
+                        [
+                            -7.02,
+                            43.21
+                        ],
+                        [
+                            -7.06,
+                            43.25
+                        ],
+                        [
+                            -7.06,
+                            43.29
+                        ],
+                        [
+                            -7.09,
+                            43.3
+                        ],
+                        [
+                            -7.1,
+                            43.3
+                        ],
+                        [
+                            -7.18,
+                            43.4
+                        ],
+                        [
+                            -7.17,
+                            43.43
+                        ],
+                        [
+                            -7.13,
+                            43.42
+                        ],
+                        [
+                            -7.05,
+                            43.47
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Suroccidental asturiana",
+                "geocode": "633303",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Observed",
+                "effective": "2025-05-30T07:27:47+02:00",
+                "onset": "2025-05-30T07:00:00+02:00",
+                "expires": "2025-05-30T08:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Suroccidental asturiana",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Suroccidental asturiana</b><br><i>\u00c1rea: Suroccidental asturiana</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Las tormentas ir\u00e1n acompa\u00f1adas de posible granizo sin descartar fuertes rachas de viento.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 30/05/2025 07:00<br><b>Fecha de fin:</b> 30/05/2025 08:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.05,
+                            43.47
+                        ],
+                        [
+                            -7.0,
+                            43.47
+                        ],
+                        [
+                            -6.95,
+                            43.37
+                        ],
+                        [
+                            -6.9,
+                            43.42
+                        ],
+                        [
+                            -6.9,
+                            43.46
+                        ],
+                        [
+                            -6.84,
+                            43.45
+                        ],
+                        [
+                            -6.8,
+                            43.47
+                        ],
+                        [
+                            -6.77,
+                            43.46
+                        ],
+                        [
+                            -6.72,
+                            43.47
+                        ],
+                        [
+                            -6.72,
+                            43.49
+                        ],
+                        [
+                            -6.66,
+                            43.49
+                        ],
+                        [
+                            -6.6,
+                            43.46
+                        ],
+                        [
+                            -6.55,
+                            43.46
+                        ],
+                        [
+                            -6.52,
+                            43.44
+                        ],
+                        [
+                            -6.45,
+                            43.44
+                        ],
+                        [
+                            -6.43,
+                            43.41
+                        ],
+                        [
+                            -6.39,
+                            43.4
+                        ],
+                        [
+                            -6.36,
+                            43.43
+                        ],
+                        [
+                            -6.3,
+                            43.35
+                        ],
+                        [
+                            -6.3,
+                            43.32
+                        ],
+                        [
+                            -6.33,
+                            43.29
+                        ],
+                        [
+                            -6.33,
+                            43.22
+                        ],
+                        [
+                            -6.34,
+                            43.19
+                        ],
+                        [
+                            -6.38,
+                            43.14
+                        ],
+                        [
+                            -6.36,
+                            43.06
+                        ],
+                        [
+                            -6.42,
+                            42.99
+                        ],
+                        [
+                            -6.44,
+                            42.94
+                        ],
+                        [
+                            -6.51,
+                            42.93
+                        ],
+                        [
+                            -6.54,
+                            42.91
+                        ],
+                        [
+                            -6.64,
+                            42.93
+                        ],
+                        [
+                            -6.72,
+                            42.92
+                        ],
+                        [
+                            -6.77,
+                            42.9
+                        ],
+                        [
+                            -6.82,
+                            42.92
+                        ],
+                        [
+                            -6.83,
+                            42.96
+                        ],
+                        [
+                            -6.87,
+                            42.99
+                        ],
+                        [
+                            -6.91,
+                            42.99
+                        ],
+                        [
+                            -6.94,
+                            43.01
+                        ],
+                        [
+                            -6.97,
+                            43.0
+                        ],
+                        [
+                            -7.0,
+                            43.02
+                        ],
+                        [
+                            -6.95,
+                            43.08
+                        ],
+                        [
+                            -6.89,
+                            43.09
+                        ],
+                        [
+                            -6.83,
+                            43.12
+                        ],
+                        [
+                            -6.84,
+                            43.17
+                        ],
+                        [
+                            -6.87,
+                            43.18
+                        ],
+                        [
+                            -6.94,
+                            43.13
+                        ],
+                        [
+                            -6.97,
+                            43.15
+                        ],
+                        [
+                            -6.96,
+                            43.19
+                        ],
+                        [
+                            -7.02,
+                            43.21
+                        ],
+                        [
+                            -7.06,
+                            43.25
+                        ],
+                        [
+                            -7.06,
+                            43.29
+                        ],
+                        [
+                            -7.09,
+                            43.3
+                        ],
+                        [
+                            -7.1,
+                            43.3
+                        ],
+                        [
+                            -7.18,
+                            43.4
+                        ],
+                        [
+                            -7.17,
+                            43.43
+                        ],
+                        [
+                            -7.13,
+                            43.42
+                        ],
+                        [
+                            -7.05,
+                            43.47
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Suroccidental asturiana",
+                "geocode": "633303",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Observed",
+                "effective": "2025-05-30T07:27:47+02:00",
+                "onset": "2025-05-30T07:00:00+02:00",
+                "expires": "2025-05-30T08:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Suroccidental asturiana",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Suroccidental asturiana</b><br><i>\u00c1rea: Suroccidental asturiana</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Las tormentas ir\u00e1n acompa\u00f1adas de posible granizo sin descartar fuertes rachas de viento.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 30/05/2025 07:00<br><b>Fecha de fin:</b> 30/05/2025 08:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        }
+    ]
 }
