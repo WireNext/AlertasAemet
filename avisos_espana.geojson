@@ -5990,6 +5990,324 @@
                 "coordinates": [
                     [
                         [
+                            -1.95,
+                            43.1
+                        ],
+                        [
+                            -1.92,
+                            43.13
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.67,
+                            43.32
+                        ],
+                        [
+                            -1.62,
+                            43.3
+                        ],
+                        [
+                            -1.62,
+                            43.26
+                        ],
+                        [
+                            -1.57,
+                            43.25
+                        ],
+                        [
+                            -1.55,
+                            43.29
+                        ],
+                        [
+                            -1.5,
+                            43.29
+                        ],
+                        [
+                            -1.38,
+                            43.25
+                        ],
+                        [
+                            -1.38,
+                            43.19
+                        ],
+                        [
+                            -1.4,
+                            43.18
+                        ],
+                        [
+                            -1.41,
+                            43.13
+                        ],
+                        [
+                            -1.47,
+                            43.09
+                        ],
+                        [
+                            -1.45,
+                            43.05
+                        ],
+                        [
+                            -1.47,
+                            43.03
+                        ],
+                        [
+                            -1.5,
+                            43.06
+                        ],
+                        [
+                            -1.55,
+                            43.04
+                        ],
+                        [
+                            -1.63,
+                            43.04
+                        ],
+                        [
+                            -1.67,
+                            43.06
+                        ],
+                        [
+                            -1.71,
+                            43.05
+                        ],
+                        [
+                            -1.8,
+                            43.06
+                        ],
+                        [
+                            -1.86,
+                            43.08
+                        ],
+                        [
+                            -1.88,
+                            43.06
+                        ],
+                        [
+                            -1.93,
+                            43.06
+                        ],
+                        [
+                            -1.95,
+                            43.1
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vertiente cant\u00e1brica de Navarra",
+                "geocode": "743101",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-06-13T20:26:27+02:00",
+                "onset": "2025-06-13T20:00:00+02:00",
+                "expires": "2025-06-13T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel naranja. Vertiente cant\u00e1brica de Navarra",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel naranja. Vertiente cant\u00e1brica de Navarra</b><br><i>\u00c1rea: Vertiente cant\u00e1brica de Navarra</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Probable granizo grande.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/06/2025 20:00<br><b>Fecha de fin:</b> 13/06/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95,
+                            43.1
+                        ],
+                        [
+                            -1.92,
+                            43.13
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.67,
+                            43.32
+                        ],
+                        [
+                            -1.62,
+                            43.3
+                        ],
+                        [
+                            -1.62,
+                            43.26
+                        ],
+                        [
+                            -1.57,
+                            43.25
+                        ],
+                        [
+                            -1.55,
+                            43.29
+                        ],
+                        [
+                            -1.5,
+                            43.29
+                        ],
+                        [
+                            -1.38,
+                            43.25
+                        ],
+                        [
+                            -1.38,
+                            43.19
+                        ],
+                        [
+                            -1.4,
+                            43.18
+                        ],
+                        [
+                            -1.41,
+                            43.13
+                        ],
+                        [
+                            -1.47,
+                            43.09
+                        ],
+                        [
+                            -1.45,
+                            43.05
+                        ],
+                        [
+                            -1.47,
+                            43.03
+                        ],
+                        [
+                            -1.5,
+                            43.06
+                        ],
+                        [
+                            -1.55,
+                            43.04
+                        ],
+                        [
+                            -1.63,
+                            43.04
+                        ],
+                        [
+                            -1.67,
+                            43.06
+                        ],
+                        [
+                            -1.71,
+                            43.05
+                        ],
+                        [
+                            -1.8,
+                            43.06
+                        ],
+                        [
+                            -1.86,
+                            43.08
+                        ],
+                        [
+                            -1.88,
+                            43.06
+                        ],
+                        [
+                            -1.93,
+                            43.06
+                        ],
+                        [
+                            -1.95,
+                            43.1
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vertiente cant\u00e1brica de Navarra",
+                "geocode": "743101",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-06-13T20:26:27+02:00",
+                "onset": "2025-06-13T20:00:00+02:00",
+                "expires": "2025-06-13T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel naranja. Vertiente cant\u00e1brica de Navarra",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel naranja. Vertiente cant\u00e1brica de Navarra</b><br><i>\u00c1rea: Vertiente cant\u00e1brica de Navarra</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Probable granizo grande.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/06/2025 20:00<br><b>Fecha de fin:</b> 13/06/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.9,
                             42.74
                         ],
@@ -15343,324 +15661,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sur de Huesca</b><br><i>\u00c1rea: Sur de Huesca</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/06/2025 13:00<br><b>Fecha de fin:</b> 13/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.95,
-                            43.1
-                        ],
-                        [
-                            -1.92,
-                            43.13
-                        ],
-                        [
-                            -1.92,
-                            43.17
-                        ],
-                        [
-                            -1.91,
-                            43.2
-                        ],
-                        [
-                            -1.82,
-                            43.23
-                        ],
-                        [
-                            -1.79,
-                            43.25
-                        ],
-                        [
-                            -1.78,
-                            43.29
-                        ],
-                        [
-                            -1.73,
-                            43.3
-                        ],
-                        [
-                            -1.67,
-                            43.32
-                        ],
-                        [
-                            -1.62,
-                            43.3
-                        ],
-                        [
-                            -1.62,
-                            43.26
-                        ],
-                        [
-                            -1.57,
-                            43.25
-                        ],
-                        [
-                            -1.55,
-                            43.29
-                        ],
-                        [
-                            -1.5,
-                            43.29
-                        ],
-                        [
-                            -1.38,
-                            43.25
-                        ],
-                        [
-                            -1.38,
-                            43.19
-                        ],
-                        [
-                            -1.4,
-                            43.18
-                        ],
-                        [
-                            -1.41,
-                            43.13
-                        ],
-                        [
-                            -1.47,
-                            43.09
-                        ],
-                        [
-                            -1.45,
-                            43.05
-                        ],
-                        [
-                            -1.47,
-                            43.03
-                        ],
-                        [
-                            -1.5,
-                            43.06
-                        ],
-                        [
-                            -1.55,
-                            43.04
-                        ],
-                        [
-                            -1.63,
-                            43.04
-                        ],
-                        [
-                            -1.67,
-                            43.06
-                        ],
-                        [
-                            -1.71,
-                            43.05
-                        ],
-                        [
-                            -1.8,
-                            43.06
-                        ],
-                        [
-                            -1.86,
-                            43.08
-                        ],
-                        [
-                            -1.88,
-                            43.06
-                        ],
-                        [
-                            -1.93,
-                            43.06
-                        ],
-                        [
-                            -1.95,
-                            43.1
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vertiente cant\u00e1brica de Navarra",
-                "geocode": "743101",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-13T10:35:59+02:00",
-                "onset": "2025-06-13T16:00:00+02:00",
-                "expires": "2025-06-13T23:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Vertiente cant\u00e1brica de Navarra",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Vertiente cant\u00e1brica de Navarra</b><br><i>\u00c1rea: Vertiente cant\u00e1brica de Navarra</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/06/2025 16:00<br><b>Fecha de fin:</b> 13/06/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.95,
-                            43.1
-                        ],
-                        [
-                            -1.92,
-                            43.13
-                        ],
-                        [
-                            -1.92,
-                            43.17
-                        ],
-                        [
-                            -1.91,
-                            43.2
-                        ],
-                        [
-                            -1.82,
-                            43.23
-                        ],
-                        [
-                            -1.79,
-                            43.25
-                        ],
-                        [
-                            -1.78,
-                            43.29
-                        ],
-                        [
-                            -1.73,
-                            43.3
-                        ],
-                        [
-                            -1.67,
-                            43.32
-                        ],
-                        [
-                            -1.62,
-                            43.3
-                        ],
-                        [
-                            -1.62,
-                            43.26
-                        ],
-                        [
-                            -1.57,
-                            43.25
-                        ],
-                        [
-                            -1.55,
-                            43.29
-                        ],
-                        [
-                            -1.5,
-                            43.29
-                        ],
-                        [
-                            -1.38,
-                            43.25
-                        ],
-                        [
-                            -1.38,
-                            43.19
-                        ],
-                        [
-                            -1.4,
-                            43.18
-                        ],
-                        [
-                            -1.41,
-                            43.13
-                        ],
-                        [
-                            -1.47,
-                            43.09
-                        ],
-                        [
-                            -1.45,
-                            43.05
-                        ],
-                        [
-                            -1.47,
-                            43.03
-                        ],
-                        [
-                            -1.5,
-                            43.06
-                        ],
-                        [
-                            -1.55,
-                            43.04
-                        ],
-                        [
-                            -1.63,
-                            43.04
-                        ],
-                        [
-                            -1.67,
-                            43.06
-                        ],
-                        [
-                            -1.71,
-                            43.05
-                        ],
-                        [
-                            -1.8,
-                            43.06
-                        ],
-                        [
-                            -1.86,
-                            43.08
-                        ],
-                        [
-                            -1.88,
-                            43.06
-                        ],
-                        [
-                            -1.93,
-                            43.06
-                        ],
-                        [
-                            -1.95,
-                            43.1
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vertiente cant\u00e1brica de Navarra",
-                "geocode": "743101",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-13T10:35:59+02:00",
-                "onset": "2025-06-13T16:00:00+02:00",
-                "expires": "2025-06-13T23:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Vertiente cant\u00e1brica de Navarra",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Vertiente cant\u00e1brica de Navarra</b><br><i>\u00c1rea: Vertiente cant\u00e1brica de Navarra</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 13/06/2025 16:00<br><b>Fecha de fin:</b> 13/06/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
