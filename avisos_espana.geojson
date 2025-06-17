@@ -8,292 +8,6 @@
                 "coordinates": [
                     [
                         [
-                            -1.03,
-                            38.66
-                        ],
-                        [
-                            -1.0,
-                            38.57
-                        ],
-                        [
-                            -1.02,
-                            38.52
-                        ],
-                        [
-                            -1.01,
-                            38.5
-                        ],
-                        [
-                            -1.08,
-                            38.44
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.48,
-                            38.45
-                        ],
-                        [
-                            -1.49,
-                            38.52
-                        ],
-                        [
-                            -1.49,
-                            38.56
-                        ],
-                        [
-                            -1.45,
-                            38.58
-                        ],
-                        [
-                            -1.45,
-                            38.65
-                        ],
-                        [
-                            -1.4,
-                            38.69
-                        ],
-                        [
-                            -1.37,
-                            38.7
-                        ],
-                        [
-                            -1.34,
-                            38.68
-                        ],
-                        [
-                            -1.29,
-                            38.71
-                        ],
-                        [
-                            -1.26,
-                            38.73
-                        ],
-                        [
-                            -1.18,
-                            38.76
-                        ],
-                        [
-                            -1.12,
-                            38.74
-                        ],
-                        [
-                            -1.11,
-                            38.71
-                        ],
-                        [
-                            -1.03,
-                            38.66
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Altiplano de Murcia",
-                "geocode": "733001",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Altiplano de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.03,
-                            38.66
-                        ],
-                        [
-                            -1.0,
-                            38.57
-                        ],
-                        [
-                            -1.02,
-                            38.52
-                        ],
-                        [
-                            -1.01,
-                            38.5
-                        ],
-                        [
-                            -1.08,
-                            38.44
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.48,
-                            38.45
-                        ],
-                        [
-                            -1.49,
-                            38.52
-                        ],
-                        [
-                            -1.49,
-                            38.56
-                        ],
-                        [
-                            -1.45,
-                            38.58
-                        ],
-                        [
-                            -1.45,
-                            38.65
-                        ],
-                        [
-                            -1.4,
-                            38.69
-                        ],
-                        [
-                            -1.37,
-                            38.7
-                        ],
-                        [
-                            -1.34,
-                            38.68
-                        ],
-                        [
-                            -1.29,
-                            38.71
-                        ],
-                        [
-                            -1.26,
-                            38.73
-                        ],
-                        [
-                            -1.18,
-                            38.76
-                        ],
-                        [
-                            -1.12,
-                            38.74
-                        ],
-                        [
-                            -1.11,
-                            38.71
-                        ],
-                        [
-                            -1.03,
-                            38.66
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Altiplano de Murcia",
-                "geocode": "733001",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Altiplano de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -3.44,
                             40.88
                         ],
@@ -17232,372 +16946,6 @@
                 "coordinates": [
                     [
                         [
-                            -2.34,
-                            38.03
-                        ],
-                        [
-                            -2.33,
-                            38.07
-                        ],
-                        [
-                            -2.26,
-                            38.11
-                        ],
-                        [
-                            -2.21,
-                            38.2
-                        ],
-                        [
-                            -2.17,
-                            38.23
-                        ],
-                        [
-                            -2.11,
-                            38.24
-                        ],
-                        [
-                            -2.06,
-                            38.3
-                        ],
-                        [
-                            -2.02,
-                            38.3
-                        ],
-                        [
-                            -1.98,
-                            38.28
-                        ],
-                        [
-                            -1.91,
-                            38.3
-                        ],
-                        [
-                            -1.85,
-                            38.33
-                        ],
-                        [
-                            -1.82,
-                            38.34
-                        ],
-                        [
-                            -1.79,
-                            38.37
-                        ],
-                        [
-                            -1.74,
-                            38.38
-                        ],
-                        [
-                            -1.7,
-                            38.38
-                        ],
-                        [
-                            -1.69,
-                            38.34
-                        ],
-                        [
-                            -1.67,
-                            38.31
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.78,
-                            37.95
-                        ],
-                        [
-                            -1.82,
-                            37.97
-                        ],
-                        [
-                            -1.97,
-                            37.88
-                        ],
-                        [
-                            -1.97,
-                            37.87
-                        ],
-                        [
-                            -2.02,
-                            37.87
-                        ],
-                        [
-                            -2.06,
-                            37.88
-                        ],
-                        [
-                            -2.1,
-                            37.88
-                        ],
-                        [
-                            -2.12,
-                            37.9
-                        ],
-                        [
-                            -2.17,
-                            37.89
-                        ],
-                        [
-                            -2.21,
-                            37.92
-                        ],
-                        [
-                            -2.28,
-                            37.96
-                        ],
-                        [
-                            -2.3,
-                            38.0
-                        ],
-                        [
-                            -2.34,
-                            38.03
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Noroeste de Murcia",
-                "geocode": "733002",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Noroeste de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.34,
-                            38.03
-                        ],
-                        [
-                            -2.33,
-                            38.07
-                        ],
-                        [
-                            -2.26,
-                            38.11
-                        ],
-                        [
-                            -2.21,
-                            38.2
-                        ],
-                        [
-                            -2.17,
-                            38.23
-                        ],
-                        [
-                            -2.11,
-                            38.24
-                        ],
-                        [
-                            -2.06,
-                            38.3
-                        ],
-                        [
-                            -2.02,
-                            38.3
-                        ],
-                        [
-                            -1.98,
-                            38.28
-                        ],
-                        [
-                            -1.91,
-                            38.3
-                        ],
-                        [
-                            -1.85,
-                            38.33
-                        ],
-                        [
-                            -1.82,
-                            38.34
-                        ],
-                        [
-                            -1.79,
-                            38.37
-                        ],
-                        [
-                            -1.74,
-                            38.38
-                        ],
-                        [
-                            -1.7,
-                            38.38
-                        ],
-                        [
-                            -1.69,
-                            38.34
-                        ],
-                        [
-                            -1.67,
-                            38.31
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.78,
-                            37.95
-                        ],
-                        [
-                            -1.82,
-                            37.97
-                        ],
-                        [
-                            -1.97,
-                            37.88
-                        ],
-                        [
-                            -1.97,
-                            37.87
-                        ],
-                        [
-                            -2.02,
-                            37.87
-                        ],
-                        [
-                            -2.06,
-                            37.88
-                        ],
-                        [
-                            -2.1,
-                            37.88
-                        ],
-                        [
-                            -2.12,
-                            37.9
-                        ],
-                        [
-                            -2.17,
-                            37.89
-                        ],
-                        [
-                            -2.21,
-                            37.92
-                        ],
-                        [
-                            -2.28,
-                            37.96
-                        ],
-                        [
-                            -2.3,
-                            38.0
-                        ],
-                        [
-                            -2.34,
-                            38.03
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Noroeste de Murcia",
-                "geocode": "733002",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Noroeste de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -5.74,
                             40.29
                         ],
@@ -18411,6 +17759,292 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sistema Central de \u00c1vila</b><br><i>\u00c1rea: Sistema Central de \u00c1vila</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.03,
+                            38.66
+                        ],
+                        [
+                            -1.0,
+                            38.57
+                        ],
+                        [
+                            -1.02,
+                            38.52
+                        ],
+                        [
+                            -1.01,
+                            38.5
+                        ],
+                        [
+                            -1.08,
+                            38.44
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.48,
+                            38.45
+                        ],
+                        [
+                            -1.49,
+                            38.52
+                        ],
+                        [
+                            -1.49,
+                            38.56
+                        ],
+                        [
+                            -1.45,
+                            38.58
+                        ],
+                        [
+                            -1.45,
+                            38.65
+                        ],
+                        [
+                            -1.4,
+                            38.69
+                        ],
+                        [
+                            -1.37,
+                            38.7
+                        ],
+                        [
+                            -1.34,
+                            38.68
+                        ],
+                        [
+                            -1.29,
+                            38.71
+                        ],
+                        [
+                            -1.26,
+                            38.73
+                        ],
+                        [
+                            -1.18,
+                            38.76
+                        ],
+                        [
+                            -1.12,
+                            38.74
+                        ],
+                        [
+                            -1.11,
+                            38.71
+                        ],
+                        [
+                            -1.03,
+                            38.66
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Altiplano de Murcia",
+                "geocode": "733001",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:14:19+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel naranja. Altiplano de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel naranja. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> No se descartan rachas de viento muy fuertes y granizo grande durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.03,
+                            38.66
+                        ],
+                        [
+                            -1.0,
+                            38.57
+                        ],
+                        [
+                            -1.02,
+                            38.52
+                        ],
+                        [
+                            -1.01,
+                            38.5
+                        ],
+                        [
+                            -1.08,
+                            38.44
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.48,
+                            38.45
+                        ],
+                        [
+                            -1.49,
+                            38.52
+                        ],
+                        [
+                            -1.49,
+                            38.56
+                        ],
+                        [
+                            -1.45,
+                            38.58
+                        ],
+                        [
+                            -1.45,
+                            38.65
+                        ],
+                        [
+                            -1.4,
+                            38.69
+                        ],
+                        [
+                            -1.37,
+                            38.7
+                        ],
+                        [
+                            -1.34,
+                            38.68
+                        ],
+                        [
+                            -1.29,
+                            38.71
+                        ],
+                        [
+                            -1.26,
+                            38.73
+                        ],
+                        [
+                            -1.18,
+                            38.76
+                        ],
+                        [
+                            -1.12,
+                            38.74
+                        ],
+                        [
+                            -1.11,
+                            38.71
+                        ],
+                        [
+                            -1.03,
+                            38.66
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Altiplano de Murcia",
+                "geocode": "733001",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:14:19+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel naranja. Altiplano de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel naranja. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> No se descartan rachas de viento muy fuertes y granizo grande durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -21361,292 +20995,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Interior sur de Valencia</b><br><i>\u00c1rea: Interior sur de Valencia</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 40 mm. En los litorales de Alicante, el aviso se refiere a la zona m\u00e1s interior.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.03,
-                            38.66
-                        ],
-                        [
-                            -1.0,
-                            38.57
-                        ],
-                        [
-                            -1.02,
-                            38.52
-                        ],
-                        [
-                            -1.01,
-                            38.5
-                        ],
-                        [
-                            -1.08,
-                            38.44
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.48,
-                            38.45
-                        ],
-                        [
-                            -1.49,
-                            38.52
-                        ],
-                        [
-                            -1.49,
-                            38.56
-                        ],
-                        [
-                            -1.45,
-                            38.58
-                        ],
-                        [
-                            -1.45,
-                            38.65
-                        ],
-                        [
-                            -1.4,
-                            38.69
-                        ],
-                        [
-                            -1.37,
-                            38.7
-                        ],
-                        [
-                            -1.34,
-                            38.68
-                        ],
-                        [
-                            -1.29,
-                            38.71
-                        ],
-                        [
-                            -1.26,
-                            38.73
-                        ],
-                        [
-                            -1.18,
-                            38.76
-                        ],
-                        [
-                            -1.12,
-                            38.74
-                        ],
-                        [
-                            -1.11,
-                            38.71
-                        ],
-                        [
-                            -1.03,
-                            38.66
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Altiplano de Murcia",
-                "geocode": "733001",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-06-17T11:28:14+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel naranja. Altiplano de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel naranja. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo grande durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.03,
-                            38.66
-                        ],
-                        [
-                            -1.0,
-                            38.57
-                        ],
-                        [
-                            -1.02,
-                            38.52
-                        ],
-                        [
-                            -1.01,
-                            38.5
-                        ],
-                        [
-                            -1.08,
-                            38.44
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.48,
-                            38.45
-                        ],
-                        [
-                            -1.49,
-                            38.52
-                        ],
-                        [
-                            -1.49,
-                            38.56
-                        ],
-                        [
-                            -1.45,
-                            38.58
-                        ],
-                        [
-                            -1.45,
-                            38.65
-                        ],
-                        [
-                            -1.4,
-                            38.69
-                        ],
-                        [
-                            -1.37,
-                            38.7
-                        ],
-                        [
-                            -1.34,
-                            38.68
-                        ],
-                        [
-                            -1.29,
-                            38.71
-                        ],
-                        [
-                            -1.26,
-                            38.73
-                        ],
-                        [
-                            -1.18,
-                            38.76
-                        ],
-                        [
-                            -1.12,
-                            38.74
-                        ],
-                        [
-                            -1.11,
-                            38.71
-                        ],
-                        [
-                            -1.03,
-                            38.66
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Altiplano de Murcia",
-                "geocode": "733001",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-06-17T11:28:14+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel naranja. Altiplano de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel naranja. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo grande durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -26274,6 +25622,404 @@
                 "coordinates": [
                     [
                         [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.88,
                             42.46
                         ],
@@ -27637,802 +27383,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. La Mancha de Ciudad Real</b><br><i>\u00c1rea: La Mancha de Ciudad Real</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Podr\u00e1n ir acompa\u00f1adas de granizo y de rachas muy fuertes de viento.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -30163,6 +29113,372 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sierras de Alcudia y Madrona</b><br><i>\u00c1rea: Sierras de Alcudia y Madrona</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Podr\u00e1n ir acompa\u00f1adas de granizo y de rachas muy fuertes de viento.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34,
+                            38.03
+                        ],
+                        [
+                            -2.33,
+                            38.07
+                        ],
+                        [
+                            -2.26,
+                            38.11
+                        ],
+                        [
+                            -2.21,
+                            38.2
+                        ],
+                        [
+                            -2.17,
+                            38.23
+                        ],
+                        [
+                            -2.11,
+                            38.24
+                        ],
+                        [
+                            -2.06,
+                            38.3
+                        ],
+                        [
+                            -2.02,
+                            38.3
+                        ],
+                        [
+                            -1.98,
+                            38.28
+                        ],
+                        [
+                            -1.91,
+                            38.3
+                        ],
+                        [
+                            -1.85,
+                            38.33
+                        ],
+                        [
+                            -1.82,
+                            38.34
+                        ],
+                        [
+                            -1.79,
+                            38.37
+                        ],
+                        [
+                            -1.74,
+                            38.38
+                        ],
+                        [
+                            -1.7,
+                            38.38
+                        ],
+                        [
+                            -1.69,
+                            38.34
+                        ],
+                        [
+                            -1.67,
+                            38.31
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -2.02,
+                            37.87
+                        ],
+                        [
+                            -2.06,
+                            37.88
+                        ],
+                        [
+                            -2.1,
+                            37.88
+                        ],
+                        [
+                            -2.12,
+                            37.9
+                        ],
+                        [
+                            -2.17,
+                            37.89
+                        ],
+                        [
+                            -2.21,
+                            37.92
+                        ],
+                        [
+                            -2.28,
+                            37.96
+                        ],
+                        [
+                            -2.3,
+                            38.0
+                        ],
+                        [
+                            -2.34,
+                            38.03
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Noroeste de Murcia",
+                "geocode": "733002",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Noroeste de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34,
+                            38.03
+                        ],
+                        [
+                            -2.33,
+                            38.07
+                        ],
+                        [
+                            -2.26,
+                            38.11
+                        ],
+                        [
+                            -2.21,
+                            38.2
+                        ],
+                        [
+                            -2.17,
+                            38.23
+                        ],
+                        [
+                            -2.11,
+                            38.24
+                        ],
+                        [
+                            -2.06,
+                            38.3
+                        ],
+                        [
+                            -2.02,
+                            38.3
+                        ],
+                        [
+                            -1.98,
+                            38.28
+                        ],
+                        [
+                            -1.91,
+                            38.3
+                        ],
+                        [
+                            -1.85,
+                            38.33
+                        ],
+                        [
+                            -1.82,
+                            38.34
+                        ],
+                        [
+                            -1.79,
+                            38.37
+                        ],
+                        [
+                            -1.74,
+                            38.38
+                        ],
+                        [
+                            -1.7,
+                            38.38
+                        ],
+                        [
+                            -1.69,
+                            38.34
+                        ],
+                        [
+                            -1.67,
+                            38.31
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -2.02,
+                            37.87
+                        ],
+                        [
+                            -2.06,
+                            37.88
+                        ],
+                        [
+                            -2.1,
+                            37.88
+                        ],
+                        [
+                            -2.12,
+                            37.9
+                        ],
+                        [
+                            -2.17,
+                            37.89
+                        ],
+                        [
+                            -2.21,
+                            37.92
+                        ],
+                        [
+                            -2.28,
+                            37.96
+                        ],
+                        [
+                            -2.3,
+                            38.0
+                        ],
+                        [
+                            -2.34,
+                            38.03
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Noroeste de Murcia",
+                "geocode": "733002",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Noroeste de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -33090,372 +32406,6 @@
                 "coordinates": [
                     [
                         [
-                            -2.34,
-                            38.03
-                        ],
-                        [
-                            -2.33,
-                            38.07
-                        ],
-                        [
-                            -2.26,
-                            38.11
-                        ],
-                        [
-                            -2.21,
-                            38.2
-                        ],
-                        [
-                            -2.17,
-                            38.23
-                        ],
-                        [
-                            -2.11,
-                            38.24
-                        ],
-                        [
-                            -2.06,
-                            38.3
-                        ],
-                        [
-                            -2.02,
-                            38.3
-                        ],
-                        [
-                            -1.98,
-                            38.28
-                        ],
-                        [
-                            -1.91,
-                            38.3
-                        ],
-                        [
-                            -1.85,
-                            38.33
-                        ],
-                        [
-                            -1.82,
-                            38.34
-                        ],
-                        [
-                            -1.79,
-                            38.37
-                        ],
-                        [
-                            -1.74,
-                            38.38
-                        ],
-                        [
-                            -1.7,
-                            38.38
-                        ],
-                        [
-                            -1.69,
-                            38.34
-                        ],
-                        [
-                            -1.67,
-                            38.31
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.78,
-                            37.95
-                        ],
-                        [
-                            -1.82,
-                            37.97
-                        ],
-                        [
-                            -1.97,
-                            37.88
-                        ],
-                        [
-                            -1.97,
-                            37.87
-                        ],
-                        [
-                            -2.02,
-                            37.87
-                        ],
-                        [
-                            -2.06,
-                            37.88
-                        ],
-                        [
-                            -2.1,
-                            37.88
-                        ],
-                        [
-                            -2.12,
-                            37.9
-                        ],
-                        [
-                            -2.17,
-                            37.89
-                        ],
-                        [
-                            -2.21,
-                            37.92
-                        ],
-                        [
-                            -2.28,
-                            37.96
-                        ],
-                        [
-                            -2.3,
-                            38.0
-                        ],
-                        [
-                            -2.34,
-                            38.03
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Noroeste de Murcia",
-                "geocode": "733002",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Noroeste de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.34,
-                            38.03
-                        ],
-                        [
-                            -2.33,
-                            38.07
-                        ],
-                        [
-                            -2.26,
-                            38.11
-                        ],
-                        [
-                            -2.21,
-                            38.2
-                        ],
-                        [
-                            -2.17,
-                            38.23
-                        ],
-                        [
-                            -2.11,
-                            38.24
-                        ],
-                        [
-                            -2.06,
-                            38.3
-                        ],
-                        [
-                            -2.02,
-                            38.3
-                        ],
-                        [
-                            -1.98,
-                            38.28
-                        ],
-                        [
-                            -1.91,
-                            38.3
-                        ],
-                        [
-                            -1.85,
-                            38.33
-                        ],
-                        [
-                            -1.82,
-                            38.34
-                        ],
-                        [
-                            -1.79,
-                            38.37
-                        ],
-                        [
-                            -1.74,
-                            38.38
-                        ],
-                        [
-                            -1.7,
-                            38.38
-                        ],
-                        [
-                            -1.69,
-                            38.34
-                        ],
-                        [
-                            -1.67,
-                            38.31
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.78,
-                            37.95
-                        ],
-                        [
-                            -1.82,
-                            37.97
-                        ],
-                        [
-                            -1.97,
-                            37.88
-                        ],
-                        [
-                            -1.97,
-                            37.87
-                        ],
-                        [
-                            -2.02,
-                            37.87
-                        ],
-                        [
-                            -2.06,
-                            37.88
-                        ],
-                        [
-                            -2.1,
-                            37.88
-                        ],
-                        [
-                            -2.12,
-                            37.9
-                        ],
-                        [
-                            -2.17,
-                            37.89
-                        ],
-                        [
-                            -2.21,
-                            37.92
-                        ],
-                        [
-                            -2.28,
-                            37.96
-                        ],
-                        [
-                            -2.3,
-                            38.0
-                        ],
-                        [
-                            -2.34,
-                            38.03
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Noroeste de Murcia",
-                "geocode": "733002",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-17T08:56:24+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T21:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Noroeste de Murcia",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -1.5,
                             39.42
                         ],
@@ -33909,6 +32859,372 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel naranja. Interior norte de Valencia</b><br><i>\u00c1rea: Interior norte de Valencia</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Probable granizo grande y rachas de viento muy fuertes. En el litoral norte de Alicante, el aviso se refiere a la zona m\u00e1s interior.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34,
+                            38.03
+                        ],
+                        [
+                            -2.33,
+                            38.07
+                        ],
+                        [
+                            -2.26,
+                            38.11
+                        ],
+                        [
+                            -2.21,
+                            38.2
+                        ],
+                        [
+                            -2.17,
+                            38.23
+                        ],
+                        [
+                            -2.11,
+                            38.24
+                        ],
+                        [
+                            -2.06,
+                            38.3
+                        ],
+                        [
+                            -2.02,
+                            38.3
+                        ],
+                        [
+                            -1.98,
+                            38.28
+                        ],
+                        [
+                            -1.91,
+                            38.3
+                        ],
+                        [
+                            -1.85,
+                            38.33
+                        ],
+                        [
+                            -1.82,
+                            38.34
+                        ],
+                        [
+                            -1.79,
+                            38.37
+                        ],
+                        [
+                            -1.74,
+                            38.38
+                        ],
+                        [
+                            -1.7,
+                            38.38
+                        ],
+                        [
+                            -1.69,
+                            38.34
+                        ],
+                        [
+                            -1.67,
+                            38.31
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -2.02,
+                            37.87
+                        ],
+                        [
+                            -2.06,
+                            37.88
+                        ],
+                        [
+                            -2.1,
+                            37.88
+                        ],
+                        [
+                            -2.12,
+                            37.9
+                        ],
+                        [
+                            -2.17,
+                            37.89
+                        ],
+                        [
+                            -2.21,
+                            37.92
+                        ],
+                        [
+                            -2.28,
+                            37.96
+                        ],
+                        [
+                            -2.3,
+                            38.0
+                        ],
+                        [
+                            -2.34,
+                            38.03
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Noroeste de Murcia",
+                "geocode": "733002",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Noroeste de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34,
+                            38.03
+                        ],
+                        [
+                            -2.33,
+                            38.07
+                        ],
+                        [
+                            -2.26,
+                            38.11
+                        ],
+                        [
+                            -2.21,
+                            38.2
+                        ],
+                        [
+                            -2.17,
+                            38.23
+                        ],
+                        [
+                            -2.11,
+                            38.24
+                        ],
+                        [
+                            -2.06,
+                            38.3
+                        ],
+                        [
+                            -2.02,
+                            38.3
+                        ],
+                        [
+                            -1.98,
+                            38.28
+                        ],
+                        [
+                            -1.91,
+                            38.3
+                        ],
+                        [
+                            -1.85,
+                            38.33
+                        ],
+                        [
+                            -1.82,
+                            38.34
+                        ],
+                        [
+                            -1.79,
+                            38.37
+                        ],
+                        [
+                            -1.74,
+                            38.38
+                        ],
+                        [
+                            -1.7,
+                            38.38
+                        ],
+                        [
+                            -1.69,
+                            38.34
+                        ],
+                        [
+                            -1.67,
+                            38.31
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -2.02,
+                            37.87
+                        ],
+                        [
+                            -2.06,
+                            37.88
+                        ],
+                        [
+                            -2.1,
+                            37.88
+                        ],
+                        [
+                            -2.12,
+                            37.9
+                        ],
+                        [
+                            -2.17,
+                            37.89
+                        ],
+                        [
+                            -2.21,
+                            37.92
+                        ],
+                        [
+                            -2.28,
+                            37.96
+                        ],
+                        [
+                            -2.3,
+                            38.0
+                        ],
+                        [
+                            -2.34,
+                            38.03
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Noroeste de Murcia",
+                "geocode": "733002",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Noroeste de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Noroeste de Murcia</b><br><i>\u00c1rea: Noroeste de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -47909,6 +47225,404 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel naranja. G\u00fadar y Maestrazgo</b><br><i>\u00c1rea: G\u00fadar y Maestrazgo</i><br><i>Nivel de alerta: <span style='color:#FF7F00'>Naranja</span></i><br><b>Descripci\u00f3n:</b> Probable granizo grande y rachas de viento muy fuertes.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Son probables rachas de viento muy fuertes y granizo durante las tormentas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
@@ -63202,404 +62916,6 @@
                 "coordinates": [
                     [
                         [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-16T10:35:39+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T20:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-06-16T10:35:39+02:00",
-                "onset": "2025-06-17T13:00:00+02:00",
-                "expires": "2025-06-17T20:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura</b><br><i>\u00c1rea: Vega del Segura</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -0.3,
                             38.88
                         ],
@@ -68917,6 +68233,292 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sierra y Pedroches</b><br><i>\u00c1rea: Sierra y Pedroches</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 13:00<br><b>Fecha de fin:</b> 17/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.03,
+                            38.66
+                        ],
+                        [
+                            -1.0,
+                            38.57
+                        ],
+                        [
+                            -1.02,
+                            38.52
+                        ],
+                        [
+                            -1.01,
+                            38.5
+                        ],
+                        [
+                            -1.08,
+                            38.44
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.48,
+                            38.45
+                        ],
+                        [
+                            -1.49,
+                            38.52
+                        ],
+                        [
+                            -1.49,
+                            38.56
+                        ],
+                        [
+                            -1.45,
+                            38.58
+                        ],
+                        [
+                            -1.45,
+                            38.65
+                        ],
+                        [
+                            -1.4,
+                            38.69
+                        ],
+                        [
+                            -1.37,
+                            38.7
+                        ],
+                        [
+                            -1.34,
+                            38.68
+                        ],
+                        [
+                            -1.29,
+                            38.71
+                        ],
+                        [
+                            -1.26,
+                            38.73
+                        ],
+                        [
+                            -1.18,
+                            38.76
+                        ],
+                        [
+                            -1.12,
+                            38.74
+                        ],
+                        [
+                            -1.11,
+                            38.71
+                        ],
+                        [
+                            -1.03,
+                            38.66
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Altiplano de Murcia",
+                "geocode": "733001",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Altiplano de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.03,
+                            38.66
+                        ],
+                        [
+                            -1.0,
+                            38.57
+                        ],
+                        [
+                            -1.02,
+                            38.52
+                        ],
+                        [
+                            -1.01,
+                            38.5
+                        ],
+                        [
+                            -1.08,
+                            38.44
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.48,
+                            38.45
+                        ],
+                        [
+                            -1.49,
+                            38.52
+                        ],
+                        [
+                            -1.49,
+                            38.56
+                        ],
+                        [
+                            -1.45,
+                            38.58
+                        ],
+                        [
+                            -1.45,
+                            38.65
+                        ],
+                        [
+                            -1.4,
+                            38.69
+                        ],
+                        [
+                            -1.37,
+                            38.7
+                        ],
+                        [
+                            -1.34,
+                            38.68
+                        ],
+                        [
+                            -1.29,
+                            38.71
+                        ],
+                        [
+                            -1.26,
+                            38.73
+                        ],
+                        [
+                            -1.18,
+                            38.76
+                        ],
+                        [
+                            -1.12,
+                            38.74
+                        ],
+                        [
+                            -1.11,
+                            38.71
+                        ],
+                        [
+                            -1.03,
+                            38.66
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Altiplano de Murcia",
+                "geocode": "733001",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-17T19:00:33+02:00",
+                "onset": "2025-06-17T19:00:00+02:00",
+                "expires": "2025-06-17T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Altiplano de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Altiplano de Murcia</b><br><i>\u00c1rea: Altiplano de Murcia</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/06/2025 19:00<br><b>Fecha de fin:</b> 17/06/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
             }
         },
         {
