@@ -944,6 +944,428 @@
                 "coordinates": [
                     [
                         [
+                            -3.13,
+                            36.75
+                        ],
+                        [
+                            -3.14,
+                            36.79
+                        ],
+                        [
+                            -3.03,
+                            36.84
+                        ],
+                        [
+                            -3.07,
+                            36.92
+                        ],
+                        [
+                            -3.03,
+                            36.93
+                        ],
+                        [
+                            -2.98,
+                            36.99
+                        ],
+                        [
+                            -3.01,
+                            37.05
+                        ],
+                        [
+                            -3.03,
+                            37.11
+                        ],
+                        [
+                            -3.0,
+                            37.1
+                        ],
+                        [
+                            -2.95,
+                            37.1
+                        ],
+                        [
+                            -2.88,
+                            37.09
+                        ],
+                        [
+                            -2.83,
+                            37.08
+                        ],
+                        [
+                            -2.77,
+                            37.09
+                        ],
+                        [
+                            -2.71,
+                            37.08
+                        ],
+                        [
+                            -2.66,
+                            37.08
+                        ],
+                        [
+                            -2.6,
+                            37.11
+                        ],
+                        [
+                            -2.53,
+                            37.05
+                        ],
+                        [
+                            -2.47,
+                            37.05
+                        ],
+                        [
+                            -2.44,
+                            37.01
+                        ],
+                        [
+                            -2.4,
+                            36.99
+                        ],
+                        [
+                            -2.31,
+                            37.0
+                        ],
+                        [
+                            -2.3,
+                            36.99
+                        ],
+                        [
+                            -2.3,
+                            36.96
+                        ],
+                        [
+                            -2.2,
+                            36.86
+                        ],
+                        [
+                            -2.23,
+                            36.8
+                        ],
+                        [
+                            -2.2,
+                            36.73
+                        ],
+                        [
+                            -2.23,
+                            36.77
+                        ],
+                        [
+                            -2.29,
+                            36.82
+                        ],
+                        [
+                            -2.37,
+                            36.84
+                        ],
+                        [
+                            -2.43,
+                            36.81
+                        ],
+                        [
+                            -2.47,
+                            36.84
+                        ],
+                        [
+                            -2.56,
+                            36.82
+                        ],
+                        [
+                            -2.6,
+                            36.78
+                        ],
+                        [
+                            -2.62,
+                            36.73
+                        ],
+                        [
+                            -2.64,
+                            36.7
+                        ],
+                        [
+                            -2.7,
+                            36.68
+                        ],
+                        [
+                            -2.77,
+                            36.68
+                        ],
+                        [
+                            -2.82,
+                            36.71
+                        ],
+                        [
+                            -2.86,
+                            36.7
+                        ],
+                        [
+                            -2.92,
+                            36.75
+                        ],
+                        [
+                            -2.98,
+                            36.74
+                        ],
+                        [
+                            -3.02,
+                            36.75
+                        ],
+                        [
+                            -3.11,
+                            36.75
+                        ],
+                        [
+                            -3.13,
+                            36.75
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Poniente y Almer\u00eda Capital",
+                "geocode": "610403",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-22T11:29:27+02:00",
+                "onset": "2025-06-22T11:00:00+02:00",
+                "expires": "2025-06-22T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Poniente y Almer\u00eda Capital",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Poniente y Almer\u00eda Capital</b><br><i>\u00c1rea: Poniente y Almer\u00eda Capital</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 22/06/2025 11:00<br><b>Fecha de fin:</b> 22/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.13,
+                            36.75
+                        ],
+                        [
+                            -3.14,
+                            36.79
+                        ],
+                        [
+                            -3.03,
+                            36.84
+                        ],
+                        [
+                            -3.07,
+                            36.92
+                        ],
+                        [
+                            -3.03,
+                            36.93
+                        ],
+                        [
+                            -2.98,
+                            36.99
+                        ],
+                        [
+                            -3.01,
+                            37.05
+                        ],
+                        [
+                            -3.03,
+                            37.11
+                        ],
+                        [
+                            -3.0,
+                            37.1
+                        ],
+                        [
+                            -2.95,
+                            37.1
+                        ],
+                        [
+                            -2.88,
+                            37.09
+                        ],
+                        [
+                            -2.83,
+                            37.08
+                        ],
+                        [
+                            -2.77,
+                            37.09
+                        ],
+                        [
+                            -2.71,
+                            37.08
+                        ],
+                        [
+                            -2.66,
+                            37.08
+                        ],
+                        [
+                            -2.6,
+                            37.11
+                        ],
+                        [
+                            -2.53,
+                            37.05
+                        ],
+                        [
+                            -2.47,
+                            37.05
+                        ],
+                        [
+                            -2.44,
+                            37.01
+                        ],
+                        [
+                            -2.4,
+                            36.99
+                        ],
+                        [
+                            -2.31,
+                            37.0
+                        ],
+                        [
+                            -2.3,
+                            36.99
+                        ],
+                        [
+                            -2.3,
+                            36.96
+                        ],
+                        [
+                            -2.2,
+                            36.86
+                        ],
+                        [
+                            -2.23,
+                            36.8
+                        ],
+                        [
+                            -2.2,
+                            36.73
+                        ],
+                        [
+                            -2.23,
+                            36.77
+                        ],
+                        [
+                            -2.29,
+                            36.82
+                        ],
+                        [
+                            -2.37,
+                            36.84
+                        ],
+                        [
+                            -2.43,
+                            36.81
+                        ],
+                        [
+                            -2.47,
+                            36.84
+                        ],
+                        [
+                            -2.56,
+                            36.82
+                        ],
+                        [
+                            -2.6,
+                            36.78
+                        ],
+                        [
+                            -2.62,
+                            36.73
+                        ],
+                        [
+                            -2.64,
+                            36.7
+                        ],
+                        [
+                            -2.7,
+                            36.68
+                        ],
+                        [
+                            -2.77,
+                            36.68
+                        ],
+                        [
+                            -2.82,
+                            36.71
+                        ],
+                        [
+                            -2.86,
+                            36.7
+                        ],
+                        [
+                            -2.92,
+                            36.75
+                        ],
+                        [
+                            -2.98,
+                            36.74
+                        ],
+                        [
+                            -3.02,
+                            36.75
+                        ],
+                        [
+                            -3.11,
+                            36.75
+                        ],
+                        [
+                            -3.13,
+                            36.75
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Poniente y Almer\u00eda Capital",
+                "geocode": "610403",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-06-22T11:29:27+02:00",
+                "onset": "2025-06-22T11:00:00+02:00",
+                "expires": "2025-06-22T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Poniente y Almer\u00eda Capital",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Poniente y Almer\u00eda Capital</b><br><i>\u00c1rea: Poniente y Almer\u00eda Capital</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 22/06/2025 11:00<br><b>Fecha de fin:</b> 22/06/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -16.85,
                             28.27
                         ],
