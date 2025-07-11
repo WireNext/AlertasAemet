@@ -1,4 +1,529 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.24,
+                            36.37
+                        ],
+                        [
+                            -4.32,
+                            36.29
+                        ],
+                        [
+                            -4.39,
+                            36.24
+                        ],
+                        [
+                            -4.46,
+                            36.2
+                        ],
+                        [
+                            -4.55,
+                            36.18
+                        ],
+                        [
+                            -4.64,
+                            36.17
+                        ],
+                        [
+                            -4.83,
+                            36.17
+                        ],
+                        [
+                            -4.88,
+                            36.15
+                        ],
+                        [
+                            -4.9,
+                            36.12
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -5.22,
+                            36.37
+                        ],
+                        [
+                            -5.16,
+                            36.42
+                        ],
+                        [
+                            -5.08,
+                            36.45
+                        ],
+                        [
+                            -4.99,
+                            36.47
+                        ],
+                        [
+                            -4.98,
+                            36.48
+                        ],
+                        [
+                            -4.93,
+                            36.5
+                        ],
+                        [
+                            -4.87,
+                            36.51
+                        ],
+                        [
+                            -4.75,
+                            36.49
+                        ],
+                        [
+                            -4.7,
+                            36.49
+                        ],
+                        [
+                            -4.64,
+                            36.51
+                        ],
+                        [
+                            -4.61,
+                            36.56
+                        ],
+                        [
+                            -4.56,
+                            36.58
+                        ],
+                        [
+                            -4.53,
+                            36.58
+                        ],
+                        [
+                            -4.51,
+                            36.6
+                        ],
+                        [
+                            -4.42,
+                            36.72
+                        ],
+                        [
+                            -4.39,
+                            36.72
+                        ],
+                        [
+                            -4.31,
+                            36.71
+                        ],
+                        [
+                            -4.24,
+                            36.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Sol y Guadalhorce",
+                "geocode": "612903C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-11T11:03:06+02:00",
+                "onset": "2025-07-11T12:00:00+02:00",
+                "expires": "2025-07-12T19:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Sol y Guadalhorce",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Sol y Guadalhorce</b><br><i>\u00c1rea: Costa - Sol y Guadalhorce</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/07/2025 12:00<br><b>Fecha de fin:</b> 12/07/2025 19:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.24,
+                            36.37
+                        ],
+                        [
+                            -4.32,
+                            36.29
+                        ],
+                        [
+                            -4.39,
+                            36.24
+                        ],
+                        [
+                            -4.46,
+                            36.2
+                        ],
+                        [
+                            -4.55,
+                            36.18
+                        ],
+                        [
+                            -4.64,
+                            36.17
+                        ],
+                        [
+                            -4.83,
+                            36.17
+                        ],
+                        [
+                            -4.88,
+                            36.15
+                        ],
+                        [
+                            -4.9,
+                            36.12
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -5.22,
+                            36.37
+                        ],
+                        [
+                            -5.16,
+                            36.42
+                        ],
+                        [
+                            -5.08,
+                            36.45
+                        ],
+                        [
+                            -4.99,
+                            36.47
+                        ],
+                        [
+                            -4.98,
+                            36.48
+                        ],
+                        [
+                            -4.93,
+                            36.5
+                        ],
+                        [
+                            -4.87,
+                            36.51
+                        ],
+                        [
+                            -4.75,
+                            36.49
+                        ],
+                        [
+                            -4.7,
+                            36.49
+                        ],
+                        [
+                            -4.64,
+                            36.51
+                        ],
+                        [
+                            -4.61,
+                            36.56
+                        ],
+                        [
+                            -4.56,
+                            36.58
+                        ],
+                        [
+                            -4.53,
+                            36.58
+                        ],
+                        [
+                            -4.51,
+                            36.6
+                        ],
+                        [
+                            -4.42,
+                            36.72
+                        ],
+                        [
+                            -4.39,
+                            36.72
+                        ],
+                        [
+                            -4.31,
+                            36.71
+                        ],
+                        [
+                            -4.24,
+                            36.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Sol y Guadalhorce",
+                "geocode": "612903C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-11T11:03:06+02:00",
+                "onset": "2025-07-11T12:00:00+02:00",
+                "expires": "2025-07-12T19:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Sol y Guadalhorce",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Sol y Guadalhorce</b><br><i>\u00c1rea: Costa - Sol y Guadalhorce</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/07/2025 12:00<br><b>Fecha de fin:</b> 12/07/2025 19:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.23,
+                            36.71
+                        ],
+                        [
+                            -4.22,
+                            36.71
+                        ],
+                        [
+                            -4.2,
+                            36.72
+                        ],
+                        [
+                            -4.19,
+                            36.72
+                        ],
+                        [
+                            -4.18,
+                            36.72
+                        ],
+                        [
+                            -4.11,
+                            36.73
+                        ],
+                        [
+                            -4.07,
+                            36.75
+                        ],
+                        [
+                            -3.96,
+                            36.73
+                        ],
+                        [
+                            -3.9,
+                            36.74
+                        ],
+                        [
+                            -3.83,
+                            36.75
+                        ],
+                        [
+                            -3.8,
+                            36.75
+                        ],
+                        [
+                            -3.79,
+                            36.75
+                        ],
+                        [
+                            -3.78,
+                            36.74
+                        ],
+                        [
+                            -3.78,
+                            36.7
+                        ],
+                        [
+                            -3.76,
+                            36.4
+                        ],
+                        [
+                            -3.85,
+                            36.42
+                        ],
+                        [
+                            -4.21,
+                            36.4
+                        ],
+                        [
+                            -4.24,
+                            36.37
+                        ],
+                        [
+                            -4.31,
+                            36.71
+                        ],
+                        [
+                            -4.23,
+                            36.71
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Axarqu\u00eda",
+                "geocode": "612904C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-11T11:03:06+02:00",
+                "onset": "2025-07-11T12:00:00+02:00",
+                "expires": "2025-07-12T19:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Axarqu\u00eda",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Axarqu\u00eda</b><br><i>\u00c1rea: Costa - Axarqu\u00eda</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/07/2025 12:00<br><b>Fecha de fin:</b> 12/07/2025 19:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.23,
+                            36.71
+                        ],
+                        [
+                            -4.22,
+                            36.71
+                        ],
+                        [
+                            -4.2,
+                            36.72
+                        ],
+                        [
+                            -4.19,
+                            36.72
+                        ],
+                        [
+                            -4.18,
+                            36.72
+                        ],
+                        [
+                            -4.11,
+                            36.73
+                        ],
+                        [
+                            -4.07,
+                            36.75
+                        ],
+                        [
+                            -3.96,
+                            36.73
+                        ],
+                        [
+                            -3.9,
+                            36.74
+                        ],
+                        [
+                            -3.83,
+                            36.75
+                        ],
+                        [
+                            -3.8,
+                            36.75
+                        ],
+                        [
+                            -3.79,
+                            36.75
+                        ],
+                        [
+                            -3.78,
+                            36.74
+                        ],
+                        [
+                            -3.78,
+                            36.7
+                        ],
+                        [
+                            -3.76,
+                            36.4
+                        ],
+                        [
+                            -3.85,
+                            36.42
+                        ],
+                        [
+                            -4.21,
+                            36.4
+                        ],
+                        [
+                            -4.24,
+                            36.37
+                        ],
+                        [
+                            -4.31,
+                            36.71
+                        ],
+                        [
+                            -4.23,
+                            36.71
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Axarqu\u00eda",
+                "geocode": "612904C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-11T11:03:06+02:00",
+                "onset": "2025-07-11T12:00:00+02:00",
+                "expires": "2025-07-12T19:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Axarqu\u00eda",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Axarqu\u00eda</b><br><i>\u00c1rea: Costa - Axarqu\u00eda</i><br><i>Nivel de alerta: <span style='color:#f3f702'>Amarillo</span></i><br><b>Descripci\u00f3n:</b> Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/07/2025 12:00<br><b>Fecha de fin:</b> 12/07/2025 19:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a><br>"
+            }
+        }
+    ]
 }
