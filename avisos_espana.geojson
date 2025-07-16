@@ -546,6 +546,928 @@
                             28.49
                         ],
                         [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando localmente entre los 400 y los 1200 m, esencialmente en median\u00edas, donde las temperaturas m\u00ednimas pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando localmente entre los 400 y los 1200 m, esencialmente en median\u00edas, donde las temperaturas m\u00ednimas pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -14.51,
+                            28.06
+                        ],
+                        [
+                            -14.49,
+                            28.1
+                        ],
+                        [
+                            -14.45,
+                            28.1
+                        ],
+                        [
+                            -14.38,
+                            28.11
+                        ],
+                        [
+                            -14.33,
+                            28.13
+                        ],
+                        [
+                            -14.25,
+                            28.19
+                        ],
+                        [
+                            -14.21,
+                            28.22
+                        ],
+                        [
+                            -14.21,
+                            28.29
+                        ],
+                        [
+                            -14.2,
+                            28.33
+                        ],
+                        [
+                            -14.16,
+                            28.37
+                        ],
+                        [
+                            -14.15,
+                            28.43
+                        ],
+                        [
+                            -14.1,
+                            28.47
+                        ],
+                        [
+                            -14.06,
+                            28.55
+                        ],
+                        [
+                            -14.03,
+                            28.59
+                        ],
+                        [
+                            -14.04,
+                            28.61
+                        ],
+                        [
+                            -14.01,
+                            28.68
+                        ],
+                        [
+                            -14.02,
+                            28.71
+                        ],
+                        [
+                            -13.98,
+                            28.73
+                        ],
+                        [
+                            -13.88,
+                            28.76
+                        ],
+                        [
+                            -13.84,
+                            28.73
+                        ],
+                        [
+                            -13.83,
+                            28.69
+                        ],
+                        [
+                            -13.82,
+                            28.61
+                        ],
+                        [
+                            -13.83,
+                            28.52
+                        ],
+                        [
+                            -13.87,
+                            28.48
+                        ],
+                        [
+                            -13.85,
+                            28.41
+                        ],
+                        [
+                            -13.88,
+                            28.32
+                        ],
+                        [
+                            -13.9,
+                            28.28
+                        ],
+                        [
+                            -13.93,
+                            28.23
+                        ],
+                        [
+                            -13.99,
+                            28.23
+                        ],
+                        [
+                            -14.04,
+                            28.2
+                        ],
+                        [
+                            -14.22,
+                            28.16
+                        ],
+                        [
+                            -14.26,
+                            28.11
+                        ],
+                        [
+                            -14.32,
+                            28.05
+                        ],
+                        [
+                            -14.34,
+                            28.04
+                        ],
+                        [
+                            -14.48,
+                            28.08
+                        ],
+                        [
+                            -14.51,
+                            28.06
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Fuerteventura",
+                "geocode": "659201",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente en zonas del interior sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -14.51,
+                            28.06
+                        ],
+                        [
+                            -14.49,
+                            28.1
+                        ],
+                        [
+                            -14.45,
+                            28.1
+                        ],
+                        [
+                            -14.38,
+                            28.11
+                        ],
+                        [
+                            -14.33,
+                            28.13
+                        ],
+                        [
+                            -14.25,
+                            28.19
+                        ],
+                        [
+                            -14.21,
+                            28.22
+                        ],
+                        [
+                            -14.21,
+                            28.29
+                        ],
+                        [
+                            -14.2,
+                            28.33
+                        ],
+                        [
+                            -14.16,
+                            28.37
+                        ],
+                        [
+                            -14.15,
+                            28.43
+                        ],
+                        [
+                            -14.1,
+                            28.47
+                        ],
+                        [
+                            -14.06,
+                            28.55
+                        ],
+                        [
+                            -14.03,
+                            28.59
+                        ],
+                        [
+                            -14.04,
+                            28.61
+                        ],
+                        [
+                            -14.01,
+                            28.68
+                        ],
+                        [
+                            -14.02,
+                            28.71
+                        ],
+                        [
+                            -13.98,
+                            28.73
+                        ],
+                        [
+                            -13.88,
+                            28.76
+                        ],
+                        [
+                            -13.84,
+                            28.73
+                        ],
+                        [
+                            -13.83,
+                            28.69
+                        ],
+                        [
+                            -13.82,
+                            28.61
+                        ],
+                        [
+                            -13.83,
+                            28.52
+                        ],
+                        [
+                            -13.87,
+                            28.48
+                        ],
+                        [
+                            -13.85,
+                            28.41
+                        ],
+                        [
+                            -13.88,
+                            28.32
+                        ],
+                        [
+                            -13.9,
+                            28.28
+                        ],
+                        [
+                            -13.93,
+                            28.23
+                        ],
+                        [
+                            -13.99,
+                            28.23
+                        ],
+                        [
+                            -14.04,
+                            28.2
+                        ],
+                        [
+                            -14.22,
+                            28.16
+                        ],
+                        [
+                            -14.26,
+                            28.11
+                        ],
+                        [
+                            -14.32,
+                            28.05
+                        ],
+                        [
+                            -14.34,
+                            28.04
+                        ],
+                        [
+                            -14.48,
+                            28.08
+                        ],
+                        [
+                            -14.51,
+                            28.06
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Fuerteventura",
+                "geocode": "659201",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente en zonas del interior sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
                             -16.42,
                             28.52
                         ],
@@ -617,11 +1539,11 @@
                 "geocode": "659602",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife",
@@ -635,7 +1557,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando principalmente en zonas altas. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -720,11 +1642,11 @@
                 "geocode": "659602",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife",
@@ -738,593 +1660,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.85,
-                            28.83
-                        ],
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.9,
-                            28.74
-                        ],
-                        [
-                            -17.92,
-                            28.69
-                        ],
-                        [
-                            -17.88,
-                            28.59
-                        ],
-                        [
-                            -17.87,
-                            28.55
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.84,
-                            28.54
-                        ],
-                        [
-                            -17.79,
-                            28.52
-                        ],
-                        [
-                            -17.83,
-                            28.46
-                        ],
-                        [
-                            -17.85,
-                            28.46
-                        ],
-                        [
-                            -17.87,
-                            28.49
-                        ],
-                        [
-                            -17.88,
-                            28.55
-                        ],
-                        [
-                            -17.96,
-                            28.67
-                        ],
-                        [
-                            -17.98,
-                            28.73
-                        ],
-                        [
-                            -18.01,
-                            28.76
-                        ],
-                        [
-                            -18.0,
-                            28.78
-                        ],
-                        [
-                            -17.96,
-                            28.83
-                        ],
-                        [
-                            -17.92,
-                            28.85
-                        ],
-                        [
-                            -17.85,
-                            28.83
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Oeste de La Palma",
-                "geocode": "659304",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.85,
-                            28.83
-                        ],
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.9,
-                            28.74
-                        ],
-                        [
-                            -17.92,
-                            28.69
-                        ],
-                        [
-                            -17.88,
-                            28.59
-                        ],
-                        [
-                            -17.87,
-                            28.55
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.84,
-                            28.54
-                        ],
-                        [
-                            -17.79,
-                            28.52
-                        ],
-                        [
-                            -17.83,
-                            28.46
-                        ],
-                        [
-                            -17.85,
-                            28.46
-                        ],
-                        [
-                            -17.87,
-                            28.49
-                        ],
-                        [
-                            -17.88,
-                            28.55
-                        ],
-                        [
-                            -17.96,
-                            28.67
-                        ],
-                        [
-                            -17.98,
-                            28.73
-                        ],
-                        [
-                            -18.01,
-                            28.76
-                        ],
-                        [
-                            -18.0,
-                            28.78
-                        ],
-                        [
-                            -17.96,
-                            28.83
-                        ],
-                        [
-                            -17.92,
-                            28.85
-                        ],
-                        [
-                            -17.85,
-                            28.83
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Oeste de La Palma",
-                "geocode": "659304",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Cumbres de Gran Canaria",
-                "geocode": "659003",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Cumbres de Gran Canaria",
-                "geocode": "659003",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.34,
-                            28.15
-                        ],
-                        [
-                            -17.31,
-                            28.2
-                        ],
-                        [
-                            -17.27,
-                            28.22
-                        ],
-                        [
-                            -17.24,
-                            28.2
-                        ],
-                        [
-                            -17.19,
-                            28.2
-                        ],
-                        [
-                            -17.17,
-                            28.18
-                        ],
-                        [
-                            -17.12,
-                            28.15
-                        ],
-                        [
-                            -17.1,
-                            28.09
-                        ],
-                        [
-                            -17.18,
-                            28.03
-                        ],
-                        [
-                            -17.24,
-                            28.02
-                        ],
-                        [
-                            -17.31,
-                            28.05
-                        ],
-                        [
-                            -17.35,
-                            28.1
-                        ],
-                        [
-                            -17.34,
-                            28.15
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "La Gomera",
-                "geocode": "659401",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.34,
-                            28.15
-                        ],
-                        [
-                            -17.31,
-                            28.2
-                        ],
-                        [
-                            -17.27,
-                            28.22
-                        ],
-                        [
-                            -17.24,
-                            28.2
-                        ],
-                        [
-                            -17.19,
-                            28.2
-                        ],
-                        [
-                            -17.17,
-                            28.18
-                        ],
-                        [
-                            -17.12,
-                            28.15
-                        ],
-                        [
-                            -17.1,
-                            28.09
-                        ],
-                        [
-                            -17.18,
-                            28.03
-                        ],
-                        [
-                            -17.24,
-                            28.02
-                        ],
-                        [
-                            -17.31,
-                            28.05
-                        ],
-                        [
-                            -17.35,
-                            28.1
-                        ],
-                        [
-                            -17.34,
-                            28.15
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "La Gomera",
-                "geocode": "659401",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando principalmente en zonas altas. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1389,11 +1725,11 @@
                 "geocode": "659302",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Cumbres de La Palma",
@@ -1407,7 +1743,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1472,11 +1808,11 @@
                 "geocode": "659302",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Cumbres de La Palma",
@@ -1490,205 +1826,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -18.05,
-                            27.69
-                        ],
-                        [
-                            -18.16,
-                            27.71
-                        ],
-                        [
-                            -18.15,
-                            27.75
-                        ],
-                        [
-                            -18.13,
-                            27.77
-                        ],
-                        [
-                            -18.07,
-                            27.75
-                        ],
-                        [
-                            -18.03,
-                            27.76
-                        ],
-                        [
-                            -17.99,
-                            27.8
-                        ],
-                        [
-                            -17.96,
-                            27.84
-                        ],
-                        [
-                            -17.92,
-                            27.85
-                        ],
-                        [
-                            -17.88,
-                            27.8
-                        ],
-                        [
-                            -17.9,
-                            27.78
-                        ],
-                        [
-                            -17.93,
-                            27.73
-                        ],
-                        [
-                            -17.96,
-                            27.72
-                        ],
-                        [
-                            -17.97,
-                            27.65
-                        ],
-                        [
-                            -18.01,
-                            27.65
-                        ],
-                        [
-                            -18.05,
-                            27.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "El Hierro",
-                "geocode": "659501",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -18.05,
-                            27.69
-                        ],
-                        [
-                            -18.16,
-                            27.71
-                        ],
-                        [
-                            -18.15,
-                            27.75
-                        ],
-                        [
-                            -18.13,
-                            27.77
-                        ],
-                        [
-                            -18.07,
-                            27.75
-                        ],
-                        [
-                            -18.03,
-                            27.76
-                        ],
-                        [
-                            -17.99,
-                            27.8
-                        ],
-                        [
-                            -17.96,
-                            27.84
-                        ],
-                        [
-                            -17.92,
-                            27.85
-                        ],
-                        [
-                            -17.88,
-                            27.8
-                        ],
-                        [
-                            -17.9,
-                            27.78
-                        ],
-                        [
-                            -17.93,
-                            27.73
-                        ],
-                        [
-                            -17.96,
-                            27.72
-                        ],
-                        [
-                            -17.97,
-                            27.65
-                        ],
-                        [
-                            -18.01,
-                            27.65
-                        ],
-                        [
-                            -18.05,
-                            27.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "El Hierro",
-                "geocode": "659501",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1821,11 +1959,11 @@
                 "geocode": "659101",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Lanzarote",
@@ -1839,7 +1977,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente en zonas del interior sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1972,11 +2110,11 @@
                 "geocode": "659101",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Lanzarote",
@@ -1990,7 +2128,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente en zonas del interior sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2000,153 +2138,77 @@
                 "coordinates": [
                     [
                         [
-                            -15.74,
-                            28.05
-                        ],
-                        [
-                            -15.72,
-                            28.03
-                        ],
-                        [
-                            -15.69,
-                            28.05
-                        ],
-                        [
-                            -15.65,
-                            28.04
-                        ],
-                        [
                             -15.61,
                             28.02
                         ],
                         [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
                             -15.6,
-                            27.97
+                            28.01
                         ],
                         [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.55,
-                            27.99
+                            -15.54,
+                            28.04
                         ],
                         [
                             -15.51,
                             28.01
                         ],
                         [
-                            -15.42,
-                            28.04
-                        ],
-                        [
-                            -15.39,
-                            28.03
-                        ],
-                        [
-                            -15.37,
+                            -15.55,
                             27.99
                         ],
                         [
-                            -15.38,
-                            27.97
+                            -15.55,
+                            27.96
                         ],
                         [
-                            -15.39,
-                            27.89
-                        ],
-                        [
-                            -15.38,
-                            27.86
-                        ],
-                        [
-                            -15.41,
-                            27.85
-                        ],
-                        [
-                            -15.42,
-                            27.81
-                        ],
-                        [
-                            -15.49,
-                            27.79
-                        ],
-                        [
-                            -15.56,
-                            27.76
+                            -15.59,
+                            27.95
                         ],
                         [
                             -15.6,
-                            27.73
-                        ],
-                        [
-                            -15.67,
-                            27.75
-                        ],
-                        [
-                            -15.79,
-                            27.83
-                        ],
-                        [
-                            -15.83,
-                            27.91
-                        ],
-                        [
-                            -15.83,
                             27.97
                         ],
                         [
-                            -15.81,
-                            28.02
+                            -15.65,
+                            27.92
                         ],
                         [
-                            -15.79,
-                            28.02
+                            -15.69,
+                            27.92
                         ],
                         [
-                            -15.74,
-                            28.05
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Este, sur y oeste de Gran Canaria",
-                "geocode": "659004",
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "AT;Temperaturas m\u00e1ximas",
@@ -2157,7 +2219,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Afectando principalmente a las cuencas de Tirajana y Tejeda donde pueden alcanzar localmente los 40 \u00baC, con m\u00ednimas por encima de 25\u202f\u00b0C, puntualmente los 30\u202f\u00b0C.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2167,153 +2229,77 @@
                 "coordinates": [
                     [
                         [
-                            -15.74,
-                            28.05
-                        ],
-                        [
-                            -15.72,
-                            28.03
-                        ],
-                        [
-                            -15.69,
-                            28.05
-                        ],
-                        [
-                            -15.65,
-                            28.04
-                        ],
-                        [
                             -15.61,
                             28.02
                         ],
                         [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
                             -15.6,
-                            27.97
+                            28.01
                         ],
                         [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.55,
-                            27.99
+                            -15.54,
+                            28.04
                         ],
                         [
                             -15.51,
                             28.01
                         ],
                         [
-                            -15.42,
-                            28.04
-                        ],
-                        [
-                            -15.39,
-                            28.03
-                        ],
-                        [
-                            -15.37,
+                            -15.55,
                             27.99
                         ],
                         [
-                            -15.38,
-                            27.97
+                            -15.55,
+                            27.96
                         ],
                         [
-                            -15.39,
-                            27.89
-                        ],
-                        [
-                            -15.38,
-                            27.86
-                        ],
-                        [
-                            -15.41,
-                            27.85
-                        ],
-                        [
-                            -15.42,
-                            27.81
-                        ],
-                        [
-                            -15.49,
-                            27.79
-                        ],
-                        [
-                            -15.56,
-                            27.76
+                            -15.59,
+                            27.95
                         ],
                         [
                             -15.6,
-                            27.73
-                        ],
-                        [
-                            -15.67,
-                            27.75
-                        ],
-                        [
-                            -15.79,
-                            27.83
-                        ],
-                        [
-                            -15.83,
-                            27.91
-                        ],
-                        [
-                            -15.83,
                             27.97
                         ],
                         [
-                            -15.81,
-                            28.02
+                            -15.65,
+                            27.92
                         ],
                         [
-                            -15.79,
-                            28.02
+                            -15.69,
+                            27.92
                         ],
                         [
-                            -15.74,
-                            28.05
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Este, sur y oeste de Gran Canaria",
-                "geocode": "659004",
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "AT;Temperaturas m\u00e1ximas",
@@ -2324,7 +2310,181 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Afectando principalmente a las cuencas de Tirajana y Tejeda donde pueden alcanzar localmente los 40 \u00baC, con m\u00ednimas por encima de 25\u202f\u00b0C, puntualmente los 30\u202f\u00b0C.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2660,165 +2820,581 @@
                 "coordinates": [
                     [
                         [
-                            -14.51,
-                            28.06
+                            -17.85,
+                            28.83
                         ],
                         [
-                            -14.49,
-                            28.1
-                        ],
-                        [
-                            -14.45,
-                            28.1
-                        ],
-                        [
-                            -14.38,
-                            28.11
-                        ],
-                        [
-                            -14.33,
-                            28.13
-                        ],
-                        [
-                            -14.25,
-                            28.19
-                        ],
-                        [
-                            -14.21,
-                            28.22
-                        ],
-                        [
-                            -14.21,
-                            28.29
-                        ],
-                        [
-                            -14.2,
-                            28.33
-                        ],
-                        [
-                            -14.16,
-                            28.37
-                        ],
-                        [
-                            -14.15,
-                            28.43
-                        ],
-                        [
-                            -14.1,
-                            28.47
-                        ],
-                        [
-                            -14.06,
-                            28.55
-                        ],
-                        [
-                            -14.03,
-                            28.59
-                        ],
-                        [
-                            -14.04,
-                            28.61
-                        ],
-                        [
-                            -14.01,
-                            28.68
-                        ],
-                        [
-                            -14.02,
-                            28.71
-                        ],
-                        [
-                            -13.98,
-                            28.73
-                        ],
-                        [
-                            -13.88,
+                            -17.86,
                             28.76
                         ],
                         [
-                            -13.84,
-                            28.73
+                            -17.9,
+                            28.74
                         ],
                         [
-                            -13.83,
+                            -17.92,
                             28.69
                         ],
                         [
-                            -13.82,
-                            28.61
+                            -17.88,
+                            28.59
                         ],
                         [
-                            -13.83,
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
                             28.52
                         ],
                         [
-                            -13.87,
-                            28.48
+                            -17.83,
+                            28.46
                         ],
                         [
-                            -13.85,
-                            28.41
+                            -17.85,
+                            28.46
                         ],
                         [
-                            -13.88,
-                            28.32
+                            -17.87,
+                            28.49
                         ],
                         [
-                            -13.9,
-                            28.28
+                            -17.88,
+                            28.55
                         ],
                         [
-                            -13.93,
-                            28.23
+                            -17.96,
+                            28.67
                         ],
                         [
-                            -13.99,
-                            28.23
+                            -17.98,
+                            28.73
                         ],
                         [
-                            -14.04,
-                            28.2
+                            -18.01,
+                            28.76
                         ],
                         [
-                            -14.22,
-                            28.16
+                            -18.0,
+                            28.78
                         ],
                         [
-                            -14.26,
-                            28.11
+                            -17.96,
+                            28.83
                         ],
                         [
-                            -14.32,
-                            28.05
+                            -17.92,
+                            28.85
                         ],
                         [
-                            -14.34,
-                            28.04
-                        ],
-                        [
-                            -14.48,
-                            28.08
-                        ],
-                        [
-                            -14.51,
-                            28.06
+                            -17.85,
+                            28.83
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Fuerteventura",
-                "geocode": "659201",
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
                 "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste. M\u00ednimas que pueden no bajar de los 25 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.37,
+                            27.99
+                        ],
+                        [
+                            -15.38,
+                            27.97
+                        ],
+                        [
+                            -15.39,
+                            27.89
+                        ],
+                        [
+                            -15.38,
+                            27.86
+                        ],
+                        [
+                            -15.41,
+                            27.85
+                        ],
+                        [
+                            -15.42,
+                            27.81
+                        ],
+                        [
+                            -15.49,
+                            27.79
+                        ],
+                        [
+                            -15.56,
+                            27.76
+                        ],
+                        [
+                            -15.6,
+                            27.73
+                        ],
+                        [
+                            -15.67,
+                            27.75
+                        ],
+                        [
+                            -15.79,
+                            27.83
+                        ],
+                        [
+                            -15.83,
+                            27.91
+                        ],
+                        [
+                            -15.83,
+                            27.97
+                        ],
+                        [
+                            -15.81,
+                            28.02
+                        ],
+                        [
+                            -15.79,
+                            28.02
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Gran Canaria",
+                "geocode": "659004",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
+                "expires": "2025-07-16T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "AT;Temperaturas m\u00e1ximas",
@@ -2829,7 +3405,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Afectando principalmente a las cuencas de Tirajana y Tejeda donde pueden alcanzar localmente los 40 \u00baC, con m\u00ednimas por encima de 25\u202f\u00b0C, puntualmente los 30\u202f\u00b0C.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2839,165 +3415,153 @@
                 "coordinates": [
                     [
                         [
-                            -14.51,
-                            28.06
-                        ],
-                        [
-                            -14.49,
-                            28.1
-                        ],
-                        [
-                            -14.45,
-                            28.1
-                        ],
-                        [
-                            -14.38,
-                            28.11
-                        ],
-                        [
-                            -14.33,
-                            28.13
-                        ],
-                        [
-                            -14.25,
-                            28.19
-                        ],
-                        [
-                            -14.21,
-                            28.22
-                        ],
-                        [
-                            -14.21,
-                            28.29
-                        ],
-                        [
-                            -14.2,
-                            28.33
-                        ],
-                        [
-                            -14.16,
-                            28.37
-                        ],
-                        [
-                            -14.15,
-                            28.43
-                        ],
-                        [
-                            -14.1,
-                            28.47
-                        ],
-                        [
-                            -14.06,
-                            28.55
-                        ],
-                        [
-                            -14.03,
-                            28.59
-                        ],
-                        [
-                            -14.04,
-                            28.61
-                        ],
-                        [
-                            -14.01,
-                            28.68
-                        ],
-                        [
-                            -14.02,
-                            28.71
-                        ],
-                        [
-                            -13.98,
-                            28.73
-                        ],
-                        [
-                            -13.88,
-                            28.76
-                        ],
-                        [
-                            -13.84,
-                            28.73
-                        ],
-                        [
-                            -13.83,
-                            28.69
-                        ],
-                        [
-                            -13.82,
-                            28.61
-                        ],
-                        [
-                            -13.83,
-                            28.52
-                        ],
-                        [
-                            -13.87,
-                            28.48
-                        ],
-                        [
-                            -13.85,
-                            28.41
-                        ],
-                        [
-                            -13.88,
-                            28.32
-                        ],
-                        [
-                            -13.9,
-                            28.28
-                        ],
-                        [
-                            -13.93,
-                            28.23
-                        ],
-                        [
-                            -13.99,
-                            28.23
-                        ],
-                        [
-                            -14.04,
-                            28.2
-                        ],
-                        [
-                            -14.22,
-                            28.16
-                        ],
-                        [
-                            -14.26,
-                            28.11
-                        ],
-                        [
-                            -14.32,
+                            -15.74,
                             28.05
                         ],
                         [
-                            -14.34,
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.65,
                             28.04
                         ],
                         [
-                            -14.48,
-                            28.08
+                            -15.61,
+                            28.02
                         ],
                         [
-                            -14.51,
-                            28.06
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.37,
+                            27.99
+                        ],
+                        [
+                            -15.38,
+                            27.97
+                        ],
+                        [
+                            -15.39,
+                            27.89
+                        ],
+                        [
+                            -15.38,
+                            27.86
+                        ],
+                        [
+                            -15.41,
+                            27.85
+                        ],
+                        [
+                            -15.42,
+                            27.81
+                        ],
+                        [
+                            -15.49,
+                            27.79
+                        ],
+                        [
+                            -15.56,
+                            27.76
+                        ],
+                        [
+                            -15.6,
+                            27.73
+                        ],
+                        [
+                            -15.67,
+                            27.75
+                        ],
+                        [
+                            -15.79,
+                            27.83
+                        ],
+                        [
+                            -15.83,
+                            27.91
+                        ],
+                        [
+                            -15.83,
+                            27.97
+                        ],
+                        [
+                            -15.81,
+                            28.02
+                        ],
+                        [
+                            -15.79,
+                            28.02
+                        ],
+                        [
+                            -15.74,
+                            28.05
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Fuerteventura",
-                "geocode": "659201",
+                "areaDesc": "Este, sur y oeste de Gran Canaria",
+                "geocode": "659004",
                 "category": "Met",
                 "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
+                "effective": "2025-07-16T10:43:32+01:00",
+                "onset": "2025-07-16T10:00:00+01:00",
                 "expires": "2025-07-16T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "AT;Temperaturas m\u00e1ximas",
@@ -3008,571 +3572,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente, en Gran Canaria a la cuenca de Tejeda y a median\u00edas orientadas al sur y oeste, y en Lanzarote y Fuerteventura a zonas de interior de la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.43,
-                            28.49
-                        ],
-                        [
-                            -16.39,
-                            28.43
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.88,
-                            28.31
-                        ],
-                        [
-                            -16.92,
-                            28.34
-                        ],
-                        [
-                            -16.92,
-                            28.36
-                        ],
-                        [
-                            -16.86,
-                            28.37
-                        ],
-                        [
-                            -16.83,
-                            28.39
-                        ],
-                        [
-                            -16.81,
-                            28.38
-                        ],
-                        [
-                            -16.75,
-                            28.37
-                        ],
-                        [
-                            -16.7,
-                            28.38
-                        ],
-                        [
-                            -16.67,
-                            28.4
-                        ],
-                        [
-                            -16.6,
-                            28.39
-                        ],
-                        [
-                            -16.55,
-                            28.42
-                        ],
-                        [
-                            -16.52,
-                            28.42
-                        ],
-                        [
-                            -16.47,
-                            28.44
-                        ],
-                        [
-                            -16.43,
-                            28.49
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte de Tenerife",
-                "geocode": "659601",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Possible",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando principalmente a median\u00edas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.43,
-                            28.49
-                        ],
-                        [
-                            -16.39,
-                            28.43
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.88,
-                            28.31
-                        ],
-                        [
-                            -16.92,
-                            28.34
-                        ],
-                        [
-                            -16.92,
-                            28.36
-                        ],
-                        [
-                            -16.86,
-                            28.37
-                        ],
-                        [
-                            -16.83,
-                            28.39
-                        ],
-                        [
-                            -16.81,
-                            28.38
-                        ],
-                        [
-                            -16.75,
-                            28.37
-                        ],
-                        [
-                            -16.7,
-                            28.38
-                        ],
-                        [
-                            -16.67,
-                            28.4
-                        ],
-                        [
-                            -16.6,
-                            28.39
-                        ],
-                        [
-                            -16.55,
-                            28.42
-                        ],
-                        [
-                            -16.52,
-                            28.42
-                        ],
-                        [
-                            -16.47,
-                            28.44
-                        ],
-                        [
-                            -16.43,
-                            28.49
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte de Tenerife",
-                "geocode": "659601",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Possible",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando principalmente a median\u00edas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.39,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Este, sur y oeste de Tenerife",
-                "geocode": "659603",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.39,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Este, sur y oeste de Tenerife",
-                "geocode": "659603",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-15T10:29:49+01:00",
-                "onset": "2025-07-16T09:00:00+01:00",
-                "expires": "2025-07-16T20:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Tenerife, afectando principalmente a median\u00edas del sur y oeste, y zonas altas del \u00e1rea metropolitana. En el resto de islas a zonas altas y median\u00edas orientadas al sur y oeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 10:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Afectando principalmente a las cuencas de Tirajana y Tejeda donde pueden alcanzar localmente los 40 \u00baC, con m\u00ednimas por encima de 25\u202f\u00b0C, puntualmente los 30\u202f\u00b0C.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 16/07/2025 11:00<br><b>Fecha de fin:</b> 16/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
