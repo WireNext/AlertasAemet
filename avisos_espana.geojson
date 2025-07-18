@@ -146,26 +146,26 @@
                 "areaDesc": "Este, sur y oeste de Gran Canaria",
                 "geocode": "659004",
                 "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
                 "urgency": "Future",
-                "severity": "Moderate",
+                "severity": "Severe",
                 "certainty": "Likely",
                 "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T15:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
+                "onset": "2025-07-18T09:00:00+01:00",
+                "expires": "2025-07-18T20:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Este, sur y oeste de Gran Canaria",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "naranja",
                 "_umap_options": {
-                    "color": "#f3f702",
+                    "color": "#FF7F00",
                     "weight": 3,
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Afectando principalmente en cumbres y median\u00edas de las vertientes sureste y suroeste. No se descarta que alcancen localmente los 90 km/h, especialmente de madrugada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 16:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente a la cuenca de Tirajana.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 10:00<br><b>Fecha de fin:</b> 18/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -313,15 +313,476 @@
                 "areaDesc": "Este, sur y oeste de Gran Canaria",
                 "geocode": "659004",
                 "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-07-17T10:21:10+01:00",
+                "onset": "2025-07-18T09:00:00+01:00",
+                "expires": "2025-07-18T20:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Afectando principalmente a la cuenca de Tirajana.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 10:00<br><b>Fecha de fin:</b> 18/07/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.01,
+                            28.21
+                        ],
+                        [
+                            -17.00816091954023,
+                            28.210689655172416
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.11,
+                            28.23
+                        ],
+                        [
+                            -16.05,
+                            28.21
+                        ],
+                        [
+                            -16.15,
+                            28.02
+                        ],
+                        [
+                            -16.18,
+                            27.9
+                        ],
+                        [
+                            -16.27,
+                            27.81
+                        ],
+                        [
+                            -16.31,
+                            27.77
+                        ],
+                        [
+                            -16.37,
+                            27.74
+                        ],
+                        [
+                            -16.43,
+                            27.71
+                        ],
+                        [
+                            -16.49,
+                            27.7
+                        ],
+                        [
+                            -16.65,
+                            27.68
+                        ],
+                        [
+                            -16.72,
+                            27.68
+                        ],
+                        [
+                            -16.79,
+                            27.69
+                        ],
+                        [
+                            -16.86,
+                            27.71
+                        ],
+                        [
+                            -16.92,
+                            27.74
+                        ],
+                        [
+                            -16.97,
+                            27.78
+                        ],
+                        [
+                            -16.94,
+                            27.88
+                        ],
+                        [
+                            -16.94,
+                            28.0
+                        ],
+                        [
+                            -16.95,
+                            28.1
+                        ],
+                        [
+                            -16.98,
+                            28.16
+                        ],
+                        [
+                            -17.01,
+                            28.21
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Este, sur y oeste de Tenerife",
+                "geocode": "659603C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-17T10:21:10+01:00",
+                "onset": "2025-07-18T05:00:00+01:00",
+                "expires": "2025-07-18T22:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), afectando principalmente al sureste y oeste de Gran Canaria, sureste de Tenerife y canal entre islas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 06:00<br><b>Fecha de fin:</b> 18/07/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.01,
+                            28.21
+                        ],
+                        [
+                            -17.00816091954023,
+                            28.210689655172416
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.11,
+                            28.23
+                        ],
+                        [
+                            -16.05,
+                            28.21
+                        ],
+                        [
+                            -16.15,
+                            28.02
+                        ],
+                        [
+                            -16.18,
+                            27.9
+                        ],
+                        [
+                            -16.27,
+                            27.81
+                        ],
+                        [
+                            -16.31,
+                            27.77
+                        ],
+                        [
+                            -16.37,
+                            27.74
+                        ],
+                        [
+                            -16.43,
+                            27.71
+                        ],
+                        [
+                            -16.49,
+                            27.7
+                        ],
+                        [
+                            -16.65,
+                            27.68
+                        ],
+                        [
+                            -16.72,
+                            27.68
+                        ],
+                        [
+                            -16.79,
+                            27.69
+                        ],
+                        [
+                            -16.86,
+                            27.71
+                        ],
+                        [
+                            -16.92,
+                            27.74
+                        ],
+                        [
+                            -16.97,
+                            27.78
+                        ],
+                        [
+                            -16.94,
+                            27.88
+                        ],
+                        [
+                            -16.94,
+                            28.0
+                        ],
+                        [
+                            -16.95,
+                            28.1
+                        ],
+                        [
+                            -16.98,
+                            28.16
+                        ],
+                        [
+                            -17.01,
+                            28.21
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Este, sur y oeste de Tenerife",
+                "geocode": "659603C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-17T10:21:10+01:00",
+                "onset": "2025-07-18T05:00:00+01:00",
+                "expires": "2025-07-18T22:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), afectando principalmente al sureste y oeste de Gran Canaria, sureste de Tenerife y canal entre islas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 06:00<br><b>Fecha de fin:</b> 18/07/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
                 "event": "Aviso de vientos de nivel amarillo",
                 "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T15:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
+                "effective": "2025-07-18T07:50:28+01:00",
+                "onset": "2025-07-18T09:00:00+01:00",
+                "expires": "2025-07-18T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Este, sur y oeste de Gran Canaria",
+                "headline": "Aviso de vientos de nivel amarillo. La Gomera",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "VI;Vientos",
@@ -332,7 +793,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Afectando principalmente en cumbres y median\u00edas de las vertientes sureste y suroeste. No se descarta que alcancen localmente los 90 km/h, especialmente de madrugada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 16:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente a cumbres y expuestas vertientes sureste y suroeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 10:00<br><b>Fecha de fin:</b> 19/07/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -400,292 +861,18 @@
                 "areaDesc": "La Gomera",
                 "geocode": "659401",
                 "category": "Met",
-                "event": "Aviso de vientos de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T15:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel naranja. La Gomera",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel naranja. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 90 km/h. Afectando principalmente a cumbres y median\u00edas de las vertientes sureste y suroeste.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 16:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.34,
-                            28.15
-                        ],
-                        [
-                            -17.31,
-                            28.2
-                        ],
-                        [
-                            -17.27,
-                            28.22
-                        ],
-                        [
-                            -17.24,
-                            28.2
-                        ],
-                        [
-                            -17.19,
-                            28.2
-                        ],
-                        [
-                            -17.17,
-                            28.18
-                        ],
-                        [
-                            -17.12,
-                            28.15
-                        ],
-                        [
-                            -17.1,
-                            28.09
-                        ],
-                        [
-                            -17.18,
-                            28.03
-                        ],
-                        [
-                            -17.24,
-                            28.02
-                        ],
-                        [
-                            -17.31,
-                            28.05
-                        ],
-                        [
-                            -17.35,
-                            28.1
-                        ],
-                        [
-                            -17.34,
-                            28.15
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "La Gomera",
-                "geocode": "659401",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T15:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel naranja. La Gomera",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel naranja. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 90 km/h. Afectando principalmente a cumbres y median\u00edas de las vertientes sureste y suroeste.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 16:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.01,
-                            28.21
-                        ],
-                        [
-                            -17.00816091954023,
-                            28.210689655172416
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.11,
-                            28.23
-                        ],
-                        [
-                            -16.05,
-                            28.21
-                        ],
-                        [
-                            -16.15,
-                            28.02
-                        ],
-                        [
-                            -16.18,
-                            27.9
-                        ],
-                        [
-                            -16.27,
-                            27.81
-                        ],
-                        [
-                            -16.31,
-                            27.77
-                        ],
-                        [
-                            -16.37,
-                            27.74
-                        ],
-                        [
-                            -16.43,
-                            27.71
-                        ],
-                        [
-                            -16.49,
-                            27.7
-                        ],
-                        [
-                            -16.65,
-                            27.68
-                        ],
-                        [
-                            -16.72,
-                            27.68
-                        ],
-                        [
-                            -16.79,
-                            27.69
-                        ],
-                        [
-                            -16.86,
-                            27.71
-                        ],
-                        [
-                            -16.92,
-                            27.74
-                        ],
-                        [
-                            -16.97,
-                            27.78
-                        ],
-                        [
-                            -16.94,
-                            27.88
-                        ],
-                        [
-                            -16.94,
-                            28.0
-                        ],
-                        [
-                            -16.95,
-                            28.1
-                        ],
-                        [
-                            -16.98,
-                            28.16
-                        ],
-                        [
-                            -17.01,
-                            28.21
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Este, sur y oeste de Tenerife",
-                "geocode": "659603C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
+                "event": "Aviso de vientos de nivel amarillo",
                 "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-18T05:00:00+01:00",
-                "expires": "2025-07-18T22:59:59+01:00",
+                "effective": "2025-07-18T07:50:28+01:00",
+                "onset": "2025-07-18T09:00:00+01:00",
+                "expires": "2025-07-18T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife",
+                "headline": "Aviso de vientos de nivel amarillo. La Gomera",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "CO;Costeros",
+                "eventCode": "VI;Vientos",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -693,194 +880,7 @@
                     "opacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), afectando principalmente al sureste y oeste de Gran Canaria, sureste de Tenerife y canal entre islas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 06:00<br><b>Fecha de fin:</b> 18/07/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.01,
-                            28.21
-                        ],
-                        [
-                            -17.00816091954023,
-                            28.210689655172416
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.11,
-                            28.23
-                        ],
-                        [
-                            -16.05,
-                            28.21
-                        ],
-                        [
-                            -16.15,
-                            28.02
-                        ],
-                        [
-                            -16.18,
-                            27.9
-                        ],
-                        [
-                            -16.27,
-                            27.81
-                        ],
-                        [
-                            -16.31,
-                            27.77
-                        ],
-                        [
-                            -16.37,
-                            27.74
-                        ],
-                        [
-                            -16.43,
-                            27.71
-                        ],
-                        [
-                            -16.49,
-                            27.7
-                        ],
-                        [
-                            -16.65,
-                            27.68
-                        ],
-                        [
-                            -16.72,
-                            27.68
-                        ],
-                        [
-                            -16.79,
-                            27.69
-                        ],
-                        [
-                            -16.86,
-                            27.71
-                        ],
-                        [
-                            -16.92,
-                            27.74
-                        ],
-                        [
-                            -16.97,
-                            27.78
-                        ],
-                        [
-                            -16.94,
-                            27.88
-                        ],
-                        [
-                            -16.94,
-                            28.0
-                        ],
-                        [
-                            -16.95,
-                            28.1
-                        ],
-                        [
-                            -16.98,
-                            28.16
-                        ],
-                        [
-                            -17.01,
-                            28.21
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Este, sur y oeste de Tenerife",
-                "geocode": "659603C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-18T05:00:00+01:00",
-                "expires": "2025-07-18T22:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), afectando principalmente al sureste y oeste de Gran Canaria, sureste de Tenerife y canal entre islas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 06:00<br><b>Fecha de fin:</b> 18/07/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente a cumbres y expuestas vertientes sureste y suroeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 10:00<br><b>Fecha de fin:</b> 19/07/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1319,688 +1319,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Costa - Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), afectando principalmente al sureste y oeste de Gran Canaria, sureste de Tenerife y canal entre islas.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 06:00<br><b>Fecha de fin:</b> 18/07/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Cumbres de Gran Canaria",
-                "geocode": "659003",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T15:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Afectando principalmente en cumbres y median\u00edas de las vertientes sureste y suroeste. No se descarta que alcancen localmente los 90 km/h, especialmente de madrugada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 16:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Cumbres de Gran Canaria",
-                "geocode": "659003",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T15:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Afectando principalmente en cumbres y median\u00edas de las vertientes sureste y suroeste. No se descarta que alcancen localmente los 90 km/h, especialmente de madrugada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 16:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -18.05,
-                            27.69
-                        ],
-                        [
-                            -18.16,
-                            27.71
-                        ],
-                        [
-                            -18.15,
-                            27.75
-                        ],
-                        [
-                            -18.13,
-                            27.77
-                        ],
-                        [
-                            -18.07,
-                            27.75
-                        ],
-                        [
-                            -18.03,
-                            27.76
-                        ],
-                        [
-                            -17.99,
-                            27.8
-                        ],
-                        [
-                            -17.96,
-                            27.84
-                        ],
-                        [
-                            -17.92,
-                            27.85
-                        ],
-                        [
-                            -17.88,
-                            27.8
-                        ],
-                        [
-                            -17.9,
-                            27.78
-                        ],
-                        [
-                            -17.93,
-                            27.73
-                        ],
-                        [
-                            -17.96,
-                            27.72
-                        ],
-                        [
-                            -17.97,
-                            27.65
-                        ],
-                        [
-                            -18.01,
-                            27.65
-                        ],
-                        [
-                            -18.05,
-                            27.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "El Hierro",
-                "geocode": "659501",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-18T07:50:28+01:00",
-                "onset": "2025-07-18T07:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. El Hierro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Afectando principalmente en cumbres y median\u00edas de las vertientes sureste y suroeste. No se descarta que alcancen localmente los 90 km/h, especialmente de madrugada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 08:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -18.05,
-                            27.69
-                        ],
-                        [
-                            -18.16,
-                            27.71
-                        ],
-                        [
-                            -18.15,
-                            27.75
-                        ],
-                        [
-                            -18.13,
-                            27.77
-                        ],
-                        [
-                            -18.07,
-                            27.75
-                        ],
-                        [
-                            -18.03,
-                            27.76
-                        ],
-                        [
-                            -17.99,
-                            27.8
-                        ],
-                        [
-                            -17.96,
-                            27.84
-                        ],
-                        [
-                            -17.92,
-                            27.85
-                        ],
-                        [
-                            -17.88,
-                            27.8
-                        ],
-                        [
-                            -17.9,
-                            27.78
-                        ],
-                        [
-                            -17.93,
-                            27.73
-                        ],
-                        [
-                            -17.96,
-                            27.72
-                        ],
-                        [
-                            -17.97,
-                            27.65
-                        ],
-                        [
-                            -18.01,
-                            27.65
-                        ],
-                        [
-                            -18.05,
-                            27.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "El Hierro",
-                "geocode": "659501",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-18T07:50:28+01:00",
-                "onset": "2025-07-18T07:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. El Hierro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Afectando principalmente en cumbres y median\u00edas de las vertientes sureste y suroeste. No se descarta que alcancen localmente los 90 km/h, especialmente de madrugada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 18/07/2025 08:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -13.87,
-                            28.85
-                        ],
-                        [
-                            -13.88,
-                            28.89
-                        ],
-                        [
-                            -13.86,
-                            28.89
-                        ],
-                        [
-                            -13.83,
-                            28.94
-                        ],
-                        [
-                            -13.83,
-                            29.01
-                        ],
-                        [
-                            -13.81,
-                            29.03
-                        ],
-                        [
-                            -13.75,
-                            29.08
-                        ],
-                        [
-                            -13.69,
-                            29.09
-                        ],
-                        [
-                            -13.66,
-                            29.12
-                        ],
-                        [
-                            -13.63,
-                            29.12
-                        ],
-                        [
-                            -13.6,
-                            29.14
-                        ],
-                        [
-                            -13.56,
-                            29.11
-                        ],
-                        [
-                            -13.52,
-                            29.14
-                        ],
-                        [
-                            -13.52,
-                            29.17
-                        ],
-                        [
-                            -13.49,
-                            29.22
-                        ],
-                        [
-                            -13.45,
-                            29.23
-                        ],
-                        [
-                            -13.42,
-                            29.2
-                        ],
-                        [
-                            -13.43,
-                            29.15
-                        ],
-                        [
-                            -13.46,
-                            29.13
-                        ],
-                        [
-                            -13.45,
-                            29.09
-                        ],
-                        [
-                            -13.48,
-                            29.0
-                        ],
-                        [
-                            -13.54,
-                            28.96
-                        ],
-                        [
-                            -13.6,
-                            28.95
-                        ],
-                        [
-                            -13.64,
-                            28.92
-                        ],
-                        [
-                            -13.67,
-                            28.92
-                        ],
-                        [
-                            -13.74,
-                            28.9
-                        ],
-                        [
-                            -13.78,
-                            28.84
-                        ],
-                        [
-                            -13.8,
-                            28.86
-                        ],
-                        [
-                            -13.87,
-                            28.85
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Lanzarote",
-                "geocode": "659101",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T18:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Lanzarote",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente en zonas de interior y vertientes este y sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 19:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -13.87,
-                            28.85
-                        ],
-                        [
-                            -13.88,
-                            28.89
-                        ],
-                        [
-                            -13.86,
-                            28.89
-                        ],
-                        [
-                            -13.83,
-                            28.94
-                        ],
-                        [
-                            -13.83,
-                            29.01
-                        ],
-                        [
-                            -13.81,
-                            29.03
-                        ],
-                        [
-                            -13.75,
-                            29.08
-                        ],
-                        [
-                            -13.69,
-                            29.09
-                        ],
-                        [
-                            -13.66,
-                            29.12
-                        ],
-                        [
-                            -13.63,
-                            29.12
-                        ],
-                        [
-                            -13.6,
-                            29.14
-                        ],
-                        [
-                            -13.56,
-                            29.11
-                        ],
-                        [
-                            -13.52,
-                            29.14
-                        ],
-                        [
-                            -13.52,
-                            29.17
-                        ],
-                        [
-                            -13.49,
-                            29.22
-                        ],
-                        [
-                            -13.45,
-                            29.23
-                        ],
-                        [
-                            -13.42,
-                            29.2
-                        ],
-                        [
-                            -13.43,
-                            29.15
-                        ],
-                        [
-                            -13.46,
-                            29.13
-                        ],
-                        [
-                            -13.45,
-                            29.09
-                        ],
-                        [
-                            -13.48,
-                            29.0
-                        ],
-                        [
-                            -13.54,
-                            28.96
-                        ],
-                        [
-                            -13.6,
-                            28.95
-                        ],
-                        [
-                            -13.64,
-                            28.92
-                        ],
-                        [
-                            -13.67,
-                            28.92
-                        ],
-                        [
-                            -13.74,
-                            28.9
-                        ],
-                        [
-                            -13.78,
-                            28.84
-                        ],
-                        [
-                            -13.8,
-                            28.86
-                        ],
-                        [
-                            -13.87,
-                            28.85
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Lanzarote",
-                "geocode": "659101",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-07-17T10:21:10+01:00",
-                "onset": "2025-07-17T18:00:00+01:00",
-                "expires": "2025-07-18T08:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Lanzarote",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente en zonas de interior y vertientes este y sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 17/07/2025 19:00<br><b>Fecha de fin:</b> 18/07/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
