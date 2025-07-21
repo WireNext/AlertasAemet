@@ -1,4 +1,1797 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.1,
+                            37.74
+                        ],
+                        [
+                            -1.08,
+                            37.72
+                        ],
+                        [
+                            -1.05,
+                            37.72
+                        ],
+                        [
+                            -1.06,
+                            37.76
+                        ],
+                        [
+                            -1.099999,
+                            37.74
+                        ],
+                        [
+                            -1.139999,
+                            37.75
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.82
+                        ],
+                        [
+                            -0.8,
+                            37.81
+                        ],
+                        [
+                            -0.8,
+                            37.78
+                        ],
+                        [
+                            -0.85,
+                            37.75
+                        ],
+                        [
+                            -0.86,
+                            37.72
+                        ],
+                        [
+                            -0.8,
+                            37.66
+                        ],
+                        [
+                            -0.74,
+                            37.63
+                        ],
+                        [
+                            -0.73,
+                            37.6
+                        ],
+                        [
+                            -0.77,
+                            37.6
+                        ],
+                        [
+                            -0.82,
+                            37.58
+                        ],
+                        [
+                            -0.85,
+                            37.58
+                        ],
+                        [
+                            -0.92,
+                            37.56
+                        ],
+                        [
+                            -0.97,
+                            37.58
+                        ],
+                        [
+                            -1.07,
+                            37.58
+                        ],
+                        [
+                            -1.13,
+                            37.55
+                        ],
+                        [
+                            -1.2,
+                            37.57
+                        ],
+                        [
+                            -1.25,
+                            37.58
+                        ],
+                        [
+                            -1.27,
+                            37.56
+                        ],
+                        [
+                            -1.32,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Campo de Cartagena y Mazarr\u00f3n",
+                "geocode": "733005",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-20T10:45:16+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n</b><b>\u00c1rea:</b> Campo de Cartagena y Mazarr\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. Estas temperaturas se alcanzar\u00e1n en el interior de la zona.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.1,
+                            37.74
+                        ],
+                        [
+                            -1.08,
+                            37.72
+                        ],
+                        [
+                            -1.05,
+                            37.72
+                        ],
+                        [
+                            -1.06,
+                            37.76
+                        ],
+                        [
+                            -1.099999,
+                            37.74
+                        ],
+                        [
+                            -1.139999,
+                            37.75
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.82
+                        ],
+                        [
+                            -0.8,
+                            37.81
+                        ],
+                        [
+                            -0.8,
+                            37.78
+                        ],
+                        [
+                            -0.85,
+                            37.75
+                        ],
+                        [
+                            -0.86,
+                            37.72
+                        ],
+                        [
+                            -0.8,
+                            37.66
+                        ],
+                        [
+                            -0.74,
+                            37.63
+                        ],
+                        [
+                            -0.73,
+                            37.6
+                        ],
+                        [
+                            -0.77,
+                            37.6
+                        ],
+                        [
+                            -0.82,
+                            37.58
+                        ],
+                        [
+                            -0.85,
+                            37.58
+                        ],
+                        [
+                            -0.92,
+                            37.56
+                        ],
+                        [
+                            -0.97,
+                            37.58
+                        ],
+                        [
+                            -1.07,
+                            37.58
+                        ],
+                        [
+                            -1.13,
+                            37.55
+                        ],
+                        [
+                            -1.2,
+                            37.57
+                        ],
+                        [
+                            -1.25,
+                            37.58
+                        ],
+                        [
+                            -1.27,
+                            37.56
+                        ],
+                        [
+                            -1.32,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Campo de Cartagena y Mazarr\u00f3n",
+                "geocode": "733005",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-20T10:45:16+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n</b><b>\u00c1rea:</b> Campo de Cartagena y Mazarr\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. Estas temperaturas se alcanzar\u00e1n en el interior de la zona.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-21T11:20:34+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-21T11:20:34+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.92,
+                            38.33
+                        ],
+                        [
+                            -0.83,
+                            38.36
+                        ],
+                        [
+                            -0.86,
+                            38.39
+                        ],
+                        [
+                            -0.83,
+                            38.4
+                        ],
+                        [
+                            -0.81,
+                            38.43
+                        ],
+                        [
+                            -0.73,
+                            38.44
+                        ],
+                        [
+                            -0.67,
+                            38.47
+                        ],
+                        [
+                            -0.63,
+                            38.5
+                        ],
+                        [
+                            -0.61,
+                            38.48
+                        ],
+                        [
+                            -0.5,
+                            38.48
+                        ],
+                        [
+                            -0.45,
+                            38.49
+                        ],
+                        [
+                            -0.43,
+                            38.53
+                        ],
+                        [
+                            -0.4,
+                            38.54
+                        ],
+                        [
+                            -0.41,
+                            38.57
+                        ],
+                        [
+                            -0.33,
+                            38.62
+                        ],
+                        [
+                            -0.27,
+                            38.59
+                        ],
+                        [
+                            -0.21,
+                            38.61
+                        ],
+                        [
+                            -0.19,
+                            38.61
+                        ],
+                        [
+                            -0.16,
+                            38.65
+                        ],
+                        [
+                            -0.08,
+                            38.62
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.07,
+                            38.54
+                        ],
+                        [
+                            -0.15,
+                            38.54
+                        ],
+                        [
+                            -0.32,
+                            38.48
+                        ],
+                        [
+                            -0.37,
+                            38.44
+                        ],
+                        [
+                            -0.4,
+                            38.41
+                        ],
+                        [
+                            -0.41,
+                            38.35
+                        ],
+                        [
+                            -0.44,
+                            38.36
+                        ],
+                        [
+                            -0.51,
+                            38.33
+                        ],
+                        [
+                            -0.52,
+                            38.3
+                        ],
+                        [
+                            -0.51,
+                            38.2
+                        ],
+                        [
+                            -0.54,
+                            38.19
+                        ],
+                        [
+                            -0.59,
+                            38.19
+                        ],
+                        [
+                            -0.63,
+                            38.14
+                        ],
+                        [
+                            -0.64,
+                            38.09
+                        ],
+                        [
+                            -0.65,
+                            37.99
+                        ],
+                        [
+                            -0.69,
+                            37.97
+                        ],
+                        [
+                            -0.7,
+                            37.94
+                        ],
+                        [
+                            -0.75,
+                            37.9
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral sur de Alicante",
+                "geocode": "770303",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-20T11:23:28+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Litoral sur de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Litoral sur de Alicante</b><b>\u00c1rea:</b> Litoral sur de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. El umbral se superar\u00e1 en comarcas del prelitoral sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.92,
+                            38.33
+                        ],
+                        [
+                            -0.83,
+                            38.36
+                        ],
+                        [
+                            -0.86,
+                            38.39
+                        ],
+                        [
+                            -0.83,
+                            38.4
+                        ],
+                        [
+                            -0.81,
+                            38.43
+                        ],
+                        [
+                            -0.73,
+                            38.44
+                        ],
+                        [
+                            -0.67,
+                            38.47
+                        ],
+                        [
+                            -0.63,
+                            38.5
+                        ],
+                        [
+                            -0.61,
+                            38.48
+                        ],
+                        [
+                            -0.5,
+                            38.48
+                        ],
+                        [
+                            -0.45,
+                            38.49
+                        ],
+                        [
+                            -0.43,
+                            38.53
+                        ],
+                        [
+                            -0.4,
+                            38.54
+                        ],
+                        [
+                            -0.41,
+                            38.57
+                        ],
+                        [
+                            -0.33,
+                            38.62
+                        ],
+                        [
+                            -0.27,
+                            38.59
+                        ],
+                        [
+                            -0.21,
+                            38.61
+                        ],
+                        [
+                            -0.19,
+                            38.61
+                        ],
+                        [
+                            -0.16,
+                            38.65
+                        ],
+                        [
+                            -0.08,
+                            38.62
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.07,
+                            38.54
+                        ],
+                        [
+                            -0.15,
+                            38.54
+                        ],
+                        [
+                            -0.32,
+                            38.48
+                        ],
+                        [
+                            -0.37,
+                            38.44
+                        ],
+                        [
+                            -0.4,
+                            38.41
+                        ],
+                        [
+                            -0.41,
+                            38.35
+                        ],
+                        [
+                            -0.44,
+                            38.36
+                        ],
+                        [
+                            -0.51,
+                            38.33
+                        ],
+                        [
+                            -0.52,
+                            38.3
+                        ],
+                        [
+                            -0.51,
+                            38.2
+                        ],
+                        [
+                            -0.54,
+                            38.19
+                        ],
+                        [
+                            -0.59,
+                            38.19
+                        ],
+                        [
+                            -0.63,
+                            38.14
+                        ],
+                        [
+                            -0.64,
+                            38.09
+                        ],
+                        [
+                            -0.65,
+                            37.99
+                        ],
+                        [
+                            -0.69,
+                            37.97
+                        ],
+                        [
+                            -0.7,
+                            37.94
+                        ],
+                        [
+                            -0.75,
+                            37.9
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral sur de Alicante",
+                "geocode": "770303",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-20T11:23:28+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Litoral sur de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Litoral sur de Alicante</b><b>\u00c1rea:</b> Litoral sur de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. El umbral se superar\u00e1 en comarcas del prelitoral sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.35,
+                            36.43
+                        ],
+                        [
+                            -5.29,
+                            36.49
+                        ],
+                        [
+                            -5.27,
+                            36.52
+                        ],
+                        [
+                            -5.23,
+                            36.52
+                        ],
+                        [
+                            -5.21,
+                            36.48
+                        ],
+                        [
+                            -5.16,
+                            36.54
+                        ],
+                        [
+                            -5.14,
+                            36.54
+                        ],
+                        [
+                            -5.06,
+                            36.61
+                        ],
+                        [
+                            -5.03,
+                            36.67
+                        ],
+                        [
+                            -4.99,
+                            36.73
+                        ],
+                        [
+                            -4.95,
+                            36.76
+                        ],
+                        [
+                            -4.9,
+                            36.77
+                        ],
+                        [
+                            -4.88,
+                            36.81
+                        ],
+                        [
+                            -4.89,
+                            36.85
+                        ],
+                        [
+                            -4.82,
+                            36.87
+                        ],
+                        [
+                            -4.78,
+                            36.86
+                        ],
+                        [
+                            -4.77,
+                            36.92
+                        ],
+                        [
+                            -4.73,
+                            36.92
+                        ],
+                        [
+                            -4.67,
+                            36.96
+                        ],
+                        [
+                            -4.64,
+                            36.96
+                        ],
+                        [
+                            -4.66,
+                            36.91
+                        ],
+                        [
+                            -4.58,
+                            36.89
+                        ],
+                        [
+                            -4.49,
+                            36.91
+                        ],
+                        [
+                            -4.49,
+                            36.88
+                        ],
+                        [
+                            -4.45,
+                            36.84
+                        ],
+                        [
+                            -4.4,
+                            36.85
+                        ],
+                        [
+                            -4.36,
+                            36.89
+                        ],
+                        [
+                            -4.29,
+                            36.85
+                        ],
+                        [
+                            -4.27,
+                            36.82
+                        ],
+                        [
+                            -4.31,
+                            36.75
+                        ],
+                        [
+                            -4.31,
+                            36.71
+                        ],
+                        [
+                            -4.39,
+                            36.72
+                        ],
+                        [
+                            -4.42,
+                            36.72
+                        ],
+                        [
+                            -4.51,
+                            36.6
+                        ],
+                        [
+                            -4.53,
+                            36.58
+                        ],
+                        [
+                            -4.56,
+                            36.58
+                        ],
+                        [
+                            -4.61,
+                            36.56
+                        ],
+                        [
+                            -4.64,
+                            36.51
+                        ],
+                        [
+                            -4.7,
+                            36.49
+                        ],
+                        [
+                            -4.75,
+                            36.49
+                        ],
+                        [
+                            -4.87,
+                            36.51
+                        ],
+                        [
+                            -4.93,
+                            36.5
+                        ],
+                        [
+                            -4.98,
+                            36.48
+                        ],
+                        [
+                            -4.99,
+                            36.47
+                        ],
+                        [
+                            -5.08,
+                            36.45
+                        ],
+                        [
+                            -5.16,
+                            36.42
+                        ],
+                        [
+                            -5.22,
+                            36.37
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -5.27,
+                            36.34
+                        ],
+                        [
+                            -5.32,
+                            36.33
+                        ],
+                        [
+                            -5.34,
+                            36.4
+                        ],
+                        [
+                            -5.35,
+                            36.43
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Sol y Guadalhorce",
+                "geocode": "612903",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-21T11:20:10+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sol y Guadalhorce",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sol y Guadalhorce</b><b>\u00c1rea:</b> Sol y Guadalhorce<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Vientos terrales.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.35,
+                            36.43
+                        ],
+                        [
+                            -5.29,
+                            36.49
+                        ],
+                        [
+                            -5.27,
+                            36.52
+                        ],
+                        [
+                            -5.23,
+                            36.52
+                        ],
+                        [
+                            -5.21,
+                            36.48
+                        ],
+                        [
+                            -5.16,
+                            36.54
+                        ],
+                        [
+                            -5.14,
+                            36.54
+                        ],
+                        [
+                            -5.06,
+                            36.61
+                        ],
+                        [
+                            -5.03,
+                            36.67
+                        ],
+                        [
+                            -4.99,
+                            36.73
+                        ],
+                        [
+                            -4.95,
+                            36.76
+                        ],
+                        [
+                            -4.9,
+                            36.77
+                        ],
+                        [
+                            -4.88,
+                            36.81
+                        ],
+                        [
+                            -4.89,
+                            36.85
+                        ],
+                        [
+                            -4.82,
+                            36.87
+                        ],
+                        [
+                            -4.78,
+                            36.86
+                        ],
+                        [
+                            -4.77,
+                            36.92
+                        ],
+                        [
+                            -4.73,
+                            36.92
+                        ],
+                        [
+                            -4.67,
+                            36.96
+                        ],
+                        [
+                            -4.64,
+                            36.96
+                        ],
+                        [
+                            -4.66,
+                            36.91
+                        ],
+                        [
+                            -4.58,
+                            36.89
+                        ],
+                        [
+                            -4.49,
+                            36.91
+                        ],
+                        [
+                            -4.49,
+                            36.88
+                        ],
+                        [
+                            -4.45,
+                            36.84
+                        ],
+                        [
+                            -4.4,
+                            36.85
+                        ],
+                        [
+                            -4.36,
+                            36.89
+                        ],
+                        [
+                            -4.29,
+                            36.85
+                        ],
+                        [
+                            -4.27,
+                            36.82
+                        ],
+                        [
+                            -4.31,
+                            36.75
+                        ],
+                        [
+                            -4.31,
+                            36.71
+                        ],
+                        [
+                            -4.39,
+                            36.72
+                        ],
+                        [
+                            -4.42,
+                            36.72
+                        ],
+                        [
+                            -4.51,
+                            36.6
+                        ],
+                        [
+                            -4.53,
+                            36.58
+                        ],
+                        [
+                            -4.56,
+                            36.58
+                        ],
+                        [
+                            -4.61,
+                            36.56
+                        ],
+                        [
+                            -4.64,
+                            36.51
+                        ],
+                        [
+                            -4.7,
+                            36.49
+                        ],
+                        [
+                            -4.75,
+                            36.49
+                        ],
+                        [
+                            -4.87,
+                            36.51
+                        ],
+                        [
+                            -4.93,
+                            36.5
+                        ],
+                        [
+                            -4.98,
+                            36.48
+                        ],
+                        [
+                            -4.99,
+                            36.47
+                        ],
+                        [
+                            -5.08,
+                            36.45
+                        ],
+                        [
+                            -5.16,
+                            36.42
+                        ],
+                        [
+                            -5.22,
+                            36.37
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -5.27,
+                            36.34
+                        ],
+                        [
+                            -5.32,
+                            36.33
+                        ],
+                        [
+                            -5.34,
+                            36.4
+                        ],
+                        [
+                            -5.35,
+                            36.43
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Sol y Guadalhorce",
+                "geocode": "612903",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-21T11:20:10+02:00",
+                "onset": "2025-07-21T13:00:00+02:00",
+                "expires": "2025-07-21T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sol y Guadalhorce",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sol y Guadalhorce</b><b>\u00c1rea:</b> Sol y Guadalhorce<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC. Vientos terrales.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 21/07/2025 13:00<br><b>Fecha de fin:</b> 21/07/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        }
+    ]
 }
