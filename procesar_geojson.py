@@ -161,7 +161,6 @@ def process_xml_to_geojson(file_path):
                     # Asignar estilo
                     if nivel_textual in colores:
                         umap_options = {
-                            "color": "#333333",
                             "fillcolor": colores[nivel_textual],
                             "weight": 3,
                             "opacity": 1,
