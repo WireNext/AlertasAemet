@@ -164,6 +164,7 @@ def process_xml_to_geojson(file_path):
                             "color": colores[nivel_textual],
                             "weight": 3,
                             "opacity": 1,
+                            "fillOpacity": 1,
                             "interactive": True
                         }
                     else:
