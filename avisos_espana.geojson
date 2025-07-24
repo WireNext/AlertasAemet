@@ -1136,6 +1136,262 @@
                 "coordinates": [
                     [
                         [
+                            -0.01,
+                            38.87
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            0.61,
+                            38.9
+                        ],
+                        [
+                            0.64,
+                            38.86
+                        ],
+                        [
+                            0.65,
+                            38.81
+                        ],
+                        [
+                            0.66,
+                            38.71
+                        ],
+                        [
+                            0.64,
+                            38.65
+                        ],
+                        [
+                            0.61,
+                            38.58
+                        ],
+                        [
+                            0.57,
+                            38.53
+                        ],
+                        [
+                            0.51,
+                            38.48
+                        ],
+                        [
+                            0.43,
+                            38.44
+                        ],
+                        [
+                            0.29,
+                            38.38
+                        ],
+                        [
+                            0.26,
+                            38.34
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.02,
+                            38.63
+                        ],
+                        [
+                            0.03,
+                            38.63
+                        ],
+                        [
+                            0.07,
+                            38.64
+                        ],
+                        [
+                            0.2,
+                            38.73
+                        ],
+                        [
+                            0.22,
+                            38.76
+                        ],
+                        [
+                            0.2,
+                            38.77
+                        ],
+                        [
+                            0.17,
+                            38.81
+                        ],
+                        [
+                            0.09,
+                            38.85
+                        ],
+                        [
+                            -0.01,
+                            38.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral norte de Alicante",
+                "geocode": "770301C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-24T09:36:41+02:00",
+                "onset": "2025-07-24T15:00:00+02:00",
+                "expires": "2025-07-25T05:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral norte de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral norte de Alicante</b><b>\u00c1rea:</b> Costa - Litoral norte de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del nordeste de 50 a 60 km/h (fuerza 7) y olas de 3 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 24/07/2025 15:00<br><b>Fecha de fin:</b> 25/07/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.01,
+                            38.87
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            0.61,
+                            38.9
+                        ],
+                        [
+                            0.64,
+                            38.86
+                        ],
+                        [
+                            0.65,
+                            38.81
+                        ],
+                        [
+                            0.66,
+                            38.71
+                        ],
+                        [
+                            0.64,
+                            38.65
+                        ],
+                        [
+                            0.61,
+                            38.58
+                        ],
+                        [
+                            0.57,
+                            38.53
+                        ],
+                        [
+                            0.51,
+                            38.48
+                        ],
+                        [
+                            0.43,
+                            38.44
+                        ],
+                        [
+                            0.29,
+                            38.38
+                        ],
+                        [
+                            0.26,
+                            38.34
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.02,
+                            38.63
+                        ],
+                        [
+                            0.03,
+                            38.63
+                        ],
+                        [
+                            0.07,
+                            38.64
+                        ],
+                        [
+                            0.2,
+                            38.73
+                        ],
+                        [
+                            0.22,
+                            38.76
+                        ],
+                        [
+                            0.2,
+                            38.77
+                        ],
+                        [
+                            0.17,
+                            38.81
+                        ],
+                        [
+                            0.09,
+                            38.85
+                        ],
+                        [
+                            -0.01,
+                            38.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral norte de Alicante",
+                "geocode": "770301C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-24T09:36:41+02:00",
+                "onset": "2025-07-24T15:00:00+02:00",
+                "expires": "2025-07-25T05:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral norte de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral norte de Alicante</b><b>\u00c1rea:</b> Costa - Litoral norte de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del nordeste de 50 a 60 km/h (fuerza 7) y olas de 3 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 24/07/2025 15:00<br><b>Fecha de fin:</b> 25/07/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.3,
                             38.88
                         ],
@@ -8583,6 +8839,358 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de vientos de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. En cumbres de la La Palma afectando principalmente a la zona de El Paso y zonas expuestas de Garaf\u00eda. Lanzarote: interior y sudeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/07/2025 13:00<br><b>Fecha de fin:</b> 24/07/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            0.26,
+                            38.34
+                        ],
+                        [
+                            0.22,
+                            38.3
+                        ],
+                        [
+                            0.09,
+                            38.22
+                        ],
+                        [
+                            0.02,
+                            38.19
+                        ],
+                        [
+                            -0.04,
+                            38.18
+                        ],
+                        [
+                            -0.05,
+                            38.1
+                        ],
+                        [
+                            -0.07,
+                            38.04
+                        ],
+                        [
+                            -0.11,
+                            37.98
+                        ],
+                        [
+                            -0.16,
+                            37.93
+                        ],
+                        [
+                            -0.23,
+                            37.89
+                        ],
+                        [
+                            -0.28,
+                            37.86
+                        ],
+                        [
+                            -0.3,
+                            37.82
+                        ],
+                        [
+                            -0.29,
+                            37.78
+                        ],
+                        [
+                            -0.74,
+                            37.84
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.75,
+                            37.9
+                        ],
+                        [
+                            -0.7,
+                            37.94
+                        ],
+                        [
+                            -0.69,
+                            37.97
+                        ],
+                        [
+                            -0.65,
+                            37.99
+                        ],
+                        [
+                            -0.64,
+                            38.09
+                        ],
+                        [
+                            -0.63,
+                            38.14
+                        ],
+                        [
+                            -0.59,
+                            38.19
+                        ],
+                        [
+                            -0.54,
+                            38.19
+                        ],
+                        [
+                            -0.51,
+                            38.2
+                        ],
+                        [
+                            -0.52,
+                            38.3
+                        ],
+                        [
+                            -0.51,
+                            38.33
+                        ],
+                        [
+                            -0.44,
+                            38.36
+                        ],
+                        [
+                            -0.41,
+                            38.35
+                        ],
+                        [
+                            -0.4,
+                            38.41
+                        ],
+                        [
+                            -0.37,
+                            38.44
+                        ],
+                        [
+                            -0.32,
+                            38.48
+                        ],
+                        [
+                            -0.15,
+                            38.54
+                        ],
+                        [
+                            -0.07,
+                            38.54
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral sur de Alicante",
+                "geocode": "770303C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-24T09:36:41+02:00",
+                "onset": "2025-07-24T15:00:00+02:00",
+                "expires": "2025-07-25T05:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral sur de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral sur de Alicante</b><b>\u00c1rea:</b> Costa - Litoral sur de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del nordeste de 50 a 60 km/h (fuerza 7) y olas de 3 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 24/07/2025 15:00<br><b>Fecha de fin:</b> 25/07/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            0.26,
+                            38.34
+                        ],
+                        [
+                            0.22,
+                            38.3
+                        ],
+                        [
+                            0.09,
+                            38.22
+                        ],
+                        [
+                            0.02,
+                            38.19
+                        ],
+                        [
+                            -0.04,
+                            38.18
+                        ],
+                        [
+                            -0.05,
+                            38.1
+                        ],
+                        [
+                            -0.07,
+                            38.04
+                        ],
+                        [
+                            -0.11,
+                            37.98
+                        ],
+                        [
+                            -0.16,
+                            37.93
+                        ],
+                        [
+                            -0.23,
+                            37.89
+                        ],
+                        [
+                            -0.28,
+                            37.86
+                        ],
+                        [
+                            -0.3,
+                            37.82
+                        ],
+                        [
+                            -0.29,
+                            37.78
+                        ],
+                        [
+                            -0.74,
+                            37.84
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.75,
+                            37.9
+                        ],
+                        [
+                            -0.7,
+                            37.94
+                        ],
+                        [
+                            -0.69,
+                            37.97
+                        ],
+                        [
+                            -0.65,
+                            37.99
+                        ],
+                        [
+                            -0.64,
+                            38.09
+                        ],
+                        [
+                            -0.63,
+                            38.14
+                        ],
+                        [
+                            -0.59,
+                            38.19
+                        ],
+                        [
+                            -0.54,
+                            38.19
+                        ],
+                        [
+                            -0.51,
+                            38.2
+                        ],
+                        [
+                            -0.52,
+                            38.3
+                        ],
+                        [
+                            -0.51,
+                            38.33
+                        ],
+                        [
+                            -0.44,
+                            38.36
+                        ],
+                        [
+                            -0.41,
+                            38.35
+                        ],
+                        [
+                            -0.4,
+                            38.41
+                        ],
+                        [
+                            -0.37,
+                            38.44
+                        ],
+                        [
+                            -0.32,
+                            38.48
+                        ],
+                        [
+                            -0.15,
+                            38.54
+                        ],
+                        [
+                            -0.07,
+                            38.54
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral sur de Alicante",
+                "geocode": "770303C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-07-24T09:36:41+02:00",
+                "onset": "2025-07-24T15:00:00+02:00",
+                "expires": "2025-07-25T05:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral sur de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral sur de Alicante</b><b>\u00c1rea:</b> Costa - Litoral sur de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del nordeste de 50 a 60 km/h (fuerza 7) y olas de 3 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 24/07/2025 15:00<br><b>Fecha de fin:</b> 25/07/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
