@@ -1,4 +1,461 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.85,
+                            42.38
+                        ],
+                        [
+                            2.92,
+                            42.4
+                        ],
+                        [
+                            2.95,
+                            42.43
+                        ],
+                        [
+                            2.99,
+                            42.45
+                        ],
+                        [
+                            2.98,
+                            42.47
+                        ],
+                        [
+                            3.03,
+                            42.48
+                        ],
+                        [
+                            3.09,
+                            42.43
+                        ],
+                        [
+                            3.18,
+                            42.44
+                        ],
+                        [
+                            3.16,
+                            42.41
+                        ],
+                        [
+                            3.16,
+                            42.36
+                        ],
+                        [
+                            3.24,
+                            42.34
+                        ],
+                        [
+                            3.27,
+                            42.34
+                        ],
+                        [
+                            3.31,
+                            42.32
+                        ],
+                        [
+                            3.28,
+                            42.28
+                        ],
+                        [
+                            3.28,
+                            42.25
+                        ],
+                        [
+                            3.22,
+                            42.23
+                        ],
+                        [
+                            3.16,
+                            42.26
+                        ],
+                        [
+                            3.12,
+                            42.22
+                        ],
+                        [
+                            3.11,
+                            42.17
+                        ],
+                        [
+                            3.13,
+                            42.13
+                        ],
+                        [
+                            3.17,
+                            42.12
+                        ],
+                        [
+                            3.21,
+                            42.06
+                        ],
+                        [
+                            3.2,
+                            42.05
+                        ],
+                        [
+                            3.2,
+                            42.0
+                        ],
+                        [
+                            3.23,
+                            41.97
+                        ],
+                        [
+                            3.2,
+                            41.89
+                        ],
+                        [
+                            3.15,
+                            41.85
+                        ],
+                        [
+                            3.09,
+                            41.83
+                        ],
+                        [
+                            3.08,
+                            41.82
+                        ],
+                        [
+                            3.03,
+                            41.85
+                        ],
+                        [
+                            3.02,
+                            41.87
+                        ],
+                        [
+                            2.96,
+                            41.88
+                        ],
+                        [
+                            2.89,
+                            41.91
+                        ],
+                        [
+                            2.9,
+                            41.93
+                        ],
+                        [
+                            2.94,
+                            41.94
+                        ],
+                        [
+                            2.91,
+                            41.97
+                        ],
+                        [
+                            2.9,
+                            42.03
+                        ],
+                        [
+                            2.89,
+                            42.07
+                        ],
+                        [
+                            2.84,
+                            42.1
+                        ],
+                        [
+                            2.84,
+                            42.14
+                        ],
+                        [
+                            2.86,
+                            42.2
+                        ],
+                        [
+                            2.83,
+                            42.24
+                        ],
+                        [
+                            2.81,
+                            42.23
+                        ],
+                        [
+                            2.78,
+                            42.27
+                        ],
+                        [
+                            2.79,
+                            42.31
+                        ],
+                        [
+                            2.83,
+                            42.34
+                        ],
+                        [
+                            2.9,
+                            42.35
+                        ],
+                        [
+                            2.85,
+                            42.38
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Ampurd\u00e1n",
+                "geocode": "691703",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-08-04T18:34:27+02:00",
+                "onset": "2025-08-05T11:00:00+02:00",
+                "expires": "2025-08-05T18:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Ampurd\u00e1n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Ampurd\u00e1n</b><b>\u00c1rea:</b> Ampurd\u00e1n<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 05/08/2025 11:00<br><b>Fecha de fin:</b> 05/08/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.85,
+                            42.38
+                        ],
+                        [
+                            2.92,
+                            42.4
+                        ],
+                        [
+                            2.95,
+                            42.43
+                        ],
+                        [
+                            2.99,
+                            42.45
+                        ],
+                        [
+                            2.98,
+                            42.47
+                        ],
+                        [
+                            3.03,
+                            42.48
+                        ],
+                        [
+                            3.09,
+                            42.43
+                        ],
+                        [
+                            3.18,
+                            42.44
+                        ],
+                        [
+                            3.16,
+                            42.41
+                        ],
+                        [
+                            3.16,
+                            42.36
+                        ],
+                        [
+                            3.24,
+                            42.34
+                        ],
+                        [
+                            3.27,
+                            42.34
+                        ],
+                        [
+                            3.31,
+                            42.32
+                        ],
+                        [
+                            3.28,
+                            42.28
+                        ],
+                        [
+                            3.28,
+                            42.25
+                        ],
+                        [
+                            3.22,
+                            42.23
+                        ],
+                        [
+                            3.16,
+                            42.26
+                        ],
+                        [
+                            3.12,
+                            42.22
+                        ],
+                        [
+                            3.11,
+                            42.17
+                        ],
+                        [
+                            3.13,
+                            42.13
+                        ],
+                        [
+                            3.17,
+                            42.12
+                        ],
+                        [
+                            3.21,
+                            42.06
+                        ],
+                        [
+                            3.2,
+                            42.05
+                        ],
+                        [
+                            3.2,
+                            42.0
+                        ],
+                        [
+                            3.23,
+                            41.97
+                        ],
+                        [
+                            3.2,
+                            41.89
+                        ],
+                        [
+                            3.15,
+                            41.85
+                        ],
+                        [
+                            3.09,
+                            41.83
+                        ],
+                        [
+                            3.08,
+                            41.82
+                        ],
+                        [
+                            3.03,
+                            41.85
+                        ],
+                        [
+                            3.02,
+                            41.87
+                        ],
+                        [
+                            2.96,
+                            41.88
+                        ],
+                        [
+                            2.89,
+                            41.91
+                        ],
+                        [
+                            2.9,
+                            41.93
+                        ],
+                        [
+                            2.94,
+                            41.94
+                        ],
+                        [
+                            2.91,
+                            41.97
+                        ],
+                        [
+                            2.9,
+                            42.03
+                        ],
+                        [
+                            2.89,
+                            42.07
+                        ],
+                        [
+                            2.84,
+                            42.1
+                        ],
+                        [
+                            2.84,
+                            42.14
+                        ],
+                        [
+                            2.86,
+                            42.2
+                        ],
+                        [
+                            2.83,
+                            42.24
+                        ],
+                        [
+                            2.81,
+                            42.23
+                        ],
+                        [
+                            2.78,
+                            42.27
+                        ],
+                        [
+                            2.79,
+                            42.31
+                        ],
+                        [
+                            2.83,
+                            42.34
+                        ],
+                        [
+                            2.9,
+                            42.35
+                        ],
+                        [
+                            2.85,
+                            42.38
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Ampurd\u00e1n",
+                "geocode": "691703",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-08-04T18:34:27+02:00",
+                "onset": "2025-08-05T11:00:00+02:00",
+                "expires": "2025-08-05T18:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Ampurd\u00e1n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FF7F00",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Ampurd\u00e1n</b><b>\u00c1rea:</b> Ampurd\u00e1n<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 05/08/2025 11:00<br><b>Fecha de fin:</b> 05/08/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        }
+    ]
 }
