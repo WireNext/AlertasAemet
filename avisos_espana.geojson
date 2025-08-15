@@ -20728,6 +20728,534 @@
                 "coordinates": [
                     [
                         [
+                            -4.55,
+                            43.27
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.29,
+                            43.3
+                        ],
+                        [
+                            -3.39,
+                            43.25
+                        ],
+                        [
+                            -3.45,
+                            43.24
+                        ],
+                        [
+                            -3.42,
+                            43.13
+                        ],
+                        [
+                            -3.51,
+                            43.14
+                        ],
+                        [
+                            -3.58,
+                            43.15
+                        ],
+                        [
+                            -3.65,
+                            43.18
+                        ],
+                        [
+                            -3.7,
+                            43.12
+                        ],
+                        [
+                            -3.79,
+                            43.08
+                        ],
+                        [
+                            -3.89,
+                            43.04
+                        ],
+                        [
+                            -3.91,
+                            43.02
+                        ],
+                        [
+                            -3.94,
+                            43.01
+                        ],
+                        [
+                            -4.01,
+                            42.99
+                        ],
+                        [
+                            -4.08,
+                            42.99
+                        ],
+                        [
+                            -4.1,
+                            43.05
+                        ],
+                        [
+                            -4.15,
+                            43.06
+                        ],
+                        [
+                            -4.17,
+                            42.98
+                        ],
+                        [
+                            -4.18,
+                            42.95
+                        ],
+                        [
+                            -4.24,
+                            42.95
+                        ],
+                        [
+                            -4.26,
+                            42.97
+                        ],
+                        [
+                            -4.35,
+                            42.97
+                        ],
+                        [
+                            -4.4,
+                            43.04
+                        ],
+                        [
+                            -4.46,
+                            43.06
+                        ],
+                        [
+                            -4.48,
+                            43.12
+                        ],
+                        [
+                            -4.46,
+                            43.15
+                        ],
+                        [
+                            -4.51,
+                            43.17
+                        ],
+                        [
+                            -4.55,
+                            43.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Centro y valle de Villaverde",
+                "geocode": "663903",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel rojo",
+                "urgency": "Immediate",
+                "severity": "Extreme",
+                "certainty": "Observed",
+                "effective": "2025-08-15T15:52:21+02:00",
+                "onset": "2025-08-15T15:00:00+02:00",
+                "expires": "2025-08-15T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel rojo. Centro y valle de Villaverde",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "rojo",
+                "_umap_options": {
+                    "color": "#FF0000",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel rojo. Centro y valle de Villaverde</b><b>\u00c1rea:</b> Centro y valle de Villaverde<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 40 \u00baC.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 15:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.55,
+                            43.27
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.29,
+                            43.3
+                        ],
+                        [
+                            -3.39,
+                            43.25
+                        ],
+                        [
+                            -3.45,
+                            43.24
+                        ],
+                        [
+                            -3.42,
+                            43.13
+                        ],
+                        [
+                            -3.51,
+                            43.14
+                        ],
+                        [
+                            -3.58,
+                            43.15
+                        ],
+                        [
+                            -3.65,
+                            43.18
+                        ],
+                        [
+                            -3.7,
+                            43.12
+                        ],
+                        [
+                            -3.79,
+                            43.08
+                        ],
+                        [
+                            -3.89,
+                            43.04
+                        ],
+                        [
+                            -3.91,
+                            43.02
+                        ],
+                        [
+                            -3.94,
+                            43.01
+                        ],
+                        [
+                            -4.01,
+                            42.99
+                        ],
+                        [
+                            -4.08,
+                            42.99
+                        ],
+                        [
+                            -4.1,
+                            43.05
+                        ],
+                        [
+                            -4.15,
+                            43.06
+                        ],
+                        [
+                            -4.17,
+                            42.98
+                        ],
+                        [
+                            -4.18,
+                            42.95
+                        ],
+                        [
+                            -4.24,
+                            42.95
+                        ],
+                        [
+                            -4.26,
+                            42.97
+                        ],
+                        [
+                            -4.35,
+                            42.97
+                        ],
+                        [
+                            -4.4,
+                            43.04
+                        ],
+                        [
+                            -4.46,
+                            43.06
+                        ],
+                        [
+                            -4.48,
+                            43.12
+                        ],
+                        [
+                            -4.46,
+                            43.15
+                        ],
+                        [
+                            -4.51,
+                            43.17
+                        ],
+                        [
+                            -4.55,
+                            43.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Centro y valle de Villaverde",
+                "geocode": "663903",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel rojo",
+                "urgency": "Immediate",
+                "severity": "Extreme",
+                "certainty": "Observed",
+                "effective": "2025-08-15T15:52:21+02:00",
+                "onset": "2025-08-15T15:00:00+02:00",
+                "expires": "2025-08-15T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel rojo. Centro y valle de Villaverde",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "rojo",
+                "_umap_options": {
+                    "color": "#FF0000",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel rojo. Centro y valle de Villaverde</b><b>\u00c1rea:</b> Centro y valle de Villaverde<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 40 \u00baC.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 15:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -2.54,
                             42.64
                         ],
@@ -40368,534 +40896,6 @@
                 "coordinates": [
                     [
                         [
-                            -4.55,
-                            43.27
-                        ],
-                        [
-                            -4.52,
-                            43.28
-                        ],
-                        [
-                            -4.41,
-                            43.3
-                        ],
-                        [
-                            -4.39,
-                            43.28
-                        ],
-                        [
-                            -4.32,
-                            43.27
-                        ],
-                        [
-                            -4.24,
-                            43.28
-                        ],
-                        [
-                            -4.2,
-                            43.32
-                        ],
-                        [
-                            -4.14,
-                            43.33
-                        ],
-                        [
-                            -4.11,
-                            43.29
-                        ],
-                        [
-                            -4.02,
-                            43.31
-                        ],
-                        [
-                            -4.0,
-                            43.33
-                        ],
-                        [
-                            -3.95,
-                            43.33
-                        ],
-                        [
-                            -3.93,
-                            43.3
-                        ],
-                        [
-                            -3.85,
-                            43.34
-                        ],
-                        [
-                            -3.8,
-                            43.3
-                        ],
-                        [
-                            -3.77,
-                            43.29
-                        ],
-                        [
-                            -3.71,
-                            43.32
-                        ],
-                        [
-                            -3.65,
-                            43.3
-                        ],
-                        [
-                            -3.61,
-                            43.34
-                        ],
-                        [
-                            -3.57,
-                            43.34
-                        ],
-                        [
-                            -3.55,
-                            43.31
-                        ],
-                        [
-                            -3.51,
-                            43.3
-                        ],
-                        [
-                            -3.47,
-                            43.32
-                        ],
-                        [
-                            -3.44,
-                            43.36
-                        ],
-                        [
-                            -3.37,
-                            43.36
-                        ],
-                        [
-                            -3.33,
-                            43.39
-                        ],
-                        [
-                            -3.28,
-                            43.36
-                        ],
-                        [
-                            -3.28,
-                            43.34
-                        ],
-                        [
-                            -3.24,
-                            43.32
-                        ],
-                        [
-                            -3.22,
-                            43.29
-                        ],
-                        [
-                            -3.29,
-                            43.3
-                        ],
-                        [
-                            -3.39,
-                            43.25
-                        ],
-                        [
-                            -3.45,
-                            43.24
-                        ],
-                        [
-                            -3.42,
-                            43.13
-                        ],
-                        [
-                            -3.51,
-                            43.14
-                        ],
-                        [
-                            -3.58,
-                            43.15
-                        ],
-                        [
-                            -3.65,
-                            43.18
-                        ],
-                        [
-                            -3.7,
-                            43.12
-                        ],
-                        [
-                            -3.79,
-                            43.08
-                        ],
-                        [
-                            -3.89,
-                            43.04
-                        ],
-                        [
-                            -3.91,
-                            43.02
-                        ],
-                        [
-                            -3.94,
-                            43.01
-                        ],
-                        [
-                            -4.01,
-                            42.99
-                        ],
-                        [
-                            -4.08,
-                            42.99
-                        ],
-                        [
-                            -4.1,
-                            43.05
-                        ],
-                        [
-                            -4.15,
-                            43.06
-                        ],
-                        [
-                            -4.17,
-                            42.98
-                        ],
-                        [
-                            -4.18,
-                            42.95
-                        ],
-                        [
-                            -4.24,
-                            42.95
-                        ],
-                        [
-                            -4.26,
-                            42.97
-                        ],
-                        [
-                            -4.35,
-                            42.97
-                        ],
-                        [
-                            -4.4,
-                            43.04
-                        ],
-                        [
-                            -4.46,
-                            43.06
-                        ],
-                        [
-                            -4.48,
-                            43.12
-                        ],
-                        [
-                            -4.46,
-                            43.15
-                        ],
-                        [
-                            -4.51,
-                            43.17
-                        ],
-                        [
-                            -4.55,
-                            43.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Centro y valle de Villaverde",
-                "geocode": "663903",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-08-14T10:58:01+02:00",
-                "onset": "2025-08-15T13:00:00+02:00",
-                "expires": "2025-08-15T20:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Centro y valle de Villaverde",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Centro y valle de Villaverde</b><b>\u00c1rea:</b> Centro y valle de Villaverde<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 13:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -4.55,
-                            43.27
-                        ],
-                        [
-                            -4.52,
-                            43.28
-                        ],
-                        [
-                            -4.41,
-                            43.3
-                        ],
-                        [
-                            -4.39,
-                            43.28
-                        ],
-                        [
-                            -4.32,
-                            43.27
-                        ],
-                        [
-                            -4.24,
-                            43.28
-                        ],
-                        [
-                            -4.2,
-                            43.32
-                        ],
-                        [
-                            -4.14,
-                            43.33
-                        ],
-                        [
-                            -4.11,
-                            43.29
-                        ],
-                        [
-                            -4.02,
-                            43.31
-                        ],
-                        [
-                            -4.0,
-                            43.33
-                        ],
-                        [
-                            -3.95,
-                            43.33
-                        ],
-                        [
-                            -3.93,
-                            43.3
-                        ],
-                        [
-                            -3.85,
-                            43.34
-                        ],
-                        [
-                            -3.8,
-                            43.3
-                        ],
-                        [
-                            -3.77,
-                            43.29
-                        ],
-                        [
-                            -3.71,
-                            43.32
-                        ],
-                        [
-                            -3.65,
-                            43.3
-                        ],
-                        [
-                            -3.61,
-                            43.34
-                        ],
-                        [
-                            -3.57,
-                            43.34
-                        ],
-                        [
-                            -3.55,
-                            43.31
-                        ],
-                        [
-                            -3.51,
-                            43.3
-                        ],
-                        [
-                            -3.47,
-                            43.32
-                        ],
-                        [
-                            -3.44,
-                            43.36
-                        ],
-                        [
-                            -3.37,
-                            43.36
-                        ],
-                        [
-                            -3.33,
-                            43.39
-                        ],
-                        [
-                            -3.28,
-                            43.36
-                        ],
-                        [
-                            -3.28,
-                            43.34
-                        ],
-                        [
-                            -3.24,
-                            43.32
-                        ],
-                        [
-                            -3.22,
-                            43.29
-                        ],
-                        [
-                            -3.29,
-                            43.3
-                        ],
-                        [
-                            -3.39,
-                            43.25
-                        ],
-                        [
-                            -3.45,
-                            43.24
-                        ],
-                        [
-                            -3.42,
-                            43.13
-                        ],
-                        [
-                            -3.51,
-                            43.14
-                        ],
-                        [
-                            -3.58,
-                            43.15
-                        ],
-                        [
-                            -3.65,
-                            43.18
-                        ],
-                        [
-                            -3.7,
-                            43.12
-                        ],
-                        [
-                            -3.79,
-                            43.08
-                        ],
-                        [
-                            -3.89,
-                            43.04
-                        ],
-                        [
-                            -3.91,
-                            43.02
-                        ],
-                        [
-                            -3.94,
-                            43.01
-                        ],
-                        [
-                            -4.01,
-                            42.99
-                        ],
-                        [
-                            -4.08,
-                            42.99
-                        ],
-                        [
-                            -4.1,
-                            43.05
-                        ],
-                        [
-                            -4.15,
-                            43.06
-                        ],
-                        [
-                            -4.17,
-                            42.98
-                        ],
-                        [
-                            -4.18,
-                            42.95
-                        ],
-                        [
-                            -4.24,
-                            42.95
-                        ],
-                        [
-                            -4.26,
-                            42.97
-                        ],
-                        [
-                            -4.35,
-                            42.97
-                        ],
-                        [
-                            -4.4,
-                            43.04
-                        ],
-                        [
-                            -4.46,
-                            43.06
-                        ],
-                        [
-                            -4.48,
-                            43.12
-                        ],
-                        [
-                            -4.46,
-                            43.15
-                        ],
-                        [
-                            -4.51,
-                            43.17
-                        ],
-                        [
-                            -4.55,
-                            43.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Centro y valle de Villaverde",
-                "geocode": "663903",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-08-14T10:58:01+02:00",
-                "onset": "2025-08-15T13:00:00+02:00",
-                "expires": "2025-08-15T20:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Centro y valle de Villaverde",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Centro y valle de Villaverde</b><b>\u00c1rea:</b> Centro y valle de Villaverde<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 13:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -6.97,
                             38.47
                         ],
@@ -50543,6 +50543,262 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Ampurd\u00e1n</b><b>\u00c1rea:</b> Ampurd\u00e1n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 12:00<br><b>Fecha de fin:</b> 15/08/2025 19:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.84,
+                            43.18
+                        ],
+                        [
+                            -4.78,
+                            43.19
+                        ],
+                        [
+                            -4.74,
+                            43.18
+                        ],
+                        [
+                            -4.7,
+                            43.27
+                        ],
+                        [
+                            -4.63,
+                            43.27
+                        ],
+                        [
+                            -4.6,
+                            43.3
+                        ],
+                        [
+                            -4.55,
+                            43.27
+                        ],
+                        [
+                            -4.51,
+                            43.17
+                        ],
+                        [
+                            -4.46,
+                            43.15
+                        ],
+                        [
+                            -4.48,
+                            43.12
+                        ],
+                        [
+                            -4.46,
+                            43.06
+                        ],
+                        [
+                            -4.47,
+                            43.04
+                        ],
+                        [
+                            -4.52,
+                            43.05
+                        ],
+                        [
+                            -4.56,
+                            43.02
+                        ],
+                        [
+                            -4.6,
+                            43.04
+                        ],
+                        [
+                            -4.64,
+                            43.02
+                        ],
+                        [
+                            -4.68,
+                            43.03
+                        ],
+                        [
+                            -4.74,
+                            43.02
+                        ],
+                        [
+                            -4.73,
+                            43.05
+                        ],
+                        [
+                            -4.77,
+                            43.07
+                        ],
+                        [
+                            -4.82,
+                            43.09
+                        ],
+                        [
+                            -4.85,
+                            43.13
+                        ],
+                        [
+                            -4.84,
+                            43.18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Li\u00e9bana",
+                "geocode": "663902",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel rojo",
+                "urgency": "Immediate",
+                "severity": "Extreme",
+                "certainty": "Observed",
+                "effective": "2025-08-15T15:52:21+02:00",
+                "onset": "2025-08-15T15:00:00+02:00",
+                "expires": "2025-08-15T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel rojo. Li\u00e9bana",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "rojo",
+                "_umap_options": {
+                    "color": "#FF0000",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel rojo. Li\u00e9bana</b><b>\u00c1rea:</b> Li\u00e9bana<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 40 \u00baC.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 15:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.84,
+                            43.18
+                        ],
+                        [
+                            -4.78,
+                            43.19
+                        ],
+                        [
+                            -4.74,
+                            43.18
+                        ],
+                        [
+                            -4.7,
+                            43.27
+                        ],
+                        [
+                            -4.63,
+                            43.27
+                        ],
+                        [
+                            -4.6,
+                            43.3
+                        ],
+                        [
+                            -4.55,
+                            43.27
+                        ],
+                        [
+                            -4.51,
+                            43.17
+                        ],
+                        [
+                            -4.46,
+                            43.15
+                        ],
+                        [
+                            -4.48,
+                            43.12
+                        ],
+                        [
+                            -4.46,
+                            43.06
+                        ],
+                        [
+                            -4.47,
+                            43.04
+                        ],
+                        [
+                            -4.52,
+                            43.05
+                        ],
+                        [
+                            -4.56,
+                            43.02
+                        ],
+                        [
+                            -4.6,
+                            43.04
+                        ],
+                        [
+                            -4.64,
+                            43.02
+                        ],
+                        [
+                            -4.68,
+                            43.03
+                        ],
+                        [
+                            -4.74,
+                            43.02
+                        ],
+                        [
+                            -4.73,
+                            43.05
+                        ],
+                        [
+                            -4.77,
+                            43.07
+                        ],
+                        [
+                            -4.82,
+                            43.09
+                        ],
+                        [
+                            -4.85,
+                            43.13
+                        ],
+                        [
+                            -4.84,
+                            43.18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Li\u00e9bana",
+                "geocode": "663902",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00e1ximas de nivel rojo",
+                "urgency": "Immediate",
+                "severity": "Extreme",
+                "certainty": "Observed",
+                "effective": "2025-08-15T15:52:21+02:00",
+                "onset": "2025-08-15T15:00:00+02:00",
+                "expires": "2025-08-15T20:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00e1ximas de nivel rojo. Li\u00e9bana",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "AT;Temperaturas m\u00e1ximas",
+                "parameter": "rojo",
+                "_umap_options": {
+                    "color": "#FF0000",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel rojo. Li\u00e9bana</b><b>\u00c1rea:</b> Li\u00e9bana<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 40 \u00baC.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 15:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -64351,262 +64607,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Alcaraz y Segura</b><b>\u00c1rea:</b> Alcaraz y Segura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 13:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -4.84,
-                            43.18
-                        ],
-                        [
-                            -4.78,
-                            43.19
-                        ],
-                        [
-                            -4.74,
-                            43.18
-                        ],
-                        [
-                            -4.7,
-                            43.27
-                        ],
-                        [
-                            -4.63,
-                            43.27
-                        ],
-                        [
-                            -4.6,
-                            43.3
-                        ],
-                        [
-                            -4.55,
-                            43.27
-                        ],
-                        [
-                            -4.51,
-                            43.17
-                        ],
-                        [
-                            -4.46,
-                            43.15
-                        ],
-                        [
-                            -4.48,
-                            43.12
-                        ],
-                        [
-                            -4.46,
-                            43.06
-                        ],
-                        [
-                            -4.47,
-                            43.04
-                        ],
-                        [
-                            -4.52,
-                            43.05
-                        ],
-                        [
-                            -4.56,
-                            43.02
-                        ],
-                        [
-                            -4.6,
-                            43.04
-                        ],
-                        [
-                            -4.64,
-                            43.02
-                        ],
-                        [
-                            -4.68,
-                            43.03
-                        ],
-                        [
-                            -4.74,
-                            43.02
-                        ],
-                        [
-                            -4.73,
-                            43.05
-                        ],
-                        [
-                            -4.77,
-                            43.07
-                        ],
-                        [
-                            -4.82,
-                            43.09
-                        ],
-                        [
-                            -4.85,
-                            43.13
-                        ],
-                        [
-                            -4.84,
-                            43.18
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Li\u00e9bana",
-                "geocode": "663902",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-08-15T10:38:27+02:00",
-                "onset": "2025-08-15T13:00:00+02:00",
-                "expires": "2025-08-15T20:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Li\u00e9bana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Li\u00e9bana</b><b>\u00c1rea:</b> Li\u00e9bana<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Localmente se podr\u00e1n alcanzar los 40\u00baC en zonas bajas.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 13:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -4.84,
-                            43.18
-                        ],
-                        [
-                            -4.78,
-                            43.19
-                        ],
-                        [
-                            -4.74,
-                            43.18
-                        ],
-                        [
-                            -4.7,
-                            43.27
-                        ],
-                        [
-                            -4.63,
-                            43.27
-                        ],
-                        [
-                            -4.6,
-                            43.3
-                        ],
-                        [
-                            -4.55,
-                            43.27
-                        ],
-                        [
-                            -4.51,
-                            43.17
-                        ],
-                        [
-                            -4.46,
-                            43.15
-                        ],
-                        [
-                            -4.48,
-                            43.12
-                        ],
-                        [
-                            -4.46,
-                            43.06
-                        ],
-                        [
-                            -4.47,
-                            43.04
-                        ],
-                        [
-                            -4.52,
-                            43.05
-                        ],
-                        [
-                            -4.56,
-                            43.02
-                        ],
-                        [
-                            -4.6,
-                            43.04
-                        ],
-                        [
-                            -4.64,
-                            43.02
-                        ],
-                        [
-                            -4.68,
-                            43.03
-                        ],
-                        [
-                            -4.74,
-                            43.02
-                        ],
-                        [
-                            -4.73,
-                            43.05
-                        ],
-                        [
-                            -4.77,
-                            43.07
-                        ],
-                        [
-                            -4.82,
-                            43.09
-                        ],
-                        [
-                            -4.85,
-                            43.13
-                        ],
-                        [
-                            -4.84,
-                            43.18
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Li\u00e9bana",
-                "geocode": "663902",
-                "category": "Met",
-                "event": "Aviso de temperaturas m\u00e1ximas de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-08-15T10:38:27+02:00",
-                "onset": "2025-08-15T13:00:00+02:00",
-                "expires": "2025-08-15T20:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de temperaturas m\u00e1ximas de nivel naranja. Li\u00e9bana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "AT;Temperaturas m\u00e1ximas",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FF7F00",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel naranja. Li\u00e9bana</b><b>\u00c1rea:</b> Li\u00e9bana<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Localmente se podr\u00e1n alcanzar los 40\u00baC en zonas bajas.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 15/08/2025 13:00<br><b>Fecha de fin:</b> 15/08/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
