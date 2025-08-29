@@ -1616,6 +1616,310 @@
                 "coordinates": [
                     [
                         [
+                            -2.49,
+                            43.37
+                        ],
+                        [
+                            -2.54,
+                            43.37
+                        ],
+                        [
+                            -2.56,
+                            43.39
+                        ],
+                        [
+                            -2.62,
+                            43.39
+                        ],
+                        [
+                            -2.72,
+                            43.42
+                        ],
+                        [
+                            -2.75,
+                            43.46
+                        ],
+                        [
+                            -2.81,
+                            43.43
+                        ],
+                        [
+                            -2.94,
+                            43.44
+                        ],
+                        [
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -3.03,
+                            43.37
+                        ],
+                        [
+                            -3.01,
+                            43.34
+                        ],
+                        [
+                            -3.11,
+                            43.36
+                        ],
+                        [
+                            -3.11,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.16,
+                            43.73
+                        ],
+                        [
+                            -3.1,
+                            43.75
+                        ],
+                        [
+                            -3.01,
+                            43.77
+                        ],
+                        [
+                            -2.82,
+                            43.79
+                        ],
+                        [
+                            -2.72,
+                            43.79
+                        ],
+                        [
+                            -2.62,
+                            43.78
+                        ],
+                        [
+                            -2.53,
+                            43.75
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.49,
+                            43.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Bizkaia litoral",
+                "geocode": "754801C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-08-28T11:04:23+02:00",
+                "onset": "2025-08-29T07:00:00+02:00",
+                "expires": "2025-08-29T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral</b><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Oeste de 50 a 61 km/h (fuerza 7) y mar combinada del Noroeste de 4 a 5 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/08/2025 07:00<br><b>Fecha de fin:</b> 29/08/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49,
+                            43.37
+                        ],
+                        [
+                            -2.54,
+                            43.37
+                        ],
+                        [
+                            -2.56,
+                            43.39
+                        ],
+                        [
+                            -2.62,
+                            43.39
+                        ],
+                        [
+                            -2.72,
+                            43.42
+                        ],
+                        [
+                            -2.75,
+                            43.46
+                        ],
+                        [
+                            -2.81,
+                            43.43
+                        ],
+                        [
+                            -2.94,
+                            43.44
+                        ],
+                        [
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -3.03,
+                            43.37
+                        ],
+                        [
+                            -3.01,
+                            43.34
+                        ],
+                        [
+                            -3.11,
+                            43.36
+                        ],
+                        [
+                            -3.11,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.16,
+                            43.73
+                        ],
+                        [
+                            -3.1,
+                            43.75
+                        ],
+                        [
+                            -3.01,
+                            43.77
+                        ],
+                        [
+                            -2.82,
+                            43.79
+                        ],
+                        [
+                            -2.72,
+                            43.79
+                        ],
+                        [
+                            -2.62,
+                            43.78
+                        ],
+                        [
+                            -2.53,
+                            43.75
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.49,
+                            43.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Bizkaia litoral",
+                "geocode": "754801C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-08-28T11:04:23+02:00",
+                "onset": "2025-08-29T07:00:00+02:00",
+                "expires": "2025-08-29T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral</b><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Oeste de 50 a 61 km/h (fuerza 7) y mar combinada del Noroeste de 4 a 5 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/08/2025 07:00<br><b>Fecha de fin:</b> 29/08/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -7.03,
                             43.55
                         ],
