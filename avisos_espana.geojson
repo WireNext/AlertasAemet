@@ -8,766 +8,6 @@
                 "coordinates": [
                     [
                         [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Sierra Tramontana",
-                "geocode": "645401",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Sierra Tramontana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Sierra Tramontana",
-                "geocode": "645401",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Sierra Tramontana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Sierra Tramontana",
-                "geocode": "645401",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Sierra Tramontana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sierra Tramontana</b><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Sierra Tramontana",
-                "geocode": "645401",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Sierra Tramontana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sierra Tramontana</b><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Menorca</b><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Menorca</b><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -5.94,
                             43.59
                         ],
@@ -1608,156 +848,188 @@
                 "coordinates": [
                     [
                         [
-                            2.93,
-                            39.81
+                            -3.15,
+                            43.35
                         ],
                         [
-                            2.94,
-                            39.84
+                            -3.19,
+                            43.36
                         ],
                         [
-                            2.93,
-                            39.9
+                            -3.22,
+                            43.39
                         ],
                         [
-                            2.95,
-                            39.92
+                            -3.33,
+                            43.42
                         ],
                         [
-                            2.99,
-                            39.91
+                            -3.43,
+                            43.41
                         ],
                         [
-                            3.03,
-                            39.94
+                            -3.43,
+                            43.47
                         ],
                         [
-                            3.09,
-                            39.91
+                            -3.49,
+                            43.47
                         ],
                         [
-                            3.08,
-                            39.89
+                            -3.55,
+                            43.51
                         ],
                         [
-                            3.11,
-                            39.86
+                            -3.6,
+                            43.51
                         ],
                         [
-                            3.17,
-                            39.88
+                            -3.69,
+                            43.48
                         ],
                         [
-                            3.2,
-                            39.86
+                            -3.77,
+                            43.45
                         ],
                         [
-                            3.12,
-                            39.82
+                            -3.81,
+                            43.41
                         ],
                         [
-                            3.15,
-                            39.77
+                            -3.81,
+                            43.4
                         ],
                         [
-                            3.26,
-                            39.73
+                            -3.83,
+                            43.44
                         ],
                         [
-                            3.33,
-                            39.76
+                            -3.78,
+                            43.46
                         ],
                         [
-                            3.35,
-                            39.79
+                            -3.81,
+                            43.5
                         ],
                         [
-                            3.41,
-                            39.76
+                            -3.86,
+                            43.48
                         ],
                         [
-                            3.45,
-                            39.72
+                            -3.94,
+                            43.47
                         ],
                         [
-                            3.46,
-                            39.69
+                            -3.98,
+                            43.44
                         ],
                         [
-                            3.44,
-                            39.64
+                            -4.05,
+                            43.44
                         ],
                         [
-                            3.44,
-                            39.63
+                            -4.05,
+                            43.43
                         ],
                         [
-                            3.39,
-                            39.67
+                            -4.22,
+                            43.4
                         ],
                         [
-                            3.36,
-                            39.67
+                            -4.28,
+                            43.39
                         ],
                         [
-                            3.31,
-                            39.64
+                            -4.41,
+                            43.4
                         ],
                         [
-                            3.28,
-                            39.68
+                            -4.5,
+                            43.4
                         ],
                         [
-                            3.25,
-                            39.68
+                            -4.51,
+                            43.39
                         ],
                         [
-                            3.23,
-                            39.7
+                            -4.51,
+                            43.51
                         ],
                         [
-                            3.16,
-                            39.7
+                            -4.52,
+                            43.73
                         ],
                         [
-                            3.11,
-                            39.68
+                            -4.3,
+                            43.73
                         ],
                         [
-                            3.02,
-                            39.74
+                            -4.21,
+                            43.76
                         ],
                         [
-                            3.0,
-                            39.73
+                            -3.94,
+                            43.82
                         ],
                         [
-                            2.95,
-                            39.76
+                            -3.85,
+                            43.83
                         ],
                         [
-                            2.93,
-                            39.81
+                            -3.75,
+                            43.82
+                        ],
+                        [
+                            -3.66,
+                            43.84
+                        ],
+                        [
+                            -3.56,
+                            43.85
+                        ],
+                        [
+                            -3.47,
+                            43.84
+                        ],
+                        [
+                            -3.38,
+                            43.81
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.15,
+                            43.35
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Norte y nordeste de Mallorca",
-                "geocode": "645402",
+                "areaDesc": "Costa - Litoral c\u00e1ntabro",
+                "geocode": "663901C",
                 "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Immediate",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
+                "effective": "2025-08-28T11:04:23+02:00",
+                "onset": "2025-08-29T06:00:00+02:00",
+                "expires": "2025-08-29T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Norte y nordeste de Mallorca",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
+                "eventCode": "CO;Costeros",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -1766,7 +1038,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Norte y nordeste de Mallorca</b><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro</b><b>\u00c1rea:</b> Costa - Litoral c\u00e1ntabro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Oeste de 50 a 61 km/h (fuerza 7) y mar combinada del Noroeste de 4 a 5 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/08/2025 06:00<br><b>Fecha de fin:</b> 29/08/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1776,156 +1048,188 @@
                 "coordinates": [
                     [
                         [
-                            2.93,
-                            39.81
+                            -3.15,
+                            43.35
                         ],
                         [
-                            2.94,
-                            39.84
+                            -3.19,
+                            43.36
                         ],
                         [
-                            2.93,
-                            39.9
+                            -3.22,
+                            43.39
                         ],
                         [
-                            2.95,
-                            39.92
+                            -3.33,
+                            43.42
                         ],
                         [
-                            2.99,
-                            39.91
+                            -3.43,
+                            43.41
                         ],
                         [
-                            3.03,
-                            39.94
+                            -3.43,
+                            43.47
                         ],
                         [
-                            3.09,
-                            39.91
+                            -3.49,
+                            43.47
                         ],
                         [
-                            3.08,
-                            39.89
+                            -3.55,
+                            43.51
                         ],
                         [
-                            3.11,
-                            39.86
+                            -3.6,
+                            43.51
                         ],
                         [
-                            3.17,
-                            39.88
+                            -3.69,
+                            43.48
                         ],
                         [
-                            3.2,
-                            39.86
+                            -3.77,
+                            43.45
                         ],
                         [
-                            3.12,
-                            39.82
+                            -3.81,
+                            43.41
                         ],
                         [
-                            3.15,
-                            39.77
+                            -3.81,
+                            43.4
                         ],
                         [
-                            3.26,
-                            39.73
+                            -3.83,
+                            43.44
                         ],
                         [
-                            3.33,
-                            39.76
+                            -3.78,
+                            43.46
                         ],
                         [
-                            3.35,
-                            39.79
+                            -3.81,
+                            43.5
                         ],
                         [
-                            3.41,
-                            39.76
+                            -3.86,
+                            43.48
                         ],
                         [
-                            3.45,
-                            39.72
+                            -3.94,
+                            43.47
                         ],
                         [
-                            3.46,
-                            39.69
+                            -3.98,
+                            43.44
                         ],
                         [
-                            3.44,
-                            39.64
+                            -4.05,
+                            43.44
                         ],
                         [
-                            3.44,
-                            39.63
+                            -4.05,
+                            43.43
                         ],
                         [
-                            3.39,
-                            39.67
+                            -4.22,
+                            43.4
                         ],
                         [
-                            3.36,
-                            39.67
+                            -4.28,
+                            43.39
                         ],
                         [
-                            3.31,
-                            39.64
+                            -4.41,
+                            43.4
                         ],
                         [
-                            3.28,
-                            39.68
+                            -4.5,
+                            43.4
                         ],
                         [
-                            3.25,
-                            39.68
+                            -4.51,
+                            43.39
                         ],
                         [
-                            3.23,
-                            39.7
+                            -4.51,
+                            43.51
                         ],
                         [
-                            3.16,
-                            39.7
+                            -4.52,
+                            43.73
                         ],
                         [
-                            3.11,
-                            39.68
+                            -4.3,
+                            43.73
                         ],
                         [
-                            3.02,
-                            39.74
+                            -4.21,
+                            43.76
                         ],
                         [
-                            3.0,
-                            39.73
+                            -3.94,
+                            43.82
                         ],
                         [
-                            2.95,
-                            39.76
+                            -3.85,
+                            43.83
                         ],
                         [
-                            2.93,
-                            39.81
+                            -3.75,
+                            43.82
+                        ],
+                        [
+                            -3.66,
+                            43.84
+                        ],
+                        [
+                            -3.56,
+                            43.85
+                        ],
+                        [
+                            -3.47,
+                            43.84
+                        ],
+                        [
+                            -3.38,
+                            43.81
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.15,
+                            43.35
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Norte y nordeste de Mallorca",
-                "geocode": "645402",
+                "areaDesc": "Costa - Litoral c\u00e1ntabro",
+                "geocode": "663901C",
                 "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Immediate",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
+                "effective": "2025-08-28T11:04:23+02:00",
+                "onset": "2025-08-29T06:00:00+02:00",
+                "expires": "2025-08-29T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Norte y nordeste de Mallorca",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
+                "eventCode": "CO;Costeros",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -1934,7 +1238,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Norte y nordeste de Mallorca</b><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro</b><b>\u00c1rea:</b> Costa - Litoral c\u00e1ntabro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Oeste de 50 a 61 km/h (fuerza 7) y mar combinada del Noroeste de 4 a 5 metros.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/08/2025 06:00<br><b>Fecha de fin:</b> 29/08/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2312,254 +1616,6 @@
                 "coordinates": [
                     [
                         [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Menorca</b><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Menorca</b><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -7.03,
                             43.55
                         ],
@@ -2839,342 +1895,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a</b><b>\u00c1rea:</b> Costa - A Mari\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> En torno a Ortegal y Bares, viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Noroeste de 4 a 5 metros, principalmente en torno a Ortegal y Bares y mar adentro.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/08/2025 00:00<br><b>Fecha de fin:</b> 29/08/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte y nordeste de Mallorca",
-                "geocode": "645402",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte y nordeste de Mallorca",
-                "geocode": "645402",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-28T17:31:51+02:00",
-                "onset": "2025-08-28T17:00:00+02:00",
-                "expires": "2025-08-29T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/08/2025 17:00<br><b>Fecha de fin:</b> 29/08/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
