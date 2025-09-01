@@ -8,6 +8,966 @@
                 "coordinates": [
                     [
                         [
+                            -2.49,
+                            43.37
+                        ],
+                        [
+                            -2.54,
+                            43.37
+                        ],
+                        [
+                            -2.56,
+                            43.39
+                        ],
+                        [
+                            -2.62,
+                            43.39
+                        ],
+                        [
+                            -2.72,
+                            43.42
+                        ],
+                        [
+                            -2.75,
+                            43.46
+                        ],
+                        [
+                            -2.81,
+                            43.43
+                        ],
+                        [
+                            -2.94,
+                            43.44
+                        ],
+                        [
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -3.03,
+                            43.37
+                        ],
+                        [
+                            -3.01,
+                            43.34
+                        ],
+                        [
+                            -3.11,
+                            43.36
+                        ],
+                        [
+                            -3.11,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.16,
+                            43.73
+                        ],
+                        [
+                            -3.1,
+                            43.75
+                        ],
+                        [
+                            -3.01,
+                            43.77
+                        ],
+                        [
+                            -2.82,
+                            43.79
+                        ],
+                        [
+                            -2.72,
+                            43.79
+                        ],
+                        [
+                            -2.62,
+                            43.78
+                        ],
+                        [
+                            -2.53,
+                            43.75
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.49,
+                            43.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Bizkaia litoral",
+                "geocode": "754801C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:53:59+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral</b><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49,
+                            43.37
+                        ],
+                        [
+                            -2.54,
+                            43.37
+                        ],
+                        [
+                            -2.56,
+                            43.39
+                        ],
+                        [
+                            -2.62,
+                            43.39
+                        ],
+                        [
+                            -2.72,
+                            43.42
+                        ],
+                        [
+                            -2.75,
+                            43.46
+                        ],
+                        [
+                            -2.81,
+                            43.43
+                        ],
+                        [
+                            -2.94,
+                            43.44
+                        ],
+                        [
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -3.03,
+                            43.37
+                        ],
+                        [
+                            -3.01,
+                            43.34
+                        ],
+                        [
+                            -3.11,
+                            43.36
+                        ],
+                        [
+                            -3.11,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.16,
+                            43.73
+                        ],
+                        [
+                            -3.1,
+                            43.75
+                        ],
+                        [
+                            -3.01,
+                            43.77
+                        ],
+                        [
+                            -2.82,
+                            43.79
+                        ],
+                        [
+                            -2.72,
+                            43.79
+                        ],
+                        [
+                            -2.62,
+                            43.78
+                        ],
+                        [
+                            -2.53,
+                            43.75
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.49,
+                            43.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Bizkaia litoral",
+                "geocode": "754801C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:53:59+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral</b><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.52,
+                            43.73
+                        ],
+                        [
+                            -4.51,
+                            43.51
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.58,
+                            43.39
+                        ],
+                        [
+                            -4.74,
+                            43.42
+                        ],
+                        [
+                            -4.94,
+                            43.46
+                        ],
+                        [
+                            -5.04,
+                            43.46
+                        ],
+                        [
+                            -5.12,
+                            43.49
+                        ],
+                        [
+                            -5.21,
+                            43.47
+                        ],
+                        [
+                            -5.29,
+                            43.54
+                        ],
+                        [
+                            -5.38,
+                            43.54
+                        ],
+                        [
+                            -5.41,
+                            43.56
+                        ],
+                        [
+                            -5.68,
+                            43.54
+                        ],
+                        [
+                            -5.71,
+                            43.57
+                        ],
+                        [
+                            -5.76,
+                            43.59
+                        ],
+                        [
+                            -5.78,
+                            43.61
+                        ],
+                        [
+                            -5.82,
+                            43.64
+                        ],
+                        [
+                            -5.9,
+                            43.63
+                        ],
+                        [
+                            -5.9,
+                            43.62
+                        ],
+                        [
+                            -5.94,
+                            43.59
+                        ],
+                        [
+                            -5.95,
+                            43.6
+                        ],
+                        [
+                            -5.97,
+                            43.99
+                        ],
+                        [
+                            -5.9,
+                            44.0
+                        ],
+                        [
+                            -5.8,
+                            44.0
+                        ],
+                        [
+                            -5.71,
+                            43.98
+                        ],
+                        [
+                            -5.63,
+                            43.96
+                        ],
+                        [
+                            -5.56,
+                            43.93
+                        ],
+                        [
+                            -5.5,
+                            43.89
+                        ],
+                        [
+                            -5.35,
+                            43.89
+                        ],
+                        [
+                            -5.26,
+                            43.87
+                        ],
+                        [
+                            -5.18,
+                            43.84
+                        ],
+                        [
+                            -5.05,
+                            43.79
+                        ],
+                        [
+                            -4.87,
+                            43.77
+                        ],
+                        [
+                            -4.82,
+                            43.77
+                        ],
+                        [
+                            -4.67,
+                            43.76
+                        ],
+                        [
+                            -4.56,
+                            43.73
+                        ],
+                        [
+                            -4.52,
+                            43.73
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral oriental asturiano",
+                "geocode": "633302C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano</b><b>\u00c1rea:</b> Costa - Litoral oriental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m, principalmente mar adentro.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.52,
+                            43.73
+                        ],
+                        [
+                            -4.51,
+                            43.51
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.58,
+                            43.39
+                        ],
+                        [
+                            -4.74,
+                            43.42
+                        ],
+                        [
+                            -4.94,
+                            43.46
+                        ],
+                        [
+                            -5.04,
+                            43.46
+                        ],
+                        [
+                            -5.12,
+                            43.49
+                        ],
+                        [
+                            -5.21,
+                            43.47
+                        ],
+                        [
+                            -5.29,
+                            43.54
+                        ],
+                        [
+                            -5.38,
+                            43.54
+                        ],
+                        [
+                            -5.41,
+                            43.56
+                        ],
+                        [
+                            -5.68,
+                            43.54
+                        ],
+                        [
+                            -5.71,
+                            43.57
+                        ],
+                        [
+                            -5.76,
+                            43.59
+                        ],
+                        [
+                            -5.78,
+                            43.61
+                        ],
+                        [
+                            -5.82,
+                            43.64
+                        ],
+                        [
+                            -5.9,
+                            43.63
+                        ],
+                        [
+                            -5.9,
+                            43.62
+                        ],
+                        [
+                            -5.94,
+                            43.59
+                        ],
+                        [
+                            -5.95,
+                            43.6
+                        ],
+                        [
+                            -5.97,
+                            43.99
+                        ],
+                        [
+                            -5.9,
+                            44.0
+                        ],
+                        [
+                            -5.8,
+                            44.0
+                        ],
+                        [
+                            -5.71,
+                            43.98
+                        ],
+                        [
+                            -5.63,
+                            43.96
+                        ],
+                        [
+                            -5.56,
+                            43.93
+                        ],
+                        [
+                            -5.5,
+                            43.89
+                        ],
+                        [
+                            -5.35,
+                            43.89
+                        ],
+                        [
+                            -5.26,
+                            43.87
+                        ],
+                        [
+                            -5.18,
+                            43.84
+                        ],
+                        [
+                            -5.05,
+                            43.79
+                        ],
+                        [
+                            -4.87,
+                            43.77
+                        ],
+                        [
+                            -4.82,
+                            43.77
+                        ],
+                        [
+                            -4.67,
+                            43.76
+                        ],
+                        [
+                            -4.56,
+                            43.73
+                        ],
+                        [
+                            -4.52,
+                            43.73
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral oriental asturiano",
+                "geocode": "633302C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano</b><b>\u00c1rea:</b> Costa - Litoral oriental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m, principalmente mar adentro.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.03,
+                            43.55
+                        ],
+                        [
+                            -7.06,
+                            43.56
+                        ],
+                        [
+                            -7.16,
+                            43.55
+                        ],
+                        [
+                            -7.22,
+                            43.56
+                        ],
+                        [
+                            -7.29,
+                            43.6
+                        ],
+                        [
+                            -7.33,
+                            43.63
+                        ],
+                        [
+                            -7.36,
+                            43.67
+                        ],
+                        [
+                            -7.47,
+                            43.7
+                        ],
+                        [
+                            -7.49,
+                            43.73
+                        ],
+                        [
+                            -7.54,
+                            43.73
+                        ],
+                        [
+                            -7.59,
+                            43.68
+                        ],
+                        [
+                            -7.63,
+                            43.73
+                        ],
+                        [
+                            -7.67,
+                            43.75
+                        ],
+                        [
+                            -7.7,
+                            43.74
+                        ],
+                        [
+                            -7.65,
+                            43.77
+                        ],
+                        [
+                            -7.61,
+                            43.83
+                        ],
+                        [
+                            -7.6,
+                            44.12
+                        ],
+                        [
+                            -7.52,
+                            44.1
+                        ],
+                        [
+                            -7.42,
+                            44.06
+                        ],
+                        [
+                            -7.36,
+                            44.05
+                        ],
+                        [
+                            -7.25,
+                            44.02
+                        ],
+                        [
+                            -7.17,
+                            43.99
+                        ],
+                        [
+                            -7.1,
+                            43.95
+                        ],
+                        [
+                            -7.05,
+                            43.9
+                        ],
+                        [
+                            -7.01,
+                            43.88
+                        ],
+                        [
+                            -7.03,
+                            43.61
+                        ],
+                        [
+                            -7.03,
+                            43.55
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - A Mari\u00f1a",
+                "geocode": "712701C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a</b><b>\u00c1rea:</b> Costa - A Mari\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.03,
+                            43.55
+                        ],
+                        [
+                            -7.06,
+                            43.56
+                        ],
+                        [
+                            -7.16,
+                            43.55
+                        ],
+                        [
+                            -7.22,
+                            43.56
+                        ],
+                        [
+                            -7.29,
+                            43.6
+                        ],
+                        [
+                            -7.33,
+                            43.63
+                        ],
+                        [
+                            -7.36,
+                            43.67
+                        ],
+                        [
+                            -7.47,
+                            43.7
+                        ],
+                        [
+                            -7.49,
+                            43.73
+                        ],
+                        [
+                            -7.54,
+                            43.73
+                        ],
+                        [
+                            -7.59,
+                            43.68
+                        ],
+                        [
+                            -7.63,
+                            43.73
+                        ],
+                        [
+                            -7.67,
+                            43.75
+                        ],
+                        [
+                            -7.7,
+                            43.74
+                        ],
+                        [
+                            -7.65,
+                            43.77
+                        ],
+                        [
+                            -7.61,
+                            43.83
+                        ],
+                        [
+                            -7.6,
+                            44.12
+                        ],
+                        [
+                            -7.52,
+                            44.1
+                        ],
+                        [
+                            -7.42,
+                            44.06
+                        ],
+                        [
+                            -7.36,
+                            44.05
+                        ],
+                        [
+                            -7.25,
+                            44.02
+                        ],
+                        [
+                            -7.17,
+                            43.99
+                        ],
+                        [
+                            -7.1,
+                            43.95
+                        ],
+                        [
+                            -7.05,
+                            43.9
+                        ],
+                        [
+                            -7.01,
+                            43.88
+                        ],
+                        [
+                            -7.03,
+                            43.61
+                        ],
+                        [
+                            -7.03,
+                            43.55
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - A Mari\u00f1a",
+                "geocode": "712701C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a</b><b>\u00c1rea:</b> Costa - A Mari\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -9.42,
                             43.46
                         ],
@@ -255,11 +1215,11 @@
                 "geocode": "711501C",
                 "category": "Met",
                 "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-08-31T17:00:00+02:00",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
                 "expires": "2025-09-01T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de costeros de nivel amarillo. Costa - Noroeste de A Coru\u00f1a",
@@ -274,7 +1234,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Noroeste de A Coru\u00f1a</b><b>\u00c1rea:</b> Costa - Noroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m. (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 31/08/2025 17:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Noroeste de A Coru\u00f1a</b><b>\u00c1rea:</b> Costa - Noroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -531,11 +1491,11 @@
                 "geocode": "711501C",
                 "category": "Met",
                 "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-08-31T17:00:00+02:00",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
                 "expires": "2025-09-01T17:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de costeros de nivel amarillo. Costa - Noroeste de A Coru\u00f1a",
@@ -550,1655 +1510,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Noroeste de A Coru\u00f1a</b><b>\u00c1rea:</b> Costa - Noroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m. (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 31/08/2025 17:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -3.15,
-                            43.35
-                        ],
-                        [
-                            -3.19,
-                            43.36
-                        ],
-                        [
-                            -3.22,
-                            43.39
-                        ],
-                        [
-                            -3.33,
-                            43.42
-                        ],
-                        [
-                            -3.43,
-                            43.41
-                        ],
-                        [
-                            -3.43,
-                            43.47
-                        ],
-                        [
-                            -3.49,
-                            43.47
-                        ],
-                        [
-                            -3.55,
-                            43.51
-                        ],
-                        [
-                            -3.6,
-                            43.51
-                        ],
-                        [
-                            -3.69,
-                            43.48
-                        ],
-                        [
-                            -3.77,
-                            43.45
-                        ],
-                        [
-                            -3.81,
-                            43.41
-                        ],
-                        [
-                            -3.81,
-                            43.4
-                        ],
-                        [
-                            -3.83,
-                            43.44
-                        ],
-                        [
-                            -3.78,
-                            43.46
-                        ],
-                        [
-                            -3.81,
-                            43.5
-                        ],
-                        [
-                            -3.86,
-                            43.48
-                        ],
-                        [
-                            -3.94,
-                            43.47
-                        ],
-                        [
-                            -3.98,
-                            43.44
-                        ],
-                        [
-                            -4.05,
-                            43.44
-                        ],
-                        [
-                            -4.05,
-                            43.43
-                        ],
-                        [
-                            -4.22,
-                            43.4
-                        ],
-                        [
-                            -4.28,
-                            43.39
-                        ],
-                        [
-                            -4.41,
-                            43.4
-                        ],
-                        [
-                            -4.5,
-                            43.4
-                        ],
-                        [
-                            -4.51,
-                            43.39
-                        ],
-                        [
-                            -4.51,
-                            43.51
-                        ],
-                        [
-                            -4.52,
-                            43.73
-                        ],
-                        [
-                            -4.3,
-                            43.73
-                        ],
-                        [
-                            -4.21,
-                            43.76
-                        ],
-                        [
-                            -3.94,
-                            43.82
-                        ],
-                        [
-                            -3.85,
-                            43.83
-                        ],
-                        [
-                            -3.75,
-                            43.82
-                        ],
-                        [
-                            -3.66,
-                            43.84
-                        ],
-                        [
-                            -3.56,
-                            43.85
-                        ],
-                        [
-                            -3.47,
-                            43.84
-                        ],
-                        [
-                            -3.38,
-                            43.81
-                        ],
-                        [
-                            -3.19,
-                            43.74
-                        ],
-                        [
-                            -3.17,
-                            43.63
-                        ],
-                        [
-                            -3.15,
-                            43.39
-                        ],
-                        [
-                            -3.15,
-                            43.35
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral c\u00e1ntabro",
-                "geocode": "663901C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T18:46:29+02:00",
-                "onset": "2025-09-01T03:00:00+02:00",
-                "expires": "2025-09-01T17:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro</b><b>\u00c1rea:</b> Costa - Litoral c\u00e1ntabro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del oeste de 50 a 61 km/h (Fuerza 7) de madrugada y mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 03:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -3.15,
-                            43.35
-                        ],
-                        [
-                            -3.19,
-                            43.36
-                        ],
-                        [
-                            -3.22,
-                            43.39
-                        ],
-                        [
-                            -3.33,
-                            43.42
-                        ],
-                        [
-                            -3.43,
-                            43.41
-                        ],
-                        [
-                            -3.43,
-                            43.47
-                        ],
-                        [
-                            -3.49,
-                            43.47
-                        ],
-                        [
-                            -3.55,
-                            43.51
-                        ],
-                        [
-                            -3.6,
-                            43.51
-                        ],
-                        [
-                            -3.69,
-                            43.48
-                        ],
-                        [
-                            -3.77,
-                            43.45
-                        ],
-                        [
-                            -3.81,
-                            43.41
-                        ],
-                        [
-                            -3.81,
-                            43.4
-                        ],
-                        [
-                            -3.83,
-                            43.44
-                        ],
-                        [
-                            -3.78,
-                            43.46
-                        ],
-                        [
-                            -3.81,
-                            43.5
-                        ],
-                        [
-                            -3.86,
-                            43.48
-                        ],
-                        [
-                            -3.94,
-                            43.47
-                        ],
-                        [
-                            -3.98,
-                            43.44
-                        ],
-                        [
-                            -4.05,
-                            43.44
-                        ],
-                        [
-                            -4.05,
-                            43.43
-                        ],
-                        [
-                            -4.22,
-                            43.4
-                        ],
-                        [
-                            -4.28,
-                            43.39
-                        ],
-                        [
-                            -4.41,
-                            43.4
-                        ],
-                        [
-                            -4.5,
-                            43.4
-                        ],
-                        [
-                            -4.51,
-                            43.39
-                        ],
-                        [
-                            -4.51,
-                            43.51
-                        ],
-                        [
-                            -4.52,
-                            43.73
-                        ],
-                        [
-                            -4.3,
-                            43.73
-                        ],
-                        [
-                            -4.21,
-                            43.76
-                        ],
-                        [
-                            -3.94,
-                            43.82
-                        ],
-                        [
-                            -3.85,
-                            43.83
-                        ],
-                        [
-                            -3.75,
-                            43.82
-                        ],
-                        [
-                            -3.66,
-                            43.84
-                        ],
-                        [
-                            -3.56,
-                            43.85
-                        ],
-                        [
-                            -3.47,
-                            43.84
-                        ],
-                        [
-                            -3.38,
-                            43.81
-                        ],
-                        [
-                            -3.19,
-                            43.74
-                        ],
-                        [
-                            -3.17,
-                            43.63
-                        ],
-                        [
-                            -3.15,
-                            43.39
-                        ],
-                        [
-                            -3.15,
-                            43.35
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral c\u00e1ntabro",
-                "geocode": "663901C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T18:46:29+02:00",
-                "onset": "2025-09-01T03:00:00+02:00",
-                "expires": "2025-09-01T17:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro</b><b>\u00c1rea:</b> Costa - Litoral c\u00e1ntabro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del oeste de 50 a 61 km/h (Fuerza 7) de madrugada y mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 03:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -4.52,
-                            43.73
-                        ],
-                        [
-                            -4.51,
-                            43.51
-                        ],
-                        [
-                            -4.51,
-                            43.39
-                        ],
-                        [
-                            -4.58,
-                            43.39
-                        ],
-                        [
-                            -4.74,
-                            43.42
-                        ],
-                        [
-                            -4.94,
-                            43.46
-                        ],
-                        [
-                            -5.04,
-                            43.46
-                        ],
-                        [
-                            -5.12,
-                            43.49
-                        ],
-                        [
-                            -5.21,
-                            43.47
-                        ],
-                        [
-                            -5.29,
-                            43.54
-                        ],
-                        [
-                            -5.38,
-                            43.54
-                        ],
-                        [
-                            -5.41,
-                            43.56
-                        ],
-                        [
-                            -5.68,
-                            43.54
-                        ],
-                        [
-                            -5.71,
-                            43.57
-                        ],
-                        [
-                            -5.76,
-                            43.59
-                        ],
-                        [
-                            -5.78,
-                            43.61
-                        ],
-                        [
-                            -5.82,
-                            43.64
-                        ],
-                        [
-                            -5.9,
-                            43.63
-                        ],
-                        [
-                            -5.9,
-                            43.62
-                        ],
-                        [
-                            -5.94,
-                            43.59
-                        ],
-                        [
-                            -5.95,
-                            43.6
-                        ],
-                        [
-                            -5.97,
-                            43.99
-                        ],
-                        [
-                            -5.9,
-                            44.0
-                        ],
-                        [
-                            -5.8,
-                            44.0
-                        ],
-                        [
-                            -5.71,
-                            43.98
-                        ],
-                        [
-                            -5.63,
-                            43.96
-                        ],
-                        [
-                            -5.56,
-                            43.93
-                        ],
-                        [
-                            -5.5,
-                            43.89
-                        ],
-                        [
-                            -5.35,
-                            43.89
-                        ],
-                        [
-                            -5.26,
-                            43.87
-                        ],
-                        [
-                            -5.18,
-                            43.84
-                        ],
-                        [
-                            -5.05,
-                            43.79
-                        ],
-                        [
-                            -4.87,
-                            43.77
-                        ],
-                        [
-                            -4.82,
-                            43.77
-                        ],
-                        [
-                            -4.67,
-                            43.76
-                        ],
-                        [
-                            -4.56,
-                            43.73
-                        ],
-                        [
-                            -4.52,
-                            43.73
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral oriental asturiano",
-                "geocode": "633302C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-09-01T00:00:00+02:00",
-                "expires": "2025-09-01T16:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano</b><b>\u00c1rea:</b> Costa - Litoral oriental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del oeste o suroeste de 50 a 61 km/h (Fuerza 7) durante la madrugada y mar combinada del NW de 4 m. mar adentro (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 00:00<br><b>Fecha de fin:</b> 01/09/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -4.52,
-                            43.73
-                        ],
-                        [
-                            -4.51,
-                            43.51
-                        ],
-                        [
-                            -4.51,
-                            43.39
-                        ],
-                        [
-                            -4.58,
-                            43.39
-                        ],
-                        [
-                            -4.74,
-                            43.42
-                        ],
-                        [
-                            -4.94,
-                            43.46
-                        ],
-                        [
-                            -5.04,
-                            43.46
-                        ],
-                        [
-                            -5.12,
-                            43.49
-                        ],
-                        [
-                            -5.21,
-                            43.47
-                        ],
-                        [
-                            -5.29,
-                            43.54
-                        ],
-                        [
-                            -5.38,
-                            43.54
-                        ],
-                        [
-                            -5.41,
-                            43.56
-                        ],
-                        [
-                            -5.68,
-                            43.54
-                        ],
-                        [
-                            -5.71,
-                            43.57
-                        ],
-                        [
-                            -5.76,
-                            43.59
-                        ],
-                        [
-                            -5.78,
-                            43.61
-                        ],
-                        [
-                            -5.82,
-                            43.64
-                        ],
-                        [
-                            -5.9,
-                            43.63
-                        ],
-                        [
-                            -5.9,
-                            43.62
-                        ],
-                        [
-                            -5.94,
-                            43.59
-                        ],
-                        [
-                            -5.95,
-                            43.6
-                        ],
-                        [
-                            -5.97,
-                            43.99
-                        ],
-                        [
-                            -5.9,
-                            44.0
-                        ],
-                        [
-                            -5.8,
-                            44.0
-                        ],
-                        [
-                            -5.71,
-                            43.98
-                        ],
-                        [
-                            -5.63,
-                            43.96
-                        ],
-                        [
-                            -5.56,
-                            43.93
-                        ],
-                        [
-                            -5.5,
-                            43.89
-                        ],
-                        [
-                            -5.35,
-                            43.89
-                        ],
-                        [
-                            -5.26,
-                            43.87
-                        ],
-                        [
-                            -5.18,
-                            43.84
-                        ],
-                        [
-                            -5.05,
-                            43.79
-                        ],
-                        [
-                            -4.87,
-                            43.77
-                        ],
-                        [
-                            -4.82,
-                            43.77
-                        ],
-                        [
-                            -4.67,
-                            43.76
-                        ],
-                        [
-                            -4.56,
-                            43.73
-                        ],
-                        [
-                            -4.52,
-                            43.73
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral oriental asturiano",
-                "geocode": "633302C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-09-01T00:00:00+02:00",
-                "expires": "2025-09-01T16:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral oriental asturiano</b><b>\u00c1rea:</b> Costa - Litoral oriental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del oeste o suroeste de 50 a 61 km/h (Fuerza 7) durante la madrugada y mar combinada del NW de 4 m. mar adentro (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 00:00<br><b>Fecha de fin:</b> 01/09/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -7.03,
-                            43.55
-                        ],
-                        [
-                            -7.06,
-                            43.56
-                        ],
-                        [
-                            -7.16,
-                            43.55
-                        ],
-                        [
-                            -7.22,
-                            43.56
-                        ],
-                        [
-                            -7.29,
-                            43.6
-                        ],
-                        [
-                            -7.33,
-                            43.63
-                        ],
-                        [
-                            -7.36,
-                            43.67
-                        ],
-                        [
-                            -7.47,
-                            43.7
-                        ],
-                        [
-                            -7.49,
-                            43.73
-                        ],
-                        [
-                            -7.54,
-                            43.73
-                        ],
-                        [
-                            -7.59,
-                            43.68
-                        ],
-                        [
-                            -7.63,
-                            43.73
-                        ],
-                        [
-                            -7.67,
-                            43.75
-                        ],
-                        [
-                            -7.7,
-                            43.74
-                        ],
-                        [
-                            -7.65,
-                            43.77
-                        ],
-                        [
-                            -7.61,
-                            43.83
-                        ],
-                        [
-                            -7.6,
-                            44.12
-                        ],
-                        [
-                            -7.52,
-                            44.1
-                        ],
-                        [
-                            -7.42,
-                            44.06
-                        ],
-                        [
-                            -7.36,
-                            44.05
-                        ],
-                        [
-                            -7.25,
-                            44.02
-                        ],
-                        [
-                            -7.17,
-                            43.99
-                        ],
-                        [
-                            -7.1,
-                            43.95
-                        ],
-                        [
-                            -7.05,
-                            43.9
-                        ],
-                        [
-                            -7.01,
-                            43.88
-                        ],
-                        [
-                            -7.03,
-                            43.61
-                        ],
-                        [
-                            -7.03,
-                            43.55
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - A Mari\u00f1a",
-                "geocode": "712701C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-08-31T15:00:00+02:00",
-                "expires": "2025-09-01T16:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a</b><b>\u00c1rea:</b> Costa - A Mari\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 31/08/2025 15:00<br><b>Fecha de fin:</b> 01/09/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -7.03,
-                            43.55
-                        ],
-                        [
-                            -7.06,
-                            43.56
-                        ],
-                        [
-                            -7.16,
-                            43.55
-                        ],
-                        [
-                            -7.22,
-                            43.56
-                        ],
-                        [
-                            -7.29,
-                            43.6
-                        ],
-                        [
-                            -7.33,
-                            43.63
-                        ],
-                        [
-                            -7.36,
-                            43.67
-                        ],
-                        [
-                            -7.47,
-                            43.7
-                        ],
-                        [
-                            -7.49,
-                            43.73
-                        ],
-                        [
-                            -7.54,
-                            43.73
-                        ],
-                        [
-                            -7.59,
-                            43.68
-                        ],
-                        [
-                            -7.63,
-                            43.73
-                        ],
-                        [
-                            -7.67,
-                            43.75
-                        ],
-                        [
-                            -7.7,
-                            43.74
-                        ],
-                        [
-                            -7.65,
-                            43.77
-                        ],
-                        [
-                            -7.61,
-                            43.83
-                        ],
-                        [
-                            -7.6,
-                            44.12
-                        ],
-                        [
-                            -7.52,
-                            44.1
-                        ],
-                        [
-                            -7.42,
-                            44.06
-                        ],
-                        [
-                            -7.36,
-                            44.05
-                        ],
-                        [
-                            -7.25,
-                            44.02
-                        ],
-                        [
-                            -7.17,
-                            43.99
-                        ],
-                        [
-                            -7.1,
-                            43.95
-                        ],
-                        [
-                            -7.05,
-                            43.9
-                        ],
-                        [
-                            -7.01,
-                            43.88
-                        ],
-                        [
-                            -7.03,
-                            43.61
-                        ],
-                        [
-                            -7.03,
-                            43.55
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - A Mari\u00f1a",
-                "geocode": "712701C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-08-31T15:00:00+02:00",
-                "expires": "2025-09-01T16:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a</b><b>\u00c1rea:</b> Costa - A Mari\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 31/08/2025 15:00<br><b>Fecha de fin:</b> 01/09/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.94,
-                            43.59
-                        ],
-                        [
-                            -5.96,
-                            43.58
-                        ],
-                        [
-                            -6.03,
-                            43.59
-                        ],
-                        [
-                            -6.06,
-                            43.57
-                        ],
-                        [
-                            -6.12,
-                            43.56
-                        ],
-                        [
-                            -6.19,
-                            43.57
-                        ],
-                        [
-                            -6.21,
-                            43.59
-                        ],
-                        [
-                            -6.35,
-                            43.55
-                        ],
-                        [
-                            -6.4,
-                            43.56
-                        ],
-                        [
-                            -6.54,
-                            43.55
-                        ],
-                        [
-                            -6.64,
-                            43.57
-                        ],
-                        [
-                            -6.68,
-                            43.56
-                        ],
-                        [
-                            -6.82,
-                            43.56
-                        ],
-                        [
-                            -6.91,
-                            43.57
-                        ],
-                        [
-                            -7.03,
-                            43.54
-                        ],
-                        [
-                            -7.03,
-                            43.55
-                        ],
-                        [
-                            -7.03,
-                            43.61
-                        ],
-                        [
-                            -7.01,
-                            43.88
-                        ],
-                        [
-                            -6.47,
-                            43.88
-                        ],
-                        [
-                            -6.39,
-                            43.91
-                        ],
-                        [
-                            -6.31,
-                            43.93
-                        ],
-                        [
-                            -6.23,
-                            43.93
-                        ],
-                        [
-                            -6.15,
-                            43.92
-                        ],
-                        [
-                            -6.08,
-                            43.96
-                        ],
-                        [
-                            -5.97,
-                            43.99
-                        ],
-                        [
-                            -5.95,
-                            43.6
-                        ],
-                        [
-                            -5.94,
-                            43.59
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral occidental asturiano",
-                "geocode": "633301C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-09-01T00:00:00+02:00",
-                "expires": "2025-09-01T16:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano</b><b>\u00c1rea:</b> Costa - Litoral occidental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del oeste o suroeste de 50 a 61 km/h (Fuerza 7) durante la madrugada y mar combinada del NW de 4 m. mar adentro (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 00:00<br><b>Fecha de fin:</b> 01/09/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.94,
-                            43.59
-                        ],
-                        [
-                            -5.96,
-                            43.58
-                        ],
-                        [
-                            -6.03,
-                            43.59
-                        ],
-                        [
-                            -6.06,
-                            43.57
-                        ],
-                        [
-                            -6.12,
-                            43.56
-                        ],
-                        [
-                            -6.19,
-                            43.57
-                        ],
-                        [
-                            -6.21,
-                            43.59
-                        ],
-                        [
-                            -6.35,
-                            43.55
-                        ],
-                        [
-                            -6.4,
-                            43.56
-                        ],
-                        [
-                            -6.54,
-                            43.55
-                        ],
-                        [
-                            -6.64,
-                            43.57
-                        ],
-                        [
-                            -6.68,
-                            43.56
-                        ],
-                        [
-                            -6.82,
-                            43.56
-                        ],
-                        [
-                            -6.91,
-                            43.57
-                        ],
-                        [
-                            -7.03,
-                            43.54
-                        ],
-                        [
-                            -7.03,
-                            43.55
-                        ],
-                        [
-                            -7.03,
-                            43.61
-                        ],
-                        [
-                            -7.01,
-                            43.88
-                        ],
-                        [
-                            -6.47,
-                            43.88
-                        ],
-                        [
-                            -6.39,
-                            43.91
-                        ],
-                        [
-                            -6.31,
-                            43.93
-                        ],
-                        [
-                            -6.23,
-                            43.93
-                        ],
-                        [
-                            -6.15,
-                            43.92
-                        ],
-                        [
-                            -6.08,
-                            43.96
-                        ],
-                        [
-                            -5.97,
-                            43.99
-                        ],
-                        [
-                            -5.95,
-                            43.6
-                        ],
-                        [
-                            -5.94,
-                            43.59
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral occidental asturiano",
-                "geocode": "633301C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:21:52+02:00",
-                "onset": "2025-09-01T00:00:00+02:00",
-                "expires": "2025-09-01T16:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano</b><b>\u00c1rea:</b> Costa - Litoral occidental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del oeste o suroeste de 50 a 61 km/h (Fuerza 7) durante la madrugada y mar combinada del NW de 4 m. mar adentro (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 00:00<br><b>Fecha de fin:</b> 01/09/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49,
-                            43.37
-                        ],
-                        [
-                            -2.54,
-                            43.37
-                        ],
-                        [
-                            -2.56,
-                            43.39
-                        ],
-                        [
-                            -2.62,
-                            43.39
-                        ],
-                        [
-                            -2.72,
-                            43.42
-                        ],
-                        [
-                            -2.75,
-                            43.46
-                        ],
-                        [
-                            -2.81,
-                            43.43
-                        ],
-                        [
-                            -2.94,
-                            43.44
-                        ],
-                        [
-                            -2.99,
-                            43.39
-                        ],
-                        [
-                            -3.03,
-                            43.37
-                        ],
-                        [
-                            -3.01,
-                            43.34
-                        ],
-                        [
-                            -3.11,
-                            43.36
-                        ],
-                        [
-                            -3.11,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.39
-                        ],
-                        [
-                            -3.17,
-                            43.63
-                        ],
-                        [
-                            -3.19,
-                            43.74
-                        ],
-                        [
-                            -3.16,
-                            43.73
-                        ],
-                        [
-                            -3.1,
-                            43.75
-                        ],
-                        [
-                            -3.01,
-                            43.77
-                        ],
-                        [
-                            -2.82,
-                            43.79
-                        ],
-                        [
-                            -2.72,
-                            43.79
-                        ],
-                        [
-                            -2.62,
-                            43.78
-                        ],
-                        [
-                            -2.53,
-                            43.75
-                        ],
-                        [
-                            -2.39,
-                            43.69
-                        ],
-                        [
-                            -2.41,
-                            43.32
-                        ],
-                        [
-                            -2.42,
-                            43.33
-                        ],
-                        [
-                            -2.43,
-                            43.33
-                        ],
-                        [
-                            -2.49,
-                            43.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Bizkaia litoral",
-                "geocode": "754801C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:19:34+02:00",
-                "onset": "2025-09-01T09:00:00+02:00",
-                "expires": "2025-09-01T17:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral</b><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49,
-                            43.37
-                        ],
-                        [
-                            -2.54,
-                            43.37
-                        ],
-                        [
-                            -2.56,
-                            43.39
-                        ],
-                        [
-                            -2.62,
-                            43.39
-                        ],
-                        [
-                            -2.72,
-                            43.42
-                        ],
-                        [
-                            -2.75,
-                            43.46
-                        ],
-                        [
-                            -2.81,
-                            43.43
-                        ],
-                        [
-                            -2.94,
-                            43.44
-                        ],
-                        [
-                            -2.99,
-                            43.39
-                        ],
-                        [
-                            -3.03,
-                            43.37
-                        ],
-                        [
-                            -3.01,
-                            43.34
-                        ],
-                        [
-                            -3.11,
-                            43.36
-                        ],
-                        [
-                            -3.11,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.39
-                        ],
-                        [
-                            -3.17,
-                            43.63
-                        ],
-                        [
-                            -3.19,
-                            43.74
-                        ],
-                        [
-                            -3.16,
-                            43.73
-                        ],
-                        [
-                            -3.1,
-                            43.75
-                        ],
-                        [
-                            -3.01,
-                            43.77
-                        ],
-                        [
-                            -2.82,
-                            43.79
-                        ],
-                        [
-                            -2.72,
-                            43.79
-                        ],
-                        [
-                            -2.62,
-                            43.78
-                        ],
-                        [
-                            -2.53,
-                            43.75
-                        ],
-                        [
-                            -2.39,
-                            43.69
-                        ],
-                        [
-                            -2.41,
-                            43.32
-                        ],
-                        [
-                            -2.42,
-                            43.33
-                        ],
-                        [
-                            -2.43,
-                            43.33
-                        ],
-                        [
-                            -2.49,
-                            43.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Bizkaia litoral",
-                "geocode": "754801C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-08-31T11:19:34+02:00",
-                "onset": "2025-09-01T09:00:00+02:00",
-                "expires": "2025-09-01T17:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Bizkaia litoral</b><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Noroeste de A Coru\u00f1a</b><b>\u00c1rea:</b> Costa - Noroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2535,6 +1847,694 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Suroeste de A Coru\u00f1a</b><b>\u00c1rea:</b> Costa - Suroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del NW de 4 m. (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 31/08/2025 23:00<br><b>Fecha de fin:</b> 01/09/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.94,
+                            43.59
+                        ],
+                        [
+                            -5.96,
+                            43.58
+                        ],
+                        [
+                            -6.03,
+                            43.59
+                        ],
+                        [
+                            -6.06,
+                            43.57
+                        ],
+                        [
+                            -6.12,
+                            43.56
+                        ],
+                        [
+                            -6.19,
+                            43.57
+                        ],
+                        [
+                            -6.21,
+                            43.59
+                        ],
+                        [
+                            -6.35,
+                            43.55
+                        ],
+                        [
+                            -6.4,
+                            43.56
+                        ],
+                        [
+                            -6.54,
+                            43.55
+                        ],
+                        [
+                            -6.64,
+                            43.57
+                        ],
+                        [
+                            -6.68,
+                            43.56
+                        ],
+                        [
+                            -6.82,
+                            43.56
+                        ],
+                        [
+                            -6.91,
+                            43.57
+                        ],
+                        [
+                            -7.03,
+                            43.54
+                        ],
+                        [
+                            -7.03,
+                            43.55
+                        ],
+                        [
+                            -7.03,
+                            43.61
+                        ],
+                        [
+                            -7.01,
+                            43.88
+                        ],
+                        [
+                            -6.47,
+                            43.88
+                        ],
+                        [
+                            -6.39,
+                            43.91
+                        ],
+                        [
+                            -6.31,
+                            43.93
+                        ],
+                        [
+                            -6.23,
+                            43.93
+                        ],
+                        [
+                            -6.15,
+                            43.92
+                        ],
+                        [
+                            -6.08,
+                            43.96
+                        ],
+                        [
+                            -5.97,
+                            43.99
+                        ],
+                        [
+                            -5.95,
+                            43.6
+                        ],
+                        [
+                            -5.94,
+                            43.59
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral occidental asturiano",
+                "geocode": "633301C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano</b><b>\u00c1rea:</b> Costa - Litoral occidental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m, principalmente mar adentro.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.94,
+                            43.59
+                        ],
+                        [
+                            -5.96,
+                            43.58
+                        ],
+                        [
+                            -6.03,
+                            43.59
+                        ],
+                        [
+                            -6.06,
+                            43.57
+                        ],
+                        [
+                            -6.12,
+                            43.56
+                        ],
+                        [
+                            -6.19,
+                            43.57
+                        ],
+                        [
+                            -6.21,
+                            43.59
+                        ],
+                        [
+                            -6.35,
+                            43.55
+                        ],
+                        [
+                            -6.4,
+                            43.56
+                        ],
+                        [
+                            -6.54,
+                            43.55
+                        ],
+                        [
+                            -6.64,
+                            43.57
+                        ],
+                        [
+                            -6.68,
+                            43.56
+                        ],
+                        [
+                            -6.82,
+                            43.56
+                        ],
+                        [
+                            -6.91,
+                            43.57
+                        ],
+                        [
+                            -7.03,
+                            43.54
+                        ],
+                        [
+                            -7.03,
+                            43.55
+                        ],
+                        [
+                            -7.03,
+                            43.61
+                        ],
+                        [
+                            -7.01,
+                            43.88
+                        ],
+                        [
+                            -6.47,
+                            43.88
+                        ],
+                        [
+                            -6.39,
+                            43.91
+                        ],
+                        [
+                            -6.31,
+                            43.93
+                        ],
+                        [
+                            -6.23,
+                            43.93
+                        ],
+                        [
+                            -6.15,
+                            43.92
+                        ],
+                        [
+                            -6.08,
+                            43.96
+                        ],
+                        [
+                            -5.97,
+                            43.99
+                        ],
+                        [
+                            -5.95,
+                            43.6
+                        ],
+                        [
+                            -5.94,
+                            43.59
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral occidental asturiano",
+                "geocode": "633301C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:54:15+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano</b><b>\u00c1rea:</b> Costa - Litoral occidental asturiano<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m, principalmente mar adentro.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.19,
+                            43.36
+                        ],
+                        [
+                            -3.22,
+                            43.39
+                        ],
+                        [
+                            -3.33,
+                            43.42
+                        ],
+                        [
+                            -3.43,
+                            43.41
+                        ],
+                        [
+                            -3.43,
+                            43.47
+                        ],
+                        [
+                            -3.49,
+                            43.47
+                        ],
+                        [
+                            -3.55,
+                            43.51
+                        ],
+                        [
+                            -3.6,
+                            43.51
+                        ],
+                        [
+                            -3.69,
+                            43.48
+                        ],
+                        [
+                            -3.77,
+                            43.45
+                        ],
+                        [
+                            -3.81,
+                            43.41
+                        ],
+                        [
+                            -3.81,
+                            43.4
+                        ],
+                        [
+                            -3.83,
+                            43.44
+                        ],
+                        [
+                            -3.78,
+                            43.46
+                        ],
+                        [
+                            -3.81,
+                            43.5
+                        ],
+                        [
+                            -3.86,
+                            43.48
+                        ],
+                        [
+                            -3.94,
+                            43.47
+                        ],
+                        [
+                            -3.98,
+                            43.44
+                        ],
+                        [
+                            -4.05,
+                            43.44
+                        ],
+                        [
+                            -4.05,
+                            43.43
+                        ],
+                        [
+                            -4.22,
+                            43.4
+                        ],
+                        [
+                            -4.28,
+                            43.39
+                        ],
+                        [
+                            -4.41,
+                            43.4
+                        ],
+                        [
+                            -4.5,
+                            43.4
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.51,
+                            43.51
+                        ],
+                        [
+                            -4.52,
+                            43.73
+                        ],
+                        [
+                            -4.3,
+                            43.73
+                        ],
+                        [
+                            -4.21,
+                            43.76
+                        ],
+                        [
+                            -3.94,
+                            43.82
+                        ],
+                        [
+                            -3.85,
+                            43.83
+                        ],
+                        [
+                            -3.75,
+                            43.82
+                        ],
+                        [
+                            -3.66,
+                            43.84
+                        ],
+                        [
+                            -3.56,
+                            43.85
+                        ],
+                        [
+                            -3.47,
+                            43.84
+                        ],
+                        [
+                            -3.38,
+                            43.81
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral c\u00e1ntabro",
+                "geocode": "663901C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:53:59+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro</b><b>\u00c1rea:</b> Costa - Litoral c\u00e1ntabro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.19,
+                            43.36
+                        ],
+                        [
+                            -3.22,
+                            43.39
+                        ],
+                        [
+                            -3.33,
+                            43.42
+                        ],
+                        [
+                            -3.43,
+                            43.41
+                        ],
+                        [
+                            -3.43,
+                            43.47
+                        ],
+                        [
+                            -3.49,
+                            43.47
+                        ],
+                        [
+                            -3.55,
+                            43.51
+                        ],
+                        [
+                            -3.6,
+                            43.51
+                        ],
+                        [
+                            -3.69,
+                            43.48
+                        ],
+                        [
+                            -3.77,
+                            43.45
+                        ],
+                        [
+                            -3.81,
+                            43.41
+                        ],
+                        [
+                            -3.81,
+                            43.4
+                        ],
+                        [
+                            -3.83,
+                            43.44
+                        ],
+                        [
+                            -3.78,
+                            43.46
+                        ],
+                        [
+                            -3.81,
+                            43.5
+                        ],
+                        [
+                            -3.86,
+                            43.48
+                        ],
+                        [
+                            -3.94,
+                            43.47
+                        ],
+                        [
+                            -3.98,
+                            43.44
+                        ],
+                        [
+                            -4.05,
+                            43.44
+                        ],
+                        [
+                            -4.05,
+                            43.43
+                        ],
+                        [
+                            -4.22,
+                            43.4
+                        ],
+                        [
+                            -4.28,
+                            43.39
+                        ],
+                        [
+                            -4.41,
+                            43.4
+                        ],
+                        [
+                            -4.5,
+                            43.4
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.51,
+                            43.51
+                        ],
+                        [
+                            -4.52,
+                            43.73
+                        ],
+                        [
+                            -4.3,
+                            43.73
+                        ],
+                        [
+                            -4.21,
+                            43.76
+                        ],
+                        [
+                            -3.94,
+                            43.82
+                        ],
+                        [
+                            -3.85,
+                            43.83
+                        ],
+                        [
+                            -3.75,
+                            43.82
+                        ],
+                        [
+                            -3.66,
+                            43.84
+                        ],
+                        [
+                            -3.56,
+                            43.85
+                        ],
+                        [
+                            -3.47,
+                            43.84
+                        ],
+                        [
+                            -3.38,
+                            43.81
+                        ],
+                        [
+                            -3.19,
+                            43.74
+                        ],
+                        [
+                            -3.17,
+                            43.63
+                        ],
+                        [
+                            -3.15,
+                            43.39
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral c\u00e1ntabro",
+                "geocode": "663901C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-01T09:53:59+02:00",
+                "onset": "2025-09-01T09:00:00+02:00",
+                "expires": "2025-09-01T17:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral c\u00e1ntabro</b><b>\u00c1rea:</b> Costa - Litoral c\u00e1ntabro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Mar combinada del W o NW de 4 m (principalmente mar de fondo).<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 01/09/2025 09:00<br><b>Fecha de fin:</b> 01/09/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
