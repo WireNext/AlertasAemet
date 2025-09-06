@@ -440,326 +440,6 @@
                 "coordinates": [
                     [
                         [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Expected",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-05T11:13:02+02:00",
-                "onset": "2025-09-05T12:00:00+02:00",
-                "expires": "2025-09-06T15:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Estrecho</b><b>\u00c1rea:</b> Estrecho<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Rachas muy fuertes de levante.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 05/09/2025 12:00<br><b>Fecha de fin:</b> 06/09/2025 15:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Expected",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-05T11:13:02+02:00",
-                "onset": "2025-09-05T12:00:00+02:00",
-                "expires": "2025-09-06T15:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VI;Vientos",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Estrecho</b><b>\u00c1rea:</b> Estrecho<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Rachas muy fuertes de levante.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 05/09/2025 12:00<br><b>Fecha de fin:</b> 06/09/2025 15:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -2.74,
                             39.32
                         ],
@@ -2576,208 +2256,156 @@
                 "coordinates": [
                     [
                         [
-                            -6.12,
-                            36.86
+                            -15.74,
+                            28.05
                         ],
                         [
-                            -6.1,
-                            36.86
+                            -15.72,
+                            28.03
                         ],
                         [
-                            -5.97,
-                            36.84
+                            -15.69,
+                            28.05
                         ],
                         [
-                            -5.89,
-                            36.85
+                            -15.65,
+                            28.04
                         ],
                         [
-                            -5.88,
-                            36.9
+                            -15.61,
+                            28.02
                         ],
                         [
-                            -5.8,
-                            36.93
+                            -15.64,
+                            28.0
                         ],
                         [
-                            -5.72,
-                            36.92
+                            -15.71,
+                            27.99
                         ],
                         [
-                            -5.67,
-                            36.98
+                            -15.75,
+                            27.96
                         ],
                         [
-                            -5.58,
-                            36.92
+                            -15.69,
+                            27.92
                         ],
                         [
-                            -5.53,
-                            36.89
+                            -15.65,
+                            27.92
                         ],
                         [
-                            -5.53,
-                            36.84
+                            -15.6,
+                            27.97
                         ],
                         [
-                            -5.58,
-                            36.79
+                            -15.59,
+                            27.95
                         ],
                         [
-                            -5.58,
-                            36.76
+                            -15.55,
+                            27.96
                         ],
                         [
-                            -5.53,
-                            36.72
+                            -15.55,
+                            27.99
                         ],
                         [
-                            -5.54,
-                            36.67
+                            -15.51,
+                            28.01
                         ],
                         [
-                            -5.45,
-                            36.62
+                            -15.42,
+                            28.04
                         ],
                         [
-                            -5.46,
-                            36.59
+                            -15.39,
+                            28.03
                         ],
                         [
-                            -5.52,
-                            36.53
+                            -15.37,
+                            27.99
                         ],
                         [
-                            -5.57,
-                            36.55
+                            -15.38,
+                            27.97
                         ],
                         [
-                            -5.61,
-                            36.54
+                            -15.39,
+                            27.89
                         ],
                         [
-                            -5.6,
-                            36.51
+                            -15.38,
+                            27.86
                         ],
                         [
-                            -5.56,
-                            36.5
+                            -15.41,
+                            27.85
                         ],
                         [
-                            -5.57,
-                            36.44
+                            -15.42,
+                            27.81
                         ],
                         [
-                            -5.59,
-                            36.39
+                            -15.49,
+                            27.79
                         ],
                         [
-                            -5.58,
-                            36.37
+                            -15.56,
+                            27.76
                         ],
                         [
-                            -5.57,
-                            36.34
+                            -15.6,
+                            27.73
                         ],
                         [
-                            -5.61,
-                            36.32
+                            -15.67,
+                            27.75
                         ],
                         [
-                            -5.68,
-                            36.25
+                            -15.79,
+                            27.83
                         ],
                         [
-                            -5.69,
-                            36.22
+                            -15.83,
+                            27.91
                         ],
                         [
-                            -5.76,
-                            36.27
+                            -15.83,
+                            27.97
                         ],
                         [
-                            -5.79,
-                            36.25
+                            -15.81,
+                            28.02
                         ],
                         [
-                            -5.89,
-                            36.34
+                            -15.79,
+                            28.02
                         ],
                         [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
+                            -15.74,
+                            28.05
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Campi\u00f1a gaditana",
-                "geocode": "611102",
+                "areaDesc": "Este, sur y oeste de Gran Canaria",
+                "geocode": "659004",
                 "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Expected",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-05T11:13:02+02:00",
-                "onset": "2025-09-05T12:00:00+02:00",
-                "expires": "2025-09-06T15:59:59+02:00",
+                "effective": "2025-09-06T15:00:35+01:00",
+                "onset": "2025-09-06T15:00:00+01:00",
+                "expires": "2025-09-06T17:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "VI;Vientos",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -2786,7 +2414,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana</b><b>\u00c1rea:</b> Campi\u00f1a gaditana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Rachas muy fuertes de levante.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 05/09/2025 12:00<br><b>Fecha de fin:</b> 06/09/2025 15:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Afectando especialmente en median\u00edas y en la cuenca de Tejeda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 06/09/2025 16:00<br><b>Fecha de fin:</b> 06/09/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2796,208 +2424,156 @@
                 "coordinates": [
                     [
                         [
-                            -6.12,
-                            36.86
+                            -15.74,
+                            28.05
                         ],
                         [
-                            -6.1,
-                            36.86
+                            -15.72,
+                            28.03
                         ],
                         [
-                            -5.97,
-                            36.84
+                            -15.69,
+                            28.05
                         ],
                         [
-                            -5.89,
-                            36.85
+                            -15.65,
+                            28.04
                         ],
                         [
-                            -5.88,
-                            36.9
+                            -15.61,
+                            28.02
                         ],
                         [
-                            -5.8,
-                            36.93
+                            -15.64,
+                            28.0
                         ],
                         [
-                            -5.72,
-                            36.92
+                            -15.71,
+                            27.99
                         ],
                         [
-                            -5.67,
-                            36.98
+                            -15.75,
+                            27.96
                         ],
                         [
-                            -5.58,
-                            36.92
+                            -15.69,
+                            27.92
                         ],
                         [
-                            -5.53,
-                            36.89
+                            -15.65,
+                            27.92
                         ],
                         [
-                            -5.53,
-                            36.84
+                            -15.6,
+                            27.97
                         ],
                         [
-                            -5.58,
-                            36.79
+                            -15.59,
+                            27.95
                         ],
                         [
-                            -5.58,
-                            36.76
+                            -15.55,
+                            27.96
                         ],
                         [
-                            -5.53,
-                            36.72
+                            -15.55,
+                            27.99
                         ],
                         [
-                            -5.54,
-                            36.67
+                            -15.51,
+                            28.01
                         ],
                         [
-                            -5.45,
-                            36.62
+                            -15.42,
+                            28.04
                         ],
                         [
-                            -5.46,
-                            36.59
+                            -15.39,
+                            28.03
                         ],
                         [
-                            -5.52,
-                            36.53
+                            -15.37,
+                            27.99
                         ],
                         [
-                            -5.57,
-                            36.55
+                            -15.38,
+                            27.97
                         ],
                         [
-                            -5.61,
-                            36.54
+                            -15.39,
+                            27.89
                         ],
                         [
-                            -5.6,
-                            36.51
+                            -15.38,
+                            27.86
                         ],
                         [
-                            -5.56,
-                            36.5
+                            -15.41,
+                            27.85
                         ],
                         [
-                            -5.57,
-                            36.44
+                            -15.42,
+                            27.81
                         ],
                         [
-                            -5.59,
-                            36.39
+                            -15.49,
+                            27.79
                         ],
                         [
-                            -5.58,
-                            36.37
+                            -15.56,
+                            27.76
                         ],
                         [
-                            -5.57,
-                            36.34
+                            -15.6,
+                            27.73
                         ],
                         [
-                            -5.61,
-                            36.32
+                            -15.67,
+                            27.75
                         ],
                         [
-                            -5.68,
-                            36.25
+                            -15.79,
+                            27.83
                         ],
                         [
-                            -5.69,
-                            36.22
+                            -15.83,
+                            27.91
                         ],
                         [
-                            -5.76,
-                            36.27
+                            -15.83,
+                            27.97
                         ],
                         [
-                            -5.79,
-                            36.25
+                            -15.81,
+                            28.02
                         ],
                         [
-                            -5.89,
-                            36.34
+                            -15.79,
+                            28.02
                         ],
                         [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
+                            -15.74,
+                            28.05
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Campi\u00f1a gaditana",
-                "geocode": "611102",
+                "areaDesc": "Este, sur y oeste de Gran Canaria",
+                "geocode": "659004",
                 "category": "Met",
-                "event": "Aviso de vientos de nivel amarillo",
-                "urgency": "Expected",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-05T11:13:02+02:00",
-                "onset": "2025-09-05T12:00:00+02:00",
-                "expires": "2025-09-06T15:59:59+02:00",
+                "effective": "2025-09-06T15:00:35+01:00",
+                "onset": "2025-09-06T15:00:00+01:00",
+                "expires": "2025-09-06T17:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
-                "eventCode": "VI;Vientos",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#f3f702",
@@ -3006,7 +2582,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana</b><b>\u00c1rea:</b> Campi\u00f1a gaditana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Rachas muy fuertes de levante.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 05/09/2025 12:00<br><b>Fecha de fin:</b> 06/09/2025 15:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Afectando especialmente en median\u00edas y en la cuenca de Tejeda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 06/09/2025 16:00<br><b>Fecha de fin:</b> 06/09/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -5775,6 +5351,190 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campi\u00f1a sevillana</b><b>\u00c1rea:</b> Campi\u00f1a sevillana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 06/09/2025 13:00<br><b>Fecha de fin:</b> 06/09/2025 20:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-06T15:00:35+01:00",
+                "onset": "2025-09-06T15:00:00+01:00",
+                "expires": "2025-09-06T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Afectando especialmente en median\u00edas y en la cuenca de Tejeda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 06/09/2025 16:00<br><b>Fecha de fin:</b> 06/09/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-06T15:00:35+01:00",
+                "onset": "2025-09-06T15:00:00+01:00",
+                "expires": "2025-09-06T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Afectando especialmente en median\u00edas y en la cuenca de Tejeda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 06/09/2025 16:00<br><b>Fecha de fin:</b> 06/09/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
