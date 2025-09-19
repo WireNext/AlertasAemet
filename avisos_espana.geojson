@@ -8248,6 +8248,342 @@
                 "coordinates": [
                     [
                         [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.76,
+                            43.34
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.96,
+                            43.2
+                        ],
+                        [
+                            -2.0,
+                            43.19
+                        ],
+                        [
+                            -2.08,
+                            43.24
+                        ],
+                        [
+                            -2.13,
+                            43.22
+                        ],
+                        [
+                            -2.16,
+                            43.2
+                        ],
+                        [
+                            -2.23,
+                            43.21
+                        ],
+                        [
+                            -2.26,
+                            43.23
+                        ],
+                        [
+                            -2.3,
+                            43.21
+                        ],
+                        [
+                            -2.35,
+                            43.24
+                        ],
+                        [
+                            -2.37,
+                            43.27
+                        ],
+                        [
+                            -2.42,
+                            43.27
+                        ],
+                        [
+                            -2.44,
+                            43.29
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Gipuzkoa litoral",
+                "geocode": "752001",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-19T22:12:46+02:00",
+                "onset": "2025-09-19T22:00:00+02:00",
+                "expires": "2025-09-19T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Gipuzkoa litoral</b><b>\u00c1rea:</b> Gipuzkoa litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> No se descartan rachas muy fuertes en zonas de tormenta.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 22:00<br><b>Fecha de fin:</b> 19/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.76,
+                            43.34
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.96,
+                            43.2
+                        ],
+                        [
+                            -2.0,
+                            43.19
+                        ],
+                        [
+                            -2.08,
+                            43.24
+                        ],
+                        [
+                            -2.13,
+                            43.22
+                        ],
+                        [
+                            -2.16,
+                            43.2
+                        ],
+                        [
+                            -2.23,
+                            43.21
+                        ],
+                        [
+                            -2.26,
+                            43.23
+                        ],
+                        [
+                            -2.3,
+                            43.21
+                        ],
+                        [
+                            -2.35,
+                            43.24
+                        ],
+                        [
+                            -2.37,
+                            43.27
+                        ],
+                        [
+                            -2.42,
+                            43.27
+                        ],
+                        [
+                            -2.44,
+                            43.29
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Gipuzkoa litoral",
+                "geocode": "752001",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-19T22:12:46+02:00",
+                "onset": "2025-09-19T22:00:00+02:00",
+                "expires": "2025-09-19T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Gipuzkoa litoral</b><b>\u00c1rea:</b> Gipuzkoa litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> No se descartan rachas muy fuertes en zonas de tormenta.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 22:00<br><b>Fecha de fin:</b> 19/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -3.38,
                             42.45
                         ],
@@ -14383,6 +14719,326 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.15,
+                            43.31
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.11,
+                            43.35
+                        ],
+                        [
+                            -3.11,
+                            43.36
+                        ],
+                        [
+                            -3.01,
+                            43.34
+                        ],
+                        [
+                            -3.03,
+                            43.37
+                        ],
+                        [
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -2.94,
+                            43.44
+                        ],
+                        [
+                            -2.81,
+                            43.43
+                        ],
+                        [
+                            -2.75,
+                            43.46
+                        ],
+                        [
+                            -2.72,
+                            43.42
+                        ],
+                        [
+                            -2.62,
+                            43.39
+                        ],
+                        [
+                            -2.56,
+                            43.39
+                        ],
+                        [
+                            -2.54,
+                            43.37
+                        ],
+                        [
+                            -2.49,
+                            43.37
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.44,
+                            43.29
+                        ],
+                        [
+                            -2.42,
+                            43.27
+                        ],
+                        [
+                            -2.46,
+                            43.22
+                        ],
+                        [
+                            -2.5,
+                            43.21
+                        ],
+                        [
+                            -2.55,
+                            43.23
+                        ],
+                        [
+                            -2.66,
+                            43.22
+                        ],
+                        [
+                            -2.72,
+                            43.24
+                        ],
+                        [
+                            -2.75,
+                            43.27
+                        ],
+                        [
+                            -2.77,
+                            43.24
+                        ],
+                        [
+                            -2.94,
+                            43.28
+                        ],
+                        [
+                            -3.0,
+                            43.3
+                        ],
+                        [
+                            -3.08,
+                            43.33
+                        ],
+                        [
+                            -3.15,
+                            43.31
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Bizkaia litoral",
+                "geocode": "754801",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Observed",
+                "effective": "2025-09-19T22:12:46+02:00",
+                "onset": "2025-09-19T22:00:00+02:00",
+                "expires": "2025-09-19T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Bizkaia litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Bizkaia litoral</b><b>\u00c1rea:</b> Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> No se descartan rachas muy fuertes en zonas de tormenta.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 22:00<br><b>Fecha de fin:</b> 19/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.15,
+                            43.31
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.11,
+                            43.35
+                        ],
+                        [
+                            -3.11,
+                            43.36
+                        ],
+                        [
+                            -3.01,
+                            43.34
+                        ],
+                        [
+                            -3.03,
+                            43.37
+                        ],
+                        [
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -2.94,
+                            43.44
+                        ],
+                        [
+                            -2.81,
+                            43.43
+                        ],
+                        [
+                            -2.75,
+                            43.46
+                        ],
+                        [
+                            -2.72,
+                            43.42
+                        ],
+                        [
+                            -2.62,
+                            43.39
+                        ],
+                        [
+                            -2.56,
+                            43.39
+                        ],
+                        [
+                            -2.54,
+                            43.37
+                        ],
+                        [
+                            -2.49,
+                            43.37
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.44,
+                            43.29
+                        ],
+                        [
+                            -2.42,
+                            43.27
+                        ],
+                        [
+                            -2.46,
+                            43.22
+                        ],
+                        [
+                            -2.5,
+                            43.21
+                        ],
+                        [
+                            -2.55,
+                            43.23
+                        ],
+                        [
+                            -2.66,
+                            43.22
+                        ],
+                        [
+                            -2.72,
+                            43.24
+                        ],
+                        [
+                            -2.75,
+                            43.27
+                        ],
+                        [
+                            -2.77,
+                            43.24
+                        ],
+                        [
+                            -2.94,
+                            43.28
+                        ],
+                        [
+                            -3.0,
+                            43.3
+                        ],
+                        [
+                            -3.08,
+                            43.33
+                        ],
+                        [
+                            -3.15,
+                            43.31
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Bizkaia litoral",
+                "geocode": "754801",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Observed",
+                "effective": "2025-09-19T22:12:46+02:00",
+                "onset": "2025-09-19T22:00:00+02:00",
+                "expires": "2025-09-19T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Bizkaia litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Bizkaia litoral</b><b>\u00c1rea:</b> Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> No se descartan rachas muy fuertes en zonas de tormenta.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 22:00<br><b>Fecha de fin:</b> 19/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
