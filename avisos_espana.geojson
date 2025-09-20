@@ -8,85 +8,109 @@
                 "coordinates": [
                     [
                         [
-                            -18.05,
-                            27.69
+                            -15.74,
+                            28.05
                         ],
                         [
-                            -18.16,
-                            27.71
+                            -15.71,
+                            28.09
                         ],
                         [
-                            -18.15,
-                            27.75
+                            -15.7,
+                            28.16
                         ],
                         [
-                            -18.13,
-                            27.77
+                            -15.63,
+                            28.17
                         ],
                         [
-                            -18.07,
-                            27.75
+                            -15.61,
+                            28.15
                         ],
                         [
-                            -18.03,
-                            27.76
+                            -15.54,
+                            28.14
                         ],
                         [
-                            -17.99,
-                            27.8
+                            -15.52,
+                            28.15
                         ],
                         [
-                            -17.96,
-                            27.84
+                            -15.48,
+                            28.13
                         ],
                         [
-                            -17.92,
-                            27.85
+                            -15.43,
+                            28.13
                         ],
                         [
-                            -17.88,
-                            27.8
+                            -15.41,
+                            28.1
                         ],
                         [
-                            -17.9,
-                            27.78
+                            -15.42,
+                            28.06
                         ],
                         [
-                            -17.93,
-                            27.73
+                            -15.41,
+                            28.04
                         ],
                         [
-                            -17.96,
-                            27.72
+                            -15.39,
+                            28.03
                         ],
                         [
-                            -17.97,
-                            27.65
+                            -15.42,
+                            28.04
                         ],
                         [
-                            -18.01,
-                            27.65
+                            -15.51,
+                            28.01
                         ],
                         [
-                            -18.05,
-                            27.69
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.74,
+                            28.05
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "El Hierro",
-                "geocode": "659501",
+                "areaDesc": "Norte de Gran Canaria",
+                "geocode": "659001",
                 "category": "Met",
                 "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "VS;Polvo en suspensi\u00f3n",
@@ -98,339 +122,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -18.05,
-                            27.69
-                        ],
-                        [
-                            -18.16,
-                            27.71
-                        ],
-                        [
-                            -18.15,
-                            27.75
-                        ],
-                        [
-                            -18.13,
-                            27.77
-                        ],
-                        [
-                            -18.07,
-                            27.75
-                        ],
-                        [
-                            -18.03,
-                            27.76
-                        ],
-                        [
-                            -17.99,
-                            27.8
-                        ],
-                        [
-                            -17.96,
-                            27.84
-                        ],
-                        [
-                            -17.92,
-                            27.85
-                        ],
-                        [
-                            -17.88,
-                            27.8
-                        ],
-                        [
-                            -17.9,
-                            27.78
-                        ],
-                        [
-                            -17.93,
-                            27.73
-                        ],
-                        [
-                            -17.96,
-                            27.72
-                        ],
-                        [
-                            -17.97,
-                            27.65
-                        ],
-                        [
-                            -18.01,
-                            27.65
-                        ],
-                        [
-                            -18.05,
-                            27.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "El Hierro",
-                "geocode": "659501",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.85,
-                            28.83
-                        ],
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.9,
-                            28.74
-                        ],
-                        [
-                            -17.92,
-                            28.69
-                        ],
-                        [
-                            -17.88,
-                            28.59
-                        ],
-                        [
-                            -17.87,
-                            28.55
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.84,
-                            28.54
-                        ],
-                        [
-                            -17.79,
-                            28.52
-                        ],
-                        [
-                            -17.83,
-                            28.46
-                        ],
-                        [
-                            -17.85,
-                            28.46
-                        ],
-                        [
-                            -17.87,
-                            28.49
-                        ],
-                        [
-                            -17.88,
-                            28.55
-                        ],
-                        [
-                            -17.96,
-                            28.67
-                        ],
-                        [
-                            -17.98,
-                            28.73
-                        ],
-                        [
-                            -18.01,
-                            28.76
-                        ],
-                        [
-                            -18.0,
-                            28.78
-                        ],
-                        [
-                            -17.96,
-                            28.83
-                        ],
-                        [
-                            -17.92,
-                            28.85
-                        ],
-                        [
-                            -17.85,
-                            28.83
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Oeste de La Palma",
-                "geocode": "659304",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.85,
-                            28.83
-                        ],
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.9,
-                            28.74
-                        ],
-                        [
-                            -17.92,
-                            28.69
-                        ],
-                        [
-                            -17.88,
-                            28.59
-                        ],
-                        [
-                            -17.87,
-                            28.55
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.84,
-                            28.54
-                        ],
-                        [
-                            -17.79,
-                            28.52
-                        ],
-                        [
-                            -17.83,
-                            28.46
-                        ],
-                        [
-                            -17.85,
-                            28.46
-                        ],
-                        [
-                            -17.87,
-                            28.49
-                        ],
-                        [
-                            -17.88,
-                            28.55
-                        ],
-                        [
-                            -17.96,
-                            28.67
-                        ],
-                        [
-                            -17.98,
-                            28.73
-                        ],
-                        [
-                            -18.01,
-                            28.76
-                        ],
-                        [
-                            -18.0,
-                            28.78
-                        ],
-                        [
-                            -17.96,
-                            28.83
-                        ],
-                        [
-                            -17.92,
-                            28.85
-                        ],
-                        [
-                            -17.85,
-                            28.83
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Oeste de La Palma",
-                "geocode": "659304",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria</b><b>\u00c1rea:</b> Norte de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -538,8 +230,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria",
@@ -554,7 +246,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria</b><b>\u00c1rea:</b> Norte de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria</b><b>\u00c1rea:</b> Norte de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -564,389 +256,101 @@
                 "coordinates": [
                     [
                         [
-                            -15.74,
-                            28.05
+                            -17.85,
+                            28.83
                         ],
                         [
-                            -15.71,
-                            28.09
+                            -17.86,
+                            28.76
                         ],
                         [
-                            -15.7,
-                            28.16
+                            -17.9,
+                            28.74
                         ],
                         [
-                            -15.63,
-                            28.17
+                            -17.92,
+                            28.69
                         ],
                         [
-                            -15.61,
-                            28.15
-                        ],
-                        [
-                            -15.54,
-                            28.14
-                        ],
-                        [
-                            -15.52,
-                            28.15
-                        ],
-                        [
-                            -15.48,
-                            28.13
-                        ],
-                        [
-                            -15.43,
-                            28.13
-                        ],
-                        [
-                            -15.41,
-                            28.1
-                        ],
-                        [
-                            -15.42,
-                            28.06
-                        ],
-                        [
-                            -15.41,
-                            28.04
-                        ],
-                        [
-                            -15.39,
-                            28.03
-                        ],
-                        [
-                            -15.42,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.65,
-                            28.04
-                        ],
-                        [
-                            -15.69,
-                            28.05
-                        ],
-                        [
-                            -15.72,
-                            28.03
-                        ],
-                        [
-                            -15.74,
-                            28.05
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte de Gran Canaria",
-                "geocode": "659001",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Gran Canaria</b><b>\u00c1rea:</b> Norte de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.34,
-                            28.15
-                        ],
-                        [
-                            -17.31,
-                            28.2
-                        ],
-                        [
-                            -17.27,
-                            28.22
-                        ],
-                        [
-                            -17.24,
-                            28.2
-                        ],
-                        [
-                            -17.19,
-                            28.2
-                        ],
-                        [
-                            -17.17,
-                            28.18
-                        ],
-                        [
-                            -17.12,
-                            28.15
-                        ],
-                        [
-                            -17.1,
-                            28.09
-                        ],
-                        [
-                            -17.18,
-                            28.03
-                        ],
-                        [
-                            -17.24,
-                            28.02
-                        ],
-                        [
-                            -17.31,
-                            28.05
-                        ],
-                        [
-                            -17.35,
-                            28.1
-                        ],
-                        [
-                            -17.34,
-                            28.15
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "La Gomera",
-                "geocode": "659401",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.34,
-                            28.15
-                        ],
-                        [
-                            -17.31,
-                            28.2
-                        ],
-                        [
-                            -17.27,
-                            28.22
-                        ],
-                        [
-                            -17.24,
-                            28.2
-                        ],
-                        [
-                            -17.19,
-                            28.2
-                        ],
-                        [
-                            -17.17,
-                            28.18
-                        ],
-                        [
-                            -17.12,
-                            28.15
-                        ],
-                        [
-                            -17.1,
-                            28.09
-                        ],
-                        [
-                            -17.18,
-                            28.03
-                        ],
-                        [
-                            -17.24,
-                            28.02
-                        ],
-                        [
-                            -17.31,
-                            28.05
-                        ],
-                        [
-                            -17.35,
-                            28.1
-                        ],
-                        [
-                            -17.34,
-                            28.15
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "La Gomera",
-                "geocode": "659401",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.43,
-                            28.49
-                        ],
-                        [
-                            -16.42,
-                            28.52
-                        ],
-                        [
-                            -16.38,
-                            28.55
-                        ],
-                        [
-                            -16.33,
-                            28.56
-                        ],
-                        [
-                            -16.32,
-                            28.58
-                        ],
-                        [
-                            -16.22,
-                            28.56
-                        ],
-                        [
-                            -16.16,
+                            -17.88,
                             28.59
                         ],
                         [
-                            -16.12,
+                            -17.87,
                             28.55
                         ],
                         [
-                            -16.15,
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
                             28.52
                         ],
                         [
-                            -16.23,
-                            28.48
+                            -17.83,
+                            28.46
                         ],
                         [
-                            -16.25,
-                            28.45
+                            -17.85,
+                            28.46
                         ],
                         [
-                            -16.36,
-                            28.38
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.39,
-                            28.34
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.39,
-                            28.43
-                        ],
-                        [
-                            -16.43,
+                            -17.87,
                             28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "\u00c1rea metropolitana de Tenerife",
-                "geocode": "659602",
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
                 "category": "Met",
                 "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "VS;Polvo en suspensi\u00f3n",
@@ -958,7 +362,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -968,89 +372,101 @@
                 "coordinates": [
                     [
                         [
-                            -16.43,
-                            28.49
+                            -17.85,
+                            28.83
                         ],
                         [
-                            -16.42,
-                            28.52
+                            -17.86,
+                            28.76
                         ],
                         [
-                            -16.38,
-                            28.55
+                            -17.9,
+                            28.74
                         ],
                         [
-                            -16.33,
-                            28.56
+                            -17.92,
+                            28.69
                         ],
                         [
-                            -16.32,
-                            28.58
-                        ],
-                        [
-                            -16.22,
-                            28.56
-                        ],
-                        [
-                            -16.16,
+                            -17.88,
                             28.59
                         ],
                         [
-                            -16.12,
+                            -17.87,
                             28.55
                         ],
                         [
-                            -16.15,
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
                             28.52
                         ],
                         [
-                            -16.23,
-                            28.48
+                            -17.83,
+                            28.46
                         ],
                         [
-                            -16.25,
-                            28.45
+                            -17.85,
+                            28.46
                         ],
                         [
-                            -16.36,
-                            28.38
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.39,
-                            28.34
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.39,
-                            28.43
-                        ],
-                        [
-                            -16.43,
+                            -17.87,
                             28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "\u00c1rea metropolitana de Tenerife",
-                "geocode": "659602",
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
                 "category": "Met",
                 "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "VS;Polvo en suspensi\u00f3n",
@@ -1062,7 +478,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Oeste de La Palma</b><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1214,8 +630,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria",
@@ -1230,7 +646,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1382,8 +798,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria",
@@ -1398,479 +814,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Cumbres de Gran Canaria",
-                "geocode": "659003",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.6,
-                            28.01
-                        ],
-                        [
-                            -15.54,
-                            28.04
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Cumbres de Gran Canaria",
-                "geocode": "659003",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.39,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Este, sur y oeste de Tenerife",
-                "geocode": "659603",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.39,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Este, sur y oeste de Tenerife",
-                "geocode": "659603",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Gran Canaria</b><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2006,8 +950,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Lanzarote",
@@ -2022,7 +966,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2158,8 +1102,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Lanzarote",
@@ -2174,7 +1118,351 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Lanzarote</b><b>\u00c1rea:</b> Lanzarote<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. La Gomera</b><b>\u00c1rea:</b> La Gomera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2262,8 +1550,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este de La Palma",
@@ -2278,7 +1566,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este de La Palma</b><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este de La Palma</b><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2366,8 +1654,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este de La Palma",
@@ -2382,7 +1670,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este de La Palma</b><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este de La Palma</b><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2392,349 +1680,85 @@
                 "coordinates": [
                     [
                         [
-                            -16.43,
-                            28.49
+                            -18.05,
+                            27.69
                         ],
                         [
-                            -16.39,
-                            28.43
+                            -18.16,
+                            27.71
                         ],
                         [
-                            -16.44,
-                            28.39
+                            -18.15,
+                            27.75
                         ],
                         [
-                            -16.48,
-                            28.35
+                            -18.13,
+                            27.77
                         ],
                         [
-                            -16.5,
-                            28.31
+                            -18.07,
+                            27.75
                         ],
                         [
-                            -16.54,
-                            28.28
+                            -18.03,
+                            27.76
                         ],
                         [
-                            -16.55,
-                            28.25
+                            -17.99,
+                            27.8
                         ],
                         [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.88,
-                            28.31
-                        ],
-                        [
-                            -16.92,
-                            28.34
-                        ],
-                        [
-                            -16.92,
-                            28.36
-                        ],
-                        [
-                            -16.86,
-                            28.37
-                        ],
-                        [
-                            -16.83,
-                            28.39
-                        ],
-                        [
-                            -16.81,
-                            28.38
-                        ],
-                        [
-                            -16.75,
-                            28.37
-                        ],
-                        [
-                            -16.7,
-                            28.38
-                        ],
-                        [
-                            -16.67,
-                            28.4
-                        ],
-                        [
-                            -16.6,
-                            28.39
-                        ],
-                        [
-                            -16.55,
-                            28.42
-                        ],
-                        [
-                            -16.52,
-                            28.42
-                        ],
-                        [
-                            -16.47,
-                            28.44
-                        ],
-                        [
-                            -16.43,
-                            28.49
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte de Tenerife",
-                "geocode": "659601",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.43,
-                            28.49
-                        ],
-                        [
-                            -16.39,
-                            28.43
-                        ],
-                        [
-                            -16.44,
-                            28.39
-                        ],
-                        [
-                            -16.48,
-                            28.35
-                        ],
-                        [
-                            -16.5,
-                            28.31
-                        ],
-                        [
-                            -16.54,
-                            28.28
-                        ],
-                        [
-                            -16.55,
-                            28.25
-                        ],
-                        [
-                            -16.64,
-                            28.2
-                        ],
-                        [
-                            -16.68,
-                            28.21
-                        ],
-                        [
-                            -16.7,
-                            28.27
-                        ],
-                        [
-                            -16.79,
-                            28.31
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.88,
-                            28.31
-                        ],
-                        [
-                            -16.92,
-                            28.34
-                        ],
-                        [
-                            -16.92,
-                            28.36
-                        ],
-                        [
-                            -16.86,
-                            28.37
-                        ],
-                        [
-                            -16.83,
-                            28.39
-                        ],
-                        [
-                            -16.81,
-                            28.38
-                        ],
-                        [
-                            -16.75,
-                            28.37
-                        ],
-                        [
-                            -16.7,
-                            28.38
-                        ],
-                        [
-                            -16.67,
-                            28.4
-                        ],
-                        [
-                            -16.6,
-                            28.39
-                        ],
-                        [
-                            -16.55,
-                            28.42
-                        ],
-                        [
-                            -16.52,
-                            28.42
-                        ],
-                        [
-                            -16.47,
-                            28.44
-                        ],
-                        [
-                            -16.43,
-                            28.49
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Norte de Tenerife",
-                "geocode": "659601",
-                "category": "Met",
-                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
-                "expires": "2025-09-20T23:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "VS;Polvo en suspensi\u00f3n",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.83,
-                            28.74
-                        ],
-                        [
-                            -17.84,
-                            28.7
-                        ],
-                        [
-                            -17.83,
-                            28.68
-                        ],
-                        [
-                            -17.82,
-                            28.64
-                        ],
-                        [
-                            -17.84,
-                            28.61
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.87,
-                            28.55
-                        ],
-                        [
-                            -17.88,
-                            28.59
+                            -17.96,
+                            27.84
                         ],
                         [
                             -17.92,
-                            28.69
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
                         ],
                         [
                             -17.9,
-                            28.74
+                            27.78
                         ],
                         [
-                            -17.86,
-                            28.76
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Cumbres de La Palma",
-                "geocode": "659302",
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
                 "category": "Met",
                 "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "VS;Polvo en suspensi\u00f3n",
@@ -2746,7 +1770,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2756,69 +1780,85 @@
                 "coordinates": [
                     [
                         [
-                            -17.86,
-                            28.76
+                            -18.05,
+                            27.69
                         ],
                         [
-                            -17.83,
-                            28.74
+                            -18.16,
+                            27.71
                         ],
                         [
-                            -17.84,
-                            28.7
+                            -18.15,
+                            27.75
                         ],
                         [
-                            -17.83,
-                            28.68
+                            -18.13,
+                            27.77
                         ],
                         [
-                            -17.82,
-                            28.64
+                            -18.07,
+                            27.75
                         ],
                         [
-                            -17.84,
-                            28.61
+                            -18.03,
+                            27.76
                         ],
                         [
-                            -17.84,
-                            28.56
+                            -17.99,
+                            27.8
                         ],
                         [
-                            -17.87,
-                            28.55
-                        ],
-                        [
-                            -17.88,
-                            28.59
+                            -17.96,
+                            27.84
                         ],
                         [
                             -17.92,
-                            28.69
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
                         ],
                         [
                             -17.9,
-                            28.74
+                            27.78
                         ],
                         [
-                            -17.86,
-                            28.76
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Cumbres de La Palma",
-                "geocode": "659302",
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
                 "category": "Met",
                 "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "VS;Polvo en suspensi\u00f3n",
@@ -2830,7 +1870,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de La Palma</b><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. El Hierro</b><b>\u00c1rea:</b> El Hierro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2994,8 +2034,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Fuerteventura",
@@ -3010,7 +2050,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -3174,8 +2214,8 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-09-19T09:57:59+01:00",
-                "onset": "2025-09-19T09:00:00+01:00",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
                 "expires": "2025-09-20T23:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Fuerteventura",
@@ -3190,7 +2230,967 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Tendiendo a remitir durante la segunda mitad del d\u00eda 20.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 19/09/2025 10:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Fuerteventura</b><b>\u00c1rea:</b> Fuerteventura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.42,
+                            28.52
+                        ],
+                        [
+                            -16.38,
+                            28.55
+                        ],
+                        [
+                            -16.33,
+                            28.56
+                        ],
+                        [
+                            -16.32,
+                            28.58
+                        ],
+                        [
+                            -16.22,
+                            28.56
+                        ],
+                        [
+                            -16.16,
+                            28.59
+                        ],
+                        [
+                            -16.12,
+                            28.55
+                        ],
+                        [
+                            -16.15,
+                            28.52
+                        ],
+                        [
+                            -16.23,
+                            28.48
+                        ],
+                        [
+                            -16.25,
+                            28.45
+                        ],
+                        [
+                            -16.36,
+                            28.38
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "\u00c1rea metropolitana de Tenerife",
+                "geocode": "659602",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.42,
+                            28.52
+                        ],
+                        [
+                            -16.38,
+                            28.55
+                        ],
+                        [
+                            -16.33,
+                            28.56
+                        ],
+                        [
+                            -16.32,
+                            28.58
+                        ],
+                        [
+                            -16.22,
+                            28.56
+                        ],
+                        [
+                            -16.16,
+                            28.59
+                        ],
+                        [
+                            -16.12,
+                            28.55
+                        ],
+                        [
+                            -16.15,
+                            28.52
+                        ],
+                        [
+                            -16.23,
+                            28.48
+                        ],
+                        [
+                            -16.25,
+                            28.45
+                        ],
+                        [
+                            -16.36,
+                            28.38
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "\u00c1rea metropolitana de Tenerife",
+                "geocode": "659602",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Norte de Tenerife</b><b>\u00c1rea:</b> Norte de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Este, sur y oeste de Tenerife</b><b>\u00c1rea:</b> Este, sur y oeste de Tenerife<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de Gran Canaria",
+                "geocode": "659003",
+                "category": "Met",
+                "event": "Aviso de polvo en suspensi\u00f3n de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-20T10:17:07+01:00",
+                "onset": "2025-09-20T10:00:00+01:00",
+                "expires": "2025-09-20T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VS;Polvo en suspensi\u00f3n",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</b><b>\u00c1rea:</b> Cumbres de Gran Canaria<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Comenzar\u00e1 a remitir al final del d\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 20/09/2025 11:00<br><b>Fecha de fin:</b> 21/09/2025 00:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
