@@ -8,6 +8,286 @@
                 "coordinates": [
                     [
                         [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Levante mallorqu\u00edn",
+                "geocode": "645405",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-22T11:28:48+02:00",
+                "onset": "2025-09-23T02:00:00+02:00",
+                "expires": "2025-09-23T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Levante mallorqu\u00edn</b><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/09/2025 02:00<br><b>Fecha de fin:</b> 23/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Levante mallorqu\u00edn",
+                "geocode": "645405",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-22T11:28:48+02:00",
+                "onset": "2025-09-23T02:00:00+02:00",
+                "expires": "2025-09-23T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Levante mallorqu\u00edn</b><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/09/2025 02:00<br><b>Fecha de fin:</b> 23/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -3.13,
                             36.75
                         ],
@@ -1615,6 +1895,286 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Noroeste de Murcia</b><b>\u00c1rea:</b> Noroeste de Murcia<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 22/09/2025 22:00<br><b>Fecha de fin:</b> 23/09/2025 07:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Levante mallorqu\u00edn",
+                "geocode": "645405",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-09-22T11:28:48+02:00",
+                "onset": "2025-09-23T02:00:00+02:00",
+                "expires": "2025-09-23T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn</b><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/09/2025 02:00<br><b>Fecha de fin:</b> 23/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Levante mallorqu\u00edn",
+                "geocode": "645405",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-09-22T11:28:48+02:00",
+                "onset": "2025-09-23T02:00:00+02:00",
+                "expires": "2025-09-23T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn</b><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/09/2025 02:00<br><b>Fecha de fin:</b> 23/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
