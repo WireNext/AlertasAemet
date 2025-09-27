@@ -1,4 +1,597 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.88,
+                            41.96
+                        ],
+                        [
+                            -8.88,
+                            41.88
+                        ],
+                        [
+                            -8.85,
+                            41.88
+                        ],
+                        [
+                            -8.83,
+                            41.9
+                        ],
+                        [
+                            -8.85,
+                            41.87
+                        ],
+                        [
+                            -8.92,
+                            41.85
+                        ],
+                        [
+                            -9.04,
+                            41.83
+                        ],
+                        [
+                            -9.12,
+                            41.83
+                        ],
+                        [
+                            -9.29,
+                            41.83
+                        ],
+                        [
+                            -9.31,
+                            41.83
+                        ],
+                        [
+                            -9.32,
+                            41.9
+                        ],
+                        [
+                            -9.21,
+                            41.92
+                        ],
+                        [
+                            -8.88,
+                            41.96
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Mi\u00f1o de Pontevedra",
+                "geocode": "713603C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-27T11:25:55+02:00",
+                "onset": "2025-09-27T15:00:00+02:00",
+                "expires": "2025-09-28T03:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Mi\u00f1o de Pontevedra",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Mi\u00f1o de Pontevedra</b><b>\u00c1rea:</b> Costa - Mi\u00f1o de Pontevedra<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Sureste de 50 a 61 km/h (fuerza 7) y mar combinado del Suroeste de 4 a 5 m con periodos en torno a 14 segundos.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 27/09/2025 15:00<br><b>Fecha de fin:</b> 28/09/2025 03:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.88,
+                            41.96
+                        ],
+                        [
+                            -8.88,
+                            41.88
+                        ],
+                        [
+                            -8.85,
+                            41.88
+                        ],
+                        [
+                            -8.83,
+                            41.9
+                        ],
+                        [
+                            -8.85,
+                            41.87
+                        ],
+                        [
+                            -8.92,
+                            41.85
+                        ],
+                        [
+                            -9.04,
+                            41.83
+                        ],
+                        [
+                            -9.12,
+                            41.83
+                        ],
+                        [
+                            -9.29,
+                            41.83
+                        ],
+                        [
+                            -9.31,
+                            41.83
+                        ],
+                        [
+                            -9.32,
+                            41.9
+                        ],
+                        [
+                            -9.21,
+                            41.92
+                        ],
+                        [
+                            -8.88,
+                            41.96
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Mi\u00f1o de Pontevedra",
+                "geocode": "713603C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-27T11:25:55+02:00",
+                "onset": "2025-09-27T15:00:00+02:00",
+                "expires": "2025-09-28T03:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Mi\u00f1o de Pontevedra",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Mi\u00f1o de Pontevedra</b><b>\u00c1rea:</b> Costa - Mi\u00f1o de Pontevedra<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Sureste de 50 a 61 km/h (fuerza 7) y mar combinado del Suroeste de 4 a 5 m con periodos en torno a 14 segundos.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 27/09/2025 15:00<br><b>Fecha de fin:</b> 28/09/2025 03:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.46,
+                            42.37
+                        ],
+                        [
+                            -9.19,
+                            42.41
+                        ],
+                        [
+                            -9.04,
+                            42.44
+                        ],
+                        [
+                            -8.98,
+                            42.47
+                        ],
+                        [
+                            -8.91,
+                            42.57
+                        ],
+                        [
+                            -8.82,
+                            42.61
+                        ],
+                        [
+                            -8.74,
+                            42.65
+                        ],
+                        [
+                            -8.77,
+                            42.62
+                        ],
+                        [
+                            -8.76,
+                            42.6
+                        ],
+                        [
+                            -8.83,
+                            42.55
+                        ],
+                        [
+                            -8.82,
+                            42.53
+                        ],
+                        [
+                            -8.83,
+                            42.48
+                        ],
+                        [
+                            -8.86,
+                            42.5
+                        ],
+                        [
+                            -8.91,
+                            42.48
+                        ],
+                        [
+                            -8.88,
+                            42.46
+                        ],
+                        [
+                            -8.86,
+                            42.41
+                        ],
+                        [
+                            -8.76,
+                            42.4
+                        ],
+                        [
+                            -8.74,
+                            42.41
+                        ],
+                        [
+                            -8.69,
+                            42.4
+                        ],
+                        [
+                            -8.74,
+                            42.38
+                        ],
+                        [
+                            -8.75,
+                            42.34
+                        ],
+                        [
+                            -8.83,
+                            42.33
+                        ],
+                        [
+                            -8.82,
+                            42.31
+                        ],
+                        [
+                            -8.85,
+                            42.26
+                        ],
+                        [
+                            -8.79,
+                            42.25
+                        ],
+                        [
+                            -8.74,
+                            42.27
+                        ],
+                        [
+                            -8.69,
+                            42.28
+                        ],
+                        [
+                            -8.64,
+                            42.35
+                        ],
+                        [
+                            -8.61,
+                            42.34
+                        ],
+                        [
+                            -8.61,
+                            42.3
+                        ],
+                        [
+                            -8.67,
+                            42.28
+                        ],
+                        [
+                            -8.74,
+                            42.23
+                        ],
+                        [
+                            -8.77,
+                            42.23
+                        ],
+                        [
+                            -8.83,
+                            42.15
+                        ],
+                        [
+                            -8.82,
+                            42.13
+                        ],
+                        [
+                            -8.9,
+                            42.11
+                        ],
+                        [
+                            -8.88,
+                            42.0
+                        ],
+                        [
+                            -8.88,
+                            41.96
+                        ],
+                        [
+                            -9.21,
+                            41.92
+                        ],
+                        [
+                            -9.32,
+                            41.9
+                        ],
+                        [
+                            -9.36,
+                            42.24
+                        ],
+                        [
+                            -9.38,
+                            42.27
+                        ],
+                        [
+                            -9.46,
+                            42.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Rias Baixas",
+                "geocode": "713601C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-27T11:25:55+02:00",
+                "onset": "2025-09-27T15:00:00+02:00",
+                "expires": "2025-09-28T03:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Rias Baixas",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Rias Baixas</b><b>\u00c1rea:</b> Costa - Rias Baixas<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Sureste de 50 a 61 km/h (fuerza 7) y mar combinado del Suroeste de 4 a 5 m con periodos en torno a 14 segundos.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 27/09/2025 15:00<br><b>Fecha de fin:</b> 28/09/2025 03:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.46,
+                            42.37
+                        ],
+                        [
+                            -9.19,
+                            42.41
+                        ],
+                        [
+                            -9.04,
+                            42.44
+                        ],
+                        [
+                            -8.98,
+                            42.47
+                        ],
+                        [
+                            -8.91,
+                            42.57
+                        ],
+                        [
+                            -8.82,
+                            42.61
+                        ],
+                        [
+                            -8.74,
+                            42.65
+                        ],
+                        [
+                            -8.77,
+                            42.62
+                        ],
+                        [
+                            -8.76,
+                            42.6
+                        ],
+                        [
+                            -8.83,
+                            42.55
+                        ],
+                        [
+                            -8.82,
+                            42.53
+                        ],
+                        [
+                            -8.83,
+                            42.48
+                        ],
+                        [
+                            -8.86,
+                            42.5
+                        ],
+                        [
+                            -8.91,
+                            42.48
+                        ],
+                        [
+                            -8.88,
+                            42.46
+                        ],
+                        [
+                            -8.86,
+                            42.41
+                        ],
+                        [
+                            -8.76,
+                            42.4
+                        ],
+                        [
+                            -8.74,
+                            42.41
+                        ],
+                        [
+                            -8.69,
+                            42.4
+                        ],
+                        [
+                            -8.74,
+                            42.38
+                        ],
+                        [
+                            -8.75,
+                            42.34
+                        ],
+                        [
+                            -8.83,
+                            42.33
+                        ],
+                        [
+                            -8.82,
+                            42.31
+                        ],
+                        [
+                            -8.85,
+                            42.26
+                        ],
+                        [
+                            -8.79,
+                            42.25
+                        ],
+                        [
+                            -8.74,
+                            42.27
+                        ],
+                        [
+                            -8.69,
+                            42.28
+                        ],
+                        [
+                            -8.64,
+                            42.35
+                        ],
+                        [
+                            -8.61,
+                            42.34
+                        ],
+                        [
+                            -8.61,
+                            42.3
+                        ],
+                        [
+                            -8.67,
+                            42.28
+                        ],
+                        [
+                            -8.74,
+                            42.23
+                        ],
+                        [
+                            -8.77,
+                            42.23
+                        ],
+                        [
+                            -8.83,
+                            42.15
+                        ],
+                        [
+                            -8.82,
+                            42.13
+                        ],
+                        [
+                            -8.9,
+                            42.11
+                        ],
+                        [
+                            -8.88,
+                            42.0
+                        ],
+                        [
+                            -8.88,
+                            41.96
+                        ],
+                        [
+                            -9.21,
+                            41.92
+                        ],
+                        [
+                            -9.32,
+                            41.9
+                        ],
+                        [
+                            -9.36,
+                            42.24
+                        ],
+                        [
+                            -9.38,
+                            42.27
+                        ],
+                        [
+                            -9.46,
+                            42.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Rias Baixas",
+                "geocode": "713601C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-27T11:25:55+02:00",
+                "onset": "2025-09-27T15:00:00+02:00",
+                "expires": "2025-09-28T03:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Rias Baixas",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Rias Baixas</b><b>\u00c1rea:</b> Costa - Rias Baixas<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del Sureste de 50 a 61 km/h (fuerza 7) y mar combinado del Suroeste de 4 a 5 m con periodos en torno a 14 segundos.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 27/09/2025 15:00<br><b>Fecha de fin:</b> 28/09/2025 03:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        }
+    ]
 }
