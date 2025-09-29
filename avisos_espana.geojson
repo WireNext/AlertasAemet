@@ -12696,6 +12696,406 @@
                 "coordinates": [
                     [
                         [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-29T18:25:41+02:00",
+                "onset": "2025-09-29T19:00:00+02:00",
+                "expires": "2025-09-30T06:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 19:00<br><b>Fecha de fin:</b> 30/09/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-29T18:25:41+02:00",
+                "onset": "2025-09-29T19:00:00+02:00",
+                "expires": "2025-09-30T06:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 19:00<br><b>Fecha de fin:</b> 30/09/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.27,
                             39.28
                         ],
@@ -16911,350 +17311,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Hell\u00edn y Almansa</b><b>\u00c1rea:</b> Hell\u00edn y Almansa<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 28/09/2025 18:00<br><b>Fecha de fin:</b> 29/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -3.81,
-                            36.85
-                        ],
-                        [
-                            -3.77,
-                            36.88
-                        ],
-                        [
-                            -3.69,
-                            36.86
-                        ],
-                        [
-                            -3.66,
-                            36.9
-                        ],
-                        [
-                            -3.58,
-                            36.88
-                        ],
-                        [
-                            -3.5,
-                            36.87
-                        ],
-                        [
-                            -3.44,
-                            36.83
-                        ],
-                        [
-                            -3.35,
-                            36.81
-                        ],
-                        [
-                            -3.32,
-                            36.82
-                        ],
-                        [
-                            -3.31,
-                            36.86
-                        ],
-                        [
-                            -3.28,
-                            36.88
-                        ],
-                        [
-                            -3.22,
-                            36.87
-                        ],
-                        [
-                            -3.14,
-                            36.89
-                        ],
-                        [
-                            -3.14,
-                            36.91
-                        ],
-                        [
-                            -3.07,
-                            36.92
-                        ],
-                        [
-                            -3.03,
-                            36.84
-                        ],
-                        [
-                            -3.14,
-                            36.79
-                        ],
-                        [
-                            -3.13,
-                            36.75
-                        ],
-                        [
-                            -3.14,
-                            36.75
-                        ],
-                        [
-                            -3.25,
-                            36.76
-                        ],
-                        [
-                            -3.3,
-                            36.74
-                        ],
-                        [
-                            -3.34,
-                            36.74
-                        ],
-                        [
-                            -3.39,
-                            36.71
-                        ],
-                        [
-                            -3.42,
-                            36.69
-                        ],
-                        [
-                            -3.48,
-                            36.7
-                        ],
-                        [
-                            -3.51,
-                            36.72
-                        ],
-                        [
-                            -3.55,
-                            36.72
-                        ],
-                        [
-                            -3.6,
-                            36.74
-                        ],
-                        [
-                            -3.66,
-                            36.75
-                        ],
-                        [
-                            -3.68,
-                            36.73
-                        ],
-                        [
-                            -3.73,
-                            36.73
-                        ],
-                        [
-                            -3.78,
-                            36.74
-                        ],
-                        [
-                            -3.76,
-                            36.79
-                        ],
-                        [
-                            -3.81,
-                            36.85
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa granadina",
-                "geocode": "611804",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-29T12:01:54+02:00",
-                "onset": "2025-09-29T12:00:00+02:00",
-                "expires": "2025-09-29T18:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Costa granadina",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Costa granadina</b><b>\u00c1rea:</b> Costa granadina<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 12:00<br><b>Fecha de fin:</b> 29/09/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -3.81,
-                            36.85
-                        ],
-                        [
-                            -3.77,
-                            36.88
-                        ],
-                        [
-                            -3.69,
-                            36.86
-                        ],
-                        [
-                            -3.66,
-                            36.9
-                        ],
-                        [
-                            -3.58,
-                            36.88
-                        ],
-                        [
-                            -3.5,
-                            36.87
-                        ],
-                        [
-                            -3.44,
-                            36.83
-                        ],
-                        [
-                            -3.35,
-                            36.81
-                        ],
-                        [
-                            -3.32,
-                            36.82
-                        ],
-                        [
-                            -3.31,
-                            36.86
-                        ],
-                        [
-                            -3.28,
-                            36.88
-                        ],
-                        [
-                            -3.22,
-                            36.87
-                        ],
-                        [
-                            -3.14,
-                            36.89
-                        ],
-                        [
-                            -3.14,
-                            36.91
-                        ],
-                        [
-                            -3.07,
-                            36.92
-                        ],
-                        [
-                            -3.03,
-                            36.84
-                        ],
-                        [
-                            -3.14,
-                            36.79
-                        ],
-                        [
-                            -3.13,
-                            36.75
-                        ],
-                        [
-                            -3.14,
-                            36.75
-                        ],
-                        [
-                            -3.25,
-                            36.76
-                        ],
-                        [
-                            -3.3,
-                            36.74
-                        ],
-                        [
-                            -3.34,
-                            36.74
-                        ],
-                        [
-                            -3.39,
-                            36.71
-                        ],
-                        [
-                            -3.42,
-                            36.69
-                        ],
-                        [
-                            -3.48,
-                            36.7
-                        ],
-                        [
-                            -3.51,
-                            36.72
-                        ],
-                        [
-                            -3.55,
-                            36.72
-                        ],
-                        [
-                            -3.6,
-                            36.74
-                        ],
-                        [
-                            -3.66,
-                            36.75
-                        ],
-                        [
-                            -3.68,
-                            36.73
-                        ],
-                        [
-                            -3.73,
-                            36.73
-                        ],
-                        [
-                            -3.78,
-                            36.74
-                        ],
-                        [
-                            -3.76,
-                            36.79
-                        ],
-                        [
-                            -3.81,
-                            36.85
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa granadina",
-                "geocode": "611804",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-09-29T12:01:54+02:00",
-                "onset": "2025-09-29T12:00:00+02:00",
-                "expires": "2025-09-29T18:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Costa granadina",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#f3f702",
-                    "weight": 3,
-                    "opacity": 1,
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Costa granadina</b><b>\u00c1rea:</b> Costa granadina<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 12:00<br><b>Fecha de fin:</b> 29/09/2025 18:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -23176,6 +23232,382 @@
                 "coordinates": [
                     [
                         [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.48
+                        ],
+                        [
+                            -1.48,
+                            37.44
+                        ],
+                        [
+                            -1.52,
+                            37.43
+                        ],
+                        [
+                            -1.55,
+                            37.41
+                        ],
+                        [
+                            -1.59,
+                            37.4
+                        ],
+                        [
+                            -1.63,
+                            37.37
+                        ],
+                        [
+                            -1.63,
+                            37.38
+                        ],
+                        [
+                            -1.74,
+                            37.44
+                        ],
+                        [
+                            -1.81,
+                            37.45
+                        ],
+                        [
+                            -1.81,
+                            37.43
+                        ],
+                        [
+                            -1.84,
+                            37.46
+                        ],
+                        [
+                            -1.95,
+                            37.59
+                        ],
+                        [
+                            -2.01,
+                            37.67
+                        ],
+                        [
+                            -1.99,
+                            37.73
+                        ],
+                        [
+                            -2.01,
+                            37.78
+                        ],
+                        [
+                            -1.99,
+                            37.84
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Valle del Guadalent\u00edn, Lorca y \u00c1guilas",
+                "geocode": "733004",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-29T18:25:41+02:00",
+                "onset": "2025-09-29T19:00:00+02:00",
+                "expires": "2025-09-30T06:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas</b><b>\u00c1rea:</b> Valle del Guadalent\u00edn, Lorca y \u00c1guilas<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 19:00<br><b>Fecha de fin:</b> 30/09/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.48
+                        ],
+                        [
+                            -1.48,
+                            37.44
+                        ],
+                        [
+                            -1.52,
+                            37.43
+                        ],
+                        [
+                            -1.55,
+                            37.41
+                        ],
+                        [
+                            -1.59,
+                            37.4
+                        ],
+                        [
+                            -1.63,
+                            37.37
+                        ],
+                        [
+                            -1.63,
+                            37.38
+                        ],
+                        [
+                            -1.74,
+                            37.44
+                        ],
+                        [
+                            -1.81,
+                            37.45
+                        ],
+                        [
+                            -1.81,
+                            37.43
+                        ],
+                        [
+                            -1.84,
+                            37.46
+                        ],
+                        [
+                            -1.95,
+                            37.59
+                        ],
+                        [
+                            -2.01,
+                            37.67
+                        ],
+                        [
+                            -1.99,
+                            37.73
+                        ],
+                        [
+                            -2.01,
+                            37.78
+                        ],
+                        [
+                            -1.99,
+                            37.84
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Valle del Guadalent\u00edn, Lorca y \u00c1guilas",
+                "geocode": "733004",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-29T18:25:41+02:00",
+                "onset": "2025-09-29T19:00:00+02:00",
+                "expires": "2025-09-30T06:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas</b><b>\u00c1rea:</b> Valle del Guadalent\u00edn, Lorca y \u00c1guilas<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 19:00<br><b>Fecha de fin:</b> 30/09/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -2.74,
                             39.32
                         ],
@@ -26455,6 +26887,446 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel rojo. Litoral norte de Valencia</b><b>\u00c1rea:</b> Litoral norte de Valencia<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 180 mm. Estas cantidades se podr\u00e1n acumular en pocas horas.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 08:00<br><b>Fecha de fin:</b> 29/09/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.1,
+                            37.74
+                        ],
+                        [
+                            -1.08,
+                            37.72
+                        ],
+                        [
+                            -1.05,
+                            37.72
+                        ],
+                        [
+                            -1.06,
+                            37.76
+                        ],
+                        [
+                            -1.099999,
+                            37.74
+                        ],
+                        [
+                            -1.139999,
+                            37.75
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.82
+                        ],
+                        [
+                            -0.8,
+                            37.81
+                        ],
+                        [
+                            -0.8,
+                            37.78
+                        ],
+                        [
+                            -0.85,
+                            37.75
+                        ],
+                        [
+                            -0.86,
+                            37.72
+                        ],
+                        [
+                            -0.8,
+                            37.66
+                        ],
+                        [
+                            -0.74,
+                            37.63
+                        ],
+                        [
+                            -0.73,
+                            37.6
+                        ],
+                        [
+                            -0.77,
+                            37.6
+                        ],
+                        [
+                            -0.82,
+                            37.58
+                        ],
+                        [
+                            -0.85,
+                            37.58
+                        ],
+                        [
+                            -0.92,
+                            37.56
+                        ],
+                        [
+                            -0.97,
+                            37.58
+                        ],
+                        [
+                            -1.07,
+                            37.58
+                        ],
+                        [
+                            -1.13,
+                            37.55
+                        ],
+                        [
+                            -1.2,
+                            37.57
+                        ],
+                        [
+                            -1.25,
+                            37.58
+                        ],
+                        [
+                            -1.27,
+                            37.56
+                        ],
+                        [
+                            -1.32,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Campo de Cartagena y Mazarr\u00f3n",
+                "geocode": "733005",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-29T18:25:41+02:00",
+                "onset": "2025-09-29T19:00:00+02:00",
+                "expires": "2025-09-30T06:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n</b><b>\u00c1rea:</b> Campo de Cartagena y Mazarr\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 19:00<br><b>Fecha de fin:</b> 30/09/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.1,
+                            37.74
+                        ],
+                        [
+                            -1.08,
+                            37.72
+                        ],
+                        [
+                            -1.05,
+                            37.72
+                        ],
+                        [
+                            -1.06,
+                            37.76
+                        ],
+                        [
+                            -1.099999,
+                            37.74
+                        ],
+                        [
+                            -1.139999,
+                            37.75
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.76,
+                            37.82
+                        ],
+                        [
+                            -0.8,
+                            37.81
+                        ],
+                        [
+                            -0.8,
+                            37.78
+                        ],
+                        [
+                            -0.85,
+                            37.75
+                        ],
+                        [
+                            -0.86,
+                            37.72
+                        ],
+                        [
+                            -0.8,
+                            37.66
+                        ],
+                        [
+                            -0.74,
+                            37.63
+                        ],
+                        [
+                            -0.73,
+                            37.6
+                        ],
+                        [
+                            -0.77,
+                            37.6
+                        ],
+                        [
+                            -0.82,
+                            37.58
+                        ],
+                        [
+                            -0.85,
+                            37.58
+                        ],
+                        [
+                            -0.92,
+                            37.56
+                        ],
+                        [
+                            -0.97,
+                            37.58
+                        ],
+                        [
+                            -1.07,
+                            37.58
+                        ],
+                        [
+                            -1.13,
+                            37.55
+                        ],
+                        [
+                            -1.2,
+                            37.57
+                        ],
+                        [
+                            -1.25,
+                            37.58
+                        ],
+                        [
+                            -1.27,
+                            37.56
+                        ],
+                        [
+                            -1.32,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Campo de Cartagena y Mazarr\u00f3n",
+                "geocode": "733005",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Expected",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-09-29T18:25:41+02:00",
+                "onset": "2025-09-29T19:00:00+02:00",
+                "expires": "2025-09-30T06:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#f3f702",
+                    "weight": 3,
+                    "opacity": 1,
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n</b><b>\u00c1rea:</b> Campo de Cartagena y Mazarr\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 29/09/2025 19:00<br><b>Fecha de fin:</b> 30/09/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
