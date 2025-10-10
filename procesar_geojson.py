@@ -3,8 +3,8 @@ import os
 import shutil
 import requests
 import tarfile
-import xml.etree.ElementTree as ET  # Importamos el módulo para parsear XML
-import geojson  # Importamos el módulo para crear archivos GeoJSON
+import xml.etree.ElementTree as ET # Importamos el módulo para parsear XML
+import geojson # Importamos el módulo para crear archivos GeoJSON
 from datetime import datetime, timezone
 import pytz
 
@@ -14,7 +14,7 @@ CONFIG_FILE = "config.json"
 with open(CONFIG_FILE, "r", encoding="utf-8") as f:
     config = json.load(f)
 
-API_URL = config["url_tar"]  # Esta es la URL fija a la API de AEMET con la api_key
+API_URL = config["url_tar"] # Esta es la URL fija a la API de AEMET con la api_key
 TAR_FILE_PATH = "datos/avisos.tar"
 EXTRACT_PATH = "datos/geojson_temp"
 SALIDA_GEOJSON = "avisos_espana.geojson"
@@ -34,8 +34,8 @@ def parse_iso_datetime(date_str):
         # Si la hora no tiene zona horaria, establecerla explícitamente como UTC
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
-        
-        return dt.astimezone(pytz.timezone('Europe/Madrid'))  # Convertimos a la hora de Madrid
+            
+        return dt.astimezone(pytz.timezone('Europe/Madrid')) # Convertimos a la hora de Madrid
     except Exception:
         return None
 
@@ -54,7 +54,7 @@ def obtener_url_datos_desde_api():
 def download_tar(url, download_path='avisos.tar'):
     try:
         response = requests.get(url)
-        response.raise_for_status()  # Lanza un error si la descarga falla
+        response.raise_for_status() # Lanza un error si la descarga falla
         with open(download_path, 'wb') as f:
             f.write(response.content)
         print("Archivo TAR descargado correctamente.")
@@ -65,16 +65,16 @@ def extract_and_process_tar(tar_path='avisos.tar'):
     try:
         # Extraer el contenido del archivo TAR
         with tarfile.open(tar_path, 'r:*') as tar:
-            tar.extractall(path='datos')  # Extrae los archivos en la carpeta 'datos'
+            tar.extractall(path='datos') # Extrae los archivos en la carpeta 'datos'
         print("Archivos extraídos correctamente.")
         
-        all_features = []  # Aquí acumulamos todos los avisos
+        all_features = [] # Aquí acumulamos todos los avisos
 
         # Procesar cada archivo XML extraído
         for file_name in os.listdir('datos'):
             if file_name.endswith('.xml'):
                 file_path = os.path.join('datos', file_name)
-                features = process_xml_to_geojson(file_path)  # ← ahora devuelve los features
+                features = process_xml_to_geojson(file_path) # ← ahora devuelve los features
                 all_features.extend(features)
 
         # Leer el archivo GeoJSON existente si existe
@@ -98,7 +98,7 @@ def extract_and_process_tar(tar_path='avisos.tar'):
         # Guardar todos los features en un solo GeoJSON, aunque esté vacío
         geojson_data = {
             "type": "FeatureCollection",
-            "features": all_features  # puede estar vacío
+            "features": all_features # puede estar vacío
         }
         try:
             with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as geojson_file:
@@ -160,16 +160,19 @@ def process_xml_to_geojson(file_path):
 
                     # Asignar estilo
                     if nivel_textual in colores:
+                        # --- INICIO DE MODIFICACIÓN DE ESTILOS ---
                         umap_options = {
-                            "color": colores[nivel_textual],
-                            "weight": 3,
-                            "opacity": 1,
-                            "fillOpacity": 1,
+                            "color": "#FFFFFF", # Línea blanca finita para delimitar zonas
+                            "weight": 1, 
+                            "opacity": 1, # Borde completamente opaco
+                            "fillColor": colores[nivel_textual], # Color de relleno de alerta
+                            "fillOpacity": 0.5, # Transparencia de relleno (50%)
                             "interactive": True
                         }
+                        # --- FIN DE MODIFICACIÓN DE ESTILOS ---
                     else:
                         umap_options = {
-                            "color": "#FFFFFF",  # Color neutro (no se verá por la opacidad)
+                            "color": "#FFFFFF", # Color neutro (no se verá por la opacidad)
                             "weight": 0,
                             "opacity": 0,
                             "fillOpacity": 0,
@@ -195,7 +198,7 @@ def process_xml_to_geojson(file_path):
                         "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
                         "parameter": nivel_textual,
                         "_umap_options": umap_options,
-                        "popup_html": generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt)  
+                        "popup_html": generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt)    
                     }
 
                     feature = {
@@ -227,14 +230,14 @@ def generate_popup_html(info, area, nivel_textual, onset_local, expires_local):
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
 
     popup_content = (
-        f"<b>{headline}</b>"  # Título en negrita
-        f"<b>Área:</b> {area_desc}<br>"  # Área en cursiva
-        f"<b>Nivel de alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>"  # Nivel de alerta en cursiva
-        f"<b>Descripción:</b> {description}<br>"  # Descripción en negrita
-        f"<b>Instrucciones:</b> {instruction}<br>"  # Instrucciones en negrita
-        f"<b>Fecha de inicio:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>"  # Fecha de inicio con hora local
-        f"<b>Fecha de fin:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>"  # Fecha de fin con hora local
-        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a>"  # Enlace a más información en negrita
+        f"<b>{headline}</b>" # Título en negrita
+        f"<b>Área:</b> {area_desc}<br>" # Área en cursiva
+        f"<b>Nivel de alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>" # Nivel de alerta en cursiva
+        f"<b>Descripción:</b> {description}<br>" # Descripción en negrita
+        f"<b>Instrucciones:</b> {instruction}<br>" # Instrucciones en negrita
+        f"<b>Fecha de inicio:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>" # Fecha de inicio con hora local
+        f"<b>Fecha de fin:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>" # Fecha de fin con hora local
+        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a>" # Enlace a más información en negrita
     )
     return popup_content
         
@@ -244,7 +247,7 @@ def parse_coordinates(coordinates_str):
     return [[float(coord.split(',')[1]), float(coord.split(',')[0])] for coord in coordinates]
 
 # Descargar el archivo TAR y procesarlo
-download_url = obtener_url_datos_desde_api()  # Obtener la URL de datos desde la API
+download_url = obtener_url_datos_desde_api() # Obtener la URL de datos desde la API
 if download_url:
-    download_tar(download_url)  # Descargar el archivo TAR
-    extract_and_process_tar()  # Extraer y procesar los XML
+    download_tar(download_url) # Descargar el archivo TAR
+    extract_and_process_tar() # Extraer y procesar los XML
