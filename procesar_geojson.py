@@ -166,7 +166,7 @@ def process_xml_to_geojson(file_path):
                             "weight": 1, 
                             "opacity": 1, # Borde completamente opaco
                             "fillColor": colores[nivel_textual], # Color de relleno de alerta
-                            "fillOpacity": 0.5, # Transparencia de relleno (50%)
+                            "fillOpacity": 0, # Transparencia de relleno (50%)
                             "interactive": True
                         }
                         # --- FIN DE MODIFICACIÓN DE ESTILOS ---
