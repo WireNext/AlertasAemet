@@ -1728,6 +1728,408 @@
                 "coordinates": [
                     [
                         [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-10T23:26:30+02:00",
+                "onset": "2025-10-10T23:00:00+02:00",
+                "expires": "2025-10-11T01:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 23:00<br><b>Fecha de fin:</b> 11/10/2025 01:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-10T23:26:30+02:00",
+                "onset": "2025-10-10T23:00:00+02:00",
+                "expires": "2025-10-11T01:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 23:00<br><b>Fecha de fin:</b> 11/10/2025 01:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -2.21,
                             37.92
                         ],
@@ -2731,408 +3133,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Litoral norte de Valencia</b><b>\u00c1rea:</b> Litoral norte de Valencia<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 11:00<br><b>Fecha de fin:</b> 11/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-10-09T11:35:45+02:00",
-                "onset": "2025-10-10T10:00:00+02:00",
-                "expires": "2025-10-10T23:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 10:00<br><b>Fecha de fin:</b> 10/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-10-09T11:35:45+02:00",
-                "onset": "2025-10-10T10:00:00+02:00",
-                "expires": "2025-10-10T23:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 10:00<br><b>Fecha de fin:</b> 10/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -5786,408 +5786,6 @@
                 "coordinates": [
                     [
                         [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-10-09T11:35:45+02:00",
-                "onset": "2025-10-10T10:00:00+02:00",
-                "expires": "2025-10-10T23:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 10:00<br><b>Fecha de fin:</b> 10/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.99
-                        ],
-                        [
-                            -1.61,
-                            38.06
-                        ],
-                        [
-                            -1.63,
-                            38.16
-                        ],
-                        [
-                            -1.59,
-                            38.19
-                        ],
-                        [
-                            -1.58,
-                            38.22
-                        ],
-                        [
-                            -1.59,
-                            38.31
-                        ],
-                        [
-                            -1.48,
-                            38.38
-                        ],
-                        [
-                            -1.45,
-                            38.37
-                        ],
-                        [
-                            -1.35,
-                            38.34
-                        ],
-                        [
-                            -1.32,
-                            38.31
-                        ],
-                        [
-                            -1.25,
-                            38.32
-                        ],
-                        [
-                            -1.2,
-                            38.29
-                        ],
-                        [
-                            -1.12,
-                            38.32
-                        ],
-                        [
-                            -1.08,
-                            38.35
-                        ],
-                        [
-                            -1.03,
-                            38.34
-                        ],
-                        [
-                            -0.99,
-                            38.32
-                        ],
-                        [
-                            -0.97,
-                            38.26
-                        ],
-                        [
-                            -0.99,
-                            38.2
-                        ],
-                        [
-                            -1.04,
-                            38.14
-                        ],
-                        [
-                            -1.02,
-                            38.08
-                        ],
-                        [
-                            -0.96,
-                            38.01
-                        ],
-                        [
-                            -0.92,
-                            37.95
-                        ],
-                        [
-                            -0.85,
-                            37.88
-                        ],
-                        [
-                            -0.86,
-                            37.86
-                        ],
-                        [
-                            -0.94,
-                            37.83
-                        ],
-                        [
-                            -0.98,
-                            37.82
-                        ],
-                        [
-                            -1.0,
-                            37.85
-                        ],
-                        [
-                            -1.03,
-                            37.81
-                        ],
-                        [
-                            -1.14,
-                            37.75
-                        ],
-                        [
-                            -1.16,
-                            37.79
-                        ],
-                        [
-                            -1.19,
-                            37.81
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Vega del Segura",
-                "geocode": "733003",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-10-09T11:35:45+02:00",
-                "onset": "2025-10-10T10:00:00+02:00",
-                "expires": "2025-10-10T23:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 10:00<br><b>Fecha de fin:</b> 10/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -0.99,
                             38.32
                         ],
@@ -6653,6 +6251,408 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Litoral sur de Alicante</b><b>\u00c1rea:</b> Litoral sur de Alicante<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Afectando principalmente a la mitad sur.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 17:00<br><b>Fecha de fin:</b> 11/10/2025 07:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-10T23:26:30+02:00",
+                "onset": "2025-10-10T23:00:00+02:00",
+                "expires": "2025-10-11T01:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 23:00<br><b>Fecha de fin:</b> 11/10/2025 01:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.48,
+                            38.38
+                        ],
+                        [
+                            -1.45,
+                            38.37
+                        ],
+                        [
+                            -1.35,
+                            38.34
+                        ],
+                        [
+                            -1.32,
+                            38.31
+                        ],
+                        [
+                            -1.25,
+                            38.32
+                        ],
+                        [
+                            -1.2,
+                            38.29
+                        ],
+                        [
+                            -1.12,
+                            38.32
+                        ],
+                        [
+                            -1.08,
+                            38.35
+                        ],
+                        [
+                            -1.03,
+                            38.34
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.86,
+                            37.86
+                        ],
+                        [
+                            -0.94,
+                            37.83
+                        ],
+                        [
+                            -0.98,
+                            37.82
+                        ],
+                        [
+                            -1.0,
+                            37.85
+                        ],
+                        [
+                            -1.03,
+                            37.81
+                        ],
+                        [
+                            -1.14,
+                            37.75
+                        ],
+                        [
+                            -1.16,
+                            37.79
+                        ],
+                        [
+                            -1.19,
+                            37.81
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vega del Segura",
+                "geocode": "733003",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-10T23:26:30+02:00",
+                "onset": "2025-10-10T23:00:00+02:00",
+                "expires": "2025-10-11T01:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><b>\u00c1rea:</b> Vega del Segura<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Es m\u00e1s probable alcanzar las citadas acumulaciones en el sur y el este de la zona.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 10/10/2025 23:00<br><b>Fecha de fin:</b> 11/10/2025 01:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
