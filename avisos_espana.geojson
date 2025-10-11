@@ -1986,6 +1986,376 @@
                 "coordinates": [
                     [
                         [
+                            -2.34,
+                            38.03
+                        ],
+                        [
+                            -2.33,
+                            38.07
+                        ],
+                        [
+                            -2.26,
+                            38.11
+                        ],
+                        [
+                            -2.21,
+                            38.2
+                        ],
+                        [
+                            -2.17,
+                            38.23
+                        ],
+                        [
+                            -2.11,
+                            38.24
+                        ],
+                        [
+                            -2.06,
+                            38.3
+                        ],
+                        [
+                            -2.02,
+                            38.3
+                        ],
+                        [
+                            -1.98,
+                            38.28
+                        ],
+                        [
+                            -1.91,
+                            38.3
+                        ],
+                        [
+                            -1.85,
+                            38.33
+                        ],
+                        [
+                            -1.82,
+                            38.34
+                        ],
+                        [
+                            -1.79,
+                            38.37
+                        ],
+                        [
+                            -1.74,
+                            38.38
+                        ],
+                        [
+                            -1.7,
+                            38.38
+                        ],
+                        [
+                            -1.69,
+                            38.34
+                        ],
+                        [
+                            -1.67,
+                            38.31
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -2.02,
+                            37.87
+                        ],
+                        [
+                            -2.06,
+                            37.88
+                        ],
+                        [
+                            -2.1,
+                            37.88
+                        ],
+                        [
+                            -2.12,
+                            37.9
+                        ],
+                        [
+                            -2.17,
+                            37.89
+                        ],
+                        [
+                            -2.21,
+                            37.92
+                        ],
+                        [
+                            -2.28,
+                            37.96
+                        ],
+                        [
+                            -2.3,
+                            38.0
+                        ],
+                        [
+                            -2.34,
+                            38.03
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Noroeste de Murcia",
+                "geocode": "733002",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Observed",
+                "effective": "2025-10-11T20:18:37+02:00",
+                "onset": "2025-10-11T20:00:00+02:00",
+                "expires": "2025-10-11T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Noroeste de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Noroeste de Murcia</b><b>\u00c1rea:</b> Noroeste de Murcia<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 40 mm.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/10/2025 20:00<br><b>Fecha de fin:</b> 11/10/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34,
+                            38.03
+                        ],
+                        [
+                            -2.33,
+                            38.07
+                        ],
+                        [
+                            -2.26,
+                            38.11
+                        ],
+                        [
+                            -2.21,
+                            38.2
+                        ],
+                        [
+                            -2.17,
+                            38.23
+                        ],
+                        [
+                            -2.11,
+                            38.24
+                        ],
+                        [
+                            -2.06,
+                            38.3
+                        ],
+                        [
+                            -2.02,
+                            38.3
+                        ],
+                        [
+                            -1.98,
+                            38.28
+                        ],
+                        [
+                            -1.91,
+                            38.3
+                        ],
+                        [
+                            -1.85,
+                            38.33
+                        ],
+                        [
+                            -1.82,
+                            38.34
+                        ],
+                        [
+                            -1.79,
+                            38.37
+                        ],
+                        [
+                            -1.74,
+                            38.38
+                        ],
+                        [
+                            -1.7,
+                            38.38
+                        ],
+                        [
+                            -1.69,
+                            38.34
+                        ],
+                        [
+                            -1.67,
+                            38.31
+                        ],
+                        [
+                            -1.59,
+                            38.31
+                        ],
+                        [
+                            -1.58,
+                            38.22
+                        ],
+                        [
+                            -1.59,
+                            38.19
+                        ],
+                        [
+                            -1.63,
+                            38.16
+                        ],
+                        [
+                            -1.61,
+                            38.06
+                        ],
+                        [
+                            -1.67,
+                            37.99
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -2.02,
+                            37.87
+                        ],
+                        [
+                            -2.06,
+                            37.88
+                        ],
+                        [
+                            -2.1,
+                            37.88
+                        ],
+                        [
+                            -2.12,
+                            37.9
+                        ],
+                        [
+                            -2.17,
+                            37.89
+                        ],
+                        [
+                            -2.21,
+                            37.92
+                        ],
+                        [
+                            -2.28,
+                            37.96
+                        ],
+                        [
+                            -2.3,
+                            38.0
+                        ],
+                        [
+                            -2.34,
+                            38.03
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Noroeste de Murcia",
+                "geocode": "733002",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Observed",
+                "effective": "2025-10-11T20:18:37+02:00",
+                "onset": "2025-10-11T20:00:00+02:00",
+                "expires": "2025-10-11T21:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Noroeste de Murcia",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Noroeste de Murcia</b><b>\u00c1rea:</b> Noroeste de Murcia<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 40 mm.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/10/2025 20:00<br><b>Fecha de fin:</b> 11/10/2025 21:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.04,
                             41.18
                         ],
