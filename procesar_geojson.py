@@ -230,14 +230,14 @@ def generate_popup_html(info, area, nivel_textual, onset_local, expires_local):
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
 
     popup_content = (
-        f"<b>{headline}</b>" # Título en negrita
-        f"<b>Área:</b> {area_desc}<br>" # Área en cursiva
-        f"<b>Nivel de alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>" # Nivel de alerta en cursiva
-        f"<b>Descripción:</b> {description}<br>" # Descripción en negrita
-        f"<b>Instrucciones:</b> {instruction}<br>" # Instrucciones en negrita
-        f"<b>Fecha de inicio:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>" # Fecha de inicio con hora local
-        f"<b>Fecha de fin:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>" # Fecha de fin con hora local
-        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a>" # Enlace a más información en negrita
+        f"<b>{headline}</b><br>"  # Título en negrita
+        f"<b>Área:</b> {area_desc}<br>"
+        f"<b>Nivel de alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>"
+        f"<b>Descripción:</b> {description}<br>"
+        f"<b>Instrucciones:</b> {instruction}<br>"
+        f"<b>Fecha de inicio:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>"
+        f"<b>Fecha de fin:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>"
+        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a>"
     )
     return popup_content
         
