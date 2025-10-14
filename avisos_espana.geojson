@@ -4094,6 +4094,256 @@
                 "coordinates": [
                     [
                         [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Menorca",
+                "geocode": "645501",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-13T11:10:06+02:00",
+                "onset": "2025-10-14T06:00:00+02:00",
+                "expires": "2025-10-14T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Menorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 50 mm.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 06:00<br><b>Fecha de fin:</b> 14/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Menorca",
+                "geocode": "645501",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-13T11:10:06+02:00",
+                "onset": "2025-10-14T06:00:00+02:00",
+                "expires": "2025-10-14T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Menorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 50 mm.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 06:00<br><b>Fecha de fin:</b> 14/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.3,
                             38.88
                         ],
@@ -4802,6 +5052,256 @@
                 "coordinates": [
                     [
                         [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Menorca",
+                "geocode": "645501",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-13T11:10:06+02:00",
+                "onset": "2025-10-14T06:00:00+02:00",
+                "expires": "2025-10-14T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel naranja. Menorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel naranja. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 06:00<br><b>Fecha de fin:</b> 14/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Menorca",
+                "geocode": "645501",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-10-13T11:10:06+02:00",
+                "onset": "2025-10-14T06:00:00+02:00",
+                "expires": "2025-10-14T23:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel naranja. Menorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel naranja. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 06:00<br><b>Fecha de fin:</b> 14/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             2.78,
                             41.74
                         ],
@@ -5341,256 +5841,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Litoral norte de Alicante</b><br><b>\u00c1rea:</b> Litoral norte de Alicante<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo y rachas de viento muy fuertes.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 00:00<br><b>Fecha de fin:</b> 14/10/2025 07:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-10-13T11:10:06+02:00",
-                "onset": "2025-10-14T00:00:00+02:00",
-                "expires": "2025-10-14T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 00:00<br><b>Fecha de fin:</b> 14/10/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-10-13T11:10:06+02:00",
-                "onset": "2025-10-14T00:00:00+02:00",
-                "expires": "2025-10-14T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 00:00<br><b>Fecha de fin:</b> 14/10/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -6413,256 +6663,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Interior de Mallorca</b><br><b>\u00c1rea:</b> Interior de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 50 mm.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 00:00<br><b>Fecha de fin:</b> 14/10/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-10-13T11:10:06+02:00",
-                "onset": "2025-10-14T00:00:00+02:00",
-                "expires": "2025-10-14T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 00:00<br><b>Fecha de fin:</b> 14/10/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Menorca",
-                "geocode": "645501",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-10-13T11:10:06+02:00",
-                "onset": "2025-10-14T00:00:00+02:00",
-                "expires": "2025-10-14T05:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 14/10/2025 00:00<br><b>Fecha de fin:</b> 14/10/2025 05:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
