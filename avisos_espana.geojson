@@ -25414,6 +25414,264 @@
                 "coordinates": [
                     [
                         [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.3,
+                            43.67
+                        ],
+                        [
+                            -2.21,
+                            43.63
+                        ],
+                        [
+                            -1.96,
+                            43.7
+                        ],
+                        [
+                            -1.88,
+                            43.72
+                        ],
+                        [
+                            -1.74,
+                            43.73
+                        ],
+                        [
+                            -1.72,
+                            43.65
+                        ],
+                        [
+                            -1.73,
+                            43.48
+                        ],
+                        [
+                            -1.74,
+                            43.44
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Gipuzkoa litoral",
+                "geocode": "752001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel rojo",
+                "urgency": "Future",
+                "severity": "Extreme",
+                "certainty": "Likely",
+                "effective": "2025-10-22T18:03:28+02:00",
+                "onset": "2025-10-23T09:00:00+02:00",
+                "expires": "2025-10-23T11:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel rojo. Costa - Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "rojo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF0000",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel rojo. Costa - Gipuzkoa litoral</b><br><b>\u00c1rea:</b> Costa - Gipuzkoa litoral<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Mar combinada del Noroeste de 8 m mar adentro. Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 09:00<br><b>Fecha de fin:</b> 23/10/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.3,
+                            43.67
+                        ],
+                        [
+                            -2.21,
+                            43.63
+                        ],
+                        [
+                            -1.96,
+                            43.7
+                        ],
+                        [
+                            -1.88,
+                            43.72
+                        ],
+                        [
+                            -1.74,
+                            43.73
+                        ],
+                        [
+                            -1.72,
+                            43.65
+                        ],
+                        [
+                            -1.73,
+                            43.48
+                        ],
+                        [
+                            -1.74,
+                            43.44
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Gipuzkoa litoral",
+                "geocode": "752001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel rojo",
+                "urgency": "Future",
+                "severity": "Extreme",
+                "certainty": "Likely",
+                "effective": "2025-10-22T18:03:28+02:00",
+                "onset": "2025-10-23T09:00:00+02:00",
+                "expires": "2025-10-23T11:59:59+02:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel rojo. Costa - Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "rojo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF0000",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel rojo. Costa - Gipuzkoa litoral</b><br><b>\u00c1rea:</b> Costa - Gipuzkoa litoral<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Mar combinada del Noroeste de 8 m mar adentro. Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 09:00<br><b>Fecha de fin:</b> 23/10/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -4.84,
                             43.18
                         ],
@@ -27554,126 +27812,150 @@
                 "coordinates": [
                     [
                         [
-                            -2.39,
-                            43.69
+                            -2.49,
+                            43.37
                         ],
                         [
-                            -2.3,
-                            43.67
+                            -2.54,
+                            43.37
                         ],
                         [
-                            -2.21,
-                            43.63
+                            -2.56,
+                            43.39
                         ],
                         [
-                            -1.96,
-                            43.7
+                            -2.62,
+                            43.39
                         ],
                         [
-                            -1.88,
-                            43.72
+                            -2.72,
+                            43.42
                         ],
                         [
-                            -1.74,
-                            43.73
+                            -2.75,
+                            43.46
                         ],
                         [
-                            -1.72,
-                            43.65
+                            -2.81,
+                            43.43
                         ],
                         [
-                            -1.73,
-                            43.48
-                        ],
-                        [
-                            -1.74,
+                            -2.94,
                             43.44
                         ],
                         [
-                            -1.79,
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -3.03,
                             43.37
                         ],
                         [
-                            -1.83,
-                            43.38
-                        ],
-                        [
-                            -1.86,
-                            43.37
-                        ],
-                        [
-                            -1.92,
+                            -3.01,
                             43.34
                         ],
                         [
-                            -1.96,
-                            43.34
+                            -3.11,
+                            43.36
                         ],
                         [
-                            -1.99,
-                            43.32
+                            -3.11,
+                            43.35
                         ],
                         [
-                            -2.04,
-                            43.32
+                            -3.15,
+                            43.35
                         ],
                         [
-                            -2.18,
-                            43.29
+                            -3.15,
+                            43.39
                         ],
                         [
-                            -2.21,
-                            43.31
+                            -3.17,
+                            43.63
                         ],
                         [
-                            -2.27,
-                            43.3
+                            -3.19,
+                            43.74
                         ],
                         [
-                            -2.35,
-                            43.3
+                            -3.16,
+                            43.73
                         ],
                         [
-                            -2.36,
-                            43.3
+                            -3.1,
+                            43.75
+                        ],
+                        [
+                            -3.01,
+                            43.77
+                        ],
+                        [
+                            -2.82,
+                            43.79
+                        ],
+                        [
+                            -2.72,
+                            43.79
+                        ],
+                        [
+                            -2.62,
+                            43.78
+                        ],
+                        [
+                            -2.53,
+                            43.75
+                        ],
+                        [
+                            -2.39,
+                            43.69
                         ],
                         [
                             -2.41,
                             43.32
                         ],
                         [
-                            -2.39,
-                            43.69
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.49,
+                            43.37
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Costa - Gipuzkoa litoral",
-                "geocode": "752001C",
+                "areaDesc": "Costa - Bizkaia litoral",
+                "geocode": "754801C",
                 "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
+                "event": "Aviso de costeros de nivel rojo",
                 "urgency": "Future",
-                "severity": "Severe",
+                "severity": "Extreme",
                 "certainty": "Likely",
-                "effective": "2025-10-22T11:32:37+02:00",
-                "onset": "2025-10-23T00:00:00+02:00",
-                "expires": "2025-10-23T08:59:59+02:00",
+                "effective": "2025-10-22T18:03:28+02:00",
+                "onset": "2025-10-23T09:00:00+02:00",
+                "expires": "2025-10-23T11:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral",
+                "headline": "Aviso de costeros de nivel rojo. Costa - Bizkaia litoral",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "CO;Costeros",
-                "parameter": "naranja",
+                "parameter": "rojo",
                 "_umap_options": {
                     "color": "#FFFFFF",
                     "weight": 1,
                     "opacity": 1,
-                    "fillColor": "#FF7F00",
+                    "fillColor": "#FF0000",
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral</b><br><b>\u00c1rea:</b> Costa - Gipuzkoa litoral<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro, y mar combinada del Noroeste de 5 a 7 m.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 00:00<br><b>Fecha de fin:</b> 23/10/2025 08:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel rojo. Costa - Bizkaia litoral</b><br><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Mar combinada del Noroeste de 8 m mar adentro. Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 09:00<br><b>Fecha de fin:</b> 23/10/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -27683,126 +27965,150 @@
                 "coordinates": [
                     [
                         [
-                            -2.39,
-                            43.69
+                            -2.49,
+                            43.37
                         ],
                         [
-                            -2.3,
-                            43.67
+                            -2.54,
+                            43.37
                         ],
                         [
-                            -2.21,
-                            43.63
+                            -2.56,
+                            43.39
                         ],
                         [
-                            -1.96,
-                            43.7
+                            -2.62,
+                            43.39
                         ],
                         [
-                            -1.88,
-                            43.72
+                            -2.72,
+                            43.42
                         ],
                         [
-                            -1.74,
-                            43.73
+                            -2.75,
+                            43.46
                         ],
                         [
-                            -1.72,
-                            43.65
+                            -2.81,
+                            43.43
                         ],
                         [
-                            -1.73,
-                            43.48
-                        ],
-                        [
-                            -1.74,
+                            -2.94,
                             43.44
                         ],
                         [
-                            -1.79,
+                            -2.99,
+                            43.39
+                        ],
+                        [
+                            -3.03,
                             43.37
                         ],
                         [
-                            -1.83,
-                            43.38
-                        ],
-                        [
-                            -1.86,
-                            43.37
-                        ],
-                        [
-                            -1.92,
+                            -3.01,
                             43.34
                         ],
                         [
-                            -1.96,
-                            43.34
+                            -3.11,
+                            43.36
                         ],
                         [
-                            -1.99,
-                            43.32
+                            -3.11,
+                            43.35
                         ],
                         [
-                            -2.04,
-                            43.32
+                            -3.15,
+                            43.35
                         ],
                         [
-                            -2.18,
-                            43.29
+                            -3.15,
+                            43.39
                         ],
                         [
-                            -2.21,
-                            43.31
+                            -3.17,
+                            43.63
                         ],
                         [
-                            -2.27,
-                            43.3
+                            -3.19,
+                            43.74
                         ],
                         [
-                            -2.35,
-                            43.3
+                            -3.16,
+                            43.73
                         ],
                         [
-                            -2.36,
-                            43.3
+                            -3.1,
+                            43.75
+                        ],
+                        [
+                            -3.01,
+                            43.77
+                        ],
+                        [
+                            -2.82,
+                            43.79
+                        ],
+                        [
+                            -2.72,
+                            43.79
+                        ],
+                        [
+                            -2.62,
+                            43.78
+                        ],
+                        [
+                            -2.53,
+                            43.75
+                        ],
+                        [
+                            -2.39,
+                            43.69
                         ],
                         [
                             -2.41,
                             43.32
                         ],
                         [
-                            -2.39,
-                            43.69
+                            -2.42,
+                            43.33
+                        ],
+                        [
+                            -2.43,
+                            43.33
+                        ],
+                        [
+                            -2.49,
+                            43.37
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Costa - Gipuzkoa litoral",
-                "geocode": "752001C",
+                "areaDesc": "Costa - Bizkaia litoral",
+                "geocode": "754801C",
                 "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
+                "event": "Aviso de costeros de nivel rojo",
                 "urgency": "Future",
-                "severity": "Severe",
+                "severity": "Extreme",
                 "certainty": "Likely",
-                "effective": "2025-10-22T11:32:37+02:00",
-                "onset": "2025-10-23T00:00:00+02:00",
-                "expires": "2025-10-23T08:59:59+02:00",
+                "effective": "2025-10-22T18:03:28+02:00",
+                "onset": "2025-10-23T09:00:00+02:00",
+                "expires": "2025-10-23T11:59:59+02:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral",
+                "headline": "Aviso de costeros de nivel rojo. Costa - Bizkaia litoral",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "CO;Costeros",
-                "parameter": "naranja",
+                "parameter": "rojo",
                 "_umap_options": {
                     "color": "#FFFFFF",
                     "weight": 1,
                     "opacity": 1,
-                    "fillColor": "#FF7F00",
+                    "fillColor": "#FF0000",
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral</b><br><b>\u00c1rea:</b> Costa - Gipuzkoa litoral<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro, y mar combinada del Noroeste de 5 a 7 m.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 00:00<br><b>Fecha de fin:</b> 23/10/2025 08:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel rojo. Costa - Bizkaia litoral</b><br><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#FF0000'>Rojo</span><br><b>Descripci\u00f3n:</b> Mar combinada del Noroeste de 8 m mar adentro. Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro.<br><b>Instrucciones:</b> Tome medidas preventivas y act\u00fae seg\u00fan las indicaciones de las autoridades. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. No viaje salvo que sea estrictamente necesario. Se pueden producir da\u00f1os muy graves o catastr\u00f3ficos a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 09:00<br><b>Fecha de fin:</b> 23/10/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -36467,312 +36773,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de vientos de nivel amarillo. Ribera del Ebro de La Rioja</b><br><b>\u00c1rea:</b> Ribera del Ebro de La Rioja<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Viento del oeste y suroeste.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 03:00<br><b>Fecha de fin:</b> 23/10/2025 13:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49,
-                            43.37
-                        ],
-                        [
-                            -2.54,
-                            43.37
-                        ],
-                        [
-                            -2.56,
-                            43.39
-                        ],
-                        [
-                            -2.62,
-                            43.39
-                        ],
-                        [
-                            -2.72,
-                            43.42
-                        ],
-                        [
-                            -2.75,
-                            43.46
-                        ],
-                        [
-                            -2.81,
-                            43.43
-                        ],
-                        [
-                            -2.94,
-                            43.44
-                        ],
-                        [
-                            -2.99,
-                            43.39
-                        ],
-                        [
-                            -3.03,
-                            43.37
-                        ],
-                        [
-                            -3.01,
-                            43.34
-                        ],
-                        [
-                            -3.11,
-                            43.36
-                        ],
-                        [
-                            -3.11,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.39
-                        ],
-                        [
-                            -3.17,
-                            43.63
-                        ],
-                        [
-                            -3.19,
-                            43.74
-                        ],
-                        [
-                            -3.16,
-                            43.73
-                        ],
-                        [
-                            -3.1,
-                            43.75
-                        ],
-                        [
-                            -3.01,
-                            43.77
-                        ],
-                        [
-                            -2.82,
-                            43.79
-                        ],
-                        [
-                            -2.72,
-                            43.79
-                        ],
-                        [
-                            -2.62,
-                            43.78
-                        ],
-                        [
-                            -2.53,
-                            43.75
-                        ],
-                        [
-                            -2.39,
-                            43.69
-                        ],
-                        [
-                            -2.41,
-                            43.32
-                        ],
-                        [
-                            -2.42,
-                            43.33
-                        ],
-                        [
-                            -2.43,
-                            43.33
-                        ],
-                        [
-                            -2.49,
-                            43.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Bizkaia litoral",
-                "geocode": "754801C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-10-22T11:32:37+02:00",
-                "onset": "2025-10-23T00:00:00+02:00",
-                "expires": "2025-10-23T08:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Bizkaia litoral",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Bizkaia litoral</b><br><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro, y mar combinada del Noroeste de 5 a 7 m.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 00:00<br><b>Fecha de fin:</b> 23/10/2025 08:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49,
-                            43.37
-                        ],
-                        [
-                            -2.54,
-                            43.37
-                        ],
-                        [
-                            -2.56,
-                            43.39
-                        ],
-                        [
-                            -2.62,
-                            43.39
-                        ],
-                        [
-                            -2.72,
-                            43.42
-                        ],
-                        [
-                            -2.75,
-                            43.46
-                        ],
-                        [
-                            -2.81,
-                            43.43
-                        ],
-                        [
-                            -2.94,
-                            43.44
-                        ],
-                        [
-                            -2.99,
-                            43.39
-                        ],
-                        [
-                            -3.03,
-                            43.37
-                        ],
-                        [
-                            -3.01,
-                            43.34
-                        ],
-                        [
-                            -3.11,
-                            43.36
-                        ],
-                        [
-                            -3.11,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.35
-                        ],
-                        [
-                            -3.15,
-                            43.39
-                        ],
-                        [
-                            -3.17,
-                            43.63
-                        ],
-                        [
-                            -3.19,
-                            43.74
-                        ],
-                        [
-                            -3.16,
-                            43.73
-                        ],
-                        [
-                            -3.1,
-                            43.75
-                        ],
-                        [
-                            -3.01,
-                            43.77
-                        ],
-                        [
-                            -2.82,
-                            43.79
-                        ],
-                        [
-                            -2.72,
-                            43.79
-                        ],
-                        [
-                            -2.62,
-                            43.78
-                        ],
-                        [
-                            -2.53,
-                            43.75
-                        ],
-                        [
-                            -2.39,
-                            43.69
-                        ],
-                        [
-                            -2.41,
-                            43.32
-                        ],
-                        [
-                            -2.42,
-                            43.33
-                        ],
-                        [
-                            -2.43,
-                            43.33
-                        ],
-                        [
-                            -2.49,
-                            43.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Bizkaia litoral",
-                "geocode": "754801C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-10-22T11:32:37+02:00",
-                "onset": "2025-10-23T00:00:00+02:00",
-                "expires": "2025-10-23T08:59:59+02:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Bizkaia litoral",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Bizkaia litoral</b><br><b>\u00c1rea:</b> Costa - Bizkaia litoral<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Viento del Oeste o Noroeste de 62 a 74 km/h (fuerza 8), localmente de 75 a 88 km/h (fuerza 9) mar adentro, y mar combinada del Noroeste de 5 a 7 m.<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 23/10/2025 00:00<br><b>Fecha de fin:</b> 23/10/2025 08:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
