@@ -370,6 +370,264 @@
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Ampurd\u00e1n</b><br><b>\u00c1rea:</b> Costa - Ampurd\u00e1n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del norte y noroeste de 50 km/h (fuerza 7) y olas de 2 a 3 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 26/10/2025 00:00<br><b>Fecha de fin:</b> 26/10/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.46,
+                            39.65
+                        ],
+                        [
+                            2.53,
+                            39.7
+                        ],
+                        [
+                            2.56,
+                            39.7
+                        ],
+                        [
+                            2.78,
+                            39.86
+                        ],
+                        [
+                            2.83,
+                            39.86
+                        ],
+                        [
+                            2.89,
+                            39.89
+                        ],
+                        [
+                            2.92,
+                            39.9
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.9,
+                            39.82
+                        ],
+                        [
+                            2.8,
+                            39.74
+                        ],
+                        [
+                            2.74,
+                            39.71
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Sierra Tramontana",
+                "geocode": "645401",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-10-25T18:33:31+02:00",
+                "onset": "2025-10-26T11:00:00+01:00",
+                "expires": "2025-10-26T16:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Sierra Tramontana",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><br><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Localmente, en todo el episodio, se podr\u00edan acumular entre 40 y 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 26/10/2025 11:00<br><b>Fecha de fin:</b> 26/10/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.46,
+                            39.65
+                        ],
+                        [
+                            2.53,
+                            39.7
+                        ],
+                        [
+                            2.56,
+                            39.7
+                        ],
+                        [
+                            2.78,
+                            39.86
+                        ],
+                        [
+                            2.83,
+                            39.86
+                        ],
+                        [
+                            2.89,
+                            39.89
+                        ],
+                        [
+                            2.92,
+                            39.9
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.9,
+                            39.82
+                        ],
+                        [
+                            2.8,
+                            39.74
+                        ],
+                        [
+                            2.74,
+                            39.71
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Sierra Tramontana",
+                "geocode": "645401",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-10-25T18:33:31+02:00",
+                "onset": "2025-10-26T11:00:00+01:00",
+                "expires": "2025-10-26T16:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Sierra Tramontana",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><br><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Localmente, en todo el episodio, se podr\u00edan acumular entre 40 y 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 26/10/2025 11:00<br><b>Fecha de fin:</b> 26/10/2025 16:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
         }
     ]
 }
