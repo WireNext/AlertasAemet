@@ -572,6 +572,328 @@
                 "coordinates": [
                     [
                         [
+                            -9.08,
+                            43.18
+                        ],
+                        [
+                            -9.01,
+                            43.15
+                        ],
+                        [
+                            -8.98,
+                            43.18
+                        ],
+                        [
+                            -8.85,
+                            43.14
+                        ],
+                        [
+                            -8.85,
+                            43.11
+                        ],
+                        [
+                            -8.91,
+                            43.04
+                        ],
+                        [
+                            -8.89,
+                            42.93
+                        ],
+                        [
+                            -8.91,
+                            42.9
+                        ],
+                        [
+                            -8.91,
+                            42.89
+                        ],
+                        [
+                            -8.99,
+                            42.89
+                        ],
+                        [
+                            -8.98,
+                            42.86
+                        ],
+                        [
+                            -9.03,
+                            42.86
+                        ],
+                        [
+                            -9.1,
+                            42.79
+                        ],
+                        [
+                            -9.11,
+                            42.76
+                        ],
+                        [
+                            -9.12,
+                            42.77
+                        ],
+                        [
+                            -9.13,
+                            42.79
+                        ],
+                        [
+                            -9.11,
+                            42.84
+                        ],
+                        [
+                            -9.15,
+                            42.87
+                        ],
+                        [
+                            -9.13,
+                            42.9
+                        ],
+                        [
+                            -9.18,
+                            42.92
+                        ],
+                        [
+                            -9.29,
+                            42.93
+                        ],
+                        [
+                            -9.26,
+                            42.97
+                        ],
+                        [
+                            -9.29,
+                            43.05
+                        ],
+                        [
+                            -9.26,
+                            43.05
+                        ],
+                        [
+                            -9.22,
+                            43.11
+                        ],
+                        [
+                            -9.18,
+                            43.09
+                        ],
+                        [
+                            -9.16,
+                            43.12
+                        ],
+                        [
+                            -9.2,
+                            43.13
+                        ],
+                        [
+                            -9.2,
+                            43.15
+                        ],
+                        [
+                            -9.12,
+                            43.2
+                        ],
+                        [
+                            -9.08,
+                            43.18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de A Coru\u00f1a",
+                "geocode": "711502",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-10-29T10:34:35+01:00",
+                "onset": "2025-10-30T10:00:00+01:00",
+                "expires": "2025-10-30T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Oeste de A Coru\u00f1a",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Oeste de A Coru\u00f1a</b><br><b>\u00c1rea:</b> Oeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Viento de componente sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 30/10/2025 10:00<br><b>Fecha de fin:</b> 30/10/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.08,
+                            43.18
+                        ],
+                        [
+                            -9.01,
+                            43.15
+                        ],
+                        [
+                            -8.98,
+                            43.18
+                        ],
+                        [
+                            -8.85,
+                            43.14
+                        ],
+                        [
+                            -8.85,
+                            43.11
+                        ],
+                        [
+                            -8.91,
+                            43.04
+                        ],
+                        [
+                            -8.89,
+                            42.93
+                        ],
+                        [
+                            -8.91,
+                            42.9
+                        ],
+                        [
+                            -8.91,
+                            42.89
+                        ],
+                        [
+                            -8.99,
+                            42.89
+                        ],
+                        [
+                            -8.98,
+                            42.86
+                        ],
+                        [
+                            -9.03,
+                            42.86
+                        ],
+                        [
+                            -9.1,
+                            42.79
+                        ],
+                        [
+                            -9.11,
+                            42.76
+                        ],
+                        [
+                            -9.12,
+                            42.77
+                        ],
+                        [
+                            -9.13,
+                            42.79
+                        ],
+                        [
+                            -9.11,
+                            42.84
+                        ],
+                        [
+                            -9.15,
+                            42.87
+                        ],
+                        [
+                            -9.13,
+                            42.9
+                        ],
+                        [
+                            -9.18,
+                            42.92
+                        ],
+                        [
+                            -9.29,
+                            42.93
+                        ],
+                        [
+                            -9.26,
+                            42.97
+                        ],
+                        [
+                            -9.29,
+                            43.05
+                        ],
+                        [
+                            -9.26,
+                            43.05
+                        ],
+                        [
+                            -9.22,
+                            43.11
+                        ],
+                        [
+                            -9.18,
+                            43.09
+                        ],
+                        [
+                            -9.16,
+                            43.12
+                        ],
+                        [
+                            -9.2,
+                            43.13
+                        ],
+                        [
+                            -9.2,
+                            43.15
+                        ],
+                        [
+                            -9.12,
+                            43.2
+                        ],
+                        [
+                            -9.08,
+                            43.18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de A Coru\u00f1a",
+                "geocode": "711502",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-10-29T10:34:35+01:00",
+                "onset": "2025-10-30T10:00:00+01:00",
+                "expires": "2025-10-30T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Oeste de A Coru\u00f1a",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Oeste de A Coru\u00f1a</b><br><b>\u00c1rea:</b> Oeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Viento de componente sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 30/10/2025 10:00<br><b>Fecha de fin:</b> 30/10/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             3.03,
                             39.29
                         ],
