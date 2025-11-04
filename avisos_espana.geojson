@@ -2354,6 +2354,344 @@
                 },
                 "popup_html": "<b>Aviso de vientos de nivel amarillo. Oeste de A Coru\u00f1a</b><br><b>\u00c1rea:</b> Oeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 90 km/h. Viento del sur.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 04/11/2025 00:00<br><b>Fecha de fin:</b> 04/11/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.11,
+                            42.76
+                        ],
+                        [
+                            -9.06,
+                            42.76
+                        ],
+                        [
+                            -9.03,
+                            42.79
+                        ],
+                        [
+                            -8.98,
+                            42.78
+                        ],
+                        [
+                            -8.99,
+                            42.74
+                        ],
+                        [
+                            -9.03,
+                            42.7
+                        ],
+                        [
+                            -9.04,
+                            42.64
+                        ],
+                        [
+                            -9.07,
+                            42.6
+                        ],
+                        [
+                            -9.08,
+                            42.6
+                        ],
+                        [
+                            -9.08,
+                            42.58
+                        ],
+                        [
+                            -9.09,
+                            42.58
+                        ],
+                        [
+                            -9.05,
+                            42.57
+                        ],
+                        [
+                            -9.02,
+                            42.52
+                        ],
+                        [
+                            -8.99,
+                            42.56
+                        ],
+                        [
+                            -8.89,
+                            42.64
+                        ],
+                        [
+                            -8.87,
+                            42.61
+                        ],
+                        [
+                            -8.85,
+                            42.67
+                        ],
+                        [
+                            -8.81,
+                            42.66
+                        ],
+                        [
+                            -8.79,
+                            42.64
+                        ],
+                        [
+                            -8.75,
+                            42.65
+                        ],
+                        [
+                            -8.73,
+                            42.69
+                        ],
+                        [
+                            -8.74,
+                            42.66
+                        ],
+                        [
+                            -8.74,
+                            42.65
+                        ],
+                        [
+                            -8.82,
+                            42.61
+                        ],
+                        [
+                            -8.91,
+                            42.57
+                        ],
+                        [
+                            -8.98,
+                            42.47
+                        ],
+                        [
+                            -9.04,
+                            42.44
+                        ],
+                        [
+                            -9.19,
+                            42.41
+                        ],
+                        [
+                            -9.46,
+                            42.37
+                        ],
+                        [
+                            -9.52,
+                            42.48
+                        ],
+                        [
+                            -9.54,
+                            42.55
+                        ],
+                        [
+                            -9.54,
+                            42.6
+                        ],
+                        [
+                            -9.11,
+                            42.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Suroeste de A Coru\u00f1a",
+                "geocode": "711504C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-03T10:52:55+01:00",
+                "onset": "2025-11-04T05:00:00+01:00",
+                "expires": "2025-11-04T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Suroeste de A Coru\u00f1a",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Suroeste de A Coru\u00f1a</b><br><b>\u00c1rea:</b> Costa - Suroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del sur de 50 a 61 km/h (fuerza 7). Mar combinado del suroeste de 4 a 5 m desde mediod\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 04/11/2025 05:00<br><b>Fecha de fin:</b> 04/11/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.11,
+                            42.76
+                        ],
+                        [
+                            -9.06,
+                            42.76
+                        ],
+                        [
+                            -9.03,
+                            42.79
+                        ],
+                        [
+                            -8.98,
+                            42.78
+                        ],
+                        [
+                            -8.99,
+                            42.74
+                        ],
+                        [
+                            -9.03,
+                            42.7
+                        ],
+                        [
+                            -9.04,
+                            42.64
+                        ],
+                        [
+                            -9.07,
+                            42.6
+                        ],
+                        [
+                            -9.08,
+                            42.6
+                        ],
+                        [
+                            -9.08,
+                            42.58
+                        ],
+                        [
+                            -9.09,
+                            42.58
+                        ],
+                        [
+                            -9.05,
+                            42.57
+                        ],
+                        [
+                            -9.02,
+                            42.52
+                        ],
+                        [
+                            -8.99,
+                            42.56
+                        ],
+                        [
+                            -8.89,
+                            42.64
+                        ],
+                        [
+                            -8.87,
+                            42.61
+                        ],
+                        [
+                            -8.85,
+                            42.67
+                        ],
+                        [
+                            -8.81,
+                            42.66
+                        ],
+                        [
+                            -8.79,
+                            42.64
+                        ],
+                        [
+                            -8.75,
+                            42.65
+                        ],
+                        [
+                            -8.73,
+                            42.69
+                        ],
+                        [
+                            -8.74,
+                            42.66
+                        ],
+                        [
+                            -8.74,
+                            42.65
+                        ],
+                        [
+                            -8.82,
+                            42.61
+                        ],
+                        [
+                            -8.91,
+                            42.57
+                        ],
+                        [
+                            -8.98,
+                            42.47
+                        ],
+                        [
+                            -9.04,
+                            42.44
+                        ],
+                        [
+                            -9.19,
+                            42.41
+                        ],
+                        [
+                            -9.46,
+                            42.37
+                        ],
+                        [
+                            -9.52,
+                            42.48
+                        ],
+                        [
+                            -9.54,
+                            42.55
+                        ],
+                        [
+                            -9.54,
+                            42.6
+                        ],
+                        [
+                            -9.11,
+                            42.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Suroeste de A Coru\u00f1a",
+                "geocode": "711504C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-03T10:52:55+01:00",
+                "onset": "2025-11-04T05:00:00+01:00",
+                "expires": "2025-11-04T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Suroeste de A Coru\u00f1a",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Suroeste de A Coru\u00f1a</b><br><b>\u00c1rea:</b> Costa - Suroeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del sur de 50 a 61 km/h (fuerza 7). Mar combinado del suroeste de 4 a 5 m desde mediod\u00eda.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 04/11/2025 05:00<br><b>Fecha de fin:</b> 04/11/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
         }
     ]
 }
