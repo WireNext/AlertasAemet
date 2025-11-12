@@ -5146,6 +5146,240 @@
                 "coordinates": [
                     [
                         [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Oeste de La Palma</b><br><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Oeste de La Palma</b><br><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -9.42,
                             43.46
                         ],
@@ -5677,6 +5911,176 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Mi\u00f1o de Pontevedra</b><br><b>\u00c1rea:</b> Costa - Mi\u00f1o de Pontevedra<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Viento del sur de 50 a 61 km/h (fuerza 7). Mar combinada del oeste o suroeste de 4 a 5 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 09:00<br><b>Fecha de fin:</b> 12/11/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Cumbres de La Palma</b><br><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Cumbres de La Palma</b><br><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -6586,6 +6990,216 @@
                 "coordinates": [
                     [
                         [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este de La Palma</b><br><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este de La Palma</b><br><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -8.61,
                             42.72
                         ],
@@ -7083,6 +7697,216 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Pontevedra</b><br><b>\u00c1rea:</b> Interior de Pontevedra<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 00:00<br><b>Fecha de fin:</b> 12/11/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este de La Palma</b><br><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este de La Palma</b><br><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -7744,6 +8568,346 @@
                 "coordinates": [
                     [
                         [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Cumbres de La Palma</b><br><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Cumbres de La Palma</b><br><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Cumbres de La Palma</b><br><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Cumbres de La Palma</b><br><b>\u00c1rea:</b> Cumbres de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -4.23,
                             42.9
                         ],
@@ -8379,6 +9543,216 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Noroeste de Ourense</b><br><b>\u00c1rea:</b> Noroeste de Ourense<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 12:00<br><b>Fecha de fin:</b> 12/11/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Este de La Palma</b><br><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Este de La Palma</b><br><b>\u00c1rea:</b> Este de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -11157,6 +12531,240 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Oeste de A Coru\u00f1a</b><br><b>\u00c1rea:</b> Oeste de A Coru\u00f1a<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 11/11/2025 12:00<br><b>Fecha de fin:</b> 12/11/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Oeste de La Palma</b><br><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Oeste de La Palma</b><br><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -18631,6 +20239,240 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de vientos de nivel amarillo. Pirineo navarro</b><br><b>\u00c1rea:</b> Pirineo navarro<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 00:00<br><b>Fecha de fin:</b> 12/11/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Oeste de La Palma</b><br><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T15:00:00-00:00",
+                "expires": "2025-11-13T05:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Oeste de La Palma</b><br><b>\u00c1rea:</b> Oeste de La Palma<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Descripci\u00f3n:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Fecha de inicio:</b> 12/11/2025 16:00<br><b>Fecha de fin:</b> 13/11/2025 06:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
