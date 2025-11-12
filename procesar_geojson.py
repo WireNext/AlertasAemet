@@ -25,7 +25,6 @@ WARNING_MESSAGES = {
     "Naranja": "Estiga atent i mantinga's al dia amb les últimes previsions meteorològiques. Poden produir-se danys moderats a persones i propietats, especialment a persones vulnerables o en zones exposades.",
     "Rojo": "Prenga mesures de precaució, romanga alerta i actue segons els consells de les autoritats. Mantinga's al dia amb les últimes previsions meteorològiques. Viatge sol si el seu viatge és imprescindible. Poden produir-se danys extrems o catastròfics a persones i propietats, especialment a les persones vulnerables o en zones exposades."
 }
-}
 
 def parse_iso_datetime(date_str):
     try:
