@@ -2562,6 +2562,208 @@
                 "coordinates": [
                     [
                         [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T17:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Viento del SO, especialmente en median\u00edas y en cumbres expuestas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T17:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Viento del SO, especialmente en median\u00edas y en cumbres expuestas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -15.74,
                             28.05
                         ],
@@ -2868,6 +3070,184 @@
                 "coordinates": [
                     [
                         [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -17.85,
                             28.83
                         ],
@@ -3093,6 +3473,208 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Oeste de La Palma</b><br><b>\u00c0rea:</b> Oeste de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 16:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -3473,6 +4055,208 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 16:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 80 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y O, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 80 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y O, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -4511,6 +5295,764 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Oeste de A Coru\u00f1a</b><br><b>\u00c0rea:</b> Oeste de A Coru\u00f1a<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 18:00<br><b>Data de fi:</b> 13/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 80 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y O, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 80 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y O, y con menor probabilidad en el E y N.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y zonas costeras.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y zonas costeras.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y zonas costeras.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y zonas costeras.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -5816,6 +7358,296 @@
                 "coordinates": [
                     [
                         [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este, sur y oeste de Tenerife",
+                "geocode": "659603",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Este, sur y oeste de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -7.93,
                             42.58
                         ],
@@ -6122,6 +7954,208 @@
                 "coordinates": [
                     [
                         [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -17.84,
                             28.56
                         ],
@@ -6323,6 +8357,184 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de tormentas de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 16:00<br><b>Data de fi:</b> 13/11/2025 06:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T17:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Viento del SO, especialmente en median\u00edas y en cumbres expuestas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T17:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Viento del SO, especialmente en median\u00edas y en cumbres expuestas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -8301,6 +10513,184 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Oeste de La Palma</b><br><b>\u00c0rea:</b> Oeste de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso. Principalmente en zonas altas de El Paso y Garaf\u00eda; as\u00ed como en el NE de la isla (pudiendo afectar en zonas bajas y en la capital).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 16:00<br><b>Data de fi:</b> 13/11/2025 06:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T18:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
