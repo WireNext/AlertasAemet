@@ -4104,6 +4104,312 @@
                 "coordinates": [
                     [
                         [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.989450549450549,
+                            28.279494505494505
+                        ],
+                        [
+                            -15.99,
+                            28.28
+                        ],
+                        [
+                            -15.9,
+                            28.36
+                        ],
+                        [
+                            -15.76,
+                            28.49
+                        ],
+                        [
+                            -15.72,
+                            28.49
+                        ],
+                        [
+                            -15.64,
+                            28.49
+                        ],
+                        [
+                            -15.56,
+                            28.47
+                        ],
+                        [
+                            -15.47,
+                            28.5
+                        ],
+                        [
+                            -15.4,
+                            28.5
+                        ],
+                        [
+                            -15.33,
+                            28.5
+                        ],
+                        [
+                            -15.26,
+                            28.48
+                        ],
+                        [
+                            -15.19,
+                            28.45
+                        ],
+                        [
+                            -15.14,
+                            28.4
+                        ],
+                        [
+                            -15.09,
+                            28.35
+                        ],
+                        [
+                            -15.07,
+                            28.32
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.41,
+                            28.04
+                        ],
+                        [
+                            -15.42,
+                            28.06
+                        ],
+                        [
+                            -15.41,
+                            28.1
+                        ],
+                        [
+                            -15.43,
+                            28.13
+                        ],
+                        [
+                            -15.48,
+                            28.13
+                        ],
+                        [
+                            -15.52,
+                            28.15
+                        ],
+                        [
+                            -15.54,
+                            28.14
+                        ],
+                        [
+                            -15.61,
+                            28.15
+                        ],
+                        [
+                            -15.63,
+                            28.17
+                        ],
+                        [
+                            -15.7,
+                            28.16
+                        ],
+                        [
+                            -15.71,
+                            28.09
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Norte de Gran Canaria",
+                "geocode": "659001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T16:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Norte de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Norte de Gran Canaria</b><br><b>\u00c0rea:</b> Costa - Norte de Gran Canaria<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del suroeste de 50 a 61 km/h (fuerza 7).<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 17:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.989450549450549,
+                            28.279494505494505
+                        ],
+                        [
+                            -15.99,
+                            28.28
+                        ],
+                        [
+                            -15.9,
+                            28.36
+                        ],
+                        [
+                            -15.76,
+                            28.49
+                        ],
+                        [
+                            -15.72,
+                            28.49
+                        ],
+                        [
+                            -15.64,
+                            28.49
+                        ],
+                        [
+                            -15.56,
+                            28.47
+                        ],
+                        [
+                            -15.47,
+                            28.5
+                        ],
+                        [
+                            -15.4,
+                            28.5
+                        ],
+                        [
+                            -15.33,
+                            28.5
+                        ],
+                        [
+                            -15.26,
+                            28.48
+                        ],
+                        [
+                            -15.19,
+                            28.45
+                        ],
+                        [
+                            -15.14,
+                            28.4
+                        ],
+                        [
+                            -15.09,
+                            28.35
+                        ],
+                        [
+                            -15.07,
+                            28.32
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.41,
+                            28.04
+                        ],
+                        [
+                            -15.42,
+                            28.06
+                        ],
+                        [
+                            -15.41,
+                            28.1
+                        ],
+                        [
+                            -15.43,
+                            28.13
+                        ],
+                        [
+                            -15.48,
+                            28.13
+                        ],
+                        [
+                            -15.52,
+                            28.15
+                        ],
+                        [
+                            -15.54,
+                            28.14
+                        ],
+                        [
+                            -15.61,
+                            28.15
+                        ],
+                        [
+                            -15.63,
+                            28.17
+                        ],
+                        [
+                            -15.7,
+                            28.16
+                        ],
+                        [
+                            -15.71,
+                            28.09
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Norte de Gran Canaria",
+                "geocode": "659001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T16:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Norte de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Norte de Gran Canaria</b><br><b>\u00c0rea:</b> Costa - Norte de Gran Canaria<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del suroeste de 50 a 61 km/h (fuerza 7).<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 17:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -6.86,
                             40.27
                         ],
