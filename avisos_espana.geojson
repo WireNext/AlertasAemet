@@ -3252,6 +3252,216 @@
                             28.49
                         ],
                         [
+                            -16.42,
+                            28.52
+                        ],
+                        [
+                            -16.38,
+                            28.55
+                        ],
+                        [
+                            -16.33,
+                            28.56
+                        ],
+                        [
+                            -16.32,
+                            28.58
+                        ],
+                        [
+                            -16.22,
+                            28.56
+                        ],
+                        [
+                            -16.16,
+                            28.59
+                        ],
+                        [
+                            -16.12,
+                            28.55
+                        ],
+                        [
+                            -16.15,
+                            28.52
+                        ],
+                        [
+                            -16.23,
+                            28.48
+                        ],
+                        [
+                            -16.25,
+                            28.45
+                        ],
+                        [
+                            -16.36,
+                            28.38
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "\u00c1rea metropolitana de Tenerife",
+                "geocode": "659602",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Possible",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T22:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. \u00c1rea metropolitana de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. \u00c1rea metropolitana de Tenerife</b><br><b>\u00c0rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Afectando principalmente en median\u00edas de Anaga; pudiendo ser en forma de chubasco tormentoso.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 23:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.42,
+                            28.52
+                        ],
+                        [
+                            -16.38,
+                            28.55
+                        ],
+                        [
+                            -16.33,
+                            28.56
+                        ],
+                        [
+                            -16.32,
+                            28.58
+                        ],
+                        [
+                            -16.22,
+                            28.56
+                        ],
+                        [
+                            -16.16,
+                            28.59
+                        ],
+                        [
+                            -16.12,
+                            28.55
+                        ],
+                        [
+                            -16.15,
+                            28.52
+                        ],
+                        [
+                            -16.23,
+                            28.48
+                        ],
+                        [
+                            -16.25,
+                            28.45
+                        ],
+                        [
+                            -16.36,
+                            28.38
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "\u00c1rea metropolitana de Tenerife",
+                "geocode": "659602",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Possible",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T22:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. \u00c1rea metropolitana de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. \u00c1rea metropolitana de Tenerife</b><br><b>\u00c0rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Afectando principalmente en median\u00edas de Anaga; pudiendo ser en forma de chubasco tormentoso.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 23:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
                             -16.39,
                             28.43
                         ],
@@ -17613,6 +17823,216 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sur de Ourense</b><br><b>\u00c0rea:</b> Sur de Ourense<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 12:00<br><b>Data de fi:</b> 13/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.42,
+                            28.52
+                        ],
+                        [
+                            -16.38,
+                            28.55
+                        ],
+                        [
+                            -16.33,
+                            28.56
+                        ],
+                        [
+                            -16.32,
+                            28.58
+                        ],
+                        [
+                            -16.22,
+                            28.56
+                        ],
+                        [
+                            -16.16,
+                            28.59
+                        ],
+                        [
+                            -16.12,
+                            28.55
+                        ],
+                        [
+                            -16.15,
+                            28.52
+                        ],
+                        [
+                            -16.23,
+                            28.48
+                        ],
+                        [
+                            -16.25,
+                            28.45
+                        ],
+                        [
+                            -16.36,
+                            28.38
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "\u00c1rea metropolitana de Tenerife",
+                "geocode": "659602",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T22:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. \u00c1rea metropolitana de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><br><b>\u00c0rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 23:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.42,
+                            28.52
+                        ],
+                        [
+                            -16.38,
+                            28.55
+                        ],
+                        [
+                            -16.33,
+                            28.56
+                        ],
+                        [
+                            -16.32,
+                            28.58
+                        ],
+                        [
+                            -16.22,
+                            28.56
+                        ],
+                        [
+                            -16.16,
+                            28.59
+                        ],
+                        [
+                            -16.12,
+                            28.55
+                        ],
+                        [
+                            -16.15,
+                            28.52
+                        ],
+                        [
+                            -16.23,
+                            28.48
+                        ],
+                        [
+                            -16.25,
+                            28.45
+                        ],
+                        [
+                            -16.36,
+                            28.38
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "\u00c1rea metropolitana de Tenerife",
+                "geocode": "659602",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T22:00:00-00:00",
+                "expires": "2025-11-13T11:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. \u00c1rea metropolitana de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><br><b>\u00c0rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 23:00<br><b>Data de fi:</b> 13/11/2025 12:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
