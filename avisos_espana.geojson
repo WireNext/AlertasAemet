@@ -3248,6 +3248,288 @@
                 "coordinates": [
                     [
                         [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T21:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Norte de Tenerife</b><br><b>\u00c0rea:</b> Norte de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 22:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de tormentas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T21:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de tormentas de nivel amarillo. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "TO;Tormentas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Norte de Tenerife</b><br><b>\u00c0rea:</b> Norte de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> Tormentas aisladas pudiendo organizarse en l\u00ednea.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 22:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -17.85,
                             28.83
                         ],
@@ -5763,6 +6045,288 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel naranja. Este, sur y oeste de Tenerife</b><br><b>\u00c0rea:</b> Este, sur y oeste de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en median\u00edas de las vertientes S y W, y con menor probabilidad en el E y zonas costeras.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 19:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Possible",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T21:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Norte de Tenerife</b><br><b>\u00c0rea:</b> Norte de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en el noroeste.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 22:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.43,
+                            28.49
+                        ],
+                        [
+                            -16.39,
+                            28.43
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.88,
+                            28.31
+                        ],
+                        [
+                            -16.92,
+                            28.34
+                        ],
+                        [
+                            -16.92,
+                            28.36
+                        ],
+                        [
+                            -16.86,
+                            28.37
+                        ],
+                        [
+                            -16.83,
+                            28.39
+                        ],
+                        [
+                            -16.81,
+                            28.38
+                        ],
+                        [
+                            -16.75,
+                            28.37
+                        ],
+                        [
+                            -16.7,
+                            28.38
+                        ],
+                        [
+                            -16.67,
+                            28.4
+                        ],
+                        [
+                            -16.6,
+                            28.39
+                        ],
+                        [
+                            -16.55,
+                            28.42
+                        ],
+                        [
+                            -16.52,
+                            28.42
+                        ],
+                        [
+                            -16.47,
+                            28.44
+                        ],
+                        [
+                            -16.43,
+                            28.49
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Tenerife",
+                "geocode": "659601",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel naranja",
+                "urgency": "Future",
+                "severity": "Severe",
+                "certainty": "Possible",
+                "effective": "2025-11-12T10:06:22-00:00",
+                "onset": "2025-11-12T21:00:00-00:00",
+                "expires": "2025-11-13T08:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel naranja. Norte de Tenerife",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Norte de Tenerife</b><br><b>\u00c0rea:</b> Norte de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Precipitaciones que pueden ser en forma de chubasco tormentoso; los m\u00e1s eficientes se esperan en el noroeste.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/11/2025 22:00<br><b>Data de fi:</b> 13/11/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
