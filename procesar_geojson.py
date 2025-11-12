@@ -21,9 +21,10 @@ SALIDA_GEOJSON = "avisos_espana.geojson"
 
 # Mensajes de advertencia según nivel de alerta
 WARNING_MESSAGES = {
-    "Amarillo": "Tenga cuidado, manténgase informado de las últimas previsiones meteorológicas. Pueden producirse daños moderados a personas y propiedades, especialmente a personas vulnerables o en zonas expuestas.",
-    "Naranja": "Esté atento y manténgase al día con las últimas previsiones meteorológicas. Pueden producirse daños moderados a personas y propiedades, especialmente a personas vulnerables o en zonas expuestas.",
-    "Rojo": "Tome medidas de precaución, permanezca alerta y actúe según los consejos de las autoridades. Manténgase al día con las últimas previsiones meteorológicas. Viaje solo si su viaje es imprescindible. Pueden producirse daños extremos o catastróficos a personas y propiedades, especialmente a las personas vulnerables o en zonas expuestas."
+    "Amarillo": "Vaja amb compte, mantinga's informat de les últimes previsions meteorològiques. Poden produir-se danys moderats a persones i propietats, especialment a persones vulnerables o en zones exposades.",
+    "Naranja": "Estiga atent i mantinga's al dia amb les últimes previsions meteorològiques. Poden produir-se danys moderats a persones i propietats, especialment a persones vulnerables o en zones exposades.",
+    "Rojo": "Prenga mesures de precaució, romanga alerta i actue segons els consells de les autoritats. Mantinga's al dia amb les últimes previsions meteorològiques. Viatge sol si el seu viatge és imprescindible. Poden produir-se danys extrems o catastròfics a persones i propietats, especialment a les persones vulnerables o en zones exposades."
+}
 }
 
 def parse_iso_datetime(date_str):
@@ -230,14 +231,14 @@ def generate_popup_html(info, area, nivel_textual, onset_local, expires_local):
     web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
 
     popup_content = (
-        f"<b>{headline}</b><br>"  # Título en negrita
-        f"<b>Área:</b> {area_desc}<br>"
-        f"<b>Nivel de alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>"
-        f"<b>Descripción:</b> {description}<br>"
-        f"<b>Instrucciones:</b> {instruction}<br>"
-        f"<b>Fecha de inicio:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>"
-        f"<b>Fecha de fin:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>"
-        f"<b>Más información:</b> <a href='{web_url}' target='_blank'>AEMET</a>"
+        f"{headline}</b><br>"
+        f"<b>Àrea:</b> {area_desc}<br>"
+        f"<b>Nivell d'alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>"
+        f"<b>Descripció:</b> {description}<br>"
+        f"<b>Instruccions:</b> {instruction}<br>"
+        f"<b>Data d'inici:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>"
+        f"<b>Data de fi:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>"
+        f"<b>Més informació: <a href='{web_url}' target='_blank'>AEMET</a>"
     )
     return popup_content
         
