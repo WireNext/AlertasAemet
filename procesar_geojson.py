@@ -11,20 +11,61 @@ import pytz
 
 # Leer la URL base desde el config.json
 CONFIG_FILE = "config.json"
-with open(CONFIG_FILE, "r", encoding="utf-8") as f:
-    config = json.load(f)
+# Asegúrate de que el archivo config.json exista o maneja la excepción.
+try:
+    with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+        config = json.load(f)
+except FileNotFoundError:
+    print(f"❌ Error: Archivo de configuración '{CONFIG_FILE}' no encontrado.")
+    # Usar valores predeterminados o salir
+    config = {"url_tar": "https://opendata.aemet.es/opendata/api/avisos/capa/geojson?api_key=YOUR_API_KEY"}
 
 API_URL = config["url_tar"] # Esta es la URL fija a la API de AEMET con la api_key
 TAR_FILE_PATH = "datos/avisos.tar"
 EXTRACT_PATH = "datos/geojson_temp"
 SALIDA_GEOJSON = "avisos_espana.geojson"
 
-# Mensajes de advertencia según nivel de alerta
+# Mensajes de advertencia según nivel de alerta (en catalán, como el original)
 WARNING_MESSAGES = {
     "Amarillo": "Vaja amb compte, mantinga's informat de les últimes previsions meteorològiques. Poden produir-se danys moderats a persones i propietats, especialment a persones vulnerables o en zones exposades.",
     "Naranja": "Estiga atent i mantinga's al dia amb les últimes previsions meteorològiques. Poden produir-se danys moderats a persones i propietats, especialment a persones vulnerables o en zones exposades.",
     "Rojo": "Prenga mesures de precaució, romanga alerta i actue segons els consells de les autoritats. Mantinga's al dia amb les últimes previsions meteorològiques. Viatge sol si el seu viatge és imprescindible. Poden produir-se danys extrems o catastròfics a persones i propietats, especialment a les persones vulnerables o en zones exposades."
 }
+
+# Diccionario de colores para los niveles de alerta
+colores = {
+    "amarillo": "#f3f702",
+    "naranja": "#FF7F00",
+    "rojo": "#FF0000"
+}
+
+# Nuevo: Diccionario para mapear tipos de evento (Tipus) a emojis
+EMOJI_MAP = {
+    "vientos": "🌬️",
+    "lluvia": "🌧️",
+    "nieve": "❄️",
+    "tormentas": "⛈️",
+    "costeros": "🌊", # Fenómenos Costeros
+    "temperaturas": "🌡️", # Olas de calor/frío
+    "niebla": "🌫️",
+    "aludes": "🏔️",
+    "otro": "⚠️",
+}
+
+def get_type_and_emoji(event_text):
+    """
+    Busca la palabra clave del tipo de evento en el texto y devuelve el emoji.
+    """
+    event_text_lower = event_text.lower()
+    
+    # Busca la primera palabra clave que coincida
+    for keyword, emoji in EMOJI_MAP.items():
+        if keyword in event_text_lower:
+            return event_text, emoji
+    
+    # Si no encuentra coincidencia, devuelve el evento original y el emoji de "otro"
+    return event_text, EMOJI_MAP.get("otro", "❓")
+
 
 def parse_iso_datetime(date_str):
     try:
@@ -77,25 +118,9 @@ def extract_and_process_tar(tar_path='avisos.tar'):
                 features = process_xml_to_geojson(file_path) # ← ahora devuelve los features
                 all_features.extend(features)
 
-        # Leer el archivo GeoJSON existente si existe
-        existing_features = []
-        if os.path.exists(SALIDA_GEOJSON):
-            with open(SALIDA_GEOJSON, 'r') as geojson_file:
-                existing_data = json.load(geojson_file)
-                existing_features = existing_data.get("features", [])
-
-        # Filtrar solo los avisos activos y no caducados
-        now = datetime.now(pytz.utc)
-        filtered_existing_features = []
-        for feature in existing_features:
-            expires = feature['properties'].get('expires')
-            if expires:
-                expires_dt = parse_iso_datetime(expires)
-                if expires_dt and expires_dt >= now:
-                    filtered_existing_features.append(feature)
-
-
-        # Guardar todos los features en un solo GeoJSON, aunque esté vacío
+        # Leer el archivo GeoJSON existente si existe (lógica para combinar avisos filtrados no se usa aquí, solo se reescribe el archivo)
+        
+        # Guardar todos los features activos en un solo GeoJSON
         geojson_data = {
             "type": "FeatureCollection",
             "features": all_features # puede estar vacío
@@ -103,17 +128,12 @@ def extract_and_process_tar(tar_path='avisos.tar'):
         try:
             with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as geojson_file:
                 json.dump(geojson_data, geojson_file, indent=4)
-            print(f"✅ GeoJSON guardado en {SALIDA_GEOJSON} con {len(all_features)} avisos.")
+            print(f"✅ GeoJSON guardado en {SALIDA_GEOJSON} con {len(all_features)} avisos activos.")
         except Exception as e:
             print(f"❌ Error al guardar el GeoJSON: {e}")
     except Exception as e:
         print(f"Error al extraer y procesar el archivo TAR: {e}")
 
-colores = {
-    "amarillo": "#f3f702",
-    "naranja": "#FF7F00",
-    "rojo": "#FF0000"
-}
 
 def process_xml_to_geojson(file_path):
     try:
@@ -122,8 +142,8 @@ def process_xml_to_geojson(file_path):
         namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
         areas = root.findall(".//info/area", namespaces)
         geojson_features = []
-        now = datetime.now(pytz.utc)
-
+        # Asegurarse de que 'now' tiene una zona horaria para la comparación
+        now = datetime.now(pytz.utc).astimezone(pytz.timezone('Europe/Madrid'))
 
         for area in areas:
             polygon = area.find("polygon", namespaces)
@@ -134,19 +154,14 @@ def process_xml_to_geojson(file_path):
                 # Obtener fechas
                 onset_text = info.findtext("onset", default="", namespaces=namespaces)
                 expires_text = info.findtext("expires", default="", namespaces=namespaces)
+                
+                # Convertir a objetos datetime con zona horaria de Madrid
                 onset_dt = parse_iso_datetime(onset_text)
                 expires_dt = parse_iso_datetime(expires_text)
-                
-                madrid_tz = pytz.timezone("Europe/Madrid")
-                onset_local = onset_dt.astimezone(madrid_tz)
-                expires_local = expires_dt.astimezone(madrid_tz)
-
-                # Debug: Ver las fechas que estamos comparando
-                print(f"⏰ Aviso en archivo {file_path}: onset: {onset_dt}, expires: {expires_dt}, now: {now}")
 
                 # Filtrar por vigencia: solo mostrar avisos que están activos ahora
-                if onset_dt and onset_dt <= now <= expires_dt:
-                    print(f"✅ Aviso activo: onset: {onset_dt}, expires: {expires_dt}, now: {now}")
+                if onset_dt and expires_dt and onset_dt <= now <= expires_dt:
+                    print(f"✅ Aviso activo: onset: {onset_dt.strftime('%d/%m/%Y %H:%M')}, expires: {expires_dt.strftime('%d/%m/%Y %H:%M')}, now: {now.strftime('%d/%m/%Y %H:%M')}")
 
                     # Extraer nivel textual desde <parameter>
                     parametros = info.findall("parameter", namespaces)
@@ -198,6 +213,7 @@ def process_xml_to_geojson(file_path):
                         "eventCode": info.findtext("eventCode/value", default="", namespaces=namespaces),
                         "parameter": nivel_textual,
                         "_umap_options": umap_options,
+                        # Pasamos los objetos datetime locales para que generate_popup_html los use directamente
                         "popup_html": generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt)    
                     }
 
@@ -213,7 +229,7 @@ def process_xml_to_geojson(file_path):
                     geojson_features.append(feature)
                 else:
                     # Aviso descartado por fechas
-                    print(f"⏰ Aviso descartado por fechas - onset: {onset_dt}, expires: {expires_dt}, now: {now}")
+                    print(f"⏰ Aviso descartado por fechas - archivo: {file_path}")
 
         return geojson_features
 
@@ -222,21 +238,32 @@ def process_xml_to_geojson(file_path):
         return []
 
 # Función para generar el contenido HTML para el popup
-def generate_popup_html(info, area, nivel_textual, onset_local, expires_local):
-    area_desc = area.findtext("areaDesc", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
-    headline = info.findtext("headline", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
-    description = info.findtext("description", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
-    instruction = info.findtext("instruction", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
-    web_url = info.findtext("web", default="", namespaces={'': 'urn:oasis:names:tc:emergency:cap:1.2'})
+def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
+    namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
+
+    area_desc = area.findtext("areaDesc", default="", namespaces=namespaces)
+    headline = info.findtext("headline", default="", namespaces=namespaces)
+    description = info.findtext("description", default="", namespaces=namespaces)
+    instruction = info.findtext("instruction", default="", namespaces=namespaces)
+    web_url = info.findtext("web", default="", namespaces=namespaces)
+
+    # --- INICIO DE CAMBIO: Extraer el tipo de evento y obtener el emoji ---
+    event = info.findtext("event", default="Otro", namespaces=namespaces)
+    event_display, event_emoji = get_type_and_emoji(event)
+    # --- FIN DE CAMBIO ---
 
     popup_content = (
-        f"{headline}</b><br>"
+        f"<b>{headline}</b><br>"
         f"<b>Àrea:</b> {area_desc}<br>"
         f"<b>Nivell d'alerta:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>"
+        # --- NUEVA LÍNEA: Tipus y emoji ---
+        f"<b>Tipus:</b> {event_display} {event_emoji}<br>"
+        # ----------------------------------
         f"<b>Descripció:</b> {description}<br>"
         f"<b>Instruccions:</b> {instruction}<br>"
-        f"<b>Data d'inici:</b> {onset_local.strftime('%d/%m/%Y %H:%M')}<br>"
-        f"<b>Data de fi:</b> {expires_local.strftime('%d/%m/%Y %H:%M')}<br>"
+        # Usamos los objetos datetime que ya están en la zona horaria de Madrid
+        f"<b>Data d'inici:</b> {onset_dt.strftime('%d/%m/%Y %H:%M')}<br>"
+        f"<b>Data de fi:</b> {expires_dt.strftime('%d/%m/%Y %H:%M')}<br>"
         f"<b>Més informació: <a href='{web_url}' target='_blank'>AEMET</a>"
     )
     return popup_content
@@ -244,10 +271,12 @@ def generate_popup_html(info, area, nivel_textual, onset_local, expires_local):
 # Aquí comienza la nueva función correctamente indentada
 def parse_coordinates(coordinates_str):
     coordinates = coordinates_str.split()
+    # Las coordenadas de AEMET son lat,lon; GeoJSON es lon,lat
     return [[float(coord.split(',')[1]), float(coord.split(',')[0])] for coord in coordinates]
 
 # Descargar el archivo TAR y procesarlo
 download_url = obtener_url_datos_desde_api() # Obtener la URL de datos desde la API
 if download_url:
-    download_tar(download_url) # Descargar el archivo TAR
-    extract_and_process_tar() # Extraer y procesar los XML
+    # Se utiliza una ruta relativa 'avisos.tar' en el código original, la mantengo.
+    download_tar(download_url, 'avisos.tar')
+    extract_and_process_tar('avisos.tar') # Extraer y procesar los XML
