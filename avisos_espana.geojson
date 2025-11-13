@@ -5190,6 +5190,344 @@
                 "coordinates": [
                     [
                         [
+                            -6.02,
+                            35.83
+                        ],
+                        [
+                            -5.96,
+                            35.92
+                        ],
+                        [
+                            -5.84,
+                            36.13
+                        ],
+                        [
+                            -5.8,
+                            36.08
+                        ],
+                        [
+                            -5.77,
+                            36.09
+                        ],
+                        [
+                            -5.71,
+                            36.06
+                        ],
+                        [
+                            -5.65,
+                            36.05
+                        ],
+                        [
+                            -5.61,
+                            36.01
+                        ],
+                        [
+                            -5.57,
+                            36.02
+                        ],
+                        [
+                            -5.48,
+                            36.06
+                        ],
+                        [
+                            -5.46,
+                            36.05
+                        ],
+                        [
+                            -5.42,
+                            36.08
+                        ],
+                        [
+                            -5.45,
+                            36.14
+                        ],
+                        [
+                            -5.43,
+                            36.18
+                        ],
+                        [
+                            -5.38,
+                            36.18
+                        ],
+                        [
+                            -5.34,
+                            36.15
+                        ],
+                        [
+                            -5.31,
+                            36.23
+                        ],
+                        [
+                            -5.29,
+                            36.25
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -4.9,
+                            36.12
+                        ],
+                        [
+                            -4.93,
+                            36.07
+                        ],
+                        [
+                            -4.92,
+                            36.06
+                        ],
+                        [
+                            -5.06,
+                            36.04
+                        ],
+                        [
+                            -5.24,
+                            36.01
+                        ],
+                        [
+                            -5.46,
+                            35.98
+                        ],
+                        [
+                            -5.46,
+                            35.91
+                        ],
+                        [
+                            -5.49,
+                            35.9
+                        ],
+                        [
+                            -5.54,
+                            35.84
+                        ],
+                        [
+                            -5.6,
+                            35.82
+                        ],
+                        [
+                            -5.74,
+                            35.81
+                        ],
+                        [
+                            -5.92,
+                            35.79
+                        ],
+                        [
+                            -5.93,
+                            35.78
+                        ],
+                        [
+                            -6.02,
+                            35.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Estrecho",
+                "geocode": "611104C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T11:26:56+01:00",
+                "onset": "2025-11-13T20:00:00+01:00",
+                "expires": "2025-11-13T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Estrecho",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Estrecho</b><br><b>\u00c0rea:</b> Costa - Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> En el oeste: Viento del Sur o Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Suroeste en torno a 4 m al final del d\u00eda.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/11/2025 20:00<br><b>Data de fi:</b> 13/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.02,
+                            35.83
+                        ],
+                        [
+                            -5.96,
+                            35.92
+                        ],
+                        [
+                            -5.84,
+                            36.13
+                        ],
+                        [
+                            -5.8,
+                            36.08
+                        ],
+                        [
+                            -5.77,
+                            36.09
+                        ],
+                        [
+                            -5.71,
+                            36.06
+                        ],
+                        [
+                            -5.65,
+                            36.05
+                        ],
+                        [
+                            -5.61,
+                            36.01
+                        ],
+                        [
+                            -5.57,
+                            36.02
+                        ],
+                        [
+                            -5.48,
+                            36.06
+                        ],
+                        [
+                            -5.46,
+                            36.05
+                        ],
+                        [
+                            -5.42,
+                            36.08
+                        ],
+                        [
+                            -5.45,
+                            36.14
+                        ],
+                        [
+                            -5.43,
+                            36.18
+                        ],
+                        [
+                            -5.38,
+                            36.18
+                        ],
+                        [
+                            -5.34,
+                            36.15
+                        ],
+                        [
+                            -5.31,
+                            36.23
+                        ],
+                        [
+                            -5.29,
+                            36.25
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -4.9,
+                            36.12
+                        ],
+                        [
+                            -4.93,
+                            36.07
+                        ],
+                        [
+                            -4.92,
+                            36.06
+                        ],
+                        [
+                            -5.06,
+                            36.04
+                        ],
+                        [
+                            -5.24,
+                            36.01
+                        ],
+                        [
+                            -5.46,
+                            35.98
+                        ],
+                        [
+                            -5.46,
+                            35.91
+                        ],
+                        [
+                            -5.49,
+                            35.9
+                        ],
+                        [
+                            -5.54,
+                            35.84
+                        ],
+                        [
+                            -5.6,
+                            35.82
+                        ],
+                        [
+                            -5.74,
+                            35.81
+                        ],
+                        [
+                            -5.92,
+                            35.79
+                        ],
+                        [
+                            -5.93,
+                            35.78
+                        ],
+                        [
+                            -6.02,
+                            35.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Estrecho",
+                "geocode": "611104C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-12T11:26:56+01:00",
+                "onset": "2025-11-13T20:00:00+01:00",
+                "expires": "2025-11-13T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Estrecho",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Estrecho</b><br><b>\u00c0rea:</b> Costa - Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> En el oeste: Viento del Sur o Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Suroeste en torno a 4 m al final del d\u00eda.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/11/2025 20:00<br><b>Data de fi:</b> 13/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -6.18,
                             37.94
                         ],
