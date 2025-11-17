@@ -290,6 +290,344 @@
                 "coordinates": [
                     [
                         [
+                            -0.3,
+                            38.88
+                        ],
+                        [
+                            -0.26,
+                            38.86
+                        ],
+                        [
+                            -0.15,
+                            38.86
+                        ],
+                        [
+                            -0.07,
+                            38.89
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            -0.01,
+                            38.87
+                        ],
+                        [
+                            0.09,
+                            38.85
+                        ],
+                        [
+                            0.17,
+                            38.81
+                        ],
+                        [
+                            0.2,
+                            38.77
+                        ],
+                        [
+                            0.22,
+                            38.76
+                        ],
+                        [
+                            0.2,
+                            38.73
+                        ],
+                        [
+                            0.07,
+                            38.64
+                        ],
+                        [
+                            0.03,
+                            38.63
+                        ],
+                        [
+                            -0.02,
+                            38.63
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.08,
+                            38.62
+                        ],
+                        [
+                            -0.16,
+                            38.65
+                        ],
+                        [
+                            -0.19,
+                            38.61
+                        ],
+                        [
+                            -0.21,
+                            38.61
+                        ],
+                        [
+                            -0.27,
+                            38.59
+                        ],
+                        [
+                            -0.33,
+                            38.62
+                        ],
+                        [
+                            -0.33,
+                            38.65
+                        ],
+                        [
+                            -0.36,
+                            38.7
+                        ],
+                        [
+                            -0.44,
+                            38.69
+                        ],
+                        [
+                            -0.51,
+                            38.74
+                        ],
+                        [
+                            -0.53,
+                            38.77
+                        ],
+                        [
+                            -0.56,
+                            38.76
+                        ],
+                        [
+                            -0.59,
+                            38.8
+                        ],
+                        [
+                            -0.53,
+                            38.81
+                        ],
+                        [
+                            -0.47,
+                            38.8
+                        ],
+                        [
+                            -0.43,
+                            38.83
+                        ],
+                        [
+                            -0.38,
+                            38.83
+                        ],
+                        [
+                            -0.3,
+                            38.88
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral norte de Alicante",
+                "geocode": "770301",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-17T20:04:55+01:00",
+                "onset": "2025-11-17T20:00:00+01:00",
+                "expires": "2025-11-17T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral norte de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral norte de Alicante</b><br><b>\u00c0rea:</b> Litoral norte de Alicante<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 17/11/2025 20:00<br><b>Data de fi:</b> 17/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.3,
+                            38.88
+                        ],
+                        [
+                            -0.26,
+                            38.86
+                        ],
+                        [
+                            -0.15,
+                            38.86
+                        ],
+                        [
+                            -0.07,
+                            38.89
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            -0.01,
+                            38.87
+                        ],
+                        [
+                            0.09,
+                            38.85
+                        ],
+                        [
+                            0.17,
+                            38.81
+                        ],
+                        [
+                            0.2,
+                            38.77
+                        ],
+                        [
+                            0.22,
+                            38.76
+                        ],
+                        [
+                            0.2,
+                            38.73
+                        ],
+                        [
+                            0.07,
+                            38.64
+                        ],
+                        [
+                            0.03,
+                            38.63
+                        ],
+                        [
+                            -0.02,
+                            38.63
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.08,
+                            38.62
+                        ],
+                        [
+                            -0.16,
+                            38.65
+                        ],
+                        [
+                            -0.19,
+                            38.61
+                        ],
+                        [
+                            -0.21,
+                            38.61
+                        ],
+                        [
+                            -0.27,
+                            38.59
+                        ],
+                        [
+                            -0.33,
+                            38.62
+                        ],
+                        [
+                            -0.33,
+                            38.65
+                        ],
+                        [
+                            -0.36,
+                            38.7
+                        ],
+                        [
+                            -0.44,
+                            38.69
+                        ],
+                        [
+                            -0.51,
+                            38.74
+                        ],
+                        [
+                            -0.53,
+                            38.77
+                        ],
+                        [
+                            -0.56,
+                            38.76
+                        ],
+                        [
+                            -0.59,
+                            38.8
+                        ],
+                        [
+                            -0.53,
+                            38.81
+                        ],
+                        [
+                            -0.47,
+                            38.8
+                        ],
+                        [
+                            -0.43,
+                            38.83
+                        ],
+                        [
+                            -0.38,
+                            38.83
+                        ],
+                        [
+                            -0.3,
+                            38.88
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral norte de Alicante",
+                "geocode": "770301",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-17T20:04:55+01:00",
+                "onset": "2025-11-17T20:00:00+01:00",
+                "expires": "2025-11-17T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral norte de Alicante",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral norte de Alicante</b><br><b>\u00c0rea:</b> Litoral norte de Alicante<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 17/11/2025 20:00<br><b>Data de fi:</b> 17/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             2.93,
                             39.81
                         ],
