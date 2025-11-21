@@ -338,6 +338,280 @@
                 "coordinates": [
                     [
                         [
+                            1.65,
+                            41.2
+                        ],
+                        [
+                            1.78,
+                            41.22
+                        ],
+                        [
+                            1.85,
+                            41.23
+                        ],
+                        [
+                            1.92,
+                            41.26
+                        ],
+                        [
+                            2.02,
+                            41.27
+                        ],
+                        [
+                            2.12,
+                            41.29
+                        ],
+                        [
+                            2.15,
+                            41.32
+                        ],
+                        [
+                            2.18,
+                            41.37
+                        ],
+                        [
+                            2.22,
+                            41.41
+                        ],
+                        [
+                            2.25,
+                            41.45
+                        ],
+                        [
+                            2.3,
+                            41.47
+                        ],
+                        [
+                            2.38,
+                            41.49
+                        ],
+                        [
+                            2.46,
+                            41.54
+                        ],
+                        [
+                            2.56,
+                            41.58
+                        ],
+                        [
+                            2.78,
+                            41.65
+                        ],
+                        [
+                            2.87,
+                            41.58
+                        ],
+                        [
+                            3.09,
+                            41.4
+                        ],
+                        [
+                            2.57,
+                            41.2
+                        ],
+                        [
+                            2.47,
+                            41.09
+                        ],
+                        [
+                            2.4,
+                            41.04
+                        ],
+                        [
+                            2.32,
+                            41.0
+                        ],
+                        [
+                            2.23,
+                            40.97
+                        ],
+                        [
+                            1.87,
+                            40.89
+                        ],
+                        [
+                            1.81,
+                            40.97
+                        ],
+                        [
+                            1.65,
+                            41.2
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral de Barcelona",
+                "geocode": "690804C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-21T11:13:16+01:00",
+                "onset": "2025-11-21T16:00:00+01:00",
+                "expires": "2025-11-22T02:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona</b><br><b>\u00c0rea:</b> Costa - Litoral de Barcelona<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del noroeste, con intervalos de 50 a 60 km/h (fuerza 7) en el sur.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 16:00<br><b>Data de fi:</b> 22/11/2025 02:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.65,
+                            41.2
+                        ],
+                        [
+                            1.78,
+                            41.22
+                        ],
+                        [
+                            1.85,
+                            41.23
+                        ],
+                        [
+                            1.92,
+                            41.26
+                        ],
+                        [
+                            2.02,
+                            41.27
+                        ],
+                        [
+                            2.12,
+                            41.29
+                        ],
+                        [
+                            2.15,
+                            41.32
+                        ],
+                        [
+                            2.18,
+                            41.37
+                        ],
+                        [
+                            2.22,
+                            41.41
+                        ],
+                        [
+                            2.25,
+                            41.45
+                        ],
+                        [
+                            2.3,
+                            41.47
+                        ],
+                        [
+                            2.38,
+                            41.49
+                        ],
+                        [
+                            2.46,
+                            41.54
+                        ],
+                        [
+                            2.56,
+                            41.58
+                        ],
+                        [
+                            2.78,
+                            41.65
+                        ],
+                        [
+                            2.87,
+                            41.58
+                        ],
+                        [
+                            3.09,
+                            41.4
+                        ],
+                        [
+                            2.57,
+                            41.2
+                        ],
+                        [
+                            2.47,
+                            41.09
+                        ],
+                        [
+                            2.4,
+                            41.04
+                        ],
+                        [
+                            2.32,
+                            41.0
+                        ],
+                        [
+                            2.23,
+                            40.97
+                        ],
+                        [
+                            1.87,
+                            40.89
+                        ],
+                        [
+                            1.81,
+                            40.97
+                        ],
+                        [
+                            1.65,
+                            41.2
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral de Barcelona",
+                "geocode": "690804C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-21T11:13:16+01:00",
+                "onset": "2025-11-21T16:00:00+01:00",
+                "expires": "2025-11-22T02:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona</b><br><b>\u00c0rea:</b> Costa - Litoral de Barcelona<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del noroeste, con intervalos de 50 a 60 km/h (fuerza 7) en el sur.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 16:00<br><b>Data de fi:</b> 22/11/2025 02:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.04,
                             42.79
                         ],
@@ -18531,6 +18805,280 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de nevadas de nivel amarillo. Pirineo oscense</b><br><b>\u00c0rea:</b> Pirineo oscense<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de nevadas de nivel amarillo \u26a0\ufe0f<br><b>Descripci\u00f3:</b> Acumulaci\u00f3n de nieve en 24 horas: 10 cm. Esta acumulaci\u00f3n se espera por encima de 700 m. Posible ventisca en cotas altas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 20/11/2025 18:00<br><b>Data de fi:</b> 21/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.78,
+                            39.44
+                        ],
+                        [
+                            3.61,
+                            39.2
+                        ],
+                        [
+                            3.55,
+                            39.14
+                        ],
+                        [
+                            3.48,
+                            39.09
+                        ],
+                        [
+                            3.37,
+                            39.03
+                        ],
+                        [
+                            3.32,
+                            38.95
+                        ],
+                        [
+                            3.27,
+                            38.9
+                        ],
+                        [
+                            3.21,
+                            38.86
+                        ],
+                        [
+                            3.14,
+                            38.82
+                        ],
+                        [
+                            3.07,
+                            38.8
+                        ],
+                        [
+                            2.99,
+                            38.79
+                        ],
+                        [
+                            2.87,
+                            38.8
+                        ],
+                        [
+                            2.9,
+                            38.88
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Levante mallorqu\u00edn",
+                "geocode": "645405C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-21T11:22:50+01:00",
+                "onset": "2025-11-21T16:00:00+01:00",
+                "expires": "2025-11-22T05:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn</b><br><b>\u00c0rea:</b> Costa - Levante mallorqu\u00edn<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte y noroeste de 40 a 60 km/h (fuerza 6 a 7) y olas de 3 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 16:00<br><b>Data de fi:</b> 22/11/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.78,
+                            39.44
+                        ],
+                        [
+                            3.61,
+                            39.2
+                        ],
+                        [
+                            3.55,
+                            39.14
+                        ],
+                        [
+                            3.48,
+                            39.09
+                        ],
+                        [
+                            3.37,
+                            39.03
+                        ],
+                        [
+                            3.32,
+                            38.95
+                        ],
+                        [
+                            3.27,
+                            38.9
+                        ],
+                        [
+                            3.21,
+                            38.86
+                        ],
+                        [
+                            3.14,
+                            38.82
+                        ],
+                        [
+                            3.07,
+                            38.8
+                        ],
+                        [
+                            2.99,
+                            38.79
+                        ],
+                        [
+                            2.87,
+                            38.8
+                        ],
+                        [
+                            2.9,
+                            38.88
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Levante mallorqu\u00edn",
+                "geocode": "645405C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-21T11:22:50+01:00",
+                "onset": "2025-11-21T16:00:00+01:00",
+                "expires": "2025-11-22T05:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn</b><br><b>\u00c0rea:</b> Costa - Levante mallorqu\u00edn<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte y noroeste de 40 a 60 km/h (fuerza 6 a 7) y olas de 3 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 16:00<br><b>Data de fi:</b> 22/11/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
