@@ -8,336 +8,6 @@
                 "coordinates": [
                     [
                         [
-                            2.74,
-                            40.2
-                        ],
-                        [
-                            3.04,
-                            40.28
-                        ],
-                        [
-                            3.12,
-                            40.29
-                        ],
-                        [
-                            3.21,
-                            40.29
-                        ],
-                        [
-                            3.29,
-                            40.28
-                        ],
-                        [
-                            3.37,
-                            40.26
-                        ],
-                        [
-                            3.45,
-                            40.22
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.78,
-                            39.44
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.74,
-                            40.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Norte y nordeste de Mallorca",
-                "geocode": "645402C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-21T11:22:50+01:00",
-                "onset": "2025-11-21T11:00:00+01:00",
-                "expires": "2025-11-22T17:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Costa - Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del noroeste de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.74,
-                            40.2
-                        ],
-                        [
-                            3.04,
-                            40.28
-                        ],
-                        [
-                            3.12,
-                            40.29
-                        ],
-                        [
-                            3.21,
-                            40.29
-                        ],
-                        [
-                            3.29,
-                            40.28
-                        ],
-                        [
-                            3.37,
-                            40.26
-                        ],
-                        [
-                            3.45,
-                            40.22
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.78,
-                            39.44
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.74,
-                            40.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Norte y nordeste de Mallorca",
-                "geocode": "645402C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-21T11:22:50+01:00",
-                "onset": "2025-11-21T11:00:00+01:00",
-                "expires": "2025-11-22T17:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Costa - Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del noroeste de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -0.28,
                             40.37
                         ],
@@ -3052,6 +2722,544 @@
                 "coordinates": [
                     [
                         [
+                            3.45,
+                            40.22
+                        ],
+                        [
+                            3.52,
+                            40.29
+                        ],
+                        [
+                            3.59,
+                            40.33
+                        ],
+                        [
+                            3.66,
+                            40.36
+                        ],
+                        [
+                            3.75,
+                            40.38
+                        ],
+                        [
+                            3.92,
+                            40.4
+                        ],
+                        [
+                            3.99,
+                            40.42
+                        ],
+                        [
+                            4.08,
+                            40.43
+                        ],
+                        [
+                            4.17,
+                            40.42
+                        ],
+                        [
+                            4.26,
+                            40.4
+                        ],
+                        [
+                            4.37,
+                            40.36
+                        ],
+                        [
+                            4.44,
+                            40.32
+                        ],
+                        [
+                            4.48,
+                            40.28
+                        ],
+                        [
+                            4.58,
+                            40.23
+                        ],
+                        [
+                            4.64,
+                            40.17
+                        ],
+                        [
+                            4.68,
+                            40.11
+                        ],
+                        [
+                            4.73,
+                            39.99
+                        ],
+                        [
+                            4.75,
+                            39.93
+                        ],
+                        [
+                            4.76,
+                            39.87
+                        ],
+                        [
+                            4.75,
+                            39.81
+                        ],
+                        [
+                            4.68,
+                            39.66
+                        ],
+                        [
+                            4.64,
+                            39.6
+                        ],
+                        [
+                            4.58,
+                            39.55
+                        ],
+                        [
+                            4.52,
+                            39.52
+                        ],
+                        [
+                            4.44,
+                            39.49
+                        ],
+                        [
+                            4.36,
+                            39.47
+                        ],
+                        [
+                            4.27,
+                            39.47
+                        ],
+                        [
+                            4.18,
+                            39.48
+                        ],
+                        [
+                            4.09,
+                            39.5
+                        ],
+                        [
+                            4.02,
+                            39.53
+                        ],
+                        [
+                            3.88,
+                            39.59
+                        ],
+                        [
+                            3.8,
+                            39.68
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.859999,
+                            39.92
+                        ],
+                        [
+                            3.799999,
+                            39.68
+                        ],
+                        [
+                            3.53,
+                            39.99
+                        ],
+                        [
+                            3.49,
+                            40.1
+                        ],
+                        [
+                            3.45,
+                            40.22
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Menorca",
+                "geocode": "645501C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-22T11:18:01+01:00",
+                "onset": "2025-11-22T11:00:00+01:00",
+                "expires": "2025-11-22T21:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel naranja. Costa - Menorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Oleaje del norte de 4 a 5 m de altura significativa y ola m\u00e1xima que puede alcanzar los 8 o 9 m.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.45,
+                            40.22
+                        ],
+                        [
+                            3.52,
+                            40.29
+                        ],
+                        [
+                            3.59,
+                            40.33
+                        ],
+                        [
+                            3.66,
+                            40.36
+                        ],
+                        [
+                            3.75,
+                            40.38
+                        ],
+                        [
+                            3.92,
+                            40.4
+                        ],
+                        [
+                            3.99,
+                            40.42
+                        ],
+                        [
+                            4.08,
+                            40.43
+                        ],
+                        [
+                            4.17,
+                            40.42
+                        ],
+                        [
+                            4.26,
+                            40.4
+                        ],
+                        [
+                            4.37,
+                            40.36
+                        ],
+                        [
+                            4.44,
+                            40.32
+                        ],
+                        [
+                            4.48,
+                            40.28
+                        ],
+                        [
+                            4.58,
+                            40.23
+                        ],
+                        [
+                            4.64,
+                            40.17
+                        ],
+                        [
+                            4.68,
+                            40.11
+                        ],
+                        [
+                            4.73,
+                            39.99
+                        ],
+                        [
+                            4.75,
+                            39.93
+                        ],
+                        [
+                            4.76,
+                            39.87
+                        ],
+                        [
+                            4.75,
+                            39.81
+                        ],
+                        [
+                            4.68,
+                            39.66
+                        ],
+                        [
+                            4.64,
+                            39.6
+                        ],
+                        [
+                            4.58,
+                            39.55
+                        ],
+                        [
+                            4.52,
+                            39.52
+                        ],
+                        [
+                            4.44,
+                            39.49
+                        ],
+                        [
+                            4.36,
+                            39.47
+                        ],
+                        [
+                            4.27,
+                            39.47
+                        ],
+                        [
+                            4.18,
+                            39.48
+                        ],
+                        [
+                            4.09,
+                            39.5
+                        ],
+                        [
+                            4.02,
+                            39.53
+                        ],
+                        [
+                            3.88,
+                            39.59
+                        ],
+                        [
+                            3.8,
+                            39.68
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.859999,
+                            39.92
+                        ],
+                        [
+                            3.799999,
+                            39.68
+                        ],
+                        [
+                            3.53,
+                            39.99
+                        ],
+                        [
+                            3.49,
+                            40.1
+                        ],
+                        [
+                            3.45,
+                            40.22
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Menorca",
+                "geocode": "645501C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel naranja",
+                "urgency": "Immediate",
+                "severity": "Severe",
+                "certainty": "Likely",
+                "effective": "2025-11-22T11:18:01+01:00",
+                "onset": "2025-11-22T11:00:00+01:00",
+                "expires": "2025-11-22T21:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel naranja. Costa - Menorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "naranja",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#FF7F00",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Oleaje del norte de 4 a 5 m de altura significativa y ola m\u00e1xima que puede alcanzar los 8 o 9 m.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.9,
                             42.74
                         ],
@@ -4063,6 +4271,336 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando especialmente a median\u00edas, donde las precipitaciones ser\u00e1n m\u00e1s persistentes y generalizadas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 13:00<br><b>Data de fi:</b> 23/11/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.74,
+                            40.2
+                        ],
+                        [
+                            3.04,
+                            40.28
+                        ],
+                        [
+                            3.12,
+                            40.29
+                        ],
+                        [
+                            3.21,
+                            40.29
+                        ],
+                        [
+                            3.29,
+                            40.28
+                        ],
+                        [
+                            3.37,
+                            40.26
+                        ],
+                        [
+                            3.45,
+                            40.22
+                        ],
+                        [
+                            3.49,
+                            40.1
+                        ],
+                        [
+                            3.53,
+                            39.99
+                        ],
+                        [
+                            3.8,
+                            39.68
+                        ],
+                        [
+                            3.88,
+                            39.59
+                        ],
+                        [
+                            3.78,
+                            39.44
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.74,
+                            40.2
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Norte y nordeste de Mallorca",
+                "geocode": "645402C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-22T11:18:01+01:00",
+                "onset": "2025-11-22T11:00:00+01:00",
+                "expires": "2025-11-22T15:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Costa - Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Olas de 3 m del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 15:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.74,
+                            40.2
+                        ],
+                        [
+                            3.04,
+                            40.28
+                        ],
+                        [
+                            3.12,
+                            40.29
+                        ],
+                        [
+                            3.21,
+                            40.29
+                        ],
+                        [
+                            3.29,
+                            40.28
+                        ],
+                        [
+                            3.37,
+                            40.26
+                        ],
+                        [
+                            3.45,
+                            40.22
+                        ],
+                        [
+                            3.49,
+                            40.1
+                        ],
+                        [
+                            3.53,
+                            39.99
+                        ],
+                        [
+                            3.8,
+                            39.68
+                        ],
+                        [
+                            3.88,
+                            39.59
+                        ],
+                        [
+                            3.78,
+                            39.44
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.74,
+                            40.2
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Norte y nordeste de Mallorca",
+                "geocode": "645402C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-22T11:18:01+01:00",
+                "onset": "2025-11-22T11:00:00+01:00",
+                "expires": "2025-11-22T15:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Costa - Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Olas de 3 m del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 15:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -6346,535 +6884,94 @@
                 "coordinates": [
                     [
                         [
-                            3.45,
-                            40.22
+                            2.74,
+                            40.2
                         ],
                         [
-                            3.52,
-                            40.29
+                            2.93,
+                            39.9
                         ],
                         [
-                            3.59,
-                            40.33
+                            2.92,
+                            39.9
                         ],
                         [
-                            3.66,
-                            40.36
-                        ],
-                        [
-                            3.75,
-                            40.38
-                        ],
-                        [
-                            3.92,
-                            40.4
-                        ],
-                        [
-                            3.99,
-                            40.42
-                        ],
-                        [
-                            4.08,
-                            40.43
-                        ],
-                        [
-                            4.17,
-                            40.42
-                        ],
-                        [
-                            4.26,
-                            40.4
-                        ],
-                        [
-                            4.37,
-                            40.36
-                        ],
-                        [
-                            4.44,
-                            40.32
-                        ],
-                        [
-                            4.48,
-                            40.28
-                        ],
-                        [
-                            4.58,
-                            40.23
-                        ],
-                        [
-                            4.64,
-                            40.17
-                        ],
-                        [
-                            4.68,
-                            40.11
-                        ],
-                        [
-                            4.73,
-                            39.99
-                        ],
-                        [
-                            4.75,
-                            39.93
-                        ],
-                        [
-                            4.76,
-                            39.87
-                        ],
-                        [
-                            4.75,
-                            39.81
-                        ],
-                        [
-                            4.68,
-                            39.66
-                        ],
-                        [
-                            4.64,
-                            39.6
-                        ],
-                        [
-                            4.58,
-                            39.55
-                        ],
-                        [
-                            4.52,
-                            39.52
-                        ],
-                        [
-                            4.44,
-                            39.49
-                        ],
-                        [
-                            4.36,
-                            39.47
-                        ],
-                        [
-                            4.27,
-                            39.47
-                        ],
-                        [
-                            4.18,
-                            39.48
-                        ],
-                        [
-                            4.09,
-                            39.5
-                        ],
-                        [
-                            4.02,
-                            39.53
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.31,
+                            2.89,
                             39.89
                         ],
                         [
-                            4.28,
+                            2.83,
+                            39.86
+                        ],
+                        [
+                            2.78,
+                            39.86
+                        ],
+                        [
+                            2.56,
+                            39.7
+                        ],
+                        [
+                            2.53,
+                            39.7
+                        ],
+                        [
+                            2.46,
+                            39.65
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.26,
+                            39.86
+                        ],
+                        [
+                            2.2,
                             39.93
                         ],
                         [
-                            4.25,
-                            40.0
+                            2.52,
+                            40.12
                         ],
                         [
-                            4.23,
-                            40.0
+                            2.57,
+                            40.15
                         ],
                         [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.859999,
-                            39.92
-                        ],
-                        [
-                            3.799999,
-                            39.68
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.45,
-                            40.22
+                            2.74,
+                            40.2
                         ]
                     ]
                 ]
             },
             "properties": {
-                "areaDesc": "Costa - Menorca",
-                "geocode": "645501C",
+                "areaDesc": "Costa - Sierra Tramontana",
+                "geocode": "645401C",
                 "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
+                "event": "Aviso de costeros de nivel amarillo",
                 "urgency": "Immediate",
-                "severity": "Severe",
+                "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-11-21T11:22:50+01:00",
-                "onset": "2025-11-21T11:00:00+01:00",
-                "expires": "2025-11-22T21:59:59+01:00",
+                "effective": "2025-11-22T11:18:01+01:00",
+                "onset": "2025-11-22T11:00:00+01:00",
+                "expires": "2025-11-22T15:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Menorca",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "CO;Costeros",
-                "parameter": "naranja",
+                "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#FFFFFF",
                     "weight": 1,
                     "opacity": 1,
-                    "fillColor": "#FF7F00",
+                    "fillColor": "#f3f702",
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte y noroeste de 50 a 75 km/h (fuerza 7 a 8). Oleaje del norte de 4 a 5 m de altura significativa y ola m\u00e1xima que puede alcanzar los 8 o 9 m.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.45,
-                            40.22
-                        ],
-                        [
-                            3.52,
-                            40.29
-                        ],
-                        [
-                            3.59,
-                            40.33
-                        ],
-                        [
-                            3.66,
-                            40.36
-                        ],
-                        [
-                            3.75,
-                            40.38
-                        ],
-                        [
-                            3.92,
-                            40.4
-                        ],
-                        [
-                            3.99,
-                            40.42
-                        ],
-                        [
-                            4.08,
-                            40.43
-                        ],
-                        [
-                            4.17,
-                            40.42
-                        ],
-                        [
-                            4.26,
-                            40.4
-                        ],
-                        [
-                            4.37,
-                            40.36
-                        ],
-                        [
-                            4.44,
-                            40.32
-                        ],
-                        [
-                            4.48,
-                            40.28
-                        ],
-                        [
-                            4.58,
-                            40.23
-                        ],
-                        [
-                            4.64,
-                            40.17
-                        ],
-                        [
-                            4.68,
-                            40.11
-                        ],
-                        [
-                            4.73,
-                            39.99
-                        ],
-                        [
-                            4.75,
-                            39.93
-                        ],
-                        [
-                            4.76,
-                            39.87
-                        ],
-                        [
-                            4.75,
-                            39.81
-                        ],
-                        [
-                            4.68,
-                            39.66
-                        ],
-                        [
-                            4.64,
-                            39.6
-                        ],
-                        [
-                            4.58,
-                            39.55
-                        ],
-                        [
-                            4.52,
-                            39.52
-                        ],
-                        [
-                            4.44,
-                            39.49
-                        ],
-                        [
-                            4.36,
-                            39.47
-                        ],
-                        [
-                            4.27,
-                            39.47
-                        ],
-                        [
-                            4.18,
-                            39.48
-                        ],
-                        [
-                            4.09,
-                            39.5
-                        ],
-                        [
-                            4.02,
-                            39.53
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.859999,
-                            39.92
-                        ],
-                        [
-                            3.799999,
-                            39.68
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.45,
-                            40.22
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Menorca",
-                "geocode": "645501C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Immediate",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-11-21T11:22:50+01:00",
-                "onset": "2025-11-21T11:00:00+01:00",
-                "expires": "2025-11-22T21:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Menorca",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte y noroeste de 50 a 75 km/h (fuerza 7 a 8). Oleaje del norte de 4 a 5 m de altura significativa y ola m\u00e1xima que puede alcanzar los 8 o 9 m.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana</b><br><b>\u00c0rea:</b> Costa - Sierra Tramontana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Olas de 3 m del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 15:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -6954,9 +7051,9 @@
                 "urgency": "Immediate",
                 "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-11-21T11:22:50+01:00",
-                "onset": "2025-11-21T11:00:00+01:00",
-                "expires": "2025-11-22T17:59:59+01:00",
+                "effective": "2025-11-22T11:18:01+01:00",
+                "onset": "2025-11-22T11:00:00+01:00",
+                "expires": "2025-11-22T15:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
                 "headline": "Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
@@ -6971,104 +7068,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana</b><br><b>\u00c0rea:</b> Costa - Sierra Tramontana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del noroeste de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.74,
-                            40.2
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.26,
-                            39.86
-                        ],
-                        [
-                            2.2,
-                            39.93
-                        ],
-                        [
-                            2.52,
-                            40.12
-                        ],
-                        [
-                            2.57,
-                            40.15
-                        ],
-                        [
-                            2.74,
-                            40.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Sierra Tramontana",
-                "geocode": "645401C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel amarillo",
-                "urgency": "Immediate",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-21T11:22:50+01:00",
-                "onset": "2025-11-21T11:00:00+01:00",
-                "expires": "2025-11-22T17:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana</b><br><b>\u00c0rea:</b> Costa - Sierra Tramontana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del noroeste de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana</b><br><b>\u00c0rea:</b> Costa - Sierra Tramontana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Olas de 3 m del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 15:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
