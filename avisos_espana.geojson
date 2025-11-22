@@ -8,6 +8,216 @@
                 "coordinates": [
                     [
                         [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-21T10:07:01-00:00",
+                "onset": "2025-11-21T12:00:00-00:00",
+                "expires": "2025-11-22T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando especialmente a median\u00edas, donde las precipitaciones ser\u00e1n m\u00e1s persistentes y generalizadas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 13:00<br><b>Data de fi:</b> 23/11/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-21T10:07:01-00:00",
+                "onset": "2025-11-21T12:00:00-00:00",
+                "expires": "2025-11-22T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando especialmente a median\u00edas, donde las precipitaciones ser\u00e1n m\u00e1s persistentes y generalizadas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 13:00<br><b>Data de fi:</b> 23/11/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             3.45,
                             40.22
                         ],
@@ -246,28 +456,28 @@
                 "areaDesc": "Costa - Menorca",
                 "geocode": "645501C",
                 "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
+                "event": "Aviso de costeros de nivel amarillo",
                 "urgency": "Immediate",
-                "severity": "Severe",
+                "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-11-22T11:18:01+01:00",
-                "onset": "2025-11-22T11:00:00+01:00",
+                "effective": "2025-11-22T17:18:50+01:00",
+                "onset": "2025-11-22T17:00:00+01:00",
                 "expires": "2025-11-22T21:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Menorca",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Menorca",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "CO;Costeros",
-                "parameter": "naranja",
+                "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#FFFFFF",
                     "weight": 1,
                     "opacity": 1,
-                    "fillColor": "#FF7F00",
+                    "fillColor": "#f3f702",
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Oleaje del norte de 4 a 5 m de altura significativa y ola m\u00e1xima que puede alcanzar los 8 o 9 m.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Oleaje del norte de 3 m de altura significativa.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 17:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -515,123 +725,18 @@
                 "areaDesc": "Costa - Menorca",
                 "geocode": "645501C",
                 "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
+                "event": "Aviso de costeros de nivel amarillo",
                 "urgency": "Immediate",
-                "severity": "Severe",
+                "severity": "Moderate",
                 "certainty": "Likely",
-                "effective": "2025-11-22T11:18:01+01:00",
-                "onset": "2025-11-22T11:00:00+01:00",
+                "effective": "2025-11-22T17:18:50+01:00",
+                "onset": "2025-11-22T17:00:00+01:00",
                 "expires": "2025-11-22T21:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Menorca",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Menorca",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Oleaje del norte de 4 a 5 m de altura significativa y ola m\u00e1xima que puede alcanzar los 8 o 9 m.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 11:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.84,
-                            28.61
-                        ],
-                        [
-                            -17.82,
-                            28.64
-                        ],
-                        [
-                            -17.83,
-                            28.68
-                        ],
-                        [
-                            -17.84,
-                            28.7
-                        ],
-                        [
-                            -17.83,
-                            28.74
-                        ],
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.85,
-                            28.83
-                        ],
-                        [
-                            -17.78,
-                            28.84
-                        ],
-                        [
-                            -17.76,
-                            28.79
-                        ],
-                        [
-                            -17.72,
-                            28.73
-                        ],
-                        [
-                            -17.77,
-                            28.67
-                        ],
-                        [
-                            -17.75,
-                            28.62
-                        ],
-                        [
-                            -17.75,
-                            28.59
-                        ],
-                        [
-                            -17.79,
-                            28.52
-                        ],
-                        [
-                            -17.84,
-                            28.54
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Este de La Palma",
-                "geocode": "659303",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-21T10:07:01-00:00",
-                "onset": "2025-11-21T12:00:00-00:00",
-                "expires": "2025-11-22T23:59:59-00:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Este de La Palma",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
                 "parameter": "amarillo",
                 "_umap_options": {
                     "color": "#FFFFFF",
@@ -641,112 +746,7 @@
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando especialmente a median\u00edas, donde las precipitaciones ser\u00e1n m\u00e1s persistentes y generalizadas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 13:00<br><b>Data de fi:</b> 23/11/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.84,
-                            28.56
-                        ],
-                        [
-                            -17.84,
-                            28.61
-                        ],
-                        [
-                            -17.82,
-                            28.64
-                        ],
-                        [
-                            -17.83,
-                            28.68
-                        ],
-                        [
-                            -17.84,
-                            28.7
-                        ],
-                        [
-                            -17.83,
-                            28.74
-                        ],
-                        [
-                            -17.86,
-                            28.76
-                        ],
-                        [
-                            -17.85,
-                            28.83
-                        ],
-                        [
-                            -17.78,
-                            28.84
-                        ],
-                        [
-                            -17.76,
-                            28.79
-                        ],
-                        [
-                            -17.72,
-                            28.73
-                        ],
-                        [
-                            -17.77,
-                            28.67
-                        ],
-                        [
-                            -17.75,
-                            28.62
-                        ],
-                        [
-                            -17.75,
-                            28.59
-                        ],
-                        [
-                            -17.79,
-                            28.52
-                        ],
-                        [
-                            -17.84,
-                            28.54
-                        ],
-                        [
-                            -17.84,
-                            28.56
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Este de La Palma",
-                "geocode": "659303",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-21T10:07:01-00:00",
-                "onset": "2025-11-21T12:00:00-00:00",
-                "expires": "2025-11-22T23:59:59-00:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Este de La Palma",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. Afectando especialmente a median\u00edas, donde las precipitaciones ser\u00e1n m\u00e1s persistentes y generalizadas.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 21/11/2025 13:00<br><b>Data de fi:</b> 23/11/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Menorca</b><br><b>\u00c0rea:</b> Costa - Menorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Oleaje del norte de 3 m de altura significativa.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 22/11/2025 17:00<br><b>Data de fi:</b> 22/11/2025 21:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
