@@ -8308,6 +8308,344 @@
                 "coordinates": [
                     [
                         [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.76,
+                            43.34
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.96,
+                            43.2
+                        ],
+                        [
+                            -2.0,
+                            43.19
+                        ],
+                        [
+                            -2.08,
+                            43.24
+                        ],
+                        [
+                            -2.13,
+                            43.22
+                        ],
+                        [
+                            -2.16,
+                            43.2
+                        ],
+                        [
+                            -2.23,
+                            43.21
+                        ],
+                        [
+                            -2.26,
+                            43.23
+                        ],
+                        [
+                            -2.3,
+                            43.21
+                        ],
+                        [
+                            -2.35,
+                            43.24
+                        ],
+                        [
+                            -2.37,
+                            43.27
+                        ],
+                        [
+                            -2.42,
+                            43.27
+                        ],
+                        [
+                            -2.44,
+                            43.29
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Gipuzkoa litoral",
+                "geocode": "752001",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-24T10:50:58+01:00",
+                "onset": "2025-11-24T18:00:00+01:00",
+                "expires": "2025-11-25T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm. Las precipitaciones m\u00e1s persistentes se esperan en el extremo oriental de la zona de aviso.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 18:00<br><b>Data de fi:</b> 25/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.76,
+                            43.34
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.96,
+                            43.2
+                        ],
+                        [
+                            -2.0,
+                            43.19
+                        ],
+                        [
+                            -2.08,
+                            43.24
+                        ],
+                        [
+                            -2.13,
+                            43.22
+                        ],
+                        [
+                            -2.16,
+                            43.2
+                        ],
+                        [
+                            -2.23,
+                            43.21
+                        ],
+                        [
+                            -2.26,
+                            43.23
+                        ],
+                        [
+                            -2.3,
+                            43.21
+                        ],
+                        [
+                            -2.35,
+                            43.24
+                        ],
+                        [
+                            -2.37,
+                            43.27
+                        ],
+                        [
+                            -2.42,
+                            43.27
+                        ],
+                        [
+                            -2.44,
+                            43.29
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Gipuzkoa litoral",
+                "geocode": "752001",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-24T10:50:58+01:00",
+                "onset": "2025-11-24T18:00:00+01:00",
+                "expires": "2025-11-25T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm. Las precipitaciones m\u00e1s persistentes se esperan en el extremo oriental de la zona de aviso.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 18:00<br><b>Data de fi:</b> 25/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.3,
                             38.88
                         ],
@@ -13601,6 +13939,328 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de vientos de nivel amarillo. Guadix y Baza</b><br><b>\u00c0rea:</b> Guadix y Baza<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de componente oeste.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 12:00<br><b>Data de fi:</b> 25/11/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95,
+                            43.1
+                        ],
+                        [
+                            -1.92,
+                            43.13
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.67,
+                            43.32
+                        ],
+                        [
+                            -1.62,
+                            43.3
+                        ],
+                        [
+                            -1.62,
+                            43.26
+                        ],
+                        [
+                            -1.57,
+                            43.25
+                        ],
+                        [
+                            -1.55,
+                            43.29
+                        ],
+                        [
+                            -1.5,
+                            43.29
+                        ],
+                        [
+                            -1.38,
+                            43.25
+                        ],
+                        [
+                            -1.38,
+                            43.19
+                        ],
+                        [
+                            -1.4,
+                            43.18
+                        ],
+                        [
+                            -1.41,
+                            43.13
+                        ],
+                        [
+                            -1.47,
+                            43.09
+                        ],
+                        [
+                            -1.45,
+                            43.05
+                        ],
+                        [
+                            -1.47,
+                            43.03
+                        ],
+                        [
+                            -1.5,
+                            43.06
+                        ],
+                        [
+                            -1.55,
+                            43.04
+                        ],
+                        [
+                            -1.63,
+                            43.04
+                        ],
+                        [
+                            -1.67,
+                            43.06
+                        ],
+                        [
+                            -1.71,
+                            43.05
+                        ],
+                        [
+                            -1.8,
+                            43.06
+                        ],
+                        [
+                            -1.86,
+                            43.08
+                        ],
+                        [
+                            -1.88,
+                            43.06
+                        ],
+                        [
+                            -1.93,
+                            43.06
+                        ],
+                        [
+                            -1.95,
+                            43.1
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vertiente cant\u00e1brica de Navarra",
+                "geocode": "743101",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-24T10:50:58+01:00",
+                "onset": "2025-11-24T18:00:00+01:00",
+                "expires": "2025-11-25T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Vertiente cant\u00e1brica de Navarra",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vertiente cant\u00e1brica de Navarra</b><br><b>\u00c0rea:</b> Vertiente cant\u00e1brica de Navarra<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 18:00<br><b>Data de fi:</b> 25/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95,
+                            43.1
+                        ],
+                        [
+                            -1.92,
+                            43.13
+                        ],
+                        [
+                            -1.92,
+                            43.17
+                        ],
+                        [
+                            -1.91,
+                            43.2
+                        ],
+                        [
+                            -1.82,
+                            43.23
+                        ],
+                        [
+                            -1.79,
+                            43.25
+                        ],
+                        [
+                            -1.78,
+                            43.29
+                        ],
+                        [
+                            -1.73,
+                            43.3
+                        ],
+                        [
+                            -1.67,
+                            43.32
+                        ],
+                        [
+                            -1.62,
+                            43.3
+                        ],
+                        [
+                            -1.62,
+                            43.26
+                        ],
+                        [
+                            -1.57,
+                            43.25
+                        ],
+                        [
+                            -1.55,
+                            43.29
+                        ],
+                        [
+                            -1.5,
+                            43.29
+                        ],
+                        [
+                            -1.38,
+                            43.25
+                        ],
+                        [
+                            -1.38,
+                            43.19
+                        ],
+                        [
+                            -1.4,
+                            43.18
+                        ],
+                        [
+                            -1.41,
+                            43.13
+                        ],
+                        [
+                            -1.47,
+                            43.09
+                        ],
+                        [
+                            -1.45,
+                            43.05
+                        ],
+                        [
+                            -1.47,
+                            43.03
+                        ],
+                        [
+                            -1.5,
+                            43.06
+                        ],
+                        [
+                            -1.55,
+                            43.04
+                        ],
+                        [
+                            -1.63,
+                            43.04
+                        ],
+                        [
+                            -1.67,
+                            43.06
+                        ],
+                        [
+                            -1.71,
+                            43.05
+                        ],
+                        [
+                            -1.8,
+                            43.06
+                        ],
+                        [
+                            -1.86,
+                            43.08
+                        ],
+                        [
+                            -1.88,
+                            43.06
+                        ],
+                        [
+                            -1.93,
+                            43.06
+                        ],
+                        [
+                            -1.95,
+                            43.1
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Vertiente cant\u00e1brica de Navarra",
+                "geocode": "743101",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-24T10:50:58+01:00",
+                "onset": "2025-11-24T18:00:00+01:00",
+                "expires": "2025-11-25T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Vertiente cant\u00e1brica de Navarra",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vertiente cant\u00e1brica de Navarra</b><br><b>\u00c0rea:</b> Vertiente cant\u00e1brica de Navarra<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 18:00<br><b>Data de fi:</b> 25/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
