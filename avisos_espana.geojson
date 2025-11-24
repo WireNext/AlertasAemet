@@ -964,6 +964,280 @@
                 "coordinates": [
                     [
                         [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.78,
+                            39.44
+                        ],
+                        [
+                            3.61,
+                            39.2
+                        ],
+                        [
+                            3.55,
+                            39.14
+                        ],
+                        [
+                            3.48,
+                            39.09
+                        ],
+                        [
+                            3.37,
+                            39.03
+                        ],
+                        [
+                            3.32,
+                            38.95
+                        ],
+                        [
+                            3.27,
+                            38.9
+                        ],
+                        [
+                            3.21,
+                            38.86
+                        ],
+                        [
+                            3.14,
+                            38.82
+                        ],
+                        [
+                            3.07,
+                            38.8
+                        ],
+                        [
+                            2.99,
+                            38.79
+                        ],
+                        [
+                            2.87,
+                            38.8
+                        ],
+                        [
+                            2.9,
+                            38.88
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Levante mallorqu\u00edn",
+                "geocode": "645405C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-24T11:24:53+01:00",
+                "onset": "2025-11-24T15:00:00+01:00",
+                "expires": "2025-11-24T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn</b><br><b>\u00c0rea:</b> Costa - Levante mallorqu\u00edn<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 metros.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 15:00<br><b>Data de fi:</b> 24/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.78,
+                            39.44
+                        ],
+                        [
+                            3.61,
+                            39.2
+                        ],
+                        [
+                            3.55,
+                            39.14
+                        ],
+                        [
+                            3.48,
+                            39.09
+                        ],
+                        [
+                            3.37,
+                            39.03
+                        ],
+                        [
+                            3.32,
+                            38.95
+                        ],
+                        [
+                            3.27,
+                            38.9
+                        ],
+                        [
+                            3.21,
+                            38.86
+                        ],
+                        [
+                            3.14,
+                            38.82
+                        ],
+                        [
+                            3.07,
+                            38.8
+                        ],
+                        [
+                            2.99,
+                            38.79
+                        ],
+                        [
+                            2.87,
+                            38.8
+                        ],
+                        [
+                            2.9,
+                            38.88
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Levante mallorqu\u00edn",
+                "geocode": "645405C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-24T11:24:53+01:00",
+                "onset": "2025-11-24T15:00:00+01:00",
+                "expires": "2025-11-24T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Levante mallorqu\u00edn</b><br><b>\u00c0rea:</b> Costa - Levante mallorqu\u00edn<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 metros.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 15:00<br><b>Data de fi:</b> 24/11/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -0.27,
                             39.28
                         ],
@@ -9447,512 +9721,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Poniente y Almer\u00eda Capital</b><br><b>\u00c0rea:</b> Costa - Poniente y Almer\u00eda Capital<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del oeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 11:00<br><b>Data de fi:</b> 25/11/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -8.61,
-                            42.72
-                        ],
-                        [
-                            -8.57,
-                            42.74
-                        ],
-                        [
-                            -8.49,
-                            42.76
-                        ],
-                        [
-                            -8.43,
-                            42.75
-                        ],
-                        [
-                            -8.4,
-                            42.78
-                        ],
-                        [
-                            -8.33,
-                            42.79
-                        ],
-                        [
-                            -8.25,
-                            42.84
-                        ],
-                        [
-                            -8.21,
-                            42.82
-                        ],
-                        [
-                            -8.18,
-                            42.86
-                        ],
-                        [
-                            -8.15,
-                            42.85
-                        ],
-                        [
-                            -8.07,
-                            42.85
-                        ],
-                        [
-                            -8.04,
-                            42.83
-                        ],
-                        [
-                            -8.0,
-                            42.85
-                        ],
-                        [
-                            -7.95,
-                            42.84
-                        ],
-                        [
-                            -7.98,
-                            42.79
-                        ],
-                        [
-                            -7.93,
-                            42.74
-                        ],
-                        [
-                            -7.86,
-                            42.72
-                        ],
-                        [
-                            -7.89,
-                            42.68
-                        ],
-                        [
-                            -7.89,
-                            42.63
-                        ],
-                        [
-                            -7.93,
-                            42.58
-                        ],
-                        [
-                            -7.99,
-                            42.57
-                        ],
-                        [
-                            -8.01,
-                            42.54
-                        ],
-                        [
-                            -8.09,
-                            42.56
-                        ],
-                        [
-                            -8.15,
-                            42.55
-                        ],
-                        [
-                            -8.17,
-                            42.57
-                        ],
-                        [
-                            -8.22,
-                            42.53
-                        ],
-                        [
-                            -8.24,
-                            42.54
-                        ],
-                        [
-                            -8.3,
-                            42.49
-                        ],
-                        [
-                            -8.35,
-                            42.48
-                        ],
-                        [
-                            -8.32,
-                            42.38
-                        ],
-                        [
-                            -8.32,
-                            42.37
-                        ],
-                        [
-                            -8.28,
-                            42.32
-                        ],
-                        [
-                            -8.26,
-                            42.32
-                        ],
-                        [
-                            -8.26,
-                            42.25
-                        ],
-                        [
-                            -8.22,
-                            42.23
-                        ],
-                        [
-                            -8.23,
-                            42.21
-                        ],
-                        [
-                            -8.22,
-                            42.18
-                        ],
-                        [
-                            -8.28,
-                            42.15
-                        ],
-                        [
-                            -8.35,
-                            42.15
-                        ],
-                        [
-                            -8.4,
-                            42.2
-                        ],
-                        [
-                            -8.4,
-                            42.29
-                        ],
-                        [
-                            -8.48,
-                            42.29
-                        ],
-                        [
-                            -8.48,
-                            42.32
-                        ],
-                        [
-                            -8.44,
-                            42.38
-                        ],
-                        [
-                            -8.49,
-                            42.43
-                        ],
-                        [
-                            -8.55,
-                            42.43
-                        ],
-                        [
-                            -8.58,
-                            42.45
-                        ],
-                        [
-                            -8.56,
-                            42.47
-                        ],
-                        [
-                            -8.6,
-                            42.52
-                        ],
-                        [
-                            -8.62,
-                            42.57
-                        ],
-                        [
-                            -8.6,
-                            42.6
-                        ],
-                        [
-                            -8.61,
-                            42.66
-                        ],
-                        [
-                            -8.59,
-                            42.7
-                        ],
-                        [
-                            -8.61,
-                            42.72
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Interior de Pontevedra",
-                "geocode": "713602",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-23T11:20:13+01:00",
-                "onset": "2025-11-24T00:00:00+01:00",
-                "expires": "2025-11-24T14:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Interior de Pontevedra",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Pontevedra</b><br><b>\u00c0rea:</b> Interior de Pontevedra<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 00:00<br><b>Data de fi:</b> 24/11/2025 14:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -8.61,
-                            42.72
-                        ],
-                        [
-                            -8.57,
-                            42.74
-                        ],
-                        [
-                            -8.49,
-                            42.76
-                        ],
-                        [
-                            -8.43,
-                            42.75
-                        ],
-                        [
-                            -8.4,
-                            42.78
-                        ],
-                        [
-                            -8.33,
-                            42.79
-                        ],
-                        [
-                            -8.25,
-                            42.84
-                        ],
-                        [
-                            -8.21,
-                            42.82
-                        ],
-                        [
-                            -8.18,
-                            42.86
-                        ],
-                        [
-                            -8.15,
-                            42.85
-                        ],
-                        [
-                            -8.07,
-                            42.85
-                        ],
-                        [
-                            -8.04,
-                            42.83
-                        ],
-                        [
-                            -8.0,
-                            42.85
-                        ],
-                        [
-                            -7.95,
-                            42.84
-                        ],
-                        [
-                            -7.98,
-                            42.79
-                        ],
-                        [
-                            -7.93,
-                            42.74
-                        ],
-                        [
-                            -7.86,
-                            42.72
-                        ],
-                        [
-                            -7.89,
-                            42.68
-                        ],
-                        [
-                            -7.89,
-                            42.63
-                        ],
-                        [
-                            -7.93,
-                            42.58
-                        ],
-                        [
-                            -7.99,
-                            42.57
-                        ],
-                        [
-                            -8.01,
-                            42.54
-                        ],
-                        [
-                            -8.09,
-                            42.56
-                        ],
-                        [
-                            -8.15,
-                            42.55
-                        ],
-                        [
-                            -8.17,
-                            42.57
-                        ],
-                        [
-                            -8.22,
-                            42.53
-                        ],
-                        [
-                            -8.24,
-                            42.54
-                        ],
-                        [
-                            -8.3,
-                            42.49
-                        ],
-                        [
-                            -8.35,
-                            42.48
-                        ],
-                        [
-                            -8.32,
-                            42.38
-                        ],
-                        [
-                            -8.32,
-                            42.37
-                        ],
-                        [
-                            -8.28,
-                            42.32
-                        ],
-                        [
-                            -8.26,
-                            42.32
-                        ],
-                        [
-                            -8.26,
-                            42.25
-                        ],
-                        [
-                            -8.22,
-                            42.23
-                        ],
-                        [
-                            -8.23,
-                            42.21
-                        ],
-                        [
-                            -8.22,
-                            42.18
-                        ],
-                        [
-                            -8.28,
-                            42.15
-                        ],
-                        [
-                            -8.35,
-                            42.15
-                        ],
-                        [
-                            -8.4,
-                            42.2
-                        ],
-                        [
-                            -8.4,
-                            42.29
-                        ],
-                        [
-                            -8.48,
-                            42.29
-                        ],
-                        [
-                            -8.48,
-                            42.32
-                        ],
-                        [
-                            -8.44,
-                            42.38
-                        ],
-                        [
-                            -8.49,
-                            42.43
-                        ],
-                        [
-                            -8.55,
-                            42.43
-                        ],
-                        [
-                            -8.58,
-                            42.45
-                        ],
-                        [
-                            -8.56,
-                            42.47
-                        ],
-                        [
-                            -8.6,
-                            42.52
-                        ],
-                        [
-                            -8.62,
-                            42.57
-                        ],
-                        [
-                            -8.6,
-                            42.6
-                        ],
-                        [
-                            -8.61,
-                            42.66
-                        ],
-                        [
-                            -8.59,
-                            42.7
-                        ],
-                        [
-                            -8.61,
-                            42.72
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Interior de Pontevedra",
-                "geocode": "713602",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-11-23T11:20:13+01:00",
-                "onset": "2025-11-24T00:00:00+01:00",
-                "expires": "2025-11-24T14:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Interior de Pontevedra",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Pontevedra</b><br><b>\u00c0rea:</b> Interior de Pontevedra<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 24/11/2025 00:00<br><b>Data de fi:</b> 24/11/2025 14:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
