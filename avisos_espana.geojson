@@ -8,6 +8,264 @@
                 "coordinates": [
                     [
                         [
+                            1.04,
+                            42.79
+                        ],
+                        [
+                            1.02,
+                            42.73
+                        ],
+                        [
+                            0.98,
+                            42.69
+                        ],
+                        [
+                            0.94,
+                            42.59
+                        ],
+                        [
+                            0.92,
+                            42.59
+                        ],
+                        [
+                            0.89,
+                            42.63
+                        ],
+                        [
+                            0.84,
+                            42.61
+                        ],
+                        [
+                            0.81,
+                            42.62
+                        ],
+                        [
+                            0.77,
+                            42.61
+                        ],
+                        [
+                            0.71,
+                            42.62
+                        ],
+                        [
+                            0.7,
+                            42.66
+                        ],
+                        [
+                            0.66,
+                            42.69
+                        ],
+                        [
+                            0.68,
+                            42.71
+                        ],
+                        [
+                            0.65,
+                            42.77
+                        ],
+                        [
+                            0.67,
+                            42.81
+                        ],
+                        [
+                            0.66,
+                            42.84
+                        ],
+                        [
+                            0.71,
+                            42.86
+                        ],
+                        [
+                            0.78,
+                            42.84
+                        ],
+                        [
+                            0.86,
+                            42.83
+                        ],
+                        [
+                            0.93,
+                            42.79
+                        ],
+                        [
+                            0.96,
+                            42.81
+                        ],
+                        [
+                            0.99,
+                            42.79
+                        ],
+                        [
+                            1.04,
+                            42.79
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Valle de Ar\u00e1n",
+                "geocode": "692501",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00ednimas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-30T10:37:30+01:00",
+                "onset": "2025-12-01T00:00:00+01:00",
+                "expires": "2025-12-01T08:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00ednimas de nivel amarillo. Valle de Ar\u00e1n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "BT;Temperaturas m\u00ednimas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00ednimas de nivel amarillo. Valle de Ar\u00e1n</b><br><b>\u00c0rea:</b> Valle de Ar\u00e1n<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de temperaturas m\u00ednimas de nivel amarillo \ud83c\udf21\ufe0f<br><b>Descripci\u00f3:</b> Temperatura m\u00ednima: -6 \u00baC.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 01/12/2025 00:00<br><b>Data de fi:</b> 01/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.04,
+                            42.79
+                        ],
+                        [
+                            1.02,
+                            42.73
+                        ],
+                        [
+                            0.98,
+                            42.69
+                        ],
+                        [
+                            0.94,
+                            42.59
+                        ],
+                        [
+                            0.92,
+                            42.59
+                        ],
+                        [
+                            0.89,
+                            42.63
+                        ],
+                        [
+                            0.84,
+                            42.61
+                        ],
+                        [
+                            0.81,
+                            42.62
+                        ],
+                        [
+                            0.77,
+                            42.61
+                        ],
+                        [
+                            0.71,
+                            42.62
+                        ],
+                        [
+                            0.7,
+                            42.66
+                        ],
+                        [
+                            0.66,
+                            42.69
+                        ],
+                        [
+                            0.68,
+                            42.71
+                        ],
+                        [
+                            0.65,
+                            42.77
+                        ],
+                        [
+                            0.67,
+                            42.81
+                        ],
+                        [
+                            0.66,
+                            42.84
+                        ],
+                        [
+                            0.71,
+                            42.86
+                        ],
+                        [
+                            0.78,
+                            42.84
+                        ],
+                        [
+                            0.86,
+                            42.83
+                        ],
+                        [
+                            0.93,
+                            42.79
+                        ],
+                        [
+                            0.96,
+                            42.81
+                        ],
+                        [
+                            0.99,
+                            42.79
+                        ],
+                        [
+                            1.04,
+                            42.79
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Valle de Ar\u00e1n",
+                "geocode": "692501",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00ednimas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-30T10:37:30+01:00",
+                "onset": "2025-12-01T00:00:00+01:00",
+                "expires": "2025-12-01T08:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00ednimas de nivel amarillo. Valle de Ar\u00e1n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "BT;Temperaturas m\u00ednimas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00ednimas de nivel amarillo. Valle de Ar\u00e1n</b><br><b>\u00c0rea:</b> Valle de Ar\u00e1n<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de temperaturas m\u00ednimas de nivel amarillo \ud83c\udf21\ufe0f<br><b>Descripci\u00f3:</b> Temperatura m\u00ednima: -6 \u00baC.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 01/12/2025 00:00<br><b>Data de fi:</b> 01/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             2.44,
                             39.64
                         ],
@@ -257,6 +515,288 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><br><b>\u00c0rea:</b> Sierra Tramontana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 30/11/2025 18:00<br><b>Data de fi:</b> 01/12/2025 03:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.3,
+                            38.97
+                        ],
+                        [
+                            1.28,
+                            39.0
+                        ],
+                        [
+                            1.3,
+                            39.03
+                        ],
+                        [
+                            1.37,
+                            39.07
+                        ],
+                        [
+                            1.42,
+                            39.08
+                        ],
+                        [
+                            1.45,
+                            39.1
+                        ],
+                        [
+                            1.53,
+                            39.12
+                        ],
+                        [
+                            1.56,
+                            39.09
+                        ],
+                        [
+                            1.6,
+                            39.09
+                        ],
+                        [
+                            1.59,
+                            39.06
+                        ],
+                        [
+                            1.61,
+                            39.03
+                        ],
+                        [
+                            1.58,
+                            38.99
+                        ],
+                        [
+                            1.53,
+                            38.98
+                        ],
+                        [
+                            1.53,
+                            38.95
+                        ],
+                        [
+                            1.47,
+                            38.91
+                        ],
+                        [
+                            1.44,
+                            38.92
+                        ],
+                        [
+                            1.41,
+                            38.89
+                        ],
+                        [
+                            1.4,
+                            38.85
+                        ],
+                        [
+                            1.38,
+                            38.83
+                        ],
+                        [
+                            1.34,
+                            38.87
+                        ],
+                        [
+                            1.31,
+                            38.86
+                        ],
+                        [
+                            1.22,
+                            38.88
+                        ],
+                        [
+                            1.22,
+                            38.91
+                        ],
+                        [
+                            1.24,
+                            38.94
+                        ],
+                        [
+                            1.22,
+                            38.96
+                        ],
+                        [
+                            1.3,
+                            38.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Ibiza y Formentera",
+                "geocode": "645301",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-11-30T11:21:34+01:00",
+                "onset": "2025-12-01T00:00:00+01:00",
+                "expires": "2025-12-01T08:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Ibiza y Formentera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Ibiza y Formentera</b><br><b>\u00c0rea:</b> Ibiza y Formentera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 01/12/2025 00:00<br><b>Data de fi:</b> 01/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.3,
+                            38.97
+                        ],
+                        [
+                            1.28,
+                            39.0
+                        ],
+                        [
+                            1.3,
+                            39.03
+                        ],
+                        [
+                            1.37,
+                            39.07
+                        ],
+                        [
+                            1.42,
+                            39.08
+                        ],
+                        [
+                            1.45,
+                            39.1
+                        ],
+                        [
+                            1.53,
+                            39.12
+                        ],
+                        [
+                            1.56,
+                            39.09
+                        ],
+                        [
+                            1.6,
+                            39.09
+                        ],
+                        [
+                            1.59,
+                            39.06
+                        ],
+                        [
+                            1.61,
+                            39.03
+                        ],
+                        [
+                            1.58,
+                            38.99
+                        ],
+                        [
+                            1.53,
+                            38.98
+                        ],
+                        [
+                            1.53,
+                            38.95
+                        ],
+                        [
+                            1.47,
+                            38.91
+                        ],
+                        [
+                            1.44,
+                            38.92
+                        ],
+                        [
+                            1.41,
+                            38.89
+                        ],
+                        [
+                            1.4,
+                            38.85
+                        ],
+                        [
+                            1.38,
+                            38.83
+                        ],
+                        [
+                            1.34,
+                            38.87
+                        ],
+                        [
+                            1.31,
+                            38.86
+                        ],
+                        [
+                            1.22,
+                            38.88
+                        ],
+                        [
+                            1.22,
+                            38.91
+                        ],
+                        [
+                            1.24,
+                            38.94
+                        ],
+                        [
+                            1.22,
+                            38.96
+                        ],
+                        [
+                            1.3,
+                            38.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Ibiza y Formentera",
+                "geocode": "645301",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Possible",
+                "effective": "2025-11-30T11:21:34+01:00",
+                "onset": "2025-12-01T00:00:00+01:00",
+                "expires": "2025-12-01T08:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Ibiza y Formentera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Ibiza y Formentera</b><br><b>\u00c0rea:</b> Ibiza y Formentera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 01/12/2025 00:00<br><b>Data de fi:</b> 01/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -1497,6 +2037,816 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 30/11/2025 18:00<br><b>Data de fi:</b> 01/12/2025 03:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.9,
+                            42.74
+                        ],
+                        [
+                            -0.85,
+                            42.79
+                        ],
+                        [
+                            -0.86,
+                            42.85
+                        ],
+                        [
+                            -0.81,
+                            42.88
+                        ],
+                        [
+                            -0.82,
+                            42.9
+                        ],
+                        [
+                            -0.78,
+                            42.92
+                        ],
+                        [
+                            -0.73,
+                            42.92
+                        ],
+                        [
+                            -0.73,
+                            42.9
+                        ],
+                        [
+                            -0.6,
+                            42.83
+                        ],
+                        [
+                            -0.6,
+                            42.8
+                        ],
+                        [
+                            -0.57,
+                            42.78
+                        ],
+                        [
+                            -0.52,
+                            42.8
+                        ],
+                        [
+                            -0.51,
+                            42.82
+                        ],
+                        [
+                            -0.44,
+                            42.8
+                        ],
+                        [
+                            -0.39,
+                            42.8
+                        ],
+                        [
+                            -0.35,
+                            42.84
+                        ],
+                        [
+                            -0.31,
+                            42.84
+                        ],
+                        [
+                            -0.24,
+                            42.81
+                        ],
+                        [
+                            -0.16,
+                            42.78
+                        ],
+                        [
+                            -0.11,
+                            42.73
+                        ],
+                        [
+                            -0.07,
+                            42.72
+                        ],
+                        [
+                            -0.06,
+                            42.69
+                        ],
+                        [
+                            0.0,
+                            42.69
+                        ],
+                        [
+                            0.09,
+                            42.72
+                        ],
+                        [
+                            0.14,
+                            42.72
+                        ],
+                        [
+                            0.18,
+                            42.74
+                        ],
+                        [
+                            0.26,
+                            42.72
+                        ],
+                        [
+                            0.3,
+                            42.67
+                        ],
+                        [
+                            0.36,
+                            42.72
+                        ],
+                        [
+                            0.4,
+                            42.69
+                        ],
+                        [
+                            0.58,
+                            42.69
+                        ],
+                        [
+                            0.59,
+                            42.7
+                        ],
+                        [
+                            0.66,
+                            42.69
+                        ],
+                        [
+                            0.7,
+                            42.66
+                        ],
+                        [
+                            0.71,
+                            42.62
+                        ],
+                        [
+                            0.77,
+                            42.61
+                        ],
+                        [
+                            0.75,
+                            42.55
+                        ],
+                        [
+                            0.73,
+                            42.53
+                        ],
+                        [
+                            0.73,
+                            42.5
+                        ],
+                        [
+                            0.7,
+                            42.47
+                        ],
+                        [
+                            0.71,
+                            42.44
+                        ],
+                        [
+                            0.75,
+                            42.39
+                        ],
+                        [
+                            0.76,
+                            42.35
+                        ],
+                        [
+                            0.74,
+                            42.25
+                        ],
+                        [
+                            0.7,
+                            42.17
+                        ],
+                        [
+                            0.7,
+                            42.12
+                        ],
+                        [
+                            0.68,
+                            42.08
+                        ],
+                        [
+                            0.65,
+                            42.03
+                        ],
+                        [
+                            0.58,
+                            41.96
+                        ],
+                        [
+                            0.55,
+                            41.97
+                        ],
+                        [
+                            0.47,
+                            41.97
+                        ],
+                        [
+                            0.47,
+                            41.99
+                        ],
+                        [
+                            0.44,
+                            42.03
+                        ],
+                        [
+                            0.41,
+                            42.07
+                        ],
+                        [
+                            0.35,
+                            42.06
+                        ],
+                        [
+                            0.32,
+                            42.06
+                        ],
+                        [
+                            0.33,
+                            42.16
+                        ],
+                        [
+                            0.3,
+                            42.17
+                        ],
+                        [
+                            0.28,
+                            42.23
+                        ],
+                        [
+                            0.19,
+                            42.22
+                        ],
+                        [
+                            0.15,
+                            42.24
+                        ],
+                        [
+                            0.1,
+                            42.25
+                        ],
+                        [
+                            0.11,
+                            42.28
+                        ],
+                        [
+                            0.07,
+                            42.3
+                        ],
+                        [
+                            0.01,
+                            42.3
+                        ],
+                        [
+                            0.01,
+                            42.26
+                        ],
+                        [
+                            -0.04,
+                            42.26
+                        ],
+                        [
+                            -0.04,
+                            42.32
+                        ],
+                        [
+                            -0.06,
+                            42.36
+                        ],
+                        [
+                            -0.14,
+                            42.31
+                        ],
+                        [
+                            -0.17,
+                            42.3
+                        ],
+                        [
+                            -0.22,
+                            42.31
+                        ],
+                        [
+                            -0.23,
+                            42.34
+                        ],
+                        [
+                            -0.36,
+                            42.35
+                        ],
+                        [
+                            -0.4,
+                            42.34
+                        ],
+                        [
+                            -0.47,
+                            42.34
+                        ],
+                        [
+                            -0.52,
+                            42.36
+                        ],
+                        [
+                            -0.58,
+                            42.39
+                        ],
+                        [
+                            -0.65,
+                            42.39
+                        ],
+                        [
+                            -0.65,
+                            42.43
+                        ],
+                        [
+                            -0.7,
+                            42.48
+                        ],
+                        [
+                            -0.73,
+                            42.45
+                        ],
+                        [
+                            -0.78,
+                            42.46
+                        ],
+                        [
+                            -0.85,
+                            42.44
+                        ],
+                        [
+                            -0.88,
+                            42.46
+                        ],
+                        [
+                            -0.92,
+                            42.54
+                        ],
+                        [
+                            -0.92,
+                            42.59
+                        ],
+                        [
+                            -0.9,
+                            42.61
+                        ],
+                        [
+                            -0.93,
+                            42.66
+                        ],
+                        [
+                            -0.89,
+                            42.67
+                        ],
+                        [
+                            -0.9,
+                            42.7
+                        ],
+                        [
+                            -0.9,
+                            42.74
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Pirineo oscense",
+                "geocode": "622201",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00ednimas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-30T10:37:30+01:00",
+                "onset": "2025-12-01T00:00:00+01:00",
+                "expires": "2025-12-01T08:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00ednimas de nivel amarillo. Pirineo oscense",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "BT;Temperaturas m\u00ednimas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00ednimas de nivel amarillo. Pirineo oscense</b><br><b>\u00c0rea:</b> Pirineo oscense<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de temperaturas m\u00ednimas de nivel amarillo \ud83c\udf21\ufe0f<br><b>Descripci\u00f3:</b> Temperatura m\u00ednima: -6 \u00baC.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 01/12/2025 00:00<br><b>Data de fi:</b> 01/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.9,
+                            42.74
+                        ],
+                        [
+                            -0.85,
+                            42.79
+                        ],
+                        [
+                            -0.86,
+                            42.85
+                        ],
+                        [
+                            -0.81,
+                            42.88
+                        ],
+                        [
+                            -0.82,
+                            42.9
+                        ],
+                        [
+                            -0.78,
+                            42.92
+                        ],
+                        [
+                            -0.73,
+                            42.92
+                        ],
+                        [
+                            -0.73,
+                            42.9
+                        ],
+                        [
+                            -0.6,
+                            42.83
+                        ],
+                        [
+                            -0.6,
+                            42.8
+                        ],
+                        [
+                            -0.57,
+                            42.78
+                        ],
+                        [
+                            -0.52,
+                            42.8
+                        ],
+                        [
+                            -0.51,
+                            42.82
+                        ],
+                        [
+                            -0.44,
+                            42.8
+                        ],
+                        [
+                            -0.39,
+                            42.8
+                        ],
+                        [
+                            -0.35,
+                            42.84
+                        ],
+                        [
+                            -0.31,
+                            42.84
+                        ],
+                        [
+                            -0.24,
+                            42.81
+                        ],
+                        [
+                            -0.16,
+                            42.78
+                        ],
+                        [
+                            -0.11,
+                            42.73
+                        ],
+                        [
+                            -0.07,
+                            42.72
+                        ],
+                        [
+                            -0.06,
+                            42.69
+                        ],
+                        [
+                            0.0,
+                            42.69
+                        ],
+                        [
+                            0.09,
+                            42.72
+                        ],
+                        [
+                            0.14,
+                            42.72
+                        ],
+                        [
+                            0.18,
+                            42.74
+                        ],
+                        [
+                            0.26,
+                            42.72
+                        ],
+                        [
+                            0.3,
+                            42.67
+                        ],
+                        [
+                            0.36,
+                            42.72
+                        ],
+                        [
+                            0.4,
+                            42.69
+                        ],
+                        [
+                            0.58,
+                            42.69
+                        ],
+                        [
+                            0.59,
+                            42.7
+                        ],
+                        [
+                            0.66,
+                            42.69
+                        ],
+                        [
+                            0.7,
+                            42.66
+                        ],
+                        [
+                            0.71,
+                            42.62
+                        ],
+                        [
+                            0.77,
+                            42.61
+                        ],
+                        [
+                            0.75,
+                            42.55
+                        ],
+                        [
+                            0.73,
+                            42.53
+                        ],
+                        [
+                            0.73,
+                            42.5
+                        ],
+                        [
+                            0.7,
+                            42.47
+                        ],
+                        [
+                            0.71,
+                            42.44
+                        ],
+                        [
+                            0.75,
+                            42.39
+                        ],
+                        [
+                            0.76,
+                            42.35
+                        ],
+                        [
+                            0.74,
+                            42.25
+                        ],
+                        [
+                            0.7,
+                            42.17
+                        ],
+                        [
+                            0.7,
+                            42.12
+                        ],
+                        [
+                            0.68,
+                            42.08
+                        ],
+                        [
+                            0.65,
+                            42.03
+                        ],
+                        [
+                            0.58,
+                            41.96
+                        ],
+                        [
+                            0.55,
+                            41.97
+                        ],
+                        [
+                            0.47,
+                            41.97
+                        ],
+                        [
+                            0.47,
+                            41.99
+                        ],
+                        [
+                            0.44,
+                            42.03
+                        ],
+                        [
+                            0.41,
+                            42.07
+                        ],
+                        [
+                            0.35,
+                            42.06
+                        ],
+                        [
+                            0.32,
+                            42.06
+                        ],
+                        [
+                            0.33,
+                            42.16
+                        ],
+                        [
+                            0.3,
+                            42.17
+                        ],
+                        [
+                            0.28,
+                            42.23
+                        ],
+                        [
+                            0.19,
+                            42.22
+                        ],
+                        [
+                            0.15,
+                            42.24
+                        ],
+                        [
+                            0.1,
+                            42.25
+                        ],
+                        [
+                            0.11,
+                            42.28
+                        ],
+                        [
+                            0.07,
+                            42.3
+                        ],
+                        [
+                            0.01,
+                            42.3
+                        ],
+                        [
+                            0.01,
+                            42.26
+                        ],
+                        [
+                            -0.04,
+                            42.26
+                        ],
+                        [
+                            -0.04,
+                            42.32
+                        ],
+                        [
+                            -0.06,
+                            42.36
+                        ],
+                        [
+                            -0.14,
+                            42.31
+                        ],
+                        [
+                            -0.17,
+                            42.3
+                        ],
+                        [
+                            -0.22,
+                            42.31
+                        ],
+                        [
+                            -0.23,
+                            42.34
+                        ],
+                        [
+                            -0.36,
+                            42.35
+                        ],
+                        [
+                            -0.4,
+                            42.34
+                        ],
+                        [
+                            -0.47,
+                            42.34
+                        ],
+                        [
+                            -0.52,
+                            42.36
+                        ],
+                        [
+                            -0.58,
+                            42.39
+                        ],
+                        [
+                            -0.65,
+                            42.39
+                        ],
+                        [
+                            -0.65,
+                            42.43
+                        ],
+                        [
+                            -0.7,
+                            42.48
+                        ],
+                        [
+                            -0.73,
+                            42.45
+                        ],
+                        [
+                            -0.78,
+                            42.46
+                        ],
+                        [
+                            -0.85,
+                            42.44
+                        ],
+                        [
+                            -0.88,
+                            42.46
+                        ],
+                        [
+                            -0.92,
+                            42.54
+                        ],
+                        [
+                            -0.92,
+                            42.59
+                        ],
+                        [
+                            -0.9,
+                            42.61
+                        ],
+                        [
+                            -0.93,
+                            42.66
+                        ],
+                        [
+                            -0.89,
+                            42.67
+                        ],
+                        [
+                            -0.9,
+                            42.7
+                        ],
+                        [
+                            -0.9,
+                            42.74
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Pirineo oscense",
+                "geocode": "622201",
+                "category": "Met",
+                "event": "Aviso de temperaturas m\u00ednimas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-11-30T10:37:30+01:00",
+                "onset": "2025-12-01T00:00:00+01:00",
+                "expires": "2025-12-01T08:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de temperaturas m\u00ednimas de nivel amarillo. Pirineo oscense",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "BT;Temperaturas m\u00ednimas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de temperaturas m\u00ednimas de nivel amarillo. Pirineo oscense</b><br><b>\u00c0rea:</b> Pirineo oscense<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de temperaturas m\u00ednimas de nivel amarillo \ud83c\udf21\ufe0f<br><b>Descripci\u00f3:</b> Temperatura m\u00ednima: -6 \u00baC.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 01/12/2025 00:00<br><b>Data de fi:</b> 01/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
