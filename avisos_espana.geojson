@@ -652,6 +652,440 @@
                 "coordinates": [
                     [
                         [
+                            -5.72,
+                            40.53
+                        ],
+                        [
+                            -5.77,
+                            40.52
+                        ],
+                        [
+                            -5.77,
+                            40.6
+                        ],
+                        [
+                            -5.79,
+                            40.6
+                        ],
+                        [
+                            -5.82,
+                            40.66
+                        ],
+                        [
+                            -5.88,
+                            40.66
+                        ],
+                        [
+                            -5.9,
+                            40.59
+                        ],
+                        [
+                            -5.89,
+                            40.56
+                        ],
+                        [
+                            -6.01,
+                            40.59
+                        ],
+                        [
+                            -6.01,
+                            40.53
+                        ],
+                        [
+                            -6.07,
+                            40.51
+                        ],
+                        [
+                            -6.07,
+                            40.46
+                        ],
+                        [
+                            -6.11,
+                            40.44
+                        ],
+                        [
+                            -6.2,
+                            40.48
+                        ],
+                        [
+                            -6.24,
+                            40.49
+                        ],
+                        [
+                            -6.29,
+                            40.45
+                        ],
+                        [
+                            -6.34,
+                            40.44
+                        ],
+                        [
+                            -6.37,
+                            40.4
+                        ],
+                        [
+                            -6.42,
+                            40.4
+                        ],
+                        [
+                            -6.45,
+                            40.37
+                        ],
+                        [
+                            -6.45,
+                            40.46
+                        ],
+                        [
+                            -6.43,
+                            40.47
+                        ],
+                        [
+                            -6.38,
+                            40.47
+                        ],
+                        [
+                            -6.39,
+                            40.54
+                        ],
+                        [
+                            -6.37,
+                            40.56
+                        ],
+                        [
+                            -6.32,
+                            40.57
+                        ],
+                        [
+                            -6.29,
+                            40.55
+                        ],
+                        [
+                            -6.24,
+                            40.59
+                        ],
+                        [
+                            -6.16,
+                            40.6
+                        ],
+                        [
+                            -6.12,
+                            40.63
+                        ],
+                        [
+                            -6.02,
+                            40.63
+                        ],
+                        [
+                            -5.98,
+                            40.62
+                        ],
+                        [
+                            -5.96,
+                            40.64
+                        ],
+                        [
+                            -5.97,
+                            40.68
+                        ],
+                        [
+                            -5.95,
+                            40.7
+                        ],
+                        [
+                            -5.98,
+                            40.72
+                        ],
+                        [
+                            -5.92,
+                            40.75
+                        ],
+                        [
+                            -5.87,
+                            40.75
+                        ],
+                        [
+                            -5.79,
+                            40.78
+                        ],
+                        [
+                            -5.78,
+                            40.74
+                        ],
+                        [
+                            -5.77,
+                            40.69
+                        ],
+                        [
+                            -5.72,
+                            40.65
+                        ],
+                        [
+                            -5.74,
+                            40.58
+                        ],
+                        [
+                            -5.71,
+                            40.57
+                        ],
+                        [
+                            -5.72,
+                            40.53
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Sistema Central de Salamanca",
+                "geocode": "673702",
+                "category": "Met",
+                "event": "Aviso de nevadas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-02T10:40:21+01:00",
+                "onset": "2025-12-02T18:00:00+01:00",
+                "expires": "2025-12-02T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de nevadas de nivel amarillo. Sistema Central de Salamanca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "NE;Nevadas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de nevadas de nivel amarillo. Sistema Central de Salamanca</b><br><b>\u00c0rea:</b> Sistema Central de Salamanca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de nevadas de nivel amarillo \u26a0\ufe0f<br><b>Descripci\u00f3:</b> Acumulaci\u00f3n de nieve en 24 horas: 5 cm. Acumulados por encima de 1000 a 1200 metros.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 02/12/2025 18:00<br><b>Data de fi:</b> 02/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.72,
+                            40.53
+                        ],
+                        [
+                            -5.77,
+                            40.52
+                        ],
+                        [
+                            -5.77,
+                            40.6
+                        ],
+                        [
+                            -5.79,
+                            40.6
+                        ],
+                        [
+                            -5.82,
+                            40.66
+                        ],
+                        [
+                            -5.88,
+                            40.66
+                        ],
+                        [
+                            -5.9,
+                            40.59
+                        ],
+                        [
+                            -5.89,
+                            40.56
+                        ],
+                        [
+                            -6.01,
+                            40.59
+                        ],
+                        [
+                            -6.01,
+                            40.53
+                        ],
+                        [
+                            -6.07,
+                            40.51
+                        ],
+                        [
+                            -6.07,
+                            40.46
+                        ],
+                        [
+                            -6.11,
+                            40.44
+                        ],
+                        [
+                            -6.2,
+                            40.48
+                        ],
+                        [
+                            -6.24,
+                            40.49
+                        ],
+                        [
+                            -6.29,
+                            40.45
+                        ],
+                        [
+                            -6.34,
+                            40.44
+                        ],
+                        [
+                            -6.37,
+                            40.4
+                        ],
+                        [
+                            -6.42,
+                            40.4
+                        ],
+                        [
+                            -6.45,
+                            40.37
+                        ],
+                        [
+                            -6.45,
+                            40.46
+                        ],
+                        [
+                            -6.43,
+                            40.47
+                        ],
+                        [
+                            -6.38,
+                            40.47
+                        ],
+                        [
+                            -6.39,
+                            40.54
+                        ],
+                        [
+                            -6.37,
+                            40.56
+                        ],
+                        [
+                            -6.32,
+                            40.57
+                        ],
+                        [
+                            -6.29,
+                            40.55
+                        ],
+                        [
+                            -6.24,
+                            40.59
+                        ],
+                        [
+                            -6.16,
+                            40.6
+                        ],
+                        [
+                            -6.12,
+                            40.63
+                        ],
+                        [
+                            -6.02,
+                            40.63
+                        ],
+                        [
+                            -5.98,
+                            40.62
+                        ],
+                        [
+                            -5.96,
+                            40.64
+                        ],
+                        [
+                            -5.97,
+                            40.68
+                        ],
+                        [
+                            -5.95,
+                            40.7
+                        ],
+                        [
+                            -5.98,
+                            40.72
+                        ],
+                        [
+                            -5.92,
+                            40.75
+                        ],
+                        [
+                            -5.87,
+                            40.75
+                        ],
+                        [
+                            -5.79,
+                            40.78
+                        ],
+                        [
+                            -5.78,
+                            40.74
+                        ],
+                        [
+                            -5.77,
+                            40.69
+                        ],
+                        [
+                            -5.72,
+                            40.65
+                        ],
+                        [
+                            -5.74,
+                            40.58
+                        ],
+                        [
+                            -5.71,
+                            40.57
+                        ],
+                        [
+                            -5.72,
+                            40.53
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Sistema Central de Salamanca",
+                "geocode": "673702",
+                "category": "Met",
+                "event": "Aviso de nevadas de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-02T10:40:21+01:00",
+                "onset": "2025-12-02T18:00:00+01:00",
+                "expires": "2025-12-02T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de nevadas de nivel amarillo. Sistema Central de Salamanca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "NE;Nevadas",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de nevadas de nivel amarillo. Sistema Central de Salamanca</b><br><b>\u00c0rea:</b> Sistema Central de Salamanca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de nevadas de nivel amarillo \u26a0\ufe0f<br><b>Descripci\u00f3:</b> Acumulaci\u00f3n de nieve en 24 horas: 5 cm. Acumulados por encima de 1000 a 1200 metros.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 02/12/2025 18:00<br><b>Data de fi:</b> 02/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -7.03,
                             43.55
                         ],
@@ -2445,6 +2879,264 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Noroeste de A Coru\u00f1a</b><br><b>\u00c0rea:</b> Costa - Noroeste de A Coru\u00f1a<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar Combinada del Noroeste de 5 o 6 m. Adem\u00e1s, viento del Suroeste de 50 a 61 km/h (fuerza 7) al final del d\u00eda.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 02/12/2025 11:00<br><b>Data de fi:</b> 03/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.3,
+                            43.67
+                        ],
+                        [
+                            -2.21,
+                            43.63
+                        ],
+                        [
+                            -1.96,
+                            43.7
+                        ],
+                        [
+                            -1.88,
+                            43.72
+                        ],
+                        [
+                            -1.74,
+                            43.73
+                        ],
+                        [
+                            -1.72,
+                            43.65
+                        ],
+                        [
+                            -1.73,
+                            43.48
+                        ],
+                        [
+                            -1.74,
+                            43.44
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Gipuzkoa litoral",
+                "geocode": "752001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-01T11:02:39+01:00",
+                "onset": "2025-12-02T18:00:00+01:00",
+                "expires": "2025-12-02T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Costa - Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar Combinada del Noroeste aumentando a 4 o 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 02/12/2025 18:00<br><b>Data de fi:</b> 02/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.3,
+                            43.67
+                        ],
+                        [
+                            -2.21,
+                            43.63
+                        ],
+                        [
+                            -1.96,
+                            43.7
+                        ],
+                        [
+                            -1.88,
+                            43.72
+                        ],
+                        [
+                            -1.74,
+                            43.73
+                        ],
+                        [
+                            -1.72,
+                            43.65
+                        ],
+                        [
+                            -1.73,
+                            43.48
+                        ],
+                        [
+                            -1.74,
+                            43.44
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Gipuzkoa litoral",
+                "geocode": "752001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-01T11:02:39+01:00",
+                "onset": "2025-12-02T18:00:00+01:00",
+                "expires": "2025-12-02T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Costa - Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar Combinada del Noroeste aumentando a 4 o 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 02/12/2025 18:00<br><b>Data de fi:</b> 02/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
