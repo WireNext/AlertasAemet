@@ -290,6 +290,554 @@
                 "coordinates": [
                     [
                         [
+                            -17.82,
+                            29.17
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.51,
+                            28.4
+                        ],
+                        [
+                            -17.71,
+                            28.15
+                        ],
+                        [
+                            -17.75,
+                            28.14
+                        ],
+                        [
+                            -17.99,
+                            28.16
+                        ],
+                        [
+                            -18.03,
+                            28.17
+                        ],
+                        [
+                            -18.09,
+                            28.21
+                        ],
+                        [
+                            -18.14,
+                            28.26
+                        ],
+                        [
+                            -18.17,
+                            28.32
+                        ],
+                        [
+                            -18.33,
+                            28.6
+                        ],
+                        [
+                            -18.35,
+                            28.66
+                        ],
+                        [
+                            -18.36,
+                            28.72
+                        ],
+                        [
+                            -18.36,
+                            28.79
+                        ],
+                        [
+                            -18.34,
+                            28.85
+                        ],
+                        [
+                            -18.31,
+                            28.9
+                        ],
+                        [
+                            -18.23,
+                            29.02
+                        ],
+                        [
+                            -18.19,
+                            29.07
+                        ],
+                        [
+                            -18.14,
+                            29.12
+                        ],
+                        [
+                            -18.07,
+                            29.15
+                        ],
+                        [
+                            -18.01,
+                            29.17
+                        ],
+                        [
+                            -17.93,
+                            29.18
+                        ],
+                        [
+                            -17.82,
+                            29.17
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Oeste de La Palma",
+                "geocode": "659304C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T07:35:03-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T19:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Oeste de La Palma</b><br><b>\u00c0rea:</b> Costa - Oeste de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7). Al final de la tarde, mar combinado del norte o noroeste aumentando a 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 20:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.82,
+                            29.17
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.51,
+                            28.4
+                        ],
+                        [
+                            -17.71,
+                            28.15
+                        ],
+                        [
+                            -17.75,
+                            28.14
+                        ],
+                        [
+                            -17.99,
+                            28.16
+                        ],
+                        [
+                            -18.03,
+                            28.17
+                        ],
+                        [
+                            -18.09,
+                            28.21
+                        ],
+                        [
+                            -18.14,
+                            28.26
+                        ],
+                        [
+                            -18.17,
+                            28.32
+                        ],
+                        [
+                            -18.33,
+                            28.6
+                        ],
+                        [
+                            -18.35,
+                            28.66
+                        ],
+                        [
+                            -18.36,
+                            28.72
+                        ],
+                        [
+                            -18.36,
+                            28.79
+                        ],
+                        [
+                            -18.34,
+                            28.85
+                        ],
+                        [
+                            -18.31,
+                            28.9
+                        ],
+                        [
+                            -18.23,
+                            29.02
+                        ],
+                        [
+                            -18.19,
+                            29.07
+                        ],
+                        [
+                            -18.14,
+                            29.12
+                        ],
+                        [
+                            -18.07,
+                            29.15
+                        ],
+                        [
+                            -18.01,
+                            29.17
+                        ],
+                        [
+                            -17.93,
+                            29.18
+                        ],
+                        [
+                            -17.82,
+                            29.17
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Oeste de La Palma",
+                "geocode": "659304C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T07:35:03-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T19:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Oeste de La Palma</b><br><b>\u00c0rea:</b> Costa - Oeste de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7). Al final de la tarde, mar combinado del norte o noroeste aumentando a 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 20:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "El Hierro",
+                "geocode": "659501",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. El Hierro</b><br><b>\u00c0rea:</b> El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -7.29,
                             37.87
                         ],
@@ -963,6 +1511,264 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. And\u00e9valo y Condado</b><br><b>\u00c0rea:</b> And\u00e9valo y Condado<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 06:00<br><b>Data de fi:</b> 12/12/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.82,
+                            29.17
+                        ],
+                        [
+                            -17.72,
+                            29.16
+                        ],
+                        [
+                            -17.65,
+                            29.15
+                        ],
+                        [
+                            -17.59,
+                            29.12
+                        ],
+                        [
+                            -17.53,
+                            29.08
+                        ],
+                        [
+                            -17.48,
+                            29.03
+                        ],
+                        [
+                            -17.44,
+                            28.98
+                        ],
+                        [
+                            -17.39,
+                            28.88
+                        ],
+                        [
+                            -17.36,
+                            28.82
+                        ],
+                        [
+                            -17.35,
+                            28.76
+                        ],
+                        [
+                            -17.36,
+                            28.69
+                        ],
+                        [
+                            -17.37,
+                            28.63
+                        ],
+                        [
+                            -17.43,
+                            28.51
+                        ],
+                        [
+                            -17.51,
+                            28.4
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.82,
+                            29.17
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Este de La Palma",
+                "geocode": "659303C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T07:35:03-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T19:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este de La Palma</b><br><b>\u00c0rea:</b> Costa - Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7). Al final de la tarde, mar combinado del norte o noroeste aumentando a 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 20:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.82,
+                            29.17
+                        ],
+                        [
+                            -17.72,
+                            29.16
+                        ],
+                        [
+                            -17.65,
+                            29.15
+                        ],
+                        [
+                            -17.59,
+                            29.12
+                        ],
+                        [
+                            -17.53,
+                            29.08
+                        ],
+                        [
+                            -17.48,
+                            29.03
+                        ],
+                        [
+                            -17.44,
+                            28.98
+                        ],
+                        [
+                            -17.39,
+                            28.88
+                        ],
+                        [
+                            -17.36,
+                            28.82
+                        ],
+                        [
+                            -17.35,
+                            28.76
+                        ],
+                        [
+                            -17.36,
+                            28.69
+                        ],
+                        [
+                            -17.37,
+                            28.63
+                        ],
+                        [
+                            -17.43,
+                            28.51
+                        ],
+                        [
+                            -17.51,
+                            28.4
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.82,
+                            29.17
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Este de La Palma",
+                "geocode": "659303C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T07:35:03-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T19:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Este de La Palma</b><br><b>\u00c0rea:</b> Costa - Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7). Al final de la tarde, mar combinado del norte o noroeste aumentando a 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 20:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -2072,6 +2878,240 @@
                 "coordinates": [
                     [
                         [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Oeste de La Palma</b><br><b>\u00c0rea:</b> Oeste de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.83,
+                            28.46
+                        ],
+                        [
+                            -17.85,
+                            28.46
+                        ],
+                        [
+                            -17.87,
+                            28.49
+                        ],
+                        [
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Oeste de La Palma",
+                "geocode": "659304",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Oeste de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Oeste de La Palma</b><br><b>\u00c0rea:</b> Oeste de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -7.44,
                             37.38
                         ],
@@ -2538,6 +3578,1278 @@
                 "coordinates": [
                     [
                         [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "La Gomera",
+                "geocode": "659401",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. La Gomera</b><br><b>\u00c0rea:</b> La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.99,
+                            28.16
+                        ],
+                        [
+                            -17.75,
+                            28.14
+                        ],
+                        [
+                            -17.7,
+                            28.12
+                        ],
+                        [
+                            -17.64,
+                            28.0
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.879999,
+                            27.8
+                        ],
+                        [
+                            -17.639999,
+                            28.0
+                        ],
+                        [
+                            -17.57,
+                            27.88
+                        ],
+                        [
+                            -17.54,
+                            27.8
+                        ],
+                        [
+                            -17.55,
+                            27.74
+                        ],
+                        [
+                            -17.63,
+                            27.54
+                        ],
+                        [
+                            -17.66,
+                            27.48
+                        ],
+                        [
+                            -17.7,
+                            27.43
+                        ],
+                        [
+                            -17.75,
+                            27.38
+                        ],
+                        [
+                            -17.81,
+                            27.35
+                        ],
+                        [
+                            -17.87,
+                            27.33
+                        ],
+                        [
+                            -17.94,
+                            27.31
+                        ],
+                        [
+                            -18.01,
+                            27.31
+                        ],
+                        [
+                            -18.08,
+                            27.33
+                        ],
+                        [
+                            -18.14,
+                            27.35
+                        ],
+                        [
+                            -18.21,
+                            27.39
+                        ],
+                        [
+                            -18.29,
+                            27.41
+                        ],
+                        [
+                            -18.35,
+                            27.44
+                        ],
+                        [
+                            -18.41,
+                            27.47
+                        ],
+                        [
+                            -18.45,
+                            27.52
+                        ],
+                        [
+                            -18.49,
+                            27.57
+                        ],
+                        [
+                            -18.51,
+                            27.63
+                        ],
+                        [
+                            -18.52,
+                            27.69
+                        ],
+                        [
+                            -18.51,
+                            27.8
+                        ],
+                        [
+                            -18.5,
+                            27.86
+                        ],
+                        [
+                            -18.46,
+                            27.92
+                        ],
+                        [
+                            -18.42,
+                            27.98
+                        ],
+                        [
+                            -18.37,
+                            28.02
+                        ],
+                        [
+                            -18.3,
+                            28.06
+                        ],
+                        [
+                            -18.22,
+                            28.08
+                        ],
+                        [
+                            -18.16,
+                            28.11
+                        ],
+                        [
+                            -18.09,
+                            28.14
+                        ],
+                        [
+                            -17.99,
+                            28.16
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - El Hierro",
+                "geocode": "659501C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - El Hierro</b><br><b>\u00c0rea:</b> Costa - El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7). Al final de la tarde, mar combinado del norte o noroeste aumentando a 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.99,
+                            28.16
+                        ],
+                        [
+                            -17.75,
+                            28.14
+                        ],
+                        [
+                            -17.7,
+                            28.12
+                        ],
+                        [
+                            -17.64,
+                            28.0
+                        ],
+                        [
+                            -17.88,
+                            27.8
+                        ],
+                        [
+                            -17.92,
+                            27.85
+                        ],
+                        [
+                            -17.96,
+                            27.84
+                        ],
+                        [
+                            -17.99,
+                            27.8
+                        ],
+                        [
+                            -18.03,
+                            27.76
+                        ],
+                        [
+                            -18.07,
+                            27.75
+                        ],
+                        [
+                            -18.13,
+                            27.77
+                        ],
+                        [
+                            -18.15,
+                            27.75
+                        ],
+                        [
+                            -18.16,
+                            27.71
+                        ],
+                        [
+                            -18.05,
+                            27.69
+                        ],
+                        [
+                            -18.01,
+                            27.65
+                        ],
+                        [
+                            -17.97,
+                            27.65
+                        ],
+                        [
+                            -17.96,
+                            27.72
+                        ],
+                        [
+                            -17.93,
+                            27.73
+                        ],
+                        [
+                            -17.9,
+                            27.78
+                        ],
+                        [
+                            -17.879999,
+                            27.8
+                        ],
+                        [
+                            -17.639999,
+                            28.0
+                        ],
+                        [
+                            -17.57,
+                            27.88
+                        ],
+                        [
+                            -17.54,
+                            27.8
+                        ],
+                        [
+                            -17.55,
+                            27.74
+                        ],
+                        [
+                            -17.63,
+                            27.54
+                        ],
+                        [
+                            -17.66,
+                            27.48
+                        ],
+                        [
+                            -17.7,
+                            27.43
+                        ],
+                        [
+                            -17.75,
+                            27.38
+                        ],
+                        [
+                            -17.81,
+                            27.35
+                        ],
+                        [
+                            -17.87,
+                            27.33
+                        ],
+                        [
+                            -17.94,
+                            27.31
+                        ],
+                        [
+                            -18.01,
+                            27.31
+                        ],
+                        [
+                            -18.08,
+                            27.33
+                        ],
+                        [
+                            -18.14,
+                            27.35
+                        ],
+                        [
+                            -18.21,
+                            27.39
+                        ],
+                        [
+                            -18.29,
+                            27.41
+                        ],
+                        [
+                            -18.35,
+                            27.44
+                        ],
+                        [
+                            -18.41,
+                            27.47
+                        ],
+                        [
+                            -18.45,
+                            27.52
+                        ],
+                        [
+                            -18.49,
+                            27.57
+                        ],
+                        [
+                            -18.51,
+                            27.63
+                        ],
+                        [
+                            -18.52,
+                            27.69
+                        ],
+                        [
+                            -18.51,
+                            27.8
+                        ],
+                        [
+                            -18.5,
+                            27.86
+                        ],
+                        [
+                            -18.46,
+                            27.92
+                        ],
+                        [
+                            -18.42,
+                            27.98
+                        ],
+                        [
+                            -18.37,
+                            28.02
+                        ],
+                        [
+                            -18.3,
+                            28.06
+                        ],
+                        [
+                            -18.22,
+                            28.08
+                        ],
+                        [
+                            -18.16,
+                            28.11
+                        ],
+                        [
+                            -18.09,
+                            28.14
+                        ],
+                        [
+                            -17.99,
+                            28.16
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - El Hierro",
+                "geocode": "659501C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - El Hierro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - El Hierro</b><br><b>\u00c0rea:</b> Costa - El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7). Al final de la tarde, mar combinado del norte o noroeste aumentando a 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Este de La Palma",
+                "geocode": "659303",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Este de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Este de La Palma</b><br><b>\u00c0rea:</b> Este de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.7,
+                            28.12
+                        ],
+                        [
+                            -17.71,
+                            28.15
+                        ],
+                        [
+                            -17.51,
+                            28.4
+                        ],
+                        [
+                            -17.43,
+                            28.51
+                        ],
+                        [
+                            -17.37,
+                            28.53
+                        ],
+                        [
+                            -17.3,
+                            28.54
+                        ],
+                        [
+                            -17.21,
+                            28.54
+                        ],
+                        [
+                            -17.16,
+                            28.42
+                        ],
+                        [
+                            -17.12,
+                            28.36
+                        ],
+                        [
+                            -17.03,
+                            28.25
+                        ],
+                        [
+                            -17.00816091954023,
+                            28.210689655172416
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.119999,
+                            28.15
+                        ],
+                        [
+                            -17.008159,
+                            28.210689655172416
+                        ],
+                        [
+                            -16.98,
+                            28.16
+                        ],
+                        [
+                            -16.95,
+                            28.1
+                        ],
+                        [
+                            -16.94,
+                            28.0
+                        ],
+                        [
+                            -16.94,
+                            27.88
+                        ],
+                        [
+                            -16.97,
+                            27.78
+                        ],
+                        [
+                            -17.12,
+                            27.73
+                        ],
+                        [
+                            -17.19,
+                            27.71
+                        ],
+                        [
+                            -17.26,
+                            27.7
+                        ],
+                        [
+                            -17.33,
+                            27.7
+                        ],
+                        [
+                            -17.4,
+                            27.72
+                        ],
+                        [
+                            -17.46,
+                            27.75
+                        ],
+                        [
+                            -17.54,
+                            27.8
+                        ],
+                        [
+                            -17.57,
+                            27.88
+                        ],
+                        [
+                            -17.64,
+                            28.0
+                        ],
+                        [
+                            -17.7,
+                            28.12
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - La Gomera",
+                "geocode": "659401C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T14:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - La Gomera</b><br><b>\u00c0rea:</b> Costa - La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7).<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 15:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.7,
+                            28.12
+                        ],
+                        [
+                            -17.71,
+                            28.15
+                        ],
+                        [
+                            -17.51,
+                            28.4
+                        ],
+                        [
+                            -17.43,
+                            28.51
+                        ],
+                        [
+                            -17.37,
+                            28.53
+                        ],
+                        [
+                            -17.3,
+                            28.54
+                        ],
+                        [
+                            -17.21,
+                            28.54
+                        ],
+                        [
+                            -17.16,
+                            28.42
+                        ],
+                        [
+                            -17.12,
+                            28.36
+                        ],
+                        [
+                            -17.03,
+                            28.25
+                        ],
+                        [
+                            -17.00816091954023,
+                            28.210689655172416
+                        ],
+                        [
+                            -17.12,
+                            28.15
+                        ],
+                        [
+                            -17.17,
+                            28.18
+                        ],
+                        [
+                            -17.19,
+                            28.2
+                        ],
+                        [
+                            -17.24,
+                            28.2
+                        ],
+                        [
+                            -17.27,
+                            28.22
+                        ],
+                        [
+                            -17.31,
+                            28.2
+                        ],
+                        [
+                            -17.34,
+                            28.15
+                        ],
+                        [
+                            -17.35,
+                            28.1
+                        ],
+                        [
+                            -17.31,
+                            28.05
+                        ],
+                        [
+                            -17.24,
+                            28.02
+                        ],
+                        [
+                            -17.18,
+                            28.03
+                        ],
+                        [
+                            -17.1,
+                            28.09
+                        ],
+                        [
+                            -17.119999,
+                            28.15
+                        ],
+                        [
+                            -17.008159,
+                            28.210689655172416
+                        ],
+                        [
+                            -16.98,
+                            28.16
+                        ],
+                        [
+                            -16.95,
+                            28.1
+                        ],
+                        [
+                            -16.94,
+                            28.0
+                        ],
+                        [
+                            -16.94,
+                            27.88
+                        ],
+                        [
+                            -16.97,
+                            27.78
+                        ],
+                        [
+                            -17.12,
+                            27.73
+                        ],
+                        [
+                            -17.19,
+                            27.71
+                        ],
+                        [
+                            -17.26,
+                            27.7
+                        ],
+                        [
+                            -17.33,
+                            27.7
+                        ],
+                        [
+                            -17.4,
+                            27.72
+                        ],
+                        [
+                            -17.46,
+                            27.75
+                        ],
+                        [
+                            -17.54,
+                            27.8
+                        ],
+                        [
+                            -17.57,
+                            27.88
+                        ],
+                        [
+                            -17.64,
+                            28.0
+                        ],
+                        [
+                            -17.7,
+                            28.12
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - La Gomera",
+                "geocode": "659401C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T14:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - La Gomera",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - La Gomera</b><br><b>\u00c0rea:</b> Costa - La Gomera<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del norte de 50 a 61 km/h (fuerza 7).<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 15:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -7.03,
                             43.55
                         ],
@@ -2819,6 +5131,176 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - A Mari\u00f1a</b><br><b>\u00c0rea:</b> Costa - A Mari\u00f1a<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinado (principalmente mar de fondo) del noroeste de 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 06:00<br><b>Data de fi:</b> 12/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de La Palma</b><br><b>\u00c0rea:</b> Cumbres de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Cumbres de La Palma",
+                "geocode": "659302",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-11T10:57:10-00:00",
+                "onset": "2025-12-12T09:00:00-00:00",
+                "expires": "2025-12-12T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Cumbres de La Palma",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Cumbres de La Palma</b><br><b>\u00c0rea:</b> Cumbres de La Palma<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte afectando principalmente a vertientes oeste y este, as\u00ed como en zonas altas expuestas. No se descarta que se puedan superar localmente los 90 km/h, especialmente durante la tarde y noche.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 13/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -4505,6 +6987,552 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Aracena</b><br><b>\u00c0rea:</b> Aracena<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 06:00<br><b>Data de fi:</b> 12/12/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.52,
+                            43.31
+                        ],
+                        [
+                            -4.54,
+                            43.34
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.5,
+                            43.4
+                        ],
+                        [
+                            -4.41,
+                            43.4
+                        ],
+                        [
+                            -4.28,
+                            43.39
+                        ],
+                        [
+                            -4.22,
+                            43.4
+                        ],
+                        [
+                            -4.05,
+                            43.43
+                        ],
+                        [
+                            -4.05,
+                            43.44
+                        ],
+                        [
+                            -3.98,
+                            43.44
+                        ],
+                        [
+                            -3.94,
+                            43.47
+                        ],
+                        [
+                            -3.86,
+                            43.48
+                        ],
+                        [
+                            -3.81,
+                            43.5
+                        ],
+                        [
+                            -3.78,
+                            43.46
+                        ],
+                        [
+                            -3.83,
+                            43.44
+                        ],
+                        [
+                            -3.81,
+                            43.4
+                        ],
+                        [
+                            -3.81,
+                            43.41
+                        ],
+                        [
+                            -3.77,
+                            43.45
+                        ],
+                        [
+                            -3.69,
+                            43.48
+                        ],
+                        [
+                            -3.6,
+                            43.51
+                        ],
+                        [
+                            -3.55,
+                            43.51
+                        ],
+                        [
+                            -3.49,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.41
+                        ],
+                        [
+                            -3.33,
+                            43.42
+                        ],
+                        [
+                            -3.22,
+                            43.39
+                        ],
+                        [
+                            -3.19,
+                            43.36
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.31
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral c\u00e1ntabro",
+                "geocode": "663901",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T10:13:36+01:00",
+                "onset": "2025-12-12T10:00:00+01:00",
+                "expires": "2025-12-12T13:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro</b><br><b>\u00c0rea:</b> Litoral c\u00e1ntabro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 13:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.52,
+                            43.28
+                        ],
+                        [
+                            -4.52,
+                            43.31
+                        ],
+                        [
+                            -4.54,
+                            43.34
+                        ],
+                        [
+                            -4.51,
+                            43.39
+                        ],
+                        [
+                            -4.5,
+                            43.4
+                        ],
+                        [
+                            -4.41,
+                            43.4
+                        ],
+                        [
+                            -4.28,
+                            43.39
+                        ],
+                        [
+                            -4.22,
+                            43.4
+                        ],
+                        [
+                            -4.05,
+                            43.43
+                        ],
+                        [
+                            -4.05,
+                            43.44
+                        ],
+                        [
+                            -3.98,
+                            43.44
+                        ],
+                        [
+                            -3.94,
+                            43.47
+                        ],
+                        [
+                            -3.86,
+                            43.48
+                        ],
+                        [
+                            -3.81,
+                            43.5
+                        ],
+                        [
+                            -3.78,
+                            43.46
+                        ],
+                        [
+                            -3.83,
+                            43.44
+                        ],
+                        [
+                            -3.81,
+                            43.4
+                        ],
+                        [
+                            -3.81,
+                            43.41
+                        ],
+                        [
+                            -3.77,
+                            43.45
+                        ],
+                        [
+                            -3.69,
+                            43.48
+                        ],
+                        [
+                            -3.6,
+                            43.51
+                        ],
+                        [
+                            -3.55,
+                            43.51
+                        ],
+                        [
+                            -3.49,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.47
+                        ],
+                        [
+                            -3.43,
+                            43.41
+                        ],
+                        [
+                            -3.33,
+                            43.42
+                        ],
+                        [
+                            -3.22,
+                            43.39
+                        ],
+                        [
+                            -3.19,
+                            43.36
+                        ],
+                        [
+                            -3.15,
+                            43.35
+                        ],
+                        [
+                            -3.15,
+                            43.31
+                        ],
+                        [
+                            -3.22,
+                            43.29
+                        ],
+                        [
+                            -3.24,
+                            43.32
+                        ],
+                        [
+                            -3.28,
+                            43.34
+                        ],
+                        [
+                            -3.28,
+                            43.36
+                        ],
+                        [
+                            -3.33,
+                            43.39
+                        ],
+                        [
+                            -3.37,
+                            43.36
+                        ],
+                        [
+                            -3.44,
+                            43.36
+                        ],
+                        [
+                            -3.47,
+                            43.32
+                        ],
+                        [
+                            -3.51,
+                            43.3
+                        ],
+                        [
+                            -3.55,
+                            43.31
+                        ],
+                        [
+                            -3.57,
+                            43.34
+                        ],
+                        [
+                            -3.61,
+                            43.34
+                        ],
+                        [
+                            -3.65,
+                            43.3
+                        ],
+                        [
+                            -3.71,
+                            43.32
+                        ],
+                        [
+                            -3.77,
+                            43.29
+                        ],
+                        [
+                            -3.8,
+                            43.3
+                        ],
+                        [
+                            -3.85,
+                            43.34
+                        ],
+                        [
+                            -3.93,
+                            43.3
+                        ],
+                        [
+                            -3.95,
+                            43.33
+                        ],
+                        [
+                            -4.0,
+                            43.33
+                        ],
+                        [
+                            -4.02,
+                            43.31
+                        ],
+                        [
+                            -4.11,
+                            43.29
+                        ],
+                        [
+                            -4.14,
+                            43.33
+                        ],
+                        [
+                            -4.2,
+                            43.32
+                        ],
+                        [
+                            -4.24,
+                            43.28
+                        ],
+                        [
+                            -4.32,
+                            43.27
+                        ],
+                        [
+                            -4.39,
+                            43.28
+                        ],
+                        [
+                            -4.41,
+                            43.3
+                        ],
+                        [
+                            -4.52,
+                            43.28
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral c\u00e1ntabro",
+                "geocode": "663901",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T10:13:36+01:00",
+                "onset": "2025-12-12T10:00:00+01:00",
+                "expires": "2025-12-12T13:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral c\u00e1ntabro</b><br><b>\u00c0rea:</b> Litoral c\u00e1ntabro<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 10:00<br><b>Data de fi:</b> 12/12/2025 13:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
