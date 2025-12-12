@@ -16964,6 +16964,256 @@
                 "coordinates": [
                     [
                         [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.71,
+                            28.09
+                        ],
+                        [
+                            -15.7,
+                            28.16
+                        ],
+                        [
+                            -15.63,
+                            28.17
+                        ],
+                        [
+                            -15.61,
+                            28.15
+                        ],
+                        [
+                            -15.54,
+                            28.14
+                        ],
+                        [
+                            -15.52,
+                            28.15
+                        ],
+                        [
+                            -15.48,
+                            28.13
+                        ],
+                        [
+                            -15.43,
+                            28.13
+                        ],
+                        [
+                            -15.41,
+                            28.1
+                        ],
+                        [
+                            -15.42,
+                            28.06
+                        ],
+                        [
+                            -15.41,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Gran Canaria",
+                "geocode": "659001",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T16:42:48-00:00",
+                "onset": "2025-12-12T19:00:00-00:00",
+                "expires": "2025-12-13T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Norte de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Norte de Gran Canaria</b><br><b>\u00c0rea:</b> Norte de Gran Canaria<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Rachas de componente norte que podr\u00edan alcanzar localmente los 90 km/h, afectando principalmente a zonas altas y vertientes expuestas. En Gran Canaria tambi\u00e9n afectando a zonas bajas del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 20:00<br><b>Data de fi:</b> 14/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.71,
+                            28.09
+                        ],
+                        [
+                            -15.7,
+                            28.16
+                        ],
+                        [
+                            -15.63,
+                            28.17
+                        ],
+                        [
+                            -15.61,
+                            28.15
+                        ],
+                        [
+                            -15.54,
+                            28.14
+                        ],
+                        [
+                            -15.52,
+                            28.15
+                        ],
+                        [
+                            -15.48,
+                            28.13
+                        ],
+                        [
+                            -15.43,
+                            28.13
+                        ],
+                        [
+                            -15.41,
+                            28.1
+                        ],
+                        [
+                            -15.42,
+                            28.06
+                        ],
+                        [
+                            -15.41,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte de Gran Canaria",
+                "geocode": "659001",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T16:42:48-00:00",
+                "onset": "2025-12-12T19:00:00-00:00",
+                "expires": "2025-12-13T23:59:59-00:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Norte de Gran Canaria",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Norte de Gran Canaria</b><br><b>\u00c0rea:</b> Norte de Gran Canaria<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Rachas de componente norte que podr\u00edan alcanzar localmente los 90 km/h, afectando principalmente a zonas altas y vertientes expuestas. En Gran Canaria tambi\u00e9n afectando a zonas bajas del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 20:00<br><b>Data de fi:</b> 14/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -16.18,
                             27.9
                         ],
