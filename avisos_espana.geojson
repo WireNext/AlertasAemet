@@ -1956,328 +1956,6 @@
                 "coordinates": [
                     [
                         [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T11:46:59+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Estrecho</b><br><b>\u00c0rea:</b> Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> <br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T11:46:59+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Estrecho</b><br><b>\u00c0rea:</b> Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> <br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -6.86,
                             36.62
                         ],
@@ -2655,120 +2333,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</b><br><b>\u00c0rea:</b> Costa - Litoral gaditano<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del Este de 50 a 61 km/h (fuerza 7) mar adentro al sur de Trafalgar.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 11:00<br><b>Data de fi:</b> 14/12/2025 07:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Ceuta",
-                "geocode": "785101",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Ceuta",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Ceuta</b><br><b>\u00c0rea:</b> Ceuta<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Ceuta",
-                "geocode": "785101",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Ceuta",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Ceuta</b><br><b>\u00c0rea:</b> Ceuta<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -8240,328 +7804,6 @@
                 "coordinates": [
                     [
                         [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Estrecho</b><br><b>\u00c0rea:</b> Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Estrecho</b><br><b>\u00c0rea:</b> Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -15.61,
                             28.02
                         ],
@@ -9631,424 +8873,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - El Hierro</b><br><b>\u00c0rea:</b> Costa - El Hierro<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Principalmente en los canales entre islas, viento del norte o noroeste de 62 a 74 km/h (fuerza 8). Mar combinado del norte o noroeste de 5 a 6 m, temporalmente 6 o 7 m en lLa Palma hasta la noche.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 11:00<br><b>Data de fi:</b> 14/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.34,
-                            36.8
-                        ],
-                        [
-                            -6.35,
-                            36.86
-                        ],
-                        [
-                            -6.33,
-                            36.9
-                        ],
-                        [
-                            -6.28,
-                            36.91
-                        ],
-                        [
-                            -6.25,
-                            36.89
-                        ],
-                        [
-                            -6.19,
-                            36.89
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.92,
-                            36.19
-                        ],
-                        [
-                            -5.98,
-                            36.18
-                        ],
-                        [
-                            -6.05,
-                            36.2
-                        ],
-                        [
-                            -6.11,
-                            36.29
-                        ],
-                        [
-                            -6.14,
-                            36.3
-                        ],
-                        [
-                            -6.18,
-                            36.37
-                        ],
-                        [
-                            -6.22,
-                            36.39
-                        ],
-                        [
-                            -6.25,
-                            36.45
-                        ],
-                        [
-                            -6.19,
-                            36.5
-                        ],
-                        [
-                            -6.18,
-                            36.51
-                        ],
-                        [
-                            -6.24,
-                            36.51
-                        ],
-                        [
-                            -6.22,
-                            36.57
-                        ],
-                        [
-                            -6.27,
-                            36.58
-                        ],
-                        [
-                            -6.31,
-                            36.62
-                        ],
-                        [
-                            -6.39,
-                            36.63
-                        ],
-                        [
-                            -6.43,
-                            36.71
-                        ],
-                        [
-                            -6.44,
-                            36.74
-                        ],
-                        [
-                            -6.34,
-                            36.8
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Litoral gaditano",
-                "geocode": "611103",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Litoral gaditano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral gaditano</b><br><b>\u00c0rea:</b> Litoral gaditano<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.34,
-                            36.8
-                        ],
-                        [
-                            -6.35,
-                            36.86
-                        ],
-                        [
-                            -6.33,
-                            36.9
-                        ],
-                        [
-                            -6.28,
-                            36.91
-                        ],
-                        [
-                            -6.25,
-                            36.89
-                        ],
-                        [
-                            -6.19,
-                            36.89
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.92,
-                            36.19
-                        ],
-                        [
-                            -5.98,
-                            36.18
-                        ],
-                        [
-                            -6.05,
-                            36.2
-                        ],
-                        [
-                            -6.11,
-                            36.29
-                        ],
-                        [
-                            -6.14,
-                            36.3
-                        ],
-                        [
-                            -6.18,
-                            36.37
-                        ],
-                        [
-                            -6.22,
-                            36.39
-                        ],
-                        [
-                            -6.25,
-                            36.45
-                        ],
-                        [
-                            -6.19,
-                            36.5
-                        ],
-                        [
-                            -6.18,
-                            36.51
-                        ],
-                        [
-                            -6.24,
-                            36.51
-                        ],
-                        [
-                            -6.22,
-                            36.57
-                        ],
-                        [
-                            -6.27,
-                            36.58
-                        ],
-                        [
-                            -6.31,
-                            36.62
-                        ],
-                        [
-                            -6.39,
-                            36.63
-                        ],
-                        [
-                            -6.43,
-                            36.71
-                        ],
-                        [
-                            -6.44,
-                            36.74
-                        ],
-                        [
-                            -6.34,
-                            36.8
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Litoral gaditano",
-                "geocode": "611103",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Litoral gaditano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral gaditano</b><br><b>\u00c0rea:</b> Litoral gaditano<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -11546,6 +10370,432 @@
                 "coordinates": [
                     [
                         [
+                            -3.13,
+                            36.75
+                        ],
+                        [
+                            -3.14,
+                            36.79
+                        ],
+                        [
+                            -3.03,
+                            36.84
+                        ],
+                        [
+                            -3.07,
+                            36.92
+                        ],
+                        [
+                            -3.03,
+                            36.93
+                        ],
+                        [
+                            -2.98,
+                            36.99
+                        ],
+                        [
+                            -3.01,
+                            37.05
+                        ],
+                        [
+                            -3.03,
+                            37.11
+                        ],
+                        [
+                            -3.0,
+                            37.1
+                        ],
+                        [
+                            -2.95,
+                            37.1
+                        ],
+                        [
+                            -2.88,
+                            37.09
+                        ],
+                        [
+                            -2.83,
+                            37.08
+                        ],
+                        [
+                            -2.77,
+                            37.09
+                        ],
+                        [
+                            -2.71,
+                            37.08
+                        ],
+                        [
+                            -2.66,
+                            37.08
+                        ],
+                        [
+                            -2.6,
+                            37.11
+                        ],
+                        [
+                            -2.53,
+                            37.05
+                        ],
+                        [
+                            -2.47,
+                            37.05
+                        ],
+                        [
+                            -2.44,
+                            37.01
+                        ],
+                        [
+                            -2.4,
+                            36.99
+                        ],
+                        [
+                            -2.31,
+                            37.0
+                        ],
+                        [
+                            -2.3,
+                            36.99
+                        ],
+                        [
+                            -2.3,
+                            36.96
+                        ],
+                        [
+                            -2.2,
+                            36.86
+                        ],
+                        [
+                            -2.23,
+                            36.8
+                        ],
+                        [
+                            -2.2,
+                            36.73
+                        ],
+                        [
+                            -2.23,
+                            36.77
+                        ],
+                        [
+                            -2.29,
+                            36.82
+                        ],
+                        [
+                            -2.37,
+                            36.84
+                        ],
+                        [
+                            -2.43,
+                            36.81
+                        ],
+                        [
+                            -2.47,
+                            36.84
+                        ],
+                        [
+                            -2.56,
+                            36.82
+                        ],
+                        [
+                            -2.6,
+                            36.78
+                        ],
+                        [
+                            -2.62,
+                            36.73
+                        ],
+                        [
+                            -2.64,
+                            36.7
+                        ],
+                        [
+                            -2.7,
+                            36.68
+                        ],
+                        [
+                            -2.77,
+                            36.68
+                        ],
+                        [
+                            -2.82,
+                            36.71
+                        ],
+                        [
+                            -2.86,
+                            36.7
+                        ],
+                        [
+                            -2.92,
+                            36.75
+                        ],
+                        [
+                            -2.98,
+                            36.74
+                        ],
+                        [
+                            -3.02,
+                            36.75
+                        ],
+                        [
+                            -3.11,
+                            36.75
+                        ],
+                        [
+                            -3.13,
+                            36.75
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Poniente y Almer\u00eda Capital",
+                "geocode": "610403",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T11:44:19+01:00",
+                "onset": "2025-12-13T12:00:00+01:00",
+                "expires": "2025-12-13T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Poniente y Almer\u00eda Capital",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Poniente y Almer\u00eda Capital</b><br><b>\u00c0rea:</b> Poniente y Almer\u00eda Capital<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de componente este.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 12:00<br><b>Data de fi:</b> 13/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.13,
+                            36.75
+                        ],
+                        [
+                            -3.14,
+                            36.79
+                        ],
+                        [
+                            -3.03,
+                            36.84
+                        ],
+                        [
+                            -3.07,
+                            36.92
+                        ],
+                        [
+                            -3.03,
+                            36.93
+                        ],
+                        [
+                            -2.98,
+                            36.99
+                        ],
+                        [
+                            -3.01,
+                            37.05
+                        ],
+                        [
+                            -3.03,
+                            37.11
+                        ],
+                        [
+                            -3.0,
+                            37.1
+                        ],
+                        [
+                            -2.95,
+                            37.1
+                        ],
+                        [
+                            -2.88,
+                            37.09
+                        ],
+                        [
+                            -2.83,
+                            37.08
+                        ],
+                        [
+                            -2.77,
+                            37.09
+                        ],
+                        [
+                            -2.71,
+                            37.08
+                        ],
+                        [
+                            -2.66,
+                            37.08
+                        ],
+                        [
+                            -2.6,
+                            37.11
+                        ],
+                        [
+                            -2.53,
+                            37.05
+                        ],
+                        [
+                            -2.47,
+                            37.05
+                        ],
+                        [
+                            -2.44,
+                            37.01
+                        ],
+                        [
+                            -2.4,
+                            36.99
+                        ],
+                        [
+                            -2.31,
+                            37.0
+                        ],
+                        [
+                            -2.3,
+                            36.99
+                        ],
+                        [
+                            -2.3,
+                            36.96
+                        ],
+                        [
+                            -2.2,
+                            36.86
+                        ],
+                        [
+                            -2.23,
+                            36.8
+                        ],
+                        [
+                            -2.2,
+                            36.73
+                        ],
+                        [
+                            -2.23,
+                            36.77
+                        ],
+                        [
+                            -2.29,
+                            36.82
+                        ],
+                        [
+                            -2.37,
+                            36.84
+                        ],
+                        [
+                            -2.43,
+                            36.81
+                        ],
+                        [
+                            -2.47,
+                            36.84
+                        ],
+                        [
+                            -2.56,
+                            36.82
+                        ],
+                        [
+                            -2.6,
+                            36.78
+                        ],
+                        [
+                            -2.62,
+                            36.73
+                        ],
+                        [
+                            -2.64,
+                            36.7
+                        ],
+                        [
+                            -2.7,
+                            36.68
+                        ],
+                        [
+                            -2.77,
+                            36.68
+                        ],
+                        [
+                            -2.82,
+                            36.71
+                        ],
+                        [
+                            -2.86,
+                            36.7
+                        ],
+                        [
+                            -2.92,
+                            36.75
+                        ],
+                        [
+                            -2.98,
+                            36.74
+                        ],
+                        [
+                            -3.02,
+                            36.75
+                        ],
+                        [
+                            -3.11,
+                            36.75
+                        ],
+                        [
+                            -3.13,
+                            36.75
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Poniente y Almer\u00eda Capital",
+                "geocode": "610403",
+                "category": "Met",
+                "event": "Aviso de vientos de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-12T11:44:19+01:00",
+                "onset": "2025-12-13T12:00:00+01:00",
+                "expires": "2025-12-13T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de vientos de nivel amarillo. Poniente y Almer\u00eda Capital",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "VI;Vientos",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de vientos de nivel amarillo. Poniente y Almer\u00eda Capital</b><br><b>\u00c0rea:</b> Poniente y Almer\u00eda Capital<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de componente este.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 12:00<br><b>Data de fi:</b> 13/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -17.85,
                             28.83
                         ],
@@ -12423,120 +11673,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de vientos de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><br><b>\u00c0rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de vientos de nivel amarillo \ud83c\udf2c\ufe0f<br><b>Descripci\u00f3:</b> Rachas m\u00e1ximas: 80 km/h. Rachas de componente norte que podr\u00edan alcanzar localmente los 90 km/h, afectando principalmente a zonas altas y vertientes expuestas. En Gran Canaria tambi\u00e9n afectando a zonas bajas del norte.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 01:00<br><b>Data de fi:</b> 14/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Ceuta",
-                "geocode": "785101",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Ceuta",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Ceuta</b><br><b>\u00c0rea:</b> Ceuta<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Ceuta",
-                "geocode": "785101",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Ceuta",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Ceuta</b><br><b>\u00c0rea:</b> Ceuta<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -16150,448 +15286,6 @@
                 "coordinates": [
                     [
                         [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.1,
-                            36.86
-                        ],
-                        [
-                            -5.97,
-                            36.84
-                        ],
-                        [
-                            -5.89,
-                            36.85
-                        ],
-                        [
-                            -5.88,
-                            36.9
-                        ],
-                        [
-                            -5.8,
-                            36.93
-                        ],
-                        [
-                            -5.72,
-                            36.92
-                        ],
-                        [
-                            -5.67,
-                            36.98
-                        ],
-                        [
-                            -5.58,
-                            36.92
-                        ],
-                        [
-                            -5.53,
-                            36.89
-                        ],
-                        [
-                            -5.53,
-                            36.84
-                        ],
-                        [
-                            -5.58,
-                            36.79
-                        ],
-                        [
-                            -5.58,
-                            36.76
-                        ],
-                        [
-                            -5.53,
-                            36.72
-                        ],
-                        [
-                            -5.54,
-                            36.67
-                        ],
-                        [
-                            -5.45,
-                            36.62
-                        ],
-                        [
-                            -5.46,
-                            36.59
-                        ],
-                        [
-                            -5.52,
-                            36.53
-                        ],
-                        [
-                            -5.57,
-                            36.55
-                        ],
-                        [
-                            -5.61,
-                            36.54
-                        ],
-                        [
-                            -5.6,
-                            36.51
-                        ],
-                        [
-                            -5.56,
-                            36.5
-                        ],
-                        [
-                            -5.57,
-                            36.44
-                        ],
-                        [
-                            -5.59,
-                            36.39
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Campi\u00f1a gaditana",
-                "geocode": "611102",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana</b><br><b>\u00c0rea:</b> Campi\u00f1a gaditana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Precipitaciones m\u00e1s intensas al sur de la comarca.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.1,
-                            36.86
-                        ],
-                        [
-                            -5.97,
-                            36.84
-                        ],
-                        [
-                            -5.89,
-                            36.85
-                        ],
-                        [
-                            -5.88,
-                            36.9
-                        ],
-                        [
-                            -5.8,
-                            36.93
-                        ],
-                        [
-                            -5.72,
-                            36.92
-                        ],
-                        [
-                            -5.67,
-                            36.98
-                        ],
-                        [
-                            -5.58,
-                            36.92
-                        ],
-                        [
-                            -5.53,
-                            36.89
-                        ],
-                        [
-                            -5.53,
-                            36.84
-                        ],
-                        [
-                            -5.58,
-                            36.79
-                        ],
-                        [
-                            -5.58,
-                            36.76
-                        ],
-                        [
-                            -5.53,
-                            36.72
-                        ],
-                        [
-                            -5.54,
-                            36.67
-                        ],
-                        [
-                            -5.45,
-                            36.62
-                        ],
-                        [
-                            -5.46,
-                            36.59
-                        ],
-                        [
-                            -5.52,
-                            36.53
-                        ],
-                        [
-                            -5.57,
-                            36.55
-                        ],
-                        [
-                            -5.61,
-                            36.54
-                        ],
-                        [
-                            -5.6,
-                            36.51
-                        ],
-                        [
-                            -5.56,
-                            36.5
-                        ],
-                        [
-                            -5.57,
-                            36.44
-                        ],
-                        [
-                            -5.59,
-                            36.39
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Campi\u00f1a gaditana",
-                "geocode": "611102",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana</b><br><b>\u00c0rea:</b> Campi\u00f1a gaditana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Precipitaciones m\u00e1s intensas al sur de la comarca.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -15.74,
                             28.05
                         ],
@@ -18486,424 +17180,6 @@
                 "coordinates": [
                     [
                         [
-                            -6.34,
-                            36.8
-                        ],
-                        [
-                            -6.35,
-                            36.86
-                        ],
-                        [
-                            -6.33,
-                            36.9
-                        ],
-                        [
-                            -6.28,
-                            36.91
-                        ],
-                        [
-                            -6.25,
-                            36.89
-                        ],
-                        [
-                            -6.19,
-                            36.89
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.92,
-                            36.19
-                        ],
-                        [
-                            -5.98,
-                            36.18
-                        ],
-                        [
-                            -6.05,
-                            36.2
-                        ],
-                        [
-                            -6.11,
-                            36.29
-                        ],
-                        [
-                            -6.14,
-                            36.3
-                        ],
-                        [
-                            -6.18,
-                            36.37
-                        ],
-                        [
-                            -6.22,
-                            36.39
-                        ],
-                        [
-                            -6.25,
-                            36.45
-                        ],
-                        [
-                            -6.19,
-                            36.5
-                        ],
-                        [
-                            -6.18,
-                            36.51
-                        ],
-                        [
-                            -6.24,
-                            36.51
-                        ],
-                        [
-                            -6.22,
-                            36.57
-                        ],
-                        [
-                            -6.27,
-                            36.58
-                        ],
-                        [
-                            -6.31,
-                            36.62
-                        ],
-                        [
-                            -6.39,
-                            36.63
-                        ],
-                        [
-                            -6.43,
-                            36.71
-                        ],
-                        [
-                            -6.44,
-                            36.74
-                        ],
-                        [
-                            -6.34,
-                            36.8
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Litoral gaditano",
-                "geocode": "611103",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-12T11:46:59+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Litoral gaditano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Litoral gaditano</b><br><b>\u00c0rea:</b> Litoral gaditano<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.34,
-                            36.8
-                        ],
-                        [
-                            -6.35,
-                            36.86
-                        ],
-                        [
-                            -6.33,
-                            36.9
-                        ],
-                        [
-                            -6.28,
-                            36.91
-                        ],
-                        [
-                            -6.25,
-                            36.89
-                        ],
-                        [
-                            -6.19,
-                            36.89
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.92,
-                            36.19
-                        ],
-                        [
-                            -5.98,
-                            36.18
-                        ],
-                        [
-                            -6.05,
-                            36.2
-                        ],
-                        [
-                            -6.11,
-                            36.29
-                        ],
-                        [
-                            -6.14,
-                            36.3
-                        ],
-                        [
-                            -6.18,
-                            36.37
-                        ],
-                        [
-                            -6.22,
-                            36.39
-                        ],
-                        [
-                            -6.25,
-                            36.45
-                        ],
-                        [
-                            -6.19,
-                            36.5
-                        ],
-                        [
-                            -6.18,
-                            36.51
-                        ],
-                        [
-                            -6.24,
-                            36.51
-                        ],
-                        [
-                            -6.22,
-                            36.57
-                        ],
-                        [
-                            -6.27,
-                            36.58
-                        ],
-                        [
-                            -6.31,
-                            36.62
-                        ],
-                        [
-                            -6.39,
-                            36.63
-                        ],
-                        [
-                            -6.43,
-                            36.71
-                        ],
-                        [
-                            -6.44,
-                            36.74
-                        ],
-                        [
-                            -6.34,
-                            36.8
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Litoral gaditano",
-                "geocode": "611103",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-12T11:46:59+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Litoral gaditano",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Litoral gaditano</b><br><b>\u00c0rea:</b> Litoral gaditano<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -17.34,
                             28.15
                         ],
@@ -19435,448 +17711,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Fuerteventura</b><br><b>\u00c0rea:</b> Fuerteventura<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. No se descartan precipitaciones muy fuertes durante la segunda mitad del d\u00eda.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 11:00<br><b>Data de fi:</b> 14/12/2025 00:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.1,
-                            36.86
-                        ],
-                        [
-                            -5.97,
-                            36.84
-                        ],
-                        [
-                            -5.89,
-                            36.85
-                        ],
-                        [
-                            -5.88,
-                            36.9
-                        ],
-                        [
-                            -5.8,
-                            36.93
-                        ],
-                        [
-                            -5.72,
-                            36.92
-                        ],
-                        [
-                            -5.67,
-                            36.98
-                        ],
-                        [
-                            -5.58,
-                            36.92
-                        ],
-                        [
-                            -5.53,
-                            36.89
-                        ],
-                        [
-                            -5.53,
-                            36.84
-                        ],
-                        [
-                            -5.58,
-                            36.79
-                        ],
-                        [
-                            -5.58,
-                            36.76
-                        ],
-                        [
-                            -5.53,
-                            36.72
-                        ],
-                        [
-                            -5.54,
-                            36.67
-                        ],
-                        [
-                            -5.45,
-                            36.62
-                        ],
-                        [
-                            -5.46,
-                            36.59
-                        ],
-                        [
-                            -5.52,
-                            36.53
-                        ],
-                        [
-                            -5.57,
-                            36.55
-                        ],
-                        [
-                            -5.61,
-                            36.54
-                        ],
-                        [
-                            -5.6,
-                            36.51
-                        ],
-                        [
-                            -5.56,
-                            36.5
-                        ],
-                        [
-                            -5.57,
-                            36.44
-                        ],
-                        [
-                            -5.59,
-                            36.39
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Campi\u00f1a gaditana",
-                "geocode": "611102",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana</b><br><b>\u00c0rea:</b> Campi\u00f1a gaditana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm. Precipitaciones m\u00e1s intensas al sur de la comarca.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.1,
-                            36.86
-                        ],
-                        [
-                            -5.97,
-                            36.84
-                        ],
-                        [
-                            -5.89,
-                            36.85
-                        ],
-                        [
-                            -5.88,
-                            36.9
-                        ],
-                        [
-                            -5.8,
-                            36.93
-                        ],
-                        [
-                            -5.72,
-                            36.92
-                        ],
-                        [
-                            -5.67,
-                            36.98
-                        ],
-                        [
-                            -5.58,
-                            36.92
-                        ],
-                        [
-                            -5.53,
-                            36.89
-                        ],
-                        [
-                            -5.53,
-                            36.84
-                        ],
-                        [
-                            -5.58,
-                            36.79
-                        ],
-                        [
-                            -5.58,
-                            36.76
-                        ],
-                        [
-                            -5.53,
-                            36.72
-                        ],
-                        [
-                            -5.54,
-                            36.67
-                        ],
-                        [
-                            -5.45,
-                            36.62
-                        ],
-                        [
-                            -5.46,
-                            36.59
-                        ],
-                        [
-                            -5.52,
-                            36.53
-                        ],
-                        [
-                            -5.57,
-                            36.55
-                        ],
-                        [
-                            -5.61,
-                            36.54
-                        ],
-                        [
-                            -5.6,
-                            36.51
-                        ],
-                        [
-                            -5.56,
-                            36.5
-                        ],
-                        [
-                            -5.57,
-                            36.44
-                        ],
-                        [
-                            -5.59,
-                            36.39
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Campi\u00f1a gaditana",
-                "geocode": "611102",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Campi\u00f1a gaditana</b><br><b>\u00c0rea:</b> Campi\u00f1a gaditana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 40 mm. Precipitaciones m\u00e1s intensas al sur de la comarca.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -24975,442 +22809,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. \u00c1rea metropolitana de Tenerife</b><br><b>\u00c0rea:</b> \u00c1rea metropolitana de Tenerife<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. No se descartan en vertientes este.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 13/12/2025 11:00<br><b>Data de fi:</b> 13/12/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Ceuta",
-                "geocode": "785101",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T11:46:59+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Ceuta",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Ceuta</b><br><b>\u00c0rea:</b> Ceuta<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> <br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Ceuta",
-                "geocode": "785101",
-                "category": "Met",
-                "event": "Aviso de tormentas de nivel amarillo",
-                "urgency": "Future",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-12T11:46:59+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de tormentas de nivel amarillo. Ceuta",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "TO;Tormentas",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Ceuta</b><br><b>\u00c0rea:</b> Ceuta<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3:</b> <br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Estrecho</b><br><b>\u00c0rea:</b> Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Estrecho",
-                "geocode": "611104",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-12T09:02:41+01:00",
-                "onset": "2025-12-12T18:00:00+01:00",
-                "expires": "2025-12-13T11:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel naranja. Estrecho",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel naranja. Estrecho</b><br><b>\u00c0rea:</b> Estrecho<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 12/12/2025 18:00<br><b>Data de fi:</b> 13/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
