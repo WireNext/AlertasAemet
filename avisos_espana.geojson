@@ -15842,6 +15842,280 @@
                 "coordinates": [
                     [
                         [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.28,
+                            40.63
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.39,
+                            40.61
+                        ],
+                        [
+                            0.43,
+                            40.58
+                        ],
+                        [
+                            0.44,
+                            40.55
+                        ],
+                        [
+                            0.52,
+                            40.52
+                        ],
+                        [
+                            0.49,
+                            40.48
+                        ],
+                        [
+                            0.42,
+                            40.4
+                        ],
+                        [
+                            0.39,
+                            40.34
+                        ],
+                        [
+                            0.32,
+                            40.27
+                        ],
+                        [
+                            0.3,
+                            40.32
+                        ],
+                        [
+                            0.19,
+                            40.39
+                        ],
+                        [
+                            0.21,
+                            40.42
+                        ],
+                        [
+                            0.11,
+                            40.46
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral norte de Castell\u00f3n",
+                "geocode": "771202",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-15T02:12:45+01:00",
+                "onset": "2025-12-15T02:00:00+01:00",
+                "expires": "2025-12-15T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</b><br><b>\u00c0rea:</b> Litoral norte de Castell\u00f3n<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. El aviso proviene del d\u00eda anterior.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 02:00<br><b>Data de fi:</b> 15/12/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.28,
+                            40.63
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.39,
+                            40.61
+                        ],
+                        [
+                            0.43,
+                            40.58
+                        ],
+                        [
+                            0.44,
+                            40.55
+                        ],
+                        [
+                            0.52,
+                            40.52
+                        ],
+                        [
+                            0.49,
+                            40.48
+                        ],
+                        [
+                            0.42,
+                            40.4
+                        ],
+                        [
+                            0.39,
+                            40.34
+                        ],
+                        [
+                            0.32,
+                            40.27
+                        ],
+                        [
+                            0.3,
+                            40.32
+                        ],
+                        [
+                            0.19,
+                            40.39
+                        ],
+                        [
+                            0.21,
+                            40.42
+                        ],
+                        [
+                            0.11,
+                            40.46
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Litoral norte de Castell\u00f3n",
+                "geocode": "771202",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-15T02:12:45+01:00",
+                "onset": "2025-12-15T02:00:00+01:00",
+                "expires": "2025-12-15T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</b><br><b>\u00c0rea:</b> Litoral norte de Castell\u00f3n<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. El aviso proviene del d\u00eda anterior.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 02:00<br><b>Data de fi:</b> 15/12/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.42,
                             41.68
                         ],
@@ -28834,28 +29108,28 @@
                 "areaDesc": "Vega del Segura",
                 "geocode": "733003",
                 "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
+                "event": "Aviso de lluvias de nivel naranja",
                 "urgency": "Immediate",
-                "severity": "Moderate",
+                "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-12-14T11:33:06+01:00",
-                "onset": "2025-12-14T11:00:00+01:00",
+                "effective": "2025-12-15T02:02:53+01:00",
+                "onset": "2025-12-15T02:00:00+01:00",
                 "expires": "2025-12-15T05:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
+                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
+                "parameter": "naranja",
                 "_umap_options": {
                     "color": "#FFFFFF",
                     "weight": 1,
                     "opacity": 1,
-                    "fillColor": "#f3f702",
+                    "fillColor": "#FF7F00",
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><br><b>\u00c0rea:</b> Vega del Segura<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 14/12/2025 11:00<br><b>Data de fi:</b> 15/12/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><br><b>\u00c0rea:</b> Vega del Segura<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 02:00<br><b>Data de fi:</b> 15/12/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -29035,28 +29309,28 @@
                 "areaDesc": "Vega del Segura",
                 "geocode": "733003",
                 "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
+                "event": "Aviso de lluvias de nivel naranja",
                 "urgency": "Immediate",
-                "severity": "Moderate",
+                "severity": "Severe",
                 "certainty": "Likely",
-                "effective": "2025-12-14T11:33:06+01:00",
-                "onset": "2025-12-14T11:00:00+01:00",
+                "effective": "2025-12-15T02:02:53+01:00",
+                "onset": "2025-12-15T02:00:00+01:00",
                 "expires": "2025-12-15T05:59:59+01:00",
                 "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Vega del Segura",
+                "headline": "Aviso de lluvias de nivel naranja. Vega del Segura",
                 "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
                 "contact": "AEMET",
                 "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
+                "parameter": "naranja",
                 "_umap_options": {
                     "color": "#FFFFFF",
                     "weight": 1,
                     "opacity": 1,
-                    "fillColor": "#f3f702",
+                    "fillColor": "#FF7F00",
                     "fillOpacity": 1,
                     "interactive": true
                 },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Vega del Segura</b><br><b>\u00c0rea:</b> Vega del Segura<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 14/12/2025 11:00<br><b>Data de fi:</b> 15/12/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+                "popup_html": "<b>Aviso de lluvias de nivel naranja. Vega del Segura</b><br><b>\u00c0rea:</b> Vega del Segura<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de lluvias de nivel naranja \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 02:00<br><b>Data de fi:</b> 15/12/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -40271,6 +40545,424 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Meseta de Valladolid</b><br><b>\u00c0rea:</b> Meseta de Valladolid<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3:</b> Visibilidad: 100 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 00:00<br><b>Data de fi:</b> 15/12/2025 11:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.24,
+                            40.72
+                        ],
+                        [
+                            -0.2,
+                            40.78
+                        ],
+                        [
+                            -0.14,
+                            40.79
+                        ],
+                        [
+                            -0.13,
+                            40.75
+                        ],
+                        [
+                            -0.06,
+                            40.73
+                        ],
+                        [
+                            0.02,
+                            40.73
+                        ],
+                        [
+                            0.04,
+                            40.69
+                        ],
+                        [
+                            0.11,
+                            40.73
+                        ],
+                        [
+                            0.17,
+                            40.73
+                        ],
+                        [
+                            0.22,
+                            40.73
+                        ],
+                        [
+                            0.24,
+                            40.7
+                        ],
+                        [
+                            0.29,
+                            40.69
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.02,
+                            40.44
+                        ],
+                        [
+                            -0.02,
+                            40.4
+                        ],
+                        [
+                            -0.03,
+                            40.36
+                        ],
+                        [
+                            -0.08,
+                            40.3
+                        ],
+                        [
+                            -0.1,
+                            40.31
+                        ],
+                        [
+                            -0.09,
+                            40.35
+                        ],
+                        [
+                            -0.18,
+                            40.36
+                        ],
+                        [
+                            -0.25,
+                            40.38
+                        ],
+                        [
+                            -0.28,
+                            40.37
+                        ],
+                        [
+                            -0.28,
+                            40.39
+                        ],
+                        [
+                            -0.35,
+                            40.44
+                        ],
+                        [
+                            -0.33,
+                            40.46
+                        ],
+                        [
+                            -0.27,
+                            40.48
+                        ],
+                        [
+                            -0.3,
+                            40.52
+                        ],
+                        [
+                            -0.29,
+                            40.54
+                        ],
+                        [
+                            -0.32,
+                            40.6
+                        ],
+                        [
+                            -0.38,
+                            40.63
+                        ],
+                        [
+                            -0.35,
+                            40.68
+                        ],
+                        [
+                            -0.32,
+                            40.66
+                        ],
+                        [
+                            -0.25,
+                            40.69
+                        ],
+                        [
+                            -0.24,
+                            40.72
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Interior norte de Castell\u00f3n",
+                "geocode": "771201",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-15T02:18:30+01:00",
+                "onset": "2025-12-15T02:00:00+01:00",
+                "expires": "2025-12-15T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Interior norte de Castell\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior norte de Castell\u00f3n</b><br><b>\u00c0rea:</b> Interior norte de Castell\u00f3n<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. El aviso proviene del d\u00eda anterior.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 02:00<br><b>Data de fi:</b> 15/12/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.24,
+                            40.72
+                        ],
+                        [
+                            -0.2,
+                            40.78
+                        ],
+                        [
+                            -0.14,
+                            40.79
+                        ],
+                        [
+                            -0.13,
+                            40.75
+                        ],
+                        [
+                            -0.06,
+                            40.73
+                        ],
+                        [
+                            0.02,
+                            40.73
+                        ],
+                        [
+                            0.04,
+                            40.69
+                        ],
+                        [
+                            0.11,
+                            40.73
+                        ],
+                        [
+                            0.17,
+                            40.73
+                        ],
+                        [
+                            0.22,
+                            40.73
+                        ],
+                        [
+                            0.24,
+                            40.7
+                        ],
+                        [
+                            0.29,
+                            40.69
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.02,
+                            40.44
+                        ],
+                        [
+                            -0.02,
+                            40.4
+                        ],
+                        [
+                            -0.03,
+                            40.36
+                        ],
+                        [
+                            -0.08,
+                            40.3
+                        ],
+                        [
+                            -0.1,
+                            40.31
+                        ],
+                        [
+                            -0.09,
+                            40.35
+                        ],
+                        [
+                            -0.18,
+                            40.36
+                        ],
+                        [
+                            -0.25,
+                            40.38
+                        ],
+                        [
+                            -0.28,
+                            40.37
+                        ],
+                        [
+                            -0.28,
+                            40.39
+                        ],
+                        [
+                            -0.35,
+                            40.44
+                        ],
+                        [
+                            -0.33,
+                            40.46
+                        ],
+                        [
+                            -0.27,
+                            40.48
+                        ],
+                        [
+                            -0.3,
+                            40.52
+                        ],
+                        [
+                            -0.29,
+                            40.54
+                        ],
+                        [
+                            -0.32,
+                            40.6
+                        ],
+                        [
+                            -0.38,
+                            40.63
+                        ],
+                        [
+                            -0.35,
+                            40.68
+                        ],
+                        [
+                            -0.32,
+                            40.66
+                        ],
+                        [
+                            -0.25,
+                            40.69
+                        ],
+                        [
+                            -0.24,
+                            40.72
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Interior norte de Castell\u00f3n",
+                "geocode": "771201",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Immediate",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-15T02:18:30+01:00",
+                "onset": "2025-12-15T02:00:00+01:00",
+                "expires": "2025-12-15T17:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Interior norte de Castell\u00f3n",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior norte de Castell\u00f3n</b><br><b>\u00c0rea:</b> Interior norte de Castell\u00f3n<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm. El aviso proviene del d\u00eda anterior.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 15/12/2025 02:00<br><b>Data de fi:</b> 15/12/2025 17:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
