@@ -852,264 +852,6 @@
                 "coordinates": [
                     [
                         [
-                            -2.39,
-                            43.69
-                        ],
-                        [
-                            -2.3,
-                            43.67
-                        ],
-                        [
-                            -2.21,
-                            43.63
-                        ],
-                        [
-                            -1.96,
-                            43.7
-                        ],
-                        [
-                            -1.88,
-                            43.72
-                        ],
-                        [
-                            -1.74,
-                            43.73
-                        ],
-                        [
-                            -1.72,
-                            43.65
-                        ],
-                        [
-                            -1.73,
-                            43.48
-                        ],
-                        [
-                            -1.74,
-                            43.44
-                        ],
-                        [
-                            -1.79,
-                            43.37
-                        ],
-                        [
-                            -1.83,
-                            43.38
-                        ],
-                        [
-                            -1.86,
-                            43.37
-                        ],
-                        [
-                            -1.92,
-                            43.34
-                        ],
-                        [
-                            -1.96,
-                            43.34
-                        ],
-                        [
-                            -1.99,
-                            43.32
-                        ],
-                        [
-                            -2.04,
-                            43.32
-                        ],
-                        [
-                            -2.18,
-                            43.29
-                        ],
-                        [
-                            -2.21,
-                            43.31
-                        ],
-                        [
-                            -2.27,
-                            43.3
-                        ],
-                        [
-                            -2.35,
-                            43.3
-                        ],
-                        [
-                            -2.36,
-                            43.3
-                        ],
-                        [
-                            -2.41,
-                            43.32
-                        ],
-                        [
-                            -2.39,
-                            43.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Gipuzkoa litoral",
-                "geocode": "752001C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-18T10:35:47+01:00",
-                "onset": "2025-12-18T21:00:00+01:00",
-                "expires": "2025-12-19T03:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Costa - Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinada del Noroeste de 4 a 5 m, aumentando a 5 a 6 m mar adentro.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 18/12/2025 21:00<br><b>Data de fi:</b> 19/12/2025 03:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.39,
-                            43.69
-                        ],
-                        [
-                            -2.3,
-                            43.67
-                        ],
-                        [
-                            -2.21,
-                            43.63
-                        ],
-                        [
-                            -1.96,
-                            43.7
-                        ],
-                        [
-                            -1.88,
-                            43.72
-                        ],
-                        [
-                            -1.74,
-                            43.73
-                        ],
-                        [
-                            -1.72,
-                            43.65
-                        ],
-                        [
-                            -1.73,
-                            43.48
-                        ],
-                        [
-                            -1.74,
-                            43.44
-                        ],
-                        [
-                            -1.79,
-                            43.37
-                        ],
-                        [
-                            -1.83,
-                            43.38
-                        ],
-                        [
-                            -1.86,
-                            43.37
-                        ],
-                        [
-                            -1.92,
-                            43.34
-                        ],
-                        [
-                            -1.96,
-                            43.34
-                        ],
-                        [
-                            -1.99,
-                            43.32
-                        ],
-                        [
-                            -2.04,
-                            43.32
-                        ],
-                        [
-                            -2.18,
-                            43.29
-                        ],
-                        [
-                            -2.21,
-                            43.31
-                        ],
-                        [
-                            -2.27,
-                            43.3
-                        ],
-                        [
-                            -2.35,
-                            43.3
-                        ],
-                        [
-                            -2.36,
-                            43.3
-                        ],
-                        [
-                            -2.41,
-                            43.32
-                        ],
-                        [
-                            -2.39,
-                            43.69
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Gipuzkoa litoral",
-                "geocode": "752001C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-18T10:35:47+01:00",
-                "onset": "2025-12-18T21:00:00+01:00",
-                "expires": "2025-12-19T03:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Costa - Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinada del Noroeste de 4 a 5 m, aumentando a 5 a 6 m mar adentro.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 18/12/2025 21:00<br><b>Data de fi:</b> 19/12/2025 03:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -9.11,
                             42.76
                         ],
@@ -1729,6 +1471,264 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Litoral occidental asturiano</b><br><b>\u00c0rea:</b> Costa - Litoral occidental asturiano<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinada del Oeste o Noroeste de 4 a 5 m, aumentando a 5 a 6 m mar adentro. Viento del Suroeste de 50 o 61 km/h (fuerza 7) en el oeste, durante la tarde del d\u00eda 18.<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 18/12/2025 12:00<br><b>Data de fi:</b> 19/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.3,
+                            43.67
+                        ],
+                        [
+                            -2.21,
+                            43.63
+                        ],
+                        [
+                            -1.96,
+                            43.7
+                        ],
+                        [
+                            -1.88,
+                            43.72
+                        ],
+                        [
+                            -1.74,
+                            43.73
+                        ],
+                        [
+                            -1.72,
+                            43.65
+                        ],
+                        [
+                            -1.73,
+                            43.48
+                        ],
+                        [
+                            -1.74,
+                            43.44
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Gipuzkoa litoral",
+                "geocode": "752001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-18T10:35:47+01:00",
+                "onset": "2025-12-19T04:00:00+01:00",
+                "expires": "2025-12-19T18:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Costa - Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinada del Noroeste de 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 19/12/2025 04:00<br><b>Data de fi:</b> 19/12/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39,
+                            43.69
+                        ],
+                        [
+                            -2.3,
+                            43.67
+                        ],
+                        [
+                            -2.21,
+                            43.63
+                        ],
+                        [
+                            -1.96,
+                            43.7
+                        ],
+                        [
+                            -1.88,
+                            43.72
+                        ],
+                        [
+                            -1.74,
+                            43.73
+                        ],
+                        [
+                            -1.72,
+                            43.65
+                        ],
+                        [
+                            -1.73,
+                            43.48
+                        ],
+                        [
+                            -1.74,
+                            43.44
+                        ],
+                        [
+                            -1.79,
+                            43.37
+                        ],
+                        [
+                            -1.83,
+                            43.38
+                        ],
+                        [
+                            -1.86,
+                            43.37
+                        ],
+                        [
+                            -1.92,
+                            43.34
+                        ],
+                        [
+                            -1.96,
+                            43.34
+                        ],
+                        [
+                            -1.99,
+                            43.32
+                        ],
+                        [
+                            -2.04,
+                            43.32
+                        ],
+                        [
+                            -2.18,
+                            43.29
+                        ],
+                        [
+                            -2.21,
+                            43.31
+                        ],
+                        [
+                            -2.27,
+                            43.3
+                        ],
+                        [
+                            -2.35,
+                            43.3
+                        ],
+                        [
+                            -2.36,
+                            43.3
+                        ],
+                        [
+                            -2.41,
+                            43.32
+                        ],
+                        [
+                            -2.39,
+                            43.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Gipuzkoa litoral",
+                "geocode": "752001C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-18T10:35:47+01:00",
+                "onset": "2025-12-19T04:00:00+01:00",
+                "expires": "2025-12-19T18:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Gipuzkoa litoral</b><br><b>\u00c0rea:</b> Costa - Gipuzkoa litoral<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinada del Noroeste de 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 19/12/2025 04:00<br><b>Data de fi:</b> 19/12/2025 18:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
