@@ -2494,6 +2494,344 @@
                 "coordinates": [
                     [
                         [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.02,
+                            39.74
+                        ],
+                        [
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            2.95,
+                            39.76
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte y nordeste de Mallorca",
+                "geocode": "645402",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-19T11:28:56+01:00",
+                "onset": "2025-12-20T06:00:00+01:00",
+                "expires": "2025-12-20T19:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 20/12/2025 06:00<br><b>Data de fi:</b> 20/12/2025 19:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.02,
+                            39.74
+                        ],
+                        [
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            2.95,
+                            39.76
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Norte y nordeste de Mallorca",
+                "geocode": "645402",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-19T11:28:56+01:00",
+                "onset": "2025-12-20T06:00:00+01:00",
+                "expires": "2025-12-20T19:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c0rea:</b> Norte y nordeste de Mallorca<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 20/12/2025 06:00<br><b>Data de fi:</b> 20/12/2025 19:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             2.44,
                             39.64
                         ],
@@ -4602,6 +4940,288 @@
                 "coordinates": [
                     [
                         [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Levante mallorqu\u00edn",
+                "geocode": "645405",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-19T11:28:56+01:00",
+                "onset": "2025-12-20T06:00:00+01:00",
+                "expires": "2025-12-20T19:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn</b><br><b>\u00c0rea:</b> Levante mallorqu\u00edn<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 20/12/2025 06:00<br><b>Data de fi:</b> 20/12/2025 19:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Levante mallorqu\u00edn",
+                "geocode": "645405",
+                "category": "Met",
+                "event": "Aviso de lluvias de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-19T11:28:56+01:00",
+                "onset": "2025-12-20T06:00:00+01:00",
+                "expires": "2025-12-20T19:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "PR;Lluvias",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn</b><br><b>\u00c0rea:</b> Levante mallorqu\u00edn<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 25 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 20/12/2025 06:00<br><b>Data de fi:</b> 20/12/2025 19:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.6,
                             41.31
                         ],
@@ -5599,352 +6219,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral occidental asturiano</b><br><b>\u00c0rea:</b> Costa - Litoral occidental asturiano<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Mar combinada del Noroeste de 4 a 5 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 20/12/2025 00:00<br><b>Data de fi:</b> 20/12/2025 07:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -3.81,
-                            36.85
-                        ],
-                        [
-                            -3.77,
-                            36.88
-                        ],
-                        [
-                            -3.69,
-                            36.86
-                        ],
-                        [
-                            -3.66,
-                            36.9
-                        ],
-                        [
-                            -3.58,
-                            36.88
-                        ],
-                        [
-                            -3.5,
-                            36.87
-                        ],
-                        [
-                            -3.44,
-                            36.83
-                        ],
-                        [
-                            -3.35,
-                            36.81
-                        ],
-                        [
-                            -3.32,
-                            36.82
-                        ],
-                        [
-                            -3.31,
-                            36.86
-                        ],
-                        [
-                            -3.28,
-                            36.88
-                        ],
-                        [
-                            -3.22,
-                            36.87
-                        ],
-                        [
-                            -3.14,
-                            36.89
-                        ],
-                        [
-                            -3.14,
-                            36.91
-                        ],
-                        [
-                            -3.07,
-                            36.92
-                        ],
-                        [
-                            -3.03,
-                            36.84
-                        ],
-                        [
-                            -3.14,
-                            36.79
-                        ],
-                        [
-                            -3.13,
-                            36.75
-                        ],
-                        [
-                            -3.14,
-                            36.75
-                        ],
-                        [
-                            -3.25,
-                            36.76
-                        ],
-                        [
-                            -3.3,
-                            36.74
-                        ],
-                        [
-                            -3.34,
-                            36.74
-                        ],
-                        [
-                            -3.39,
-                            36.71
-                        ],
-                        [
-                            -3.42,
-                            36.69
-                        ],
-                        [
-                            -3.48,
-                            36.7
-                        ],
-                        [
-                            -3.51,
-                            36.72
-                        ],
-                        [
-                            -3.55,
-                            36.72
-                        ],
-                        [
-                            -3.6,
-                            36.74
-                        ],
-                        [
-                            -3.66,
-                            36.75
-                        ],
-                        [
-                            -3.68,
-                            36.73
-                        ],
-                        [
-                            -3.73,
-                            36.73
-                        ],
-                        [
-                            -3.78,
-                            36.74
-                        ],
-                        [
-                            -3.76,
-                            36.79
-                        ],
-                        [
-                            -3.81,
-                            36.85
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa granadina",
-                "geocode": "611804",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Expected",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-19T22:33:03+01:00",
-                "onset": "2025-12-19T23:00:00+01:00",
-                "expires": "2025-12-20T05:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Costa granadina",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Costa granadina</b><br><b>\u00c0rea:</b> Costa granadina<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 19/12/2025 23:00<br><b>Data de fi:</b> 20/12/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -3.81,
-                            36.85
-                        ],
-                        [
-                            -3.77,
-                            36.88
-                        ],
-                        [
-                            -3.69,
-                            36.86
-                        ],
-                        [
-                            -3.66,
-                            36.9
-                        ],
-                        [
-                            -3.58,
-                            36.88
-                        ],
-                        [
-                            -3.5,
-                            36.87
-                        ],
-                        [
-                            -3.44,
-                            36.83
-                        ],
-                        [
-                            -3.35,
-                            36.81
-                        ],
-                        [
-                            -3.32,
-                            36.82
-                        ],
-                        [
-                            -3.31,
-                            36.86
-                        ],
-                        [
-                            -3.28,
-                            36.88
-                        ],
-                        [
-                            -3.22,
-                            36.87
-                        ],
-                        [
-                            -3.14,
-                            36.89
-                        ],
-                        [
-                            -3.14,
-                            36.91
-                        ],
-                        [
-                            -3.07,
-                            36.92
-                        ],
-                        [
-                            -3.03,
-                            36.84
-                        ],
-                        [
-                            -3.14,
-                            36.79
-                        ],
-                        [
-                            -3.13,
-                            36.75
-                        ],
-                        [
-                            -3.14,
-                            36.75
-                        ],
-                        [
-                            -3.25,
-                            36.76
-                        ],
-                        [
-                            -3.3,
-                            36.74
-                        ],
-                        [
-                            -3.34,
-                            36.74
-                        ],
-                        [
-                            -3.39,
-                            36.71
-                        ],
-                        [
-                            -3.42,
-                            36.69
-                        ],
-                        [
-                            -3.48,
-                            36.7
-                        ],
-                        [
-                            -3.51,
-                            36.72
-                        ],
-                        [
-                            -3.55,
-                            36.72
-                        ],
-                        [
-                            -3.6,
-                            36.74
-                        ],
-                        [
-                            -3.66,
-                            36.75
-                        ],
-                        [
-                            -3.68,
-                            36.73
-                        ],
-                        [
-                            -3.73,
-                            36.73
-                        ],
-                        [
-                            -3.78,
-                            36.74
-                        ],
-                        [
-                            -3.76,
-                            36.79
-                        ],
-                        [
-                            -3.81,
-                            36.85
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa granadina",
-                "geocode": "611804",
-                "category": "Met",
-                "event": "Aviso de lluvias de nivel amarillo",
-                "urgency": "Expected",
-                "severity": "Moderate",
-                "certainty": "Likely",
-                "effective": "2025-12-19T22:33:03+01:00",
-                "onset": "2025-12-19T23:00:00+01:00",
-                "expires": "2025-12-20T05:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de lluvias de nivel amarillo. Costa granadina",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "PR;Lluvias",
-                "parameter": "amarillo",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#f3f702",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Costa granadina</b><br><b>\u00c0rea:</b> Costa granadina<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 19/12/2025 23:00<br><b>Data de fi:</b> 20/12/2025 05:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         }
     ]
