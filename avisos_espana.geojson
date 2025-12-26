@@ -2700,6 +2700,280 @@
                 "coordinates": [
                     [
                         [
+                            1.65,
+                            41.2
+                        ],
+                        [
+                            1.78,
+                            41.22
+                        ],
+                        [
+                            1.85,
+                            41.23
+                        ],
+                        [
+                            1.92,
+                            41.26
+                        ],
+                        [
+                            2.02,
+                            41.27
+                        ],
+                        [
+                            2.12,
+                            41.29
+                        ],
+                        [
+                            2.15,
+                            41.32
+                        ],
+                        [
+                            2.18,
+                            41.37
+                        ],
+                        [
+                            2.22,
+                            41.41
+                        ],
+                        [
+                            2.25,
+                            41.45
+                        ],
+                        [
+                            2.3,
+                            41.47
+                        ],
+                        [
+                            2.38,
+                            41.49
+                        ],
+                        [
+                            2.46,
+                            41.54
+                        ],
+                        [
+                            2.56,
+                            41.58
+                        ],
+                        [
+                            2.78,
+                            41.65
+                        ],
+                        [
+                            2.87,
+                            41.58
+                        ],
+                        [
+                            3.09,
+                            41.4
+                        ],
+                        [
+                            2.57,
+                            41.2
+                        ],
+                        [
+                            2.47,
+                            41.09
+                        ],
+                        [
+                            2.4,
+                            41.04
+                        ],
+                        [
+                            2.32,
+                            41.0
+                        ],
+                        [
+                            2.23,
+                            40.97
+                        ],
+                        [
+                            1.87,
+                            40.89
+                        ],
+                        [
+                            1.81,
+                            40.97
+                        ],
+                        [
+                            1.65,
+                            41.2
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral de Barcelona",
+                "geocode": "690804C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-25T10:46:45+01:00",
+                "onset": "2025-12-26T05:00:00+01:00",
+                "expires": "2025-12-26T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona</b><br><b>\u00c0rea:</b> Costa - Litoral de Barcelona<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste con intervalos de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 26/12/2025 05:00<br><b>Data de fi:</b> 26/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.65,
+                            41.2
+                        ],
+                        [
+                            1.78,
+                            41.22
+                        ],
+                        [
+                            1.85,
+                            41.23
+                        ],
+                        [
+                            1.92,
+                            41.26
+                        ],
+                        [
+                            2.02,
+                            41.27
+                        ],
+                        [
+                            2.12,
+                            41.29
+                        ],
+                        [
+                            2.15,
+                            41.32
+                        ],
+                        [
+                            2.18,
+                            41.37
+                        ],
+                        [
+                            2.22,
+                            41.41
+                        ],
+                        [
+                            2.25,
+                            41.45
+                        ],
+                        [
+                            2.3,
+                            41.47
+                        ],
+                        [
+                            2.38,
+                            41.49
+                        ],
+                        [
+                            2.46,
+                            41.54
+                        ],
+                        [
+                            2.56,
+                            41.58
+                        ],
+                        [
+                            2.78,
+                            41.65
+                        ],
+                        [
+                            2.87,
+                            41.58
+                        ],
+                        [
+                            3.09,
+                            41.4
+                        ],
+                        [
+                            2.57,
+                            41.2
+                        ],
+                        [
+                            2.47,
+                            41.09
+                        ],
+                        [
+                            2.4,
+                            41.04
+                        ],
+                        [
+                            2.32,
+                            41.0
+                        ],
+                        [
+                            2.23,
+                            40.97
+                        ],
+                        [
+                            1.87,
+                            40.89
+                        ],
+                        [
+                            1.81,
+                            40.97
+                        ],
+                        [
+                            1.65,
+                            41.2
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral de Barcelona",
+                "geocode": "690804C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-25T10:46:45+01:00",
+                "onset": "2025-12-26T05:00:00+01:00",
+                "expires": "2025-12-26T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral de Barcelona</b><br><b>\u00c0rea:</b> Costa - Litoral de Barcelona<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste con intervalos de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 26/12/2025 05:00<br><b>Data de fi:</b> 26/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -6.36,
                             43.06
                         ],
@@ -5471,280 +5745,6 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de temperaturas m\u00ednimas de nivel amarillo. Li\u00e9bana</b><br><b>\u00c0rea:</b> Li\u00e9bana<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de temperaturas m\u00ednimas de nivel amarillo \ud83c\udf21\ufe0f<br><b>Descripci\u00f3:</b> Temperatura m\u00ednima: -6 \u00baC.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 25/12/2025 22:00<br><b>Data de fi:</b> 26/12/2025 09:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            1.65,
-                            41.2
-                        ],
-                        [
-                            1.78,
-                            41.22
-                        ],
-                        [
-                            1.85,
-                            41.23
-                        ],
-                        [
-                            1.92,
-                            41.26
-                        ],
-                        [
-                            2.02,
-                            41.27
-                        ],
-                        [
-                            2.12,
-                            41.29
-                        ],
-                        [
-                            2.15,
-                            41.32
-                        ],
-                        [
-                            2.18,
-                            41.37
-                        ],
-                        [
-                            2.22,
-                            41.41
-                        ],
-                        [
-                            2.25,
-                            41.45
-                        ],
-                        [
-                            2.3,
-                            41.47
-                        ],
-                        [
-                            2.38,
-                            41.49
-                        ],
-                        [
-                            2.46,
-                            41.54
-                        ],
-                        [
-                            2.56,
-                            41.58
-                        ],
-                        [
-                            2.78,
-                            41.65
-                        ],
-                        [
-                            2.87,
-                            41.58
-                        ],
-                        [
-                            3.09,
-                            41.4
-                        ],
-                        [
-                            2.57,
-                            41.2
-                        ],
-                        [
-                            2.47,
-                            41.09
-                        ],
-                        [
-                            2.4,
-                            41.04
-                        ],
-                        [
-                            2.32,
-                            41.0
-                        ],
-                        [
-                            2.23,
-                            40.97
-                        ],
-                        [
-                            1.87,
-                            40.89
-                        ],
-                        [
-                            1.81,
-                            40.97
-                        ],
-                        [
-                            1.65,
-                            41.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral de Barcelona",
-                "geocode": "690804C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-25T10:46:45+01:00",
-                "onset": "2025-12-25T20:00:00+01:00",
-                "expires": "2025-12-26T04:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Litoral de Barcelona",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Litoral de Barcelona</b><br><b>\u00c0rea:</b> Costa - Litoral de Barcelona<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m con mar de fondo del este (ola m\u00e1xima de 7 a 8 m).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 25/12/2025 20:00<br><b>Data de fi:</b> 26/12/2025 04:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            1.65,
-                            41.2
-                        ],
-                        [
-                            1.78,
-                            41.22
-                        ],
-                        [
-                            1.85,
-                            41.23
-                        ],
-                        [
-                            1.92,
-                            41.26
-                        ],
-                        [
-                            2.02,
-                            41.27
-                        ],
-                        [
-                            2.12,
-                            41.29
-                        ],
-                        [
-                            2.15,
-                            41.32
-                        ],
-                        [
-                            2.18,
-                            41.37
-                        ],
-                        [
-                            2.22,
-                            41.41
-                        ],
-                        [
-                            2.25,
-                            41.45
-                        ],
-                        [
-                            2.3,
-                            41.47
-                        ],
-                        [
-                            2.38,
-                            41.49
-                        ],
-                        [
-                            2.46,
-                            41.54
-                        ],
-                        [
-                            2.56,
-                            41.58
-                        ],
-                        [
-                            2.78,
-                            41.65
-                        ],
-                        [
-                            2.87,
-                            41.58
-                        ],
-                        [
-                            3.09,
-                            41.4
-                        ],
-                        [
-                            2.57,
-                            41.2
-                        ],
-                        [
-                            2.47,
-                            41.09
-                        ],
-                        [
-                            2.4,
-                            41.04
-                        ],
-                        [
-                            2.32,
-                            41.0
-                        ],
-                        [
-                            2.23,
-                            40.97
-                        ],
-                        [
-                            1.87,
-                            40.89
-                        ],
-                        [
-                            1.81,
-                            40.97
-                        ],
-                        [
-                            1.65,
-                            41.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral de Barcelona",
-                "geocode": "690804C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-25T10:46:45+01:00",
-                "onset": "2025-12-25T20:00:00+01:00",
-                "expires": "2025-12-26T04:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Litoral de Barcelona",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Litoral de Barcelona</b><br><b>\u00c0rea:</b> Costa - Litoral de Barcelona<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m con mar de fondo del este (ola m\u00e1xima de 7 a 8 m).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 25/12/2025 20:00<br><b>Data de fi:</b> 26/12/2025 04:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
@@ -11924,176 +11924,6 @@
                 "coordinates": [
                     [
                         [
-                            3.08,
-                            41.82
-                        ],
-                        [
-                            3.46,
-                            41.61
-                        ],
-                        [
-                            3.22,
-                            41.46
-                        ],
-                        [
-                            3.09,
-                            41.4
-                        ],
-                        [
-                            2.87,
-                            41.58
-                        ],
-                        [
-                            2.78,
-                            41.65
-                        ],
-                        [
-                            2.79,
-                            41.67
-                        ],
-                        [
-                            2.85,
-                            41.7
-                        ],
-                        [
-                            2.94,
-                            41.72
-                        ],
-                        [
-                            2.97,
-                            41.75
-                        ],
-                        [
-                            3.07,
-                            41.8
-                        ],
-                        [
-                            3.08,
-                            41.82
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral sur de Girona",
-                "geocode": "691704C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-25T10:46:45+01:00",
-                "onset": "2025-12-25T20:00:00+01:00",
-                "expires": "2025-12-26T04:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Litoral sur de Girona",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Litoral sur de Girona</b><br><b>\u00c0rea:</b> Costa - Litoral sur de Girona<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m con mar de fondo del este (ola m\u00e1xima de 7 a 8 m).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 25/12/2025 20:00<br><b>Data de fi:</b> 26/12/2025 04:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.08,
-                            41.82
-                        ],
-                        [
-                            3.46,
-                            41.61
-                        ],
-                        [
-                            3.22,
-                            41.46
-                        ],
-                        [
-                            3.09,
-                            41.4
-                        ],
-                        [
-                            2.87,
-                            41.58
-                        ],
-                        [
-                            2.78,
-                            41.65
-                        ],
-                        [
-                            2.79,
-                            41.67
-                        ],
-                        [
-                            2.85,
-                            41.7
-                        ],
-                        [
-                            2.94,
-                            41.72
-                        ],
-                        [
-                            2.97,
-                            41.75
-                        ],
-                        [
-                            3.07,
-                            41.8
-                        ],
-                        [
-                            3.08,
-                            41.82
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "areaDesc": "Costa - Litoral sur de Girona",
-                "geocode": "691704C",
-                "category": "Met",
-                "event": "Aviso de costeros de nivel naranja",
-                "urgency": "Future",
-                "severity": "Severe",
-                "certainty": "Likely",
-                "effective": "2025-12-25T10:46:45+01:00",
-                "onset": "2025-12-25T20:00:00+01:00",
-                "expires": "2025-12-26T04:59:59+01:00",
-                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
-                "headline": "Aviso de costeros de nivel naranja. Costa - Litoral sur de Girona",
-                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-                "contact": "AEMET",
-                "eventCode": "CO;Costeros",
-                "parameter": "naranja",
-                "_umap_options": {
-                    "color": "#FFFFFF",
-                    "weight": 1,
-                    "opacity": 1,
-                    "fillColor": "#FF7F00",
-                    "fillOpacity": 1,
-                    "interactive": true
-                },
-                "popup_html": "<b>Aviso de costeros de nivel naranja. Costa - Litoral sur de Girona</b><br><b>\u00c0rea:</b> Costa - Litoral sur de Girona<br><b>Nivell d'alerta:</b> <span style='color:#FF7F00'>Naranja</span><br><b>Tipus:</b> Aviso de costeros de nivel naranja \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m con mar de fondo del este (ola m\u00e1xima de 7 a 8 m).<br><b>Instruccions:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 25/12/2025 20:00<br><b>Data de fi:</b> 26/12/2025 04:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             1.06,
                             41.18
                         ],
@@ -16293,6 +16123,176 @@
                     "interactive": true
                 },
                 "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral norte de Valencia</b><br><b>\u00c0rea:</b> Costa - Litoral norte de Valencia<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Olas de 3 m con mar de fondo del nordeste.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 25/12/2025 19:00<br><b>Data de fi:</b> 26/12/2025 08:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.08,
+                            41.82
+                        ],
+                        [
+                            3.46,
+                            41.61
+                        ],
+                        [
+                            3.22,
+                            41.46
+                        ],
+                        [
+                            3.09,
+                            41.4
+                        ],
+                        [
+                            2.87,
+                            41.58
+                        ],
+                        [
+                            2.78,
+                            41.65
+                        ],
+                        [
+                            2.79,
+                            41.67
+                        ],
+                        [
+                            2.85,
+                            41.7
+                        ],
+                        [
+                            2.94,
+                            41.72
+                        ],
+                        [
+                            2.97,
+                            41.75
+                        ],
+                        [
+                            3.07,
+                            41.8
+                        ],
+                        [
+                            3.08,
+                            41.82
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral sur de Girona",
+                "geocode": "691704C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-25T10:46:45+01:00",
+                "onset": "2025-12-26T05:00:00+01:00",
+                "expires": "2025-12-26T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral sur de Girona",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral sur de Girona</b><br><b>\u00c0rea:</b> Costa - Litoral sur de Girona<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste con intervalos de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 26/12/2025 05:00<br><b>Data de fi:</b> 26/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.08,
+                            41.82
+                        ],
+                        [
+                            3.46,
+                            41.61
+                        ],
+                        [
+                            3.22,
+                            41.46
+                        ],
+                        [
+                            3.09,
+                            41.4
+                        ],
+                        [
+                            2.87,
+                            41.58
+                        ],
+                        [
+                            2.78,
+                            41.65
+                        ],
+                        [
+                            2.79,
+                            41.67
+                        ],
+                        [
+                            2.85,
+                            41.7
+                        ],
+                        [
+                            2.94,
+                            41.72
+                        ],
+                        [
+                            2.97,
+                            41.75
+                        ],
+                        [
+                            3.07,
+                            41.8
+                        ],
+                        [
+                            3.08,
+                            41.82
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "areaDesc": "Costa - Litoral sur de Girona",
+                "geocode": "691704C",
+                "category": "Met",
+                "event": "Aviso de costeros de nivel amarillo",
+                "urgency": "Future",
+                "severity": "Moderate",
+                "certainty": "Likely",
+                "effective": "2025-12-25T10:46:45+01:00",
+                "onset": "2025-12-26T05:00:00+01:00",
+                "expires": "2025-12-26T23:59:59+01:00",
+                "senderName": "AEMET. Agencia Estatal de Meteorolog\u00eda",
+                "headline": "Aviso de costeros de nivel amarillo. Costa - Litoral sur de Girona",
+                "web": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+                "contact": "AEMET",
+                "eventCode": "CO;Costeros",
+                "parameter": "amarillo",
+                "_umap_options": {
+                    "color": "#FFFFFF",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillColor": "#f3f702",
+                    "fillOpacity": 1,
+                    "interactive": true
+                },
+                "popup_html": "<b>Aviso de costeros de nivel amarillo. Costa - Litoral sur de Girona</b><br><b>\u00c0rea:</b> Costa - Litoral sur de Girona<br><b>Nivell d'alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipus:</b> Aviso de costeros de nivel amarillo \ud83c\udf0a<br><b>Descripci\u00f3:</b> Viento del nordeste con intervalos de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 m.<br><b>Instruccions:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 26/12/2025 05:00<br><b>Data de fi:</b> 26/12/2025 23:59<br><b>M\u00e9s informaci\u00f3: <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>"
             }
         },
         {
