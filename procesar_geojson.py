@@ -4,7 +4,7 @@ import shutil
 import requests
 import tarfile
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timezone
 import pytz
 
 # Configuración
@@ -20,6 +20,14 @@ SALIDA_GEOJSON = "avisos_espana.geojson"
 
 PRIORIDAD_NIVELES = {"rojo": 3, "naranja": 2, "amarillo": 1}
 colores = {"amarillo": "#f3f702", "naranja": "#FF7F00", "rojo": "#FF0000"}
+EMOJI_MAP = {"vientos": "🌬️", "lluvia": "🌧️", "nieve": "❄️", "tormentas": "⛈️", "costeros": "🌊", "temperaturas": "🌡️", "niebla": "🌫️", "aludes": "🏔️", "otro": "⚠️"}
+
+def get_type_and_emoji(event_text):
+    event_text_lower = event_text.lower()
+    for keyword, emoji in EMOJI_MAP.items():
+        if keyword in event_text_lower:
+            return event_text, emoji
+    return event_text, EMOJI_MAP.get("otro", "❓")
 
 def parse_iso_datetime(date_str):
     try:
@@ -37,14 +45,12 @@ def process_xml_to_geojson(file_path):
         hoy = datetime.now(madrid_tz).date()
 
         for info in root.findall(".//info", ns):
-            if info.findtext("language", "", ns) != "es-ES":
-                continue
+            if info.findtext("language", "", ns) != "es-ES": continue
 
             onset_dt = parse_iso_datetime(info.findtext("onset", "", ns))
             expires_dt = parse_iso_datetime(info.findtext("expires", "", ns))
             if not onset_dt: continue
 
-            # Determinar a qué día pertenece (0=hoy, 1=mañana, 2=pasado)
             diferencia = (onset_dt.date() - hoy).days
             if diferencia < 0 or diferencia > 2: continue 
 
@@ -57,20 +63,26 @@ def process_xml_to_geojson(file_path):
                 for area in info.findall("area", ns):
                     polygon = area.find("polygon", ns)
                     if polygon is not None:
+                        event_display, event_emoji = get_type_and_emoji(info.findtext("event", "", ns))
+                        
+                        # --- POPUP CON TODA LA INFORMACIÓN ---
                         popup_html = (
                             f"<b>{info.findtext('headline', '', ns)}</b><br>"
                             f"<b>Área:</b> {area.findtext('areaDesc', '', ns)}<br>"
-                            f"<b>Inicio:</b> {onset_dt.strftime('%d/%m/%Y %H:%M')}<br>"
-                            f"<b>Fin:</b> {expires_dt.strftime('%d/%m/%Y %H:%M')}<br>"
-                            f"<b>Instrucciones:</b> {info.findtext('instruction', 'Sin instrucciones', ns)}"
+                            f"<b>Nivel de alerta:</b> <span style='color:{colores[nivel]}'>{nivel.capitalize()}</span><br>"
+                            f"<b>Tipo:</b> {event_display} {event_emoji}<br>"
+                            f"<b>Descripción:</b> {info.findtext('description', '', ns)}<br>"
+                            f"<b>Instrucciones:</b> {info.findtext('instruction', '', ns)}<br>"
+                            f"<b>Data d'inici:</b> {onset_dt.strftime('%d/%m/%Y %H:%M')}<br>"
+                            f"<b>Data de fi:</b> {expires_dt.strftime('%d/%m/%Y %H:%M')}<br>"
+                            f"<b>Más información:</b> <a href='{info.findtext('web', 'https://www.aemet.es', ns)}' target='_blank'>AEMET</a>"
                         )
 
                         features.append({
                             "type": "Feature",
                             "geometry": {"type": "Polygon", "coordinates": [parse_coordinates(polygon.text)]},
                             "properties": {
-                                "dia": diferencia, # 0, 1 o 2
-                                "parameter": nivel,
+                                "dia": diferencia,
                                 "priority": PRIORIDAD_NIVELES.get(nivel, 0),
                                 "popup_html": popup_html,
                                 "fillColor": colores[nivel]
@@ -97,5 +109,4 @@ def ejecutar():
             if f.endswith('.xml'): todas.extend(process_xml_to_geojson(os.path.join('datos', f)))
         with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as f:
             json.dump({"type": "FeatureCollection", "features": todas}, f, indent=4)
-
 ejecutar()
