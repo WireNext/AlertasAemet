@@ -55,12 +55,12 @@ def extract_and_process_tar(tar_path='avisos.tar'):
             if file_name.endswith('.xml'):
                 all_features.extend(process_xml_to_geojson(os.path.join('datos', file_name)))
         
-        # Ordenar para que Leaflet dibuje los más graves al final (encima)
+        # Ordenación por gravedad para que el GeoJSON tenga lógica de capas
         all_features.sort(key=lambda x: PRIORIDAD_NIVELES.get(x["properties"].get("parameter", "").lower(), 0))
         
         with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as f:
             json.dump({"type": "FeatureCollection", "features": all_features}, f, indent=4)
-        print(f"✅ GeoJSON guardat amb {len(all_features)} avisos.")
+        print(f"✅ Mapa generat amb {len(all_features)} avisos.")
     except Exception as e: print(f"Error: {e}")
 
 def process_xml_to_geojson(file_path):
@@ -92,28 +92,40 @@ def process_xml_to_geojson(file_path):
 
 def generate_popup_html(info, area, nivel, onset_dt, expires_dt):
     ns = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
-    event, emoji = get_type_and_emoji(info.findtext("event", "Altre", ns))
+    
+    # Extraer datos del XML
+    headline = info.findtext('headline', '', ns)
+    description = info.findtext('description', '', ns)
+    instruction = info.findtext('instruction', '', ns)
+    web_url = info.findtext('web', 'https://www.aemet.es', ns)
+    area_desc = area.findtext('areaDesc', '', ns)
+    event_raw = info.findtext('event', '', ns)
+    
+    event_display, event_emoji = get_type_and_emoji(event_raw)
+    
+    # Traducción de niveles al valenciano para el texto del popup
     traduccion_nivel = {"rojo": "Roig", "naranja": "Taronja", "amarillo": "Groc"}
     nivel_val = traduccion_nivel.get(nivel, nivel.capitalize())
 
-    # Retornamos el HTML completo con todas las propiedades originales
+    # Construcción exacta del HTML que pediste
     return (
-        f"<b>{info.findtext('headline', '', ns)}</b><br>"
-        f"<b>Àrea:</b> {area.findtext('areaDesc', '', ns)}<br>"
+        f"<b>{headline}</b><br>"
+        f"<b>Àrea:</b> {area_desc}<br>"
         f"<b>Nivell d'alerta:</b> <span style='color:{colores.get(nivel, '#000')}'>{nivel_val}</span><br>"
-        f"<b>Tipus:</b> {event} {emoji}<br>"
-        f"<b>Descripció:</b> {info.findtext('description', '', ns)}<br>"
-        f"<b>Instruccions:</b> {info.findtext('instruction', '', ns)}<br>"
+        f"<b>Tipus:</b> {event_display} {event_emoji}<br>"
+        f"<b>Descripció:</b> {description}<br>"
+        f"<b>Instruccions:</b> {instruction}<br>"
         f"<b>Data d'inici:</b> {onset_dt.strftime('%d/%m/%Y %H:%M')}<br>"
         f"<b>Data de fi:</b> {expires_dt.strftime('%d/%m/%Y %H:%M')}<br>"
-        f"<b>Més informació:</b> <a href='{info.findtext('web', '', ns)}' target='_blank'>AEMET</a>"
+        f"<b>Més informació:</b> <a href='{web_url}' target='_blank'>AEMET</a>"
     )
 
 def parse_coordinates(s):
     return [[float(c.split(',')[1]), float(c.split(',')[0])] for c in s.strip().split()]
 
-url = obtener_url_datos_desde_api()
-if url:
-    r = requests.get(url)
+# Iniciar proceso
+url_datos = obtener_url_datos_desde_api()
+if url_datos:
+    r = requests.get(url_datos)
     with open('avisos.tar', 'wb') as f: f.write(r.content)
     extract_and_process_tar('avisos.tar')
