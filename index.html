@@ -1,25 +1,19 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-    <title>Avisos AEMET - Comunitat Valenciana</title>
+    <title>Mapa d'Avisos AEMET</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        #map { height: 100vh; width: 100%; margin: 0; } 
+        #map { height: 100vh; width: 100%; margin: 0; }
         body { margin: 0; font-family: sans-serif; }
-        .legend {
-            background: white; padding: 10px; line-height: 18px; color: #333;
-            border-radius: 5px; box-shadow: 0 0 15px rgba(0,0,0,0.2); font-size: 13px;
-        }
-        .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.8; border: 1px solid #999; }
-        
-        /* Estilo para que el globo de información sea grande y legible */
         .leaflet-popup-content { 
-            min-width: 300px; 
-            max-width: 400px;
-            font-size: 14px; 
-            line-height: 1.5; 
+            min-width: 320px; 
+            max-width: 450px; 
+            max-height: 400px; 
+            overflow-y: auto; 
+            font-size: 13px;
         }
     </style>
 </head>
@@ -27,50 +21,28 @@
     <div id="map"></div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Centrado en la Comunitat Valenciana
         var map = L.map('map').setView([39.484, -0.753], 8);
-
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; AEMET / OpenStreetMap'
-        }).addTo(map);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
         fetch('avisos_espana.geojson')
             .then(res => res.json())
             .then(data => {
-                var geojsonLayer = L.geoJSON(data, {
+                var layer = L.geoJSON(data, {
                     style: function(f) {
-                        return {
-                            fillColor: f.properties._umap_options.fillColor,
-                            color: "white", weight: 1.5, fillOpacity: 0.7
+                        return { 
+                            fillColor: f.properties._umap_options.fillColor, 
+                            color: "white", weight: 1, fillOpacity: 0.7 
                         };
                     },
-                    onEachFeature: function (f, layer) {
-                        if (f.properties.popup_html) {
-                            // Aquí se inyecta todo el texto detallado
-                            layer.bindPopup(f.properties.popup_html);
-                        }
+                    onEachFeature: function (f, l) {
+                        if (f.properties.popup_html) l.bindPopup(f.properties.popup_html);
                     }
                 }).addTo(map);
 
-                // Forzamos orden de capas: Rojo siempre visible por encima
-                geojsonLayer.eachLayer(function (layer) {
-                    var p = layer.feature.properties.priority;
-                    if (p === 3) layer.bringToFront(); 
-                    else if (p === 1) layer.bringToBack();
+                layer.eachLayer(function(l) {
+                    if (l.feature.properties.priority === 3) l.bringToFront();
                 });
             });
-
-        // Leyenda
-        var legend = L.control({position: 'bottomright'});
-        legend.onAdd = function (map) {
-            var div = L.DomUtil.create('div', 'legend');
-            div.innerHTML += '<b>Nivell d\'Avís</b><br>';
-            div.innerHTML += '<i style="background: #FF0000"></i> Roig (Extrem)<br>';
-            div.innerHTML += '<i style="background: #FF7F00"></i> Taronja (Important)<br>';
-            div.innerHTML += '<i style="background: #f3f702"></i> Groc (Risc)<br>';
-            return div;
-        };
-        legend.addTo(map);
     </script>
 </body>
 </html>
