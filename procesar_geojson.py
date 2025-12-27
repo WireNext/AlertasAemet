@@ -8,21 +8,18 @@ import geojson
 from datetime import datetime, timezone
 import pytz
 
-# Leer la URL base desde el config.json
+# Configuración
 CONFIG_FILE = "config.json"
 try:
     with open(CONFIG_FILE, "r", encoding="utf-8") as f:
         config = json.load(f)
 except FileNotFoundError:
-    print(f"❌ Error: Archivo de configuración '{CONFIG_FILE}' not encontrado.")
-    config = {"url_tar": "https://opendata.aemet.es/opendata/api/avisos/capa/geojson?api_key=YOUR_API_KEY"}
+    config = {"url_tar": "https://opendata.aemet.es/opendata/api/avisos/capa/geojson?api_key=TU_API_KEY"}
 
 API_URL = config["url_tar"]
-TAR_FILE_PATH = "datos/avisos.tar"
-EXTRACT_PATH = "datos/geojson_temp"
 SALIDA_GEOJSON = "avisos_espana.geojson"
 
-# Prioridades para el orden de dibujado (Rojo encima de todo)
+# Prioridades numéricas: mayor número = más importancia (se dibuja encima)
 PRIORIDAD_NIVELES = {
     "rojo": 3,
     "naranja": 2,
@@ -50,118 +47,87 @@ def get_type_and_emoji(event_text):
 def parse_iso_datetime(date_str):
     try:
         dt = datetime.fromisoformat(date_str)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
+        if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(pytz.timezone('Europe/Madrid'))
-    except Exception:
-        return None
+    except Exception: return None
 
 def obtener_url_datos_desde_api():
     try:
         response = requests.get(API_URL)
         response.raise_for_status()
-        datos = response.json()
-        return datos.get("datos")
-    except requests.RequestException as e:
-        print(f"❌ Error al obtener la URL de datos: {e}")
-        return None
-
-def download_tar(url, download_path='avisos.tar'):
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-        with open(download_path, 'wb') as f:
-            f.write(response.content)
-        print("Archivo TAR descargado correctamente.")
-    except Exception as e:
-        print(f"Error al descargar el archivo TAR: {e}")
+        return response.json().get("datos")
+    except: return None
 
 def extract_and_process_tar(tar_path='avisos.tar'):
+    # Limpiar carpeta de datos antes de empezar para evitar duplicados antiguos
+    if os.path.exists('datos'): shutil.rmtree('datos')
+    os.makedirs('datos')
+    
     try:
-        if not os.path.exists('datos'): os.makedirs('datos')
         with tarfile.open(tar_path, 'r:*') as tar:
             tar.extractall(path='datos')
         
         all_features = []
         for file_name in os.listdir('datos'):
             if file_name.endswith('.xml'):
-                file_path = os.path.join('datos', file_name)
-                features = process_xml_to_geojson(file_path)
-                all_features.extend(features)
+                all_features.extend(process_xml_to_geojson(os.path.join('datos', file_name)))
 
-        # --- ORDENACIÓN POR GRAVEDAD ---
-        # Ordenamos la lista para que los niveles más altos (rojo) vayan al FINAL de la lista
-        # Leaflet dibuja los últimos elementos encima de los primeros.
+        # Ordenar: Los más graves al FINAL de la lista para que Leaflet los pinte "encima"
         all_features.sort(key=lambda x: PRIORIDAD_NIVELES.get(x["properties"].get("parameter", "").lower(), 0))
 
-        geojson_data = {
-            "type": "FeatureCollection",
-            "features": all_features
-        }
-        with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as geojson_file:
-            json.dump(geojson_data, geojson_file, indent=4)
-        print(f"✅ GeoJSON guardado con {len(all_features)} avisos ordenados por gravedad.")
-    except Exception as e:
-        print(f"Error al procesar el archivo TAR: {e}")
+        with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as f:
+            json.dump({"type": "FeatureCollection", "features": all_features}, f, indent=4)
+        print(f"✅ Guardado: {len(all_features)} avisos ordenados.")
+    except Exception as e: print(f"Error: {e}")
 
 def process_xml_to_geojson(file_path):
     try:
         tree = ET.parse(file_path)
         root = tree.getroot()
-        namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
-        areas = root.findall(".//info/area", namespaces)
+        ns = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
         geojson_features = []
         now = datetime.now(pytz.utc).astimezone(pytz.timezone('Europe/Madrid'))
 
-        for area in areas:
-            polygon = area.find("polygon", namespaces)
+        for area in root.findall(".//info/area", ns):
+            polygon = area.find("polygon", ns)
             if polygon is not None:
-                coordinates = polygon.text.strip()
-                info = root.find(".//info", namespaces)
-                onset_dt = parse_iso_datetime(info.findtext("onset", default="", namespaces=namespaces))
-                expires_dt = parse_iso_datetime(info.findtext("expires", default="", namespaces=namespaces))
+                info = root.find(".//info", ns)
+                onset_dt = parse_iso_datetime(info.findtext("onset", "", ns))
+                expires_dt = parse_iso_datetime(info.findtext("expires", "", ns))
 
                 if onset_dt and expires_dt and onset_dt <= now <= expires_dt:
-                    parametros = info.findall("parameter", namespaces)
-                    nivel_textual = next((p.findtext("value", namespaces=namespaces).lower() for p in parametros if "nivel" in p.findtext("valueName", namespaces=namespaces).lower()), None)
+                    parametros = info.findall("parameter", ns)
+                    nivel = next((p.findtext("value", "", ns).lower() for p in parametros if "nivel" in p.findtext("valueName", "", ns).lower()), "verde")
 
-                    if nivel_textual in colores:
-                        umap_options = {
-                            "color": "#FFFFFF", "weight": 1, "opacity": 0.8,
-                            "fillColor": colores[nivel_textual], "fillOpacity": 0.7,
-                            "interactive": True
-                        }
-                        
-                        feature = {
-                            "type": "Feature",
-                            "geometry": {"type": "Polygon", "coordinates": [parse_coordinates(coordinates)]},
-                            "properties": {
-                                "parameter": nivel_textual,
-                                "_umap_options": umap_options,
-                                "popup_html": generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt)
+                    if nivel in colores:
+                        # Añadimos la prioridad a las propiedades para usarla en el HTML
+                        properties = {
+                            "parameter": nivel,
+                            "priority": PRIORIDAD_NIVELES.get(nivel, 0),
+                            "popup_html": generate_popup_html(info, area, nivel, onset_dt, expires_dt),
+                            "_umap_options": {
+                                "fillColor": colores[nivel], "color": "#FFFFFF", "weight": 1, "fillOpacity": 0.8
                             }
                         }
-                        geojson_features.append(feature)
+                        geojson_features.append({
+                            "type": "Feature",
+                            "geometry": {"type": "Polygon", "coordinates": [parse_coordinates(polygon.text)]},
+                            "properties": properties
+                        })
         return geojson_features
-    except Exception: return []
+    except: return []
 
-def generate_popup_html(info, area, nivel_textual, onset_dt, expires_dt):
-    namespaces = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
-    event_display, event_emoji = get_type_and_emoji(info.findtext("event", default="Otro", namespaces=namespaces))
-    
-    return (
-        f"<b>{info.findtext('headline', namespaces=namespaces)}</b><br>"
-        f"<b>Àrea:</b> {area.findtext('areaDesc', namespaces=namespaces)}<br>"
-        f"<b>Nivell:</b> <span style='color:{colores.get(nivel_textual, '#000')}'>{nivel_textual.capitalize()}</span><br>"
-        f"<b>Tipus:</b> {event_display} {event_emoji}<br>"
-        f"<b>Inici:</b> {onset_dt.strftime('%d/%m/%Y %H:%M')}<br>"
-        f"<b>Fi:</b> {expires_dt.strftime('%d/%m/%Y %H:%M')}"
-    )
+def generate_popup_html(info, area, nivel, onset_dt, expires_dt):
+    ns = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
+    event, emoji = get_type_and_emoji(info.findtext("event", "Otro", ns))
+    return f"<b>{info.findtext('headline', '', ns)}</b><br><b>Àrea:</b> {area.findtext('areaDesc', '', ns)}<br><b>Nivell:</b> <span style='color:{colores.get(nivel, '#000')}'>{nivel.capitalize()}</span><br><b>Tipus:</b> {event} {emoji}<br><b>Inici:</b> {onset_dt.strftime('%H:%M')}<br><b>Fi:</b> {expires_dt.strftime('%H:%M')}"
 
-def parse_coordinates(coordinates_str):
-    return [[float(c.split(',')[1]), float(c.split(',')[0])] for c in coordinates_str.split()]
+def parse_coordinates(s):
+    return [[float(c.split(',')[1]), float(c.split(',')[0])] for c in s.strip().split()]
 
-download_url = obtener_url_datos_desde_api()
-if download_url:
-    download_tar(download_url, 'avisos.tar')
+# Ejecución
+url = obtener_url_datos_desde_api()
+if url:
+    r = requests.get(url)
+    with open('avisos.tar', 'wb') as f: f.write(r.content)
     extract_and_process_tar('avisos.tar')
