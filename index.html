@@ -1,28 +1,22 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Avisos AEMET por Días</title>
+    <title>Avisos AEMET - Control por Días</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         #map { height: 100vh; width: 100%; margin: 0; }
-        body { margin: 0; font-family: Arial, sans-serif; }
-        
+        body { margin: 0; font-family: sans-serif; }
         .selector-dias {
-            position: absolute; top: 15px; left: 50%;
-            transform: translateX(-50%); z-index: 1000;
-            background: white; padding: 10px; border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+            position: absolute; top: 15px; left: 50%; transform: translateX(-50%); z-index: 1000;
+            background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.4);
             display: flex; gap: 10px;
         }
-        button {
-            padding: 10px 20px; border: 2px solid #ddd; background: #fff;
-            cursor: pointer; border-radius: 5px; font-weight: bold; transition: 0.3s;
-        }
+        button { padding: 10px 20px; border: 2px solid #ddd; background: #fff; cursor: pointer; border-radius: 5px; font-weight: bold; }
         button.active { background: #333; color: white; border-color: #000; }
-        
-        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; box-shadow: 0 0 10px rgba(0,0,0,0.2); }
+        .leaflet-popup-content { min-width: 350px; max-width: 450px; font-size: 14px; line-height: 1.5; }
+        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; }
         .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; border: 1px solid #333; }
     </style>
 </head>
@@ -38,83 +32,43 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Centrado en la Comunidad Valenciana
         var map = L.map('map').setView([39.484, -0.753], 8);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; AEMET / OpenStreetMap'
-        }).addTo(map);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
         var datosOriginales = null;
-        // Capa donde dibujaremos los avisos
         var capaAvisos = L.geoJSON(null, {
-            style: function(feature) {
-                return {
-                    fillColor: feature.properties.fillColor || "#cccccc",
-                    color: "#000000",
-                    weight: 1.5,
-                    fillOpacity: 1.0 // Sólido como pediste
-                };
+            style: function(f) {
+                return { fillColor: f.properties.fillColor, color: "#000", weight: 1, fillOpacity: 1 };
             },
-            onEachFeature: function (feature, layer) {
-                if (feature.properties.popup_html) {
-                    layer.bindPopup(feature.properties.popup_html);
-                }
+            onEachFeature: function (f, l) {
+                l.bindPopup(f.properties.popup_html);
             }
         }).addTo(map);
 
-        // Cargar el GeoJSON
-        fetch('avisos_espana.geojson')
-            .then(res => {
-                if (!res.ok) throw new Error("No se pudo cargar el archivo geojson");
-                return res.json();
-            })
-            .then(data => {
-                datosOriginales = data;
-                console.log("Datos cargados:", data.features.length, "avisos encontrados.");
-                filtrarDia(0); // Mostrar HOY por defecto
-            })
-            .catch(err => alert("Error al cargar avisos: " + err.message));
+        fetch('avisos_espana.geojson').then(res => res.json()).then(data => {
+            datosOriginales = data;
+            filtrarDia(0);
+        });
 
         function filtrarDia(diaNum) {
-            if (!datosOriginales) return;
-
-            // 1. Actualizar botones visualmente
-            document.querySelectorAll('.selector-dias button').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
             document.getElementById('btn' + diaNum).classList.add('active');
-
-            // 2. Limpiar la capa actual
+            
             capaAvisos.clearLayers();
+            
+            // Filtrar avisos del día seleccionado
+            var filtrados = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
+            
+            // ORDENAR: Importante para que los rojos se pinten al final (y queden encima)
+            filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
+            
+            capaAvisos.addData(filtrados);
 
-            // 3. Filtrar los avisos que coincidan con el número de día (0, 1 o 2)
-            // IMPORTANTE: Nos aseguramos de que la comparación sea correcta
-            var avisosFiltrados = datosOriginales.features.filter(function(f) {
-                return parseInt(f.properties.dia) === diaNum;
-            });
-
-            console.log("Mostrando día", diaNum, "-", avisosFiltrados.length, "avisos.");
-
-            // 4. Añadir los datos filtrados a la capa
-            capaAvisos.addData(avisosFiltrados);
-
-            // 5. Ajustar el orden visual (los rojos arriba)
-            capaAvisos.eachLayer(function(layer) {
-                if (layer.feature.properties.priority === 3) {
-                    layer.bringToFront();
-                }
+            // Refuerzo de prioridad: traer al frente explícitamente los rojos
+            capaAvisos.eachLayer(function(l) {
+                if (l.feature.properties.priority === 3) l.bringToFront();
             });
         }
-
-        // Añadir Leyenda
-        var legend = L.control({position: 'bottomright'});
-        legend.onAdd = function () {
-            var div = L.DomUtil.create('div', 'legend');
-            div.innerHTML = '<b>Nivel de Alerta</b><br>' +
-                '<i style="background: #FF0000"></i> Rojo<br>' +
-                '<i style="background: #FF7F00"></i> Naranja<br>' +
-                '<i style="background: #f3f702"></i> Amarillo';
-            return div;
-        };
-        legend.addTo(map);
     </script>
 </body>
 </html>
