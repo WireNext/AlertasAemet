@@ -13,13 +13,14 @@
             border-radius: 5px; box-shadow: 0 0 15px rgba(0,0,0,0.2);
         }
         .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.8; }
+        .leaflet-popup-content { min-width: 250px; }
     </style>
 </head>
 <body>
     <div id="map"></div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // CENTRADO EN LA COMUNIDAD VALENCIANA
+        // Centrat a la Comunitat Valenciana
         var map = L.map('map').setView([39.484, -0.753], 8);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -33,9 +34,7 @@
                     style: function(f) {
                         return {
                             fillColor: f.properties._umap_options.fillColor,
-                            color: "white", 
-                            weight: 1, 
-                            fillOpacity: 0.8
+                            color: "white", weight: 1, fillOpacity: 0.7
                         };
                     },
                     onEachFeature: function (f, layer) {
@@ -45,18 +44,14 @@
                     }
                 }).addTo(map);
 
-                // Asegurar que los rojos siempre estén arriba visualmente
+                // Prioritat visual: Rojos davant
                 geojsonLayer.eachLayer(function (layer) {
                     var priority = layer.feature.properties.priority;
-                    if (priority === 3) { 
-                        layer.bringToFront();
-                    } else if (priority === 1) {
-                        layer.bringToBack();
-                    }
+                    if (priority === 3) layer.bringToFront();
+                    else if (priority === 1) layer.bringToBack();
                 });
             });
 
-        // Añadir Leyenda
         var legend = L.control({position: 'bottomright'});
         legend.onAdd = function (map) {
             var div = L.DomUtil.create('div', 'legend');
