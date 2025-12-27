@@ -1,31 +1,37 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-    <title>Mapa Avisos AEMET - Comunitat Valenciana</title>
+    <title>Avisos AEMET - Comunitat Valenciana</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         #map { height: 100vh; width: 100%; margin: 0; } 
-        body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { margin: 0; font-family: sans-serif; }
         .legend {
             background: white; padding: 10px; line-height: 18px; color: #333;
-            border-radius: 5px; box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px; box-shadow: 0 0 15px rgba(0,0,0,0.2); font-size: 13px;
         }
         .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.8; border: 1px solid #999; }
-        /* Ajuste para que el popup sea lo suficientemente ancho para leer bien */
-        .leaflet-popup-content { min-width: 300px; font-size: 14px; line-height: 1.4; }
+        
+        /* Estilo para que el globo de información sea grande y legible */
+        .leaflet-popup-content { 
+            min-width: 300px; 
+            max-width: 400px;
+            font-size: 14px; 
+            line-height: 1.5; 
+        }
     </style>
 </head>
 <body>
     <div id="map"></div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Centrat a la Comunitat Valenciana (zoom 8 para ver las 3 provincias)
+        // Centrado en la Comunitat Valenciana
         var map = L.map('map').setView([39.484, -0.753], 8);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; AEMET / OpenStreetMap contributors'
+            attribution: '&copy; AEMET / OpenStreetMap'
         }).addTo(map);
 
         fetch('avisos_espana.geojson')
@@ -35,32 +41,26 @@
                     style: function(f) {
                         return {
                             fillColor: f.properties._umap_options.fillColor,
-                            color: "white", 
-                            weight: 1, 
-                            fillOpacity: 0.7
+                            color: "white", weight: 1.5, fillOpacity: 0.7
                         };
                     },
                     onEachFeature: function (f, layer) {
                         if (f.properties.popup_html) {
-                            // Vinculamos el HTML detallado generado en Python
+                            // Aquí se inyecta todo el texto detallado
                             layer.bindPopup(f.properties.popup_html);
                         }
                     }
                 }).addTo(map);
 
-                // Prioridad visual y de clic: Los rojos siempre arriba
+                // Forzamos orden de capas: Rojo siempre visible por encima
                 geojsonLayer.eachLayer(function (layer) {
-                    var priority = layer.feature.properties.priority;
-                    if (priority === 3) { 
-                        layer.bringToFront();
-                    } else if (priority === 1) {
-                        layer.bringToBack();
-                    }
+                    var p = layer.feature.properties.priority;
+                    if (p === 3) layer.bringToFront(); 
+                    else if (p === 1) layer.bringToBack();
                 });
-            })
-            .catch(err => console.error("Error carregant el GeoJSON:", err));
+            });
 
-        // Leyenda en valenciano
+        // Leyenda
         var legend = L.control({position: 'bottomright'});
         legend.onAdd = function (map) {
             var div = L.DomUtil.create('div', 'legend');
