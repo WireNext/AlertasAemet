@@ -7,22 +7,22 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         #map { height: 100vh; width: 100%; margin: 0; }
-        body { margin: 0; font-family: sans-serif; }
+        body { margin: 0; font-family: Arial, sans-serif; }
         
-        /* Contenedor de botones */
         .selector-dias {
-            position: absolute; top: 10px; left: 50%;
+            position: absolute; top: 15px; left: 50%;
             transform: translateX(-50%); z-index: 1000;
             background: white; padding: 10px; border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
-            display: flex; gap: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+            display: flex; gap: 10px;
         }
         button {
-            padding: 10px 15px; border: 1px solid #ccc; background: #f9f9f9;
-            cursor: pointer; border-radius: 4px; font-weight: bold;
+            padding: 10px 20px; border: 2px solid #ddd; background: #fff;
+            cursor: pointer; border-radius: 5px; font-weight: bold; transition: 0.3s;
         }
-        button.active { background: #007bff; color: white; border-color: #0056b3; }
-        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; }
+        button.active { background: #333; color: white; border-color: #000; }
+        
+        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; box-shadow: 0 0 10px rgba(0,0,0,0.2); }
         .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; border: 1px solid #333; }
     </style>
 </head>
@@ -38,45 +38,77 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
+        // Centrado en la Comunidad Valenciana
         var map = L.map('map').setView([39.484, -0.753], 8);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; AEMET / OpenStreetMap'
+        }).addTo(map);
 
         var datosOriginales = null;
-        var capaAvisos = L.geoJSON(null).addTo(map);
+        // Capa donde dibujaremos los avisos
+        var capaAvisos = L.geoJSON(null, {
+            style: function(feature) {
+                return {
+                    fillColor: feature.properties.fillColor || "#cccccc",
+                    color: "#000000",
+                    weight: 1.5,
+                    fillOpacity: 1.0 // Sólido como pediste
+                };
+            },
+            onEachFeature: function (feature, layer) {
+                if (feature.properties.popup_html) {
+                    layer.bindPopup(feature.properties.popup_html);
+                }
+            }
+        }).addTo(map);
 
+        // Cargar el GeoJSON
         fetch('avisos_espana.geojson')
-            .then(res => res.json())
+            .then(res => {
+                if (!res.ok) throw new Error("No se pudo cargar el archivo geojson");
+                return res.json();
+            })
             .then(data => {
                 datosOriginales = data;
-                filtrarDia(0); // Mostrar hoy por defecto
-            });
+                console.log("Datos cargados:", data.features.length, "avisos encontrados.");
+                filtrarDia(0); // Mostrar HOY por defecto
+            })
+            .catch(err => alert("Error al cargar avisos: " + err.message));
 
         function filtrarDia(diaNum) {
-            // Actualizar botones
-            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            if (!datosOriginales) return;
+
+            // 1. Actualizar botones visualmente
+            document.querySelectorAll('.selector-dias button').forEach(b => b.classList.remove('active'));
             document.getElementById('btn' + diaNum).classList.add('active');
 
-            // Limpiar mapa
+            // 2. Limpiar la capa actual
             capaAvisos.clearLayers();
 
-            // Filtrar y añadir nuevos datos
-            capaAvisos.addData(datosOriginales.features.filter(f => f.properties.dia === diaNum));
+            // 3. Filtrar los avisos que coincidan con el número de día (0, 1 o 2)
+            // IMPORTANTE: Nos aseguramos de que la comparación sea correcta
+            var avisosFiltrados = datosOriginales.features.filter(function(f) {
+                return parseInt(f.properties.dia) === diaNum;
+            });
 
-            // Estilo y Popups
+            console.log("Mostrando día", diaNum, "-", avisosFiltrados.length, "avisos.");
+
+            // 4. Añadir los datos filtrados a la capa
+            capaAvisos.addData(avisosFiltrados);
+
+            // 5. Ajustar el orden visual (los rojos arriba)
             capaAvisos.eachLayer(function(layer) {
-                layer.setStyle({
-                    fillColor: layer.feature.properties.fillColor,
-                    color: "black", weight: 1, fillOpacity: 1
-                });
-                layer.bindPopup(layer.feature.properties.popup_html);
-                if (layer.feature.properties.priority === 3) layer.bringToFront();
+                if (layer.feature.properties.priority === 3) {
+                    layer.bringToFront();
+                }
             });
         }
 
+        // Añadir Leyenda
         var legend = L.control({position: 'bottomright'});
         legend.onAdd = function () {
             var div = L.DomUtil.create('div', 'legend');
-            div.innerHTML = '<b>Avisos</b><br>' +
+            div.innerHTML = '<b>Nivel de Alerta</b><br>' +
                 '<i style="background: #FF0000"></i> Rojo<br>' +
                 '<i style="background: #FF7F00"></i> Naranja<br>' +
                 '<i style="background: #f3f702"></i> Amarillo';
