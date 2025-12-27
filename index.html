@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avisos AEMET - Mapa Interactivo</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { height: 100vh; width: 100%; }
+        .legend {
+            background: white;
+            padding: 10px;
+            line-height: 18px;
+            color: #555;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+            border: 1px solid #999;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script>
+        // Inicializar el mapa centrado en España
+        var map = L.map('map').setView([40.4167, -3.7033], 6);
+
+        // Añadir capa base (OpenStreetMap)
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; AEMET & OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Función para aplicar los estilos definidos en el GeoJSON
+        function style(feature) {
+            var options = feature.properties._umap_options || {};
+            return {
+                fillColor: options.fillColor || "#ff7800",
+                weight: options.weight || 1,
+                opacity: options.opacity || 1,
+                color: options.color || 'white',
+                fillOpacity: options.fillOpacity || 0.7
+            };
+        }
+
+        // Cargar el archivo GeoJSON generado por tu script de Python
+        fetch('avisos_espana.geojson')
+            .then(response => response.json())
+            .then(data => {
+                L.geoJSON(data, {
+                    style: style,
+                    onEachFeature: function (feature, layer) {
+                        // Usar directamente el popup_html generado por el script de Python
+                        if (feature.properties && feature.properties.popup_html) {
+                            layer.bindPopup(feature.properties.popup_html);
+                        }
+                    }
+                }).addTo(map);
+            })
+            .catch(error => console.error('Error cargando el GeoJSON:', error));
+
+        // Añadir una leyenda básica
+        var legend = L.control({position: 'bottomright'});
+        legend.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'info legend'),
+                grades = ["Amarillo", "Naranja", "Rojo"],
+                colors = ["#f3f702", "#FF7F00", "#FF0000"];
+
+            div.innerHTML += '<b>Nivel de Alerta</b><br>';
+            for (var i = 0; i < grades.length; i++) {
+                div.innerHTML +=
+                    '<i style="background:' + colors[i] + '"></i> ' +
+                    grades[i] + '<br>';
+            }
+            return div;
+        };
+        legend.addTo(map);
+    </script>
+</body>
+</html>
