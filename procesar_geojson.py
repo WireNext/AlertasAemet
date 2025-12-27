@@ -54,9 +54,13 @@ def extract_and_process_tar(tar_path='avisos.tar'):
         for file_name in os.listdir('datos'):
             if file_name.endswith('.xml'):
                 all_features.extend(process_xml_to_geojson(os.path.join('datos', file_name)))
+        
+        # Ordenar para que Leaflet dibuje los más graves al final (encima)
         all_features.sort(key=lambda x: PRIORIDAD_NIVELES.get(x["properties"].get("parameter", "").lower(), 0))
+        
         with open(SALIDA_GEOJSON, 'w', encoding='utf-8') as f:
             json.dump({"type": "FeatureCollection", "features": all_features}, f, indent=4)
+        print(f"✅ GeoJSON guardat amb {len(all_features)} avisos.")
     except Exception as e: print(f"Error: {e}")
 
 def process_xml_to_geojson(file_path):
@@ -89,10 +93,10 @@ def process_xml_to_geojson(file_path):
 def generate_popup_html(info, area, nivel, onset_dt, expires_dt):
     ns = {'': 'urn:oasis:names:tc:emergency:cap:1.2'}
     event, emoji = get_type_and_emoji(info.findtext("event", "Altre", ns))
-    # Mapeo de nombres de nivel al valenciano
     traduccion_nivel = {"rojo": "Roig", "naranja": "Taronja", "amarillo": "Groc"}
     nivel_val = traduccion_nivel.get(nivel, nivel.capitalize())
 
+    # Retornamos el HTML completo con todas las propiedades originales
     return (
         f"<b>{info.findtext('headline', '', ns)}</b><br>"
         f"<b>Àrea:</b> {area.findtext('areaDesc', '', ns)}<br>"
