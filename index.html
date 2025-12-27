@@ -1,68 +1,85 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Avisos AEMET - España</title>
+    <title>Avisos AEMET por Días</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         #map { height: 100vh; width: 100%; margin: 0; }
-        body { margin: 0; font-family: Arial, sans-serif; }
-        .leaflet-popup-content { 
-            min-width: 350px; 
-            max-width: 450px; 
-            font-size: 14px; 
-            line-height: 1.5;
+        body { margin: 0; font-family: sans-serif; }
+        
+        /* Contenedor de botones */
+        .selector-dias {
+            position: absolute; top: 10px; left: 50%;
+            transform: translateX(-50%); z-index: 1000;
+            background: white; padding: 10px; border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            display: flex; gap: 5px;
         }
-        .legend {
-            background: white; padding: 10px; border-radius: 5px;
-            box-shadow: 0 0 15px rgba(0,0,0,0.3); font-size: 14px;
+        button {
+            padding: 10px 15px; border: 1px solid #ccc; background: #f9f9f9;
+            cursor: pointer; border-radius: 4px; font-weight: bold;
         }
+        button.active { background: #007bff; color: white; border-color: #0056b3; }
+        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; }
         .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; border: 1px solid #333; }
     </style>
 </head>
 <body>
+
+    <div class="selector-dias">
+        <button id="btn0" class="active" onclick="filtrarDia(0)">HOY</button>
+        <button id="btn1" onclick="filtrarDia(1)">MAÑANA</button>
+        <button id="btn2" onclick="filtrarDia(2)">PASADO MAÑANA</button>
+    </div>
+
     <div id="map"></div>
+
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Centrado en la Comunidad Valenciana
         var map = L.map('map').setView([39.484, -0.753], 8);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; AEMET / OpenStreetMap'
-        }).addTo(map);
+        var datosOriginales = null;
+        var capaAvisos = L.geoJSON(null).addTo(map);
 
         fetch('avisos_espana.geojson')
             .then(res => res.json())
             .then(data => {
-                var layer = L.geoJSON(data, {
-                    style: function(f) {
-                        return { 
-                            fillColor: f.properties._umap_options.fillColor, 
-                            color: "black", 
-                            weight: 1, 
-                            fillOpacity: 1.0 // TOTALMENTE SÓLIDO
-                        };
-                    },
-                    onEachFeature: function (f, l) {
-                        if (f.properties.popup_html) l.bindPopup(f.properties.popup_html);
-                    }
-                }).addTo(map);
-
-                // Los rojos siempre arriba
-                layer.eachLayer(function(l) {
-                    if (l.feature.properties.priority === 3) l.bringToFront();
-                });
+                datosOriginales = data;
+                filtrarDia(0); // Mostrar hoy por defecto
             });
 
-        // Leyenda en español
+        function filtrarDia(diaNum) {
+            // Actualizar botones
+            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            document.getElementById('btn' + diaNum).classList.add('active');
+
+            // Limpiar mapa
+            capaAvisos.clearLayers();
+
+            // Filtrar y añadir nuevos datos
+            capaAvisos.addData(datosOriginales.features.filter(f => f.properties.dia === diaNum));
+
+            // Estilo y Popups
+            capaAvisos.eachLayer(function(layer) {
+                layer.setStyle({
+                    fillColor: layer.feature.properties.fillColor,
+                    color: "black", weight: 1, fillOpacity: 1
+                });
+                layer.bindPopup(layer.feature.properties.popup_html);
+                if (layer.feature.properties.priority === 3) layer.bringToFront();
+            });
+        }
+
         var legend = L.control({position: 'bottomright'});
-        legend.onAdd = function (map) {
+        legend.onAdd = function () {
             var div = L.DomUtil.create('div', 'legend');
-            div.innerHTML += '<b>Nivel de Alerta</b><br>';
-            div.innerHTML += '<i style="background: #FF0000"></i> Rojo (Extremo)<br>';
-            div.innerHTML += '<i style="background: #FF7F00"></i> Naranja (Importante)<br>';
-            div.innerHTML += '<i style="background: #f3f702"></i> Amarillo (Riesgo)<br>';
+            div.innerHTML = '<b>Avisos</b><br>' +
+                '<i style="background: #FF0000"></i> Rojo<br>' +
+                '<i style="background: #FF7F00"></i> Naranja<br>' +
+                '<i style="background: #f3f702"></i> Amarillo';
             return div;
         };
         legend.addTo(map);
