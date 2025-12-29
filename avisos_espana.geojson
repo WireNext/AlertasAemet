@@ -8,6 +8,126 @@
                 "coordinates": [
                     [
                         [
+                            1.3,
+                            38.97
+                        ],
+                        [
+                            1.28,
+                            39.0
+                        ],
+                        [
+                            1.3,
+                            39.03
+                        ],
+                        [
+                            1.37,
+                            39.07
+                        ],
+                        [
+                            1.42,
+                            39.08
+                        ],
+                        [
+                            1.45,
+                            39.1
+                        ],
+                        [
+                            1.53,
+                            39.12
+                        ],
+                        [
+                            1.56,
+                            39.09
+                        ],
+                        [
+                            1.6,
+                            39.09
+                        ],
+                        [
+                            1.59,
+                            39.06
+                        ],
+                        [
+                            1.61,
+                            39.03
+                        ],
+                        [
+                            1.58,
+                            38.99
+                        ],
+                        [
+                            1.53,
+                            38.98
+                        ],
+                        [
+                            1.53,
+                            38.95
+                        ],
+                        [
+                            1.47,
+                            38.91
+                        ],
+                        [
+                            1.44,
+                            38.92
+                        ],
+                        [
+                            1.41,
+                            38.89
+                        ],
+                        [
+                            1.4,
+                            38.85
+                        ],
+                        [
+                            1.38,
+                            38.83
+                        ],
+                        [
+                            1.34,
+                            38.87
+                        ],
+                        [
+                            1.31,
+                            38.86
+                        ],
+                        [
+                            1.22,
+                            38.88
+                        ],
+                        [
+                            1.22,
+                            38.91
+                        ],
+                        [
+                            1.24,
+                            38.94
+                        ],
+                        [
+                            1.22,
+                            38.96
+                        ],
+                        [
+                            1.3,
+                            38.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Ibiza y Formentera</b><br><b>\u00c1rea:</b> Ibiza y Formentera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             2.93,
                             39.81
                         ],
@@ -117,7 +237,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Interior de Mallorca</b><br><b>\u00c1rea:</b> Interior de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Interior de Mallorca</b><br><b>\u00c1rea:</b> Interior de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1204,108 +1324,188 @@
                 "coordinates": [
                     [
                         [
-                            1.3,
-                            38.97
+                            -1.27,
+                            37.85
                         ],
                         [
-                            1.28,
-                            39.0
+                            -1.19,
+                            37.81
                         ],
                         [
-                            1.3,
-                            39.03
+                            -1.16,
+                            37.79
                         ],
                         [
-                            1.37,
-                            39.07
+                            -1.14,
+                            37.75
                         ],
                         [
-                            1.42,
-                            39.08
+                            -1.1,
+                            37.74
                         ],
                         [
-                            1.45,
-                            39.1
+                            -1.08,
+                            37.72
                         ],
                         [
-                            1.53,
-                            39.12
+                            -1.05,
+                            37.72
                         ],
                         [
-                            1.56,
-                            39.09
+                            -1.06,
+                            37.76
                         ],
                         [
-                            1.6,
-                            39.09
+                            -1.099999,
+                            37.74
                         ],
                         [
-                            1.59,
-                            39.06
+                            -1.139999,
+                            37.75
                         ],
                         [
-                            1.61,
-                            39.03
+                            -1.03,
+                            37.81
                         ],
                         [
-                            1.58,
-                            38.99
+                            -1.0,
+                            37.85
                         ],
                         [
-                            1.53,
-                            38.98
+                            -0.98,
+                            37.82
                         ],
                         [
-                            1.53,
-                            38.95
+                            -0.94,
+                            37.83
                         ],
                         [
-                            1.47,
-                            38.91
+                            -0.86,
+                            37.86
                         ],
                         [
-                            1.44,
-                            38.92
+                            -0.85,
+                            37.88
                         ],
                         [
-                            1.41,
-                            38.89
+                            -0.78,
+                            37.85
                         ],
                         [
-                            1.4,
-                            38.85
+                            -0.76,
+                            37.85
                         ],
                         [
-                            1.38,
-                            38.83
+                            -0.76,
+                            37.82
                         ],
                         [
-                            1.34,
-                            38.87
+                            -0.8,
+                            37.81
                         ],
                         [
-                            1.31,
-                            38.86
+                            -0.8,
+                            37.78
                         ],
                         [
-                            1.22,
-                            38.88
+                            -0.85,
+                            37.75
                         ],
                         [
-                            1.22,
-                            38.91
+                            -0.86,
+                            37.72
                         ],
                         [
-                            1.24,
-                            38.94
+                            -0.8,
+                            37.66
                         ],
                         [
-                            1.22,
-                            38.96
+                            -0.74,
+                            37.63
                         ],
                         [
-                            1.3,
-                            38.97
+                            -0.73,
+                            37.6
+                        ],
+                        [
+                            -0.77,
+                            37.6
+                        ],
+                        [
+                            -0.82,
+                            37.58
+                        ],
+                        [
+                            -0.85,
+                            37.58
+                        ],
+                        [
+                            -0.92,
+                            37.56
+                        ],
+                        [
+                            -0.97,
+                            37.58
+                        ],
+                        [
+                            -1.07,
+                            37.58
+                        ],
+                        [
+                            -1.13,
+                            37.55
+                        ],
+                        [
+                            -1.2,
+                            37.57
+                        ],
+                        [
+                            -1.25,
+                            37.58
+                        ],
+                        [
+                            -1.27,
+                            37.56
+                        ],
+                        [
+                            -1.32,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.27,
+                            37.85
                         ]
                     ]
                 ]
@@ -1313,7 +1513,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Ibiza y Formentera</b><br><b>\u00c1rea:</b> Ibiza y Formentera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 00:00<br><b>Data de fi:</b> 29/12/2025 14:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Campo de Cartagena y Mazarr\u00f3n</b><br><b>\u00c1rea:</b> Campo de Cartagena y Mazarr\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Posibilidad de venir acompa\u00f1adas de granizo.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1504,24 +1704,72 @@
                 "coordinates": [
                     [
                         [
-                            3.03,
-                            39.29
+                            2.44,
+                            39.64
                         ],
                         [
-                            3.07,
-                            39.3
+                            2.49,
+                            39.63
                         ],
                         [
-                            3.09,
-                            39.36
+                            2.51,
+                            39.59
                         ],
                         [
-                            3.07,
-                            39.38
+                            2.57,
+                            39.61
                         ],
                         [
-                            3.1,
-                            39.42
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.78,
+                            39.64
+                        ],
+                        [
+                            2.85,
+                            39.57
+                        ],
+                        [
+                            2.83,
+                            39.55
+                        ],
+                        [
+                            2.89,
+                            39.52
+                        ],
+                        [
+                            2.94,
+                            39.53
+                        ],
+                        [
+                            2.97,
+                            39.52
+                        ],
+                        [
+                            2.97,
+                            39.46
+                        ],
+                        [
+                            3.01,
+                            39.46
                         ],
                         [
                             3.06,
@@ -1529,83 +1777,103 @@
                         ],
                         [
                             3.1,
-                            39.53
-                        ],
-                        [
-                            3.16,
-                            39.55
-                        ],
-                        [
-                            3.16,
-                            39.63
-                        ],
-                        [
-                            3.18,
-                            39.65
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.43,
-                            39.63
-                        ],
-                        [
-                            3.41,
-                            39.64
-                        ],
-                        [
-                            3.4,
-                            39.63
-                        ],
-                        [
-                            3.38,
-                            39.56
-                        ],
-                        [
-                            3.3,
-                            39.5
-                        ],
-                        [
-                            3.28,
                             39.42
                         ],
                         [
-                            3.23,
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.09,
                             39.36
                         ],
                         [
-                            3.15,
-                            39.33
-                        ],
-                        [
                             3.07,
-                            39.27
+                            39.3
                         ],
                         [
                             3.03,
                             39.29
+                        ],
+                        [
+                            2.99,
+                            39.34
+                        ],
+                        [
+                            2.96,
+                            39.36
+                        ],
+                        [
+                            2.91,
+                            39.36
+                        ],
+                        [
+                            2.85,
+                            39.37
+                        ],
+                        [
+                            2.79,
+                            39.36
+                        ],
+                        [
+                            2.74,
+                            39.41
+                        ],
+                        [
+                            2.75,
+                            39.44
+                        ],
+                        [
+                            2.72,
+                            39.48
+                        ],
+                        [
+                            2.75,
+                            39.5
+                        ],
+                        [
+                            2.72,
+                            39.54
+                        ],
+                        [
+                            2.67,
+                            39.56
+                        ],
+                        [
+                            2.63,
+                            39.57
+                        ],
+                        [
+                            2.62,
+                            39.55
+                        ],
+                        [
+                            2.54,
+                            39.52
+                        ],
+                        [
+                            2.52,
+                            39.46
+                        ],
+                        [
+                            2.48,
+                            39.48
+                        ],
+                        [
+                            2.45,
+                            39.54
+                        ],
+                        [
+                            2.37,
+                            39.53
+                        ],
+                        [
+                            2.35,
+                            39.59
+                        ],
+                        [
+                            2.44,
+                            39.64
                         ]
                     ]
                 ]
@@ -1613,7 +1881,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn</b><br><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sur de Mallorca</b><br><b>\u00c1rea:</b> Sur de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -3272,194 +3540,6 @@
                 "coordinates": [
                     [
                         [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.78,
-                            39.64
-                        ],
-                        [
-                            2.85,
-                            39.57
-                        ],
-                        [
-                            2.83,
-                            39.55
-                        ],
-                        [
-                            2.89,
-                            39.52
-                        ],
-                        [
-                            2.94,
-                            39.53
-                        ],
-                        [
-                            2.97,
-                            39.52
-                        ],
-                        [
-                            2.97,
-                            39.46
-                        ],
-                        [
-                            3.01,
-                            39.46
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.1,
-                            39.42
-                        ],
-                        [
-                            3.07,
-                            39.38
-                        ],
-                        [
-                            3.09,
-                            39.36
-                        ],
-                        [
-                            3.07,
-                            39.3
-                        ],
-                        [
-                            3.03,
-                            39.29
-                        ],
-                        [
-                            2.99,
-                            39.34
-                        ],
-                        [
-                            2.96,
-                            39.36
-                        ],
-                        [
-                            2.91,
-                            39.36
-                        ],
-                        [
-                            2.85,
-                            39.37
-                        ],
-                        [
-                            2.79,
-                            39.36
-                        ],
-                        [
-                            2.74,
-                            39.41
-                        ],
-                        [
-                            2.75,
-                            39.44
-                        ],
-                        [
-                            2.72,
-                            39.48
-                        ],
-                        [
-                            2.75,
-                            39.5
-                        ],
-                        [
-                            2.72,
-                            39.54
-                        ],
-                        [
-                            2.67,
-                            39.56
-                        ],
-                        [
-                            2.63,
-                            39.57
-                        ],
-                        [
-                            2.62,
-                            39.55
-                        ],
-                        [
-                            2.54,
-                            39.52
-                        ],
-                        [
-                            2.52,
-                            39.46
-                        ],
-                        [
-                            2.48,
-                            39.48
-                        ],
-                        [
-                            2.45,
-                            39.54
-                        ],
-                        [
-                            2.37,
-                            39.53
-                        ],
-                        [
-                            2.35,
-                            39.59
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sur de Mallorca</b><br><b>\u00c1rea:</b> Sur de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             0.09,
                             40.48
                         ],
@@ -3682,6 +3762,194 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<b>Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</b><br><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 04:00<br><b>Data de fi:</b> 29/12/2025 11:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.78,
+                            39.64
+                        ],
+                        [
+                            2.85,
+                            39.57
+                        ],
+                        [
+                            2.83,
+                            39.55
+                        ],
+                        [
+                            2.89,
+                            39.52
+                        ],
+                        [
+                            2.94,
+                            39.53
+                        ],
+                        [
+                            2.97,
+                            39.52
+                        ],
+                        [
+                            2.97,
+                            39.46
+                        ],
+                        [
+                            3.01,
+                            39.46
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            2.99,
+                            39.34
+                        ],
+                        [
+                            2.96,
+                            39.36
+                        ],
+                        [
+                            2.91,
+                            39.36
+                        ],
+                        [
+                            2.85,
+                            39.37
+                        ],
+                        [
+                            2.79,
+                            39.36
+                        ],
+                        [
+                            2.74,
+                            39.41
+                        ],
+                        [
+                            2.75,
+                            39.44
+                        ],
+                        [
+                            2.72,
+                            39.48
+                        ],
+                        [
+                            2.75,
+                            39.5
+                        ],
+                        [
+                            2.72,
+                            39.54
+                        ],
+                        [
+                            2.67,
+                            39.56
+                        ],
+                        [
+                            2.63,
+                            39.57
+                        ],
+                        [
+                            2.62,
+                            39.55
+                        ],
+                        [
+                            2.54,
+                            39.52
+                        ],
+                        [
+                            2.52,
+                            39.46
+                        ],
+                        [
+                            2.48,
+                            39.48
+                        ],
+                        [
+                            2.45,
+                            39.54
+                        ],
+                        [
+                            2.37,
+                            39.53
+                        ],
+                        [
+                            2.35,
+                            39.59
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sur de Mallorca</b><br><b>\u00c1rea:</b> Sur de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -4852,262 +5120,6 @@
                 "coordinates": [
                     [
                         [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sierra Tramontana</b><br><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             1.3,
                             38.97
                         ],
@@ -5217,7 +5229,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Ibiza y Formentera</b><br><b>\u00c1rea:</b> Ibiza y Formentera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 00:00<br><b>Data de fi:</b> 29/12/2025 14:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Ibiza y Formentera</b><br><b>\u00c1rea:</b> Ibiza y Formentera<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -6040,6 +6052,262 @@
                 "coordinates": [
                     [
                         [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.02,
+                            39.74
+                        ],
+                        [
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            2.95,
+                            39.76
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.46,
+                            39.65
+                        ],
+                        [
+                            2.53,
+                            39.7
+                        ],
+                        [
+                            2.56,
+                            39.7
+                        ],
+                        [
+                            2.78,
+                            39.86
+                        ],
+                        [
+                            2.83,
+                            39.86
+                        ],
+                        [
+                            2.89,
+                            39.89
+                        ],
+                        [
+                            2.92,
+                            39.9
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.9,
+                            39.82
+                        ],
+                        [
+                            2.8,
+                            39.74
+                        ],
+                        [
+                            2.74,
+                            39.71
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Sierra Tramontana</b><br><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -6.29,
                             42.12
                         ],
@@ -6486,154 +6754,6 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Meseta de Zamora</b><br><b>\u00c1rea:</b> Meseta de Zamora<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3n:</b> Visibilidad: 100 m. Pueden ser engelantes e ir con cencellada.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 31/12/2025 00:00<br><b>Data de fi:</b> 31/12/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -7292,96 +7412,108 @@
                 "coordinates": [
                     [
                         [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
                             2.93,
                             39.81
                         ],
                         [
-                            2.9,
-                            39.82
+                            2.95,
+                            39.76
                         ],
                         [
-                            2.8,
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            3.02,
                             39.74
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.01,
+                            39.46
+                        ],
+                        [
+                            2.97,
+                            39.46
+                        ],
+                        [
+                            2.97,
+                            39.52
+                        ],
+                        [
+                            2.94,
+                            39.53
+                        ],
+                        [
+                            2.89,
+                            39.52
+                        ],
+                        [
+                            2.83,
+                            39.55
+                        ],
+                        [
+                            2.85,
+                            39.57
+                        ],
+                        [
+                            2.78,
+                            39.64
+                        ],
+                        [
+                            2.74,
+                            39.66
                         ],
                         [
                             2.74,
                             39.71
                         ],
                         [
-                            2.74,
-                            39.66
+                            2.8,
+                            39.74
                         ],
                         [
-                            2.71,
-                            39.65
+                            2.9,
+                            39.82
                         ],
                         [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
+                            2.93,
+                            39.81
                         ]
                     ]
                 ]
@@ -7389,7 +7521,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><br><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Mallorca</b><br><b>\u00c1rea:</b> Interior de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -8846,314 +8978,6 @@
                 "dia": 1,
                 "priority": 1,
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Centro de Lugo</b><br><b>\u00c1rea:</b> Centro de Lugo<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3n:</b> Visibilidad: 200 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 30/12/2025 00:00<br><b>Data de fi:</b> 30/12/2025 09:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.18,
-                            39.65
-                        ],
-                        [
-                            3.16,
-                            39.63
-                        ],
-                        [
-                            3.16,
-                            39.55
-                        ],
-                        [
-                            3.1,
-                            39.53
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.01,
-                            39.46
-                        ],
-                        [
-                            2.97,
-                            39.46
-                        ],
-                        [
-                            2.97,
-                            39.52
-                        ],
-                        [
-                            2.94,
-                            39.53
-                        ],
-                        [
-                            2.89,
-                            39.52
-                        ],
-                        [
-                            2.83,
-                            39.55
-                        ],
-                        [
-                            2.85,
-                            39.57
-                        ],
-                        [
-                            2.78,
-                            39.64
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Interior de Mallorca</b><br><b>\u00c1rea:</b> Interior de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.78,
-                            39.64
-                        ],
-                        [
-                            2.85,
-                            39.57
-                        ],
-                        [
-                            2.83,
-                            39.55
-                        ],
-                        [
-                            2.89,
-                            39.52
-                        ],
-                        [
-                            2.94,
-                            39.53
-                        ],
-                        [
-                            2.97,
-                            39.52
-                        ],
-                        [
-                            2.97,
-                            39.46
-                        ],
-                        [
-                            3.01,
-                            39.46
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.1,
-                            39.42
-                        ],
-                        [
-                            3.07,
-                            39.38
-                        ],
-                        [
-                            3.09,
-                            39.36
-                        ],
-                        [
-                            3.07,
-                            39.3
-                        ],
-                        [
-                            3.03,
-                            39.29
-                        ],
-                        [
-                            2.99,
-                            39.34
-                        ],
-                        [
-                            2.96,
-                            39.36
-                        ],
-                        [
-                            2.91,
-                            39.36
-                        ],
-                        [
-                            2.85,
-                            39.37
-                        ],
-                        [
-                            2.79,
-                            39.36
-                        ],
-                        [
-                            2.74,
-                            39.41
-                        ],
-                        [
-                            2.75,
-                            39.44
-                        ],
-                        [
-                            2.72,
-                            39.48
-                        ],
-                        [
-                            2.75,
-                            39.5
-                        ],
-                        [
-                            2.72,
-                            39.54
-                        ],
-                        [
-                            2.67,
-                            39.56
-                        ],
-                        [
-                            2.63,
-                            39.57
-                        ],
-                        [
-                            2.62,
-                            39.55
-                        ],
-                        [
-                            2.54,
-                            39.52
-                        ],
-                        [
-                            2.52,
-                            39.46
-                        ],
-                        [
-                            2.48,
-                            39.48
-                        ],
-                        [
-                            2.45,
-                            39.54
-                        ],
-                        [
-                            2.37,
-                            39.53
-                        ],
-                        [
-                            2.35,
-                            39.59
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sur de Mallorca</b><br><b>\u00c1rea:</b> Sur de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -10621,7 +10445,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 00:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Menorca</b><br><b>\u00c1rea:</b> Menorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -11758,126 +11582,6 @@
                 "dia": 1,
                 "priority": 1,
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Meseta de Zamora</b><br><b>\u00c1rea:</b> Meseta de Zamora<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3n:</b> Visibilidad: 100 m. Pueden ser engelantes.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 30/12/2025 00:00<br><b>Data de fi:</b> 30/12/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.03,
-                            39.29
-                        ],
-                        [
-                            3.07,
-                            39.3
-                        ],
-                        [
-                            3.09,
-                            39.36
-                        ],
-                        [
-                            3.07,
-                            39.38
-                        ],
-                        [
-                            3.1,
-                            39.42
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.1,
-                            39.53
-                        ],
-                        [
-                            3.16,
-                            39.55
-                        ],
-                        [
-                            3.16,
-                            39.63
-                        ],
-                        [
-                            3.18,
-                            39.65
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.43,
-                            39.63
-                        ],
-                        [
-                            3.41,
-                            39.64
-                        ],
-                        [
-                            3.4,
-                            39.63
-                        ],
-                        [
-                            3.38,
-                            39.56
-                        ],
-                        [
-                            3.3,
-                            39.5
-                        ],
-                        [
-                            3.28,
-                            39.42
-                        ],
-                        [
-                            3.23,
-                            39.36
-                        ],
-                        [
-                            3.15,
-                            39.33
-                        ],
-                        [
-                            3.07,
-                            39.27
-                        ],
-                        [
-                            3.03,
-                            39.29
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Levante mallorqu\u00edn</b><br><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> <br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 12:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -13484,6 +13188,126 @@
                 "coordinates": [
                     [
                         [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de tormentas de nivel amarillo. Levante mallorqu\u00edn</b><br><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de tormentas de nivel amarillo \u26c8\ufe0f<br><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo peque\u00f1o.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -6.91,
                             39.86
                         ],
@@ -13830,6 +13654,126 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Tajo y Alag\u00f3n</b><br><b>\u00c1rea:</b> Tajo y Alag\u00f3n<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3n:</b> Visibilidad: 200 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 31/12/2025 00:00<br><b>Data de fi:</b> 31/12/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.43,
+                            39.63
+                        ],
+                        [
+                            3.41,
+                            39.64
+                        ],
+                        [
+                            3.4,
+                            39.63
+                        ],
+                        [
+                            3.38,
+                            39.56
+                        ],
+                        [
+                            3.3,
+                            39.5
+                        ],
+                        [
+                            3.28,
+                            39.42
+                        ],
+                        [
+                            3.23,
+                            39.36
+                        ],
+                        [
+                            3.15,
+                            39.33
+                        ],
+                        [
+                            3.07,
+                            39.27
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Levante mallorqu\u00edn</b><br><b>\u00c1rea:</b> Levante mallorqu\u00edn<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -14570,6 +14514,114 @@
                 "dia": 1,
                 "priority": 1,
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Vegas del Guadiana</b><br><b>\u00c1rea:</b> Vegas del Guadiana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3n:</b> Visibilidad: 200 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 30/12/2025 21:00<br><b>Data de fi:</b> 30/12/2025 23:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.46,
+                            39.65
+                        ],
+                        [
+                            2.53,
+                            39.7
+                        ],
+                        [
+                            2.56,
+                            39.7
+                        ],
+                        [
+                            2.78,
+                            39.86
+                        ],
+                        [
+                            2.83,
+                            39.86
+                        ],
+                        [
+                            2.89,
+                            39.89
+                        ],
+                        [
+                            2.92,
+                            39.9
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.9,
+                            39.82
+                        ],
+                        [
+                            2.8,
+                            39.74
+                        ],
+                        [
+                            2.74,
+                            39.71
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Sierra Tramontana</b><br><b>\u00c1rea:</b> Sierra Tramontana<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
@@ -15338,6 +15390,154 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<b>Aviso de nieblas de nivel amarillo. Barros y Serena</b><br><b>\u00c1rea:</b> Barros y Serena<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de nieblas de nivel amarillo \ud83c\udf2b\ufe0f<br><b>Descripci\u00f3n:</b> Visibilidad: 200 m.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 31/12/2025 00:00<br><b>Data de fi:</b> 31/12/2025 12:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.02,
+                            39.74
+                        ],
+                        [
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            2.95,
+                            39.76
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<b>Aviso de lluvias de nivel amarillo. Norte y nordeste de Mallorca</b><br><b>\u00c1rea:</b> Norte y nordeste de Mallorca<br><b>Nivel de alerta:</b> <span style='color:#f3f702'>Amarillo</span><br><b>Tipo:</b> Aviso de lluvias de nivel amarillo \ud83c\udf27\ufe0f<br><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.<br><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.<br><b>Data d'inici:</b> 29/12/2025 08:00<br><b>Data de fi:</b> 29/12/2025 17:59<br><b>M\u00e1s informaci\u00f3n:</b> <a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank'>AEMET</a>",
                 "fillColor": "#f3f702"
             }
         },
