@@ -7,41 +7,76 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         #map { height: 100vh; width: 100%; margin: 0; }
-        body { margin: 0; font-family: sans-serif; }
+        body { margin: 0; font-family: sans-serif; overflow: hidden; }
+
+        /* Botones más pequeños */
         .selector-dias {
-            position: absolute; top: 15px; left: 50%; transform: translateX(-50%); z-index: 1000;
-            background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.4);
-            display: flex; gap: 10px;
+            position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000;
+            background: rgba(255, 255, 255, 0.9); padding: 5px; border-radius: 20px; 
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2); display: flex; gap: 5px;
         }
-        button { padding: 10px 20px; border: 2px solid #ddd; background: #fff; cursor: pointer; border-radius: 5px; font-weight: bold; }
+        button { 
+            padding: 6px 12px; border: 1px solid #ccc; background: #fff; 
+            cursor: pointer; border-radius: 15px; font-size: 11px; font-weight: bold; text-transform: uppercase;
+        }
         button.active { background: #333; color: white; border-color: #000; }
-        .leaflet-popup-content { min-width: 350px; max-width: 450px; font-size: 14px; line-height: 1.5; }
-        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; }
-        .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; border: 1px solid #333; }
+
+        /* Estilos del Modal (Pantalla Completa / Centrado) */
+        .modal-info {
+            display: none; position: fixed; z-index: 2000;
+            left: 0; top: 0; width: 100%; height: 100%;
+            background-color: rgba(0,0,0,0.6);
+            backdrop-filter: blur(2px);
+        }
+        .modal-content {
+            background-color: white; margin: 15% auto; padding: 20px;
+            border-radius: 12px; width: 85%; max-width: 400px;
+            position: relative; box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            max-height: 70vh; overflow-y: auto;
+        }
+        .close-modal {
+            position: absolute; top: 10px; right: 15px;
+            font-size: 24px; font-weight: bold; color: #666; cursor: pointer;
+        }
+        .close-modal:hover { color: #000; }
+
+        /* Leyenda opcional si la necesitas */
+        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; pointer-events: none; }
     </style>
 </head>
 <body>
 
     <div class="selector-dias">
-        <button id="btn0" class="active" onclick="filtrarDia(0)">HOY</button>
-        <button id="btn1" onclick="filtrarDia(1)">MAÑANA</button>
-        <button id="btn2" onclick="filtrarDia(2)">PASADO MAÑANA</button>
+        <button id="btn0" class="active" onclick="filtrarDia(0)">Hoy</button>
+        <button id="btn1" onclick="filtrarDia(1)">Mañana</button>
+        <button id="btn2" onclick="filtrarDia(2)">Pasado</button>
+    </div>
+
+    <div id="miModal" class="modal-info">
+        <div class="modal-content">
+            <span class="close-modal" onclick="cerrarModal()">&times;</span>
+            <div id="modalBody">
+                </div>
+        </div>
     </div>
 
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        var map = L.map('map').setView([39.484, -0.753], 8);
+        var map = L.map('map').setView([39.484, -0.753], 7);
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
         var datosOriginales = null;
         var capaAvisos = L.geoJSON(null, {
             style: function(f) {
-                return { fillColor: f.properties.fillColor, color: "#000", weight: 1, fillOpacity: 1 };
+                return { fillColor: f.properties.fillColor, color: "#444", weight: 1, fillOpacity: 0.8 };
             },
             onEachFeature: function (f, l) {
-                l.bindPopup(f.properties.popup_html);
+                // En lugar de bindPopup, abrimos el modal al hacer click
+                l.on('click', function() {
+                    abrirModal(f.properties.popup_html);
+                });
             }
         }).addTo(map);
 
@@ -55,19 +90,36 @@
             document.getElementById('btn' + diaNum).classList.add('active');
             
             capaAvisos.clearLayers();
-            
-            // Filtrar avisos del día seleccionado
+            if(!datosOriginales) return;
+
             var filtrados = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
             
-            // ORDENAR: Importante para que los rojos se pinten al final (y queden encima)
+            // Ordenar por prioridad
             filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
             
             capaAvisos.addData(filtrados);
 
-            // Refuerzo de prioridad: traer al frente explícitamente los rojos
             capaAvisos.eachLayer(function(l) {
                 if (l.feature.properties.priority === 3) l.bringToFront();
             });
+        }
+
+        // Funciones para el Modal
+        function abrirModal(contenido) {
+            document.getElementById('modalBody').innerHTML = contenido;
+            document.getElementById('miModal').style.display = "block";
+        }
+
+        function cerrarModal() {
+            document.getElementById('miModal').style.display = "none";
+        }
+
+        // Cerrar modal si se hace clic fuera de la caja blanca
+        window.onclick = function(event) {
+            var modal = document.getElementById('miModal');
+            if (event.target == modal) {
+                cerrarModal();
+            }
         }
     </script>
 </body>
