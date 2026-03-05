@@ -23,7 +23,7 @@ SALIDA_GEOJSON = "avisos_espana.geojson"
 
 PRIORIDAD_NIVELES = {"rojo": 3, "naranja": 2, "amarillo": 1}
 colores = {"amarillo": "#f3f702", "naranja": "#FF7F00", "rojo": "#FF0000"}
-EMOJI_MAP = {"vientos": "🌬️", "lluvia": "🌧️", "nieve": "❄️", "tormentas": "⛈️", "costeros": "🌊", "temperaturas": "🌡️", "niebla": "🌫️", "aludes": "🏔️", "otro": "⚠️"}
+EMOJI_MAP = {"vientos": "🌬️", "lluvia": "🌧️", "nevadas": "❄️", "tormentas": "⛈️", "costeros": "🌊", "temperaturas": "🌡️", "niebla": "🌫️", "aludes": "🏔️", "otro": "⚠️"}
 
 # --- FUNCIONES DE APOYO ---
 
