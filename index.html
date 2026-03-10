@@ -1,126 +1,202 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Avisos AEMET - Control por Días</title>
+    <title>Avisos AEMET - Liquid Glass</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        #map { height: 100vh; width: 100%; margin: 0; }
-        body { margin: 0; font-family: sans-serif; overflow: hidden; }
+        /* Estilos Base */
+        #map { height: 100vh; width: 100%; margin: 0; z-index: 1; }
+        body { 
+            margin: 0; 
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            overflow: hidden; 
+            background-color: #e5e5e7;
+        }
 
-        /* Botones más pequeños */
+        /* Selector de Días - Estilo Apple Liquid Glass */
         .selector-dias {
-            position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000;
-            background: rgba(255, 255, 255, 0.9); padding: 5px; border-radius: 20px; 
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2); display: flex; gap: 5px;
+            position: absolute; 
+            top: 25px; 
+            left: 50%; 
+            transform: translateX(-50%); 
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.7); 
+            backdrop-filter: blur(20px) saturate(180%);
+            -webkit-backdrop-filter: blur(20px) saturate(180%);
+            padding: 5px; 
+            border-radius: 25px; 
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            display: flex; 
+            gap: 4px;
         }
+
         button { 
-            padding: 6px 12px; border: 1px solid #ccc; background: #fff; 
-            cursor: pointer; border-radius: 15px; font-size: 11px; font-weight: bold; text-transform: uppercase;
+            padding: 10px 24px; 
+            border: none; 
+            background: transparent; 
+            color: #1d1d1f; 
+            cursor: pointer; 
+            border-radius: 20px; 
+            font-size: 13px; 
+            font-weight: 500;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
         }
-        button.active { background: #333; color: white; border-color: #000; }
 
-        /* Estilos del Modal (Pantalla Completa / Centrado) */
-        .modal-info {
-            display: none; position: fixed; z-index: 2000;
-            left: 0; top: 0; width: 100%; height: 100%;
-            background-color: rgba(0,0,0,0.6);
-            backdrop-filter: blur(2px);
+        button:hover { 
+            background: rgba(255, 255, 255, 0.4); 
         }
+
+        /* Estado seleccionado por defecto y activo */
+        button.active { 
+            background: #ffffff; 
+            color: #007AFF; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.12), inset 0 0 0 1px rgba(0,0,0,0.01);
+            font-weight: 600;
+        }
+
+        /* Modal con desenfoque profundo */
+        .modal {
+            display: none; 
+            position: fixed; 
+            z-index: 2000;
+            left: 0; 
+            top: 0; 
+            width: 100%; 
+            height: 100%;
+            background-color: rgba(0,0,0,0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+
         .modal-content {
-            background-color: white; margin: 15% auto; padding: 20px;
-            border-radius: 12px; width: 85%; max-width: 400px;
-            position: relative; box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-            max-height: 70vh; overflow-y: auto;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(35px) saturate(200%);
+            -webkit-backdrop-filter: blur(35px) saturate(200%);
+            margin: 8% auto; 
+            padding: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.6);
+            width: 85%; 
+            max-width: 520px; 
+            border-radius: 32px;
+            box-shadow: 0 30px 60px rgba(0,0,0,0.25);
+            animation: appleSpring 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+            color: #1d1d1f;
         }
-        .close-modal {
-            position: absolute; top: 10px; right: 15px;
-            font-size: 24px; font-weight: bold; color: #666; cursor: pointer;
-        }
-        .close-modal:hover { color: #000; }
 
-        /* Leyenda opcional si la necesitas */
-        .legend { background: white; padding: 10px; border-radius: 5px; line-height: 1.5; pointer-events: none; }
+        @keyframes appleSpring {
+            from { opacity: 0; transform: scale(0.85) translateY(30px); }
+            to { opacity: 1; transform: scale(1) translateY(0); }
+        }
+
+        .close-btn { 
+            float: right; 
+            font-size: 26px; 
+            font-weight: bold; 
+            color: #86868b; 
+            cursor: pointer; 
+            line-height: 20px;
+            transition: color 0.2s;
+        }
+        
+        .close-btn:hover { color: #ff3b30; } /* Rojo Apple al pasar el ratón */
+
+        hr { border: 0; height: 1px; background: rgba(0,0,0,0.08); margin: 20px 0; }
+        h3 { margin-top: 0; font-size: 1.4rem; letter-spacing: -0.02em; font-weight: 700; }
+        p { margin: 10px 0; }
+
     </style>
 </head>
 <body>
 
-    <div class="selector-dias">
-        <button id="btn0" class="active" onclick="filtrarDia(0)">Hoy</button>
-        <button id="btn1" onclick="filtrarDia(1)">Mañana</button>
-        <button id="btn2" onclick="filtrarDia(2)">Pasado</button>
+<div class="selector-dias">
+    <button id="btn0" class="active" onclick="filtrarDia(0)">Hoy</button>
+    <button id="btn1" onclick="filtrarDia(1)">Mañana</button>
+    <button id="btn2" onclick="filtrarDia(2)">Pasado</button>
+</div>
+
+<div id="miModal" class="modal">
+    <div class="modal-content">
+        <span class="close-btn" onclick="cerrarModal()">&times;</span>
+        <div id="modalBody"></div>
     </div>
+</div>
 
-    <div id="miModal" class="modal-info">
-        <div class="modal-content">
-            <span class="close-modal" onclick="cerrarModal()">&times;</span>
-            <div id="modalBody">
-                </div>
-        </div>
-    </div>
+<div id="map"></div>
 
-    <div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    // Configuración del mapa (Mantenemos tu estilo original de OSM)
+    var map = L.map('map').setView([40.4167, -3.7037], 6);
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-        var map = L.map('map').setView([39.484, -0.753], 7);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
 
-        var datosOriginales = null;
-        var capaAvisos = L.geoJSON(null, {
-            style: function(f) {
-                return { fillColor: f.properties.fillColor, color: "#444", weight: 1, fillOpacity: 0.8 };
-            },
-            onEachFeature: function (f, l) {
-                // En lugar de bindPopup, abrimos el modal al hacer click
-                l.on('click', function() {
-                    abrirModal(f.properties.popup_html);
-                });
-            }
-        }).addTo(map);
+    var capaAvisos = L.geoJSON(null, {
+        style: function(f) {
+            return {
+                fillColor: f.properties.color || '#ffcc00',
+                weight: 2,
+                opacity: 1,
+                color: 'white',
+                fillOpacity: 0.5
+            };
+        },
+        onEachFeature: function(f, l) {
+            l.on('click', function() { abrirModal(f.properties.popup_html); });
+        }
+    }).addTo(map);
 
-        fetch('avisos_espana.geojson').then(res => res.json()).then(data => {
+    var datosOriginales;
+
+    // Carga inicial de datos
+    fetch('avisos_espana.geojson')
+        .then(r => r.json())
+        .then(data => {
             datosOriginales = data;
-            filtrarDia(0);
+            filtrarDia(0); // Ejecuta el filtrado de "Hoy" al cargar
         });
 
-        function filtrarDia(diaNum) {
-            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
-            document.getElementById('btn' + diaNum).classList.add('active');
-            
-            capaAvisos.clearLayers();
-            if(!datosOriginales) return;
+    function filtrarDia(diaNum) {
+        // Actualizar UI: Quitar clase 'active' de todos y ponerla en el clicado
+        document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+        document.getElementById('btn' + diaNum).classList.add('active');
+        
+        capaAvisos.clearLayers();
+        if(!datosOriginales) return;
 
-            var filtrados = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
-            
-            // Ordenar por prioridad
-            filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
-            
-            capaAvisos.addData(filtrados);
+        // Filtrar datos según el día seleccionado (0, 1 o 2)
+        var filtrados = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
+        
+        // Ordenar por prioridad (Amarillo -> Naranja -> Rojo)
+        filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
+        
+        capaAvisos.addData(filtrados);
 
-            capaAvisos.eachLayer(function(l) {
-                if (l.feature.properties.priority === 3) l.bringToFront();
-            });
-        }
+        // Asegurar que los más graves queden visualmente al frente
+        capaAvisos.eachLayer(function(l) {
+            if (l.feature.properties.priority === 3) l.bringToFront();
+        });
+    }
 
-        // Funciones para el Modal
-        function abrirModal(contenido) {
-            document.getElementById('modalBody').innerHTML = contenido;
-            document.getElementById('miModal').style.display = "block";
-        }
+    // Lógica del Modal
+    function abrirModal(contenido) {
+        document.getElementById('modalBody').innerHTML = contenido;
+        document.getElementById('miModal').style.display = "block";
+    }
 
-        function cerrarModal() {
-            document.getElementById('miModal').style.display = "none";
-        }
+    function cerrarModal() {
+        document.getElementById('miModal').style.display = "none";
+    }
 
-        // Cerrar modal si se hace clic fuera de la caja blanca
-        window.onclick = function(event) {
-            var modal = document.getElementById('miModal');
-            if (event.target == modal) {
-                cerrarModal();
-            }
-        }
-    </script>
+    // Cerrar si se hace clic fuera del contenido del modal
+    window.onclick = function(event) {
+        var modal = document.getElementById('miModal');
+        if (event.target == modal) cerrarModal();
+    }
+</script>
 </body>
 </html>
