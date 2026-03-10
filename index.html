@@ -12,101 +12,83 @@
             margin: 0; 
             font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
             overflow: hidden; 
-            background-color: #e5e5e7;
+            background-color: #f2f2f7;
         }
 
-        /* Selector de Días - Estilo Apple Liquid Glass */
+        /* Selector de Días */
         .selector-dias {
-            position: absolute; 
-            top: 25px; 
-            left: 50%; 
-            transform: translateX(-50%); 
-            z-index: 1000;
-            background: rgba(255, 255, 255, 0.7); 
+            position: absolute; top: 20px; left: 50%; transform: translateX(-50%); z-index: 1000;
+            background: rgba(255, 255, 255, 0.75); 
             backdrop-filter: blur(20px) saturate(180%);
             -webkit-backdrop-filter: blur(20px) saturate(180%);
-            padding: 5px; 
-            border-radius: 25px; 
+            padding: 5px; border-radius: 25px; 
             border: 1px solid rgba(255, 255, 255, 0.4);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-            display: flex; 
-            gap: 4px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            display: flex; gap: 4px;
         }
 
         button { 
-            padding: 10px 24px; 
-            border: none; 
-            background: transparent; 
-            color: #1d1d1f; 
-            cursor: pointer; 
-            border-radius: 20px; 
-            font-size: 13px; 
-            font-weight: 500;
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            padding: 8px 18px; border: none; background: transparent; 
+            color: #1d1d1f; cursor: pointer; border-radius: 20px; 
+            font-size: 13px; font-weight: 500;
+            transition: all 0.2s ease;
         }
 
-        button:hover { 
-            background: rgba(255, 255, 255, 0.4); 
-        }
-
-        /* Estado seleccionado por defecto y activo */
         button.active { 
-            background: #ffffff; 
-            color: #007AFF; 
-            box-shadow: 0 4px 12px rgba(0,0,0,0.12), inset 0 0 0 1px rgba(0,0,0,0.01);
+            background: #ffffff; color: #007AFF; 
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
             font-weight: 600;
         }
 
-        /* Modal con desenfoque profundo */
+        /* Modal Rediseñado (Liquid Glass + Scroll) */
         .modal {
-            display: none; 
-            position: fixed; 
-            z-index: 2000;
-            left: 0; 
-            top: 0; 
-            width: 100%; 
-            height: 100%;
+            display: none; position: fixed; z-index: 2000;
+            left: 0; top: 0; width: 100%; height: 100%;
             background-color: rgba(0,0,0,0.2);
             backdrop-filter: blur(10px);
             -webkit-backdrop-filter: blur(10px);
+            align-items: center; justify-content: center;
         }
 
         .modal-content {
             background: rgba(255, 255, 255, 0.85);
             backdrop-filter: blur(35px) saturate(200%);
             -webkit-backdrop-filter: blur(35px) saturate(200%);
-            margin: 8% auto; 
-            padding: 30px;
+            margin: auto;
             border: 1px solid rgba(255, 255, 255, 0.6);
-            width: 85%; 
-            max-width: 520px; 
-            border-radius: 32px;
-            box-shadow: 0 30px 60px rgba(0,0,0,0.25);
+            width: 90%; max-width: 480px; 
+            max-height: 80vh; /* No ocupa más del 80% de la pantalla */
+            border-radius: 28px;
+            box-shadow: 0 30px 60px rgba(0,0,0,0.2);
+            display: flex; flex-direction: column;
             animation: appleSpring 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
-            color: #1d1d1f;
+            position: relative; top: 50%; transform: translateY(-50%);
         }
 
+        /* Contenedor con Scroll dentro del modal */
+        .modal-scroll-area {
+            padding: 25px;
+            overflow-y: auto; /* Permite scroll vertical */
+            flex-grow: 1;
+            scrollbar-width: thin;
+            scrollbar-color: rgba(0,0,0,0.2) transparent;
+        }
+
+        .modal-scroll-area::-webkit-scrollbar { width: 6px; }
+        .modal-scroll-area::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.1); border-radius: 10px; }
+
         @keyframes appleSpring {
-            from { opacity: 0; transform: scale(0.85) translateY(30px); }
-            to { opacity: 1; transform: scale(1) translateY(0); }
+            from { opacity: 0; transform: translateY(-40%) scale(0.95); }
+            to { opacity: 1; transform: translateY(-50%) scale(1); }
         }
 
         .close-btn { 
-            float: right; 
-            font-size: 26px; 
-            font-weight: bold; 
-            color: #86868b; 
-            cursor: pointer; 
-            line-height: 20px;
-            transition: color 0.2s;
+            position: absolute; right: 20px; top: 15px;
+            font-size: 24px; color: #86868b; cursor: pointer; z-index: 10;
         }
-        
-        .close-btn:hover { color: #ff3b30; } /* Rojo Apple al pasar el ratón */
 
-        hr { border: 0; height: 1px; background: rgba(0,0,0,0.08); margin: 20px 0; }
-        h3 { margin-top: 0; font-size: 1.4rem; letter-spacing: -0.02em; font-weight: 700; }
-        p { margin: 10px 0; }
-
+        hr { border: 0; height: 1px; background: rgba(0,0,0,0.08); margin: 15px 0; }
+        h3 { margin-top: 0; font-size: 1.25rem; padding-right: 20px; line-height: 1.2; }
     </style>
 </head>
 <body>
@@ -117,10 +99,11 @@
     <button id="btn2" onclick="filtrarDia(2)">Pasado</button>
 </div>
 
-<div id="miModal" class="modal">
+<div id="miModal" class="modal" onclick="cerrarModalExterno(event)">
     <div class="modal-content">
         <span class="close-btn" onclick="cerrarModal()">&times;</span>
-        <div id="modalBody"></div>
+        <div id="modalBody" class="modal-scroll-area">
+            </div>
     </div>
 </div>
 
@@ -128,7 +111,6 @@
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-    // Configuración del mapa (Mantenemos tu estilo original de OSM)
     var map = L.map('map').setView([40.4167, -3.7037], 6);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -137,12 +119,16 @@
 
     var capaAvisos = L.geoJSON(null, {
         style: function(f) {
+            // Ajuste de color amarillo para que no parezca naranja
+            let colorOriginal = f.properties.color || '#ffcc00';
+            let colorFinal = (colorOriginal.toLowerCase() === '#f3f702' || colorOriginal.toLowerCase() === '#ffcc00') ? '#FFFF00' : colorOriginal;
+            
             return {
-                fillColor: f.properties.color || '#ffcc00',
-                weight: 2,
-                opacity: 1,
-                color: 'white',
-                fillOpacity: 0.5
+                fillColor: colorFinal,
+                weight: 1.5,
+                opacity: 0.9,
+                color: '#ffffff',
+                fillOpacity: 0.6
             };
         },
         onEachFeature: function(f, l) {
@@ -152,50 +138,40 @@
 
     var datosOriginales;
 
-    // Carga inicial de datos
     fetch('avisos_espana.geojson')
         .then(r => r.json())
         .then(data => {
             datosOriginales = data;
-            filtrarDia(0); // Ejecuta el filtrado de "Hoy" al cargar
+            filtrarDia(0);
         });
 
     function filtrarDia(diaNum) {
-        // Actualizar UI: Quitar clase 'active' de todos y ponerla en el clicado
         document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
         document.getElementById('btn' + diaNum).classList.add('active');
         
         capaAvisos.clearLayers();
         if(!datosOriginales) return;
 
-        // Filtrar datos según el día seleccionado (0, 1 o 2)
         var filtrados = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
-        
-        // Ordenar por prioridad (Amarillo -> Naranja -> Rojo)
         filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
-        
         capaAvisos.addData(filtrados);
 
-        // Asegurar que los más graves queden visualmente al frente
         capaAvisos.eachLayer(function(l) {
             if (l.feature.properties.priority === 3) l.bringToFront();
         });
     }
 
-    // Lógica del Modal
     function abrirModal(contenido) {
         document.getElementById('modalBody').innerHTML = contenido;
-        document.getElementById('miModal').style.display = "block";
+        document.getElementById('miModal').style.display = "flex";
     }
 
     function cerrarModal() {
         document.getElementById('miModal').style.display = "none";
     }
 
-    // Cerrar si se hace clic fuera del contenido del modal
-    window.onclick = function(event) {
-        var modal = document.getElementById('miModal');
-        if (event.target == modal) cerrarModal();
+    function cerrarModalExterno(event) {
+        if (event.target.id === "miModal") cerrarModal();
     }
 </script>
 </body>
