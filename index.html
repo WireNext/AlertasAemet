@@ -151,21 +151,41 @@
         filtrarDia(0);
     });
 
-    function filtrarDia(diaNum) {
-        document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
-        document.getElementById('btn' + diaNum).classList.add('active');
+function filtrarDia(diaNum) {
+    document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    document.getElementById('btn' + diaNum).classList.add('active');
+    
+    capaAvisos.clearLayers();
+    if(!datosOriginales) return;
+
+    // 1. Filtramos por día
+    var avisosDelDia = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
+
+    // 2. Agrupamos por área para quedarnos solo con el nivel más alto
+    var mapaMejoresAvisos = {};
+
+    avisosDelDia.forEach(f => {
+        // Usamos el titular o el área como clave única para la zona geográfica
+        var idZona = f.properties.area || f.properties.titular; 
         
-        capaAvisos.clearLayers();
-        if(!datosOriginales) return;
+        if (!mapaMejoresAvisos[idZona]) {
+            mapaMejoresAvisos[idZona] = f;
+        } else {
+            // Si este aviso tiene mayor prioridad (3=rojo, 2=naranja...) lo sustituimos
+            if (f.properties.priority > mapaMejoresAvisos[idZona].properties.priority) {
+                mapaMejoresAvisos[idZona] = f;
+            }
+        }
+    });
 
-        var filtrados = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
-        filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
-        capaAvisos.addData(filtrados);
+    // 3. Convertimos el objeto de nuevo a un array para Leaflet
+    var filtrados = Object.values(mapaMejoresAvisos);
 
-        capaAvisos.eachLayer(function(l) {
-            if (l.feature.properties.priority === 3) l.bringToFront();
-        });
-    }
+    // 4. Ordenamos para que los rojos se dibujen al final (arriba) por si solapan visualmente
+    filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
+    
+    capaAvisos.addData(filtrados);
+}
 
     function abrirModal(contenido) {
         document.getElementById('modalBody').innerHTML = contenido;
