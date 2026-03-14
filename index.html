@@ -128,18 +128,17 @@
 
     var capaAvisos = L.geoJSON(null, {
         style: function(f) {
-            // Corrección de color Amarillo (vibrante)
-            let c = f.properties.color || '#ffcc00';
-            let colorFinal = (c.toLowerCase() === '#f3f702' || c.toLowerCase() === '#ffcc00') ? '#ffff00' : c;
-            
-            return {
-                fillColor: colorFinal,
-                weight: 1.5,
-                opacity: 1,
-                color: 'white',
-                fillOpacity: 0.6 // Más opacidad para que se vea el amarillo real
-            };
-        },
+        // Usamos 'fillColor' que es la propiedad real en tu JSON
+        let colorFinal = f.properties.fillColor || '#ffff00'; 
+        
+        return {
+            fillColor: colorFinal,
+            weight: 1.5,
+            opacity: 1,
+            color: 'white',
+            fillOpacity: 0.6
+        };
+    },
         onEachFeature: function(f, l) {
             l.on('click', function() { abrirModal(f.properties.popup_html); });
         }
@@ -161,30 +160,12 @@ function filtrarDia(diaNum) {
     // 1. Filtramos por día
     var avisosDelDia = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
 
-    // 2. Agrupamos por área para quedarnos solo con el nivel más alto
-    var mapaMejoresAvisos = {};
-
-    avisosDelDia.forEach(f => {
-        // Usamos el titular o el área como clave única para la zona geográfica
-        var idZona = f.properties.area || f.properties.titular; 
-        
-        if (!mapaMejoresAvisos[idZona]) {
-            mapaMejoresAvisos[idZona] = f;
-        } else {
-            // Si este aviso tiene mayor prioridad (3=rojo, 2=naranja...) lo sustituimos
-            if (f.properties.priority > mapaMejoresAvisos[idZona].properties.priority) {
-                mapaMejoresAvisos[idZona] = f;
-            }
-        }
-    });
-
-    // 3. Convertimos el objeto de nuevo a un array para Leaflet
-    var filtrados = Object.values(mapaMejoresAvisos);
-
-    // 4. Ordenamos para que los rojos se dibujen al final (arriba) por si solapan visualmente
-    filtrados.sort((a, b) => a.properties.priority - b.properties.priority);
+    // 2. IMPORTANTE: No agrupamos para no borrar avisos. 
+    // Simplemente ordenamos por prioridad para que los más graves queden "encima" visualmente.
+    avisosDelDia.sort((a, b) => (a.properties.priority || 0) - (b.properties.priority || 0));
     
-    capaAvisos.addData(filtrados);
+    // 3. Añadimos todos los avisos al mapa
+    capaAvisos.addData(avisosDelDia);
 }
 
     function abrirModal(contenido) {
