@@ -372,65 +372,93 @@
                 "coordinates": [
                     [
                         [
-                            -17.34,
-                            28.15
+                            -17.85,
+                            28.83
                         ],
                         [
-                            -17.31,
-                            28.2
+                            -17.86,
+                            28.76
                         ],
                         [
-                            -17.27,
-                            28.22
+                            -17.9,
+                            28.74
                         ],
                         [
-                            -17.24,
-                            28.2
+                            -17.92,
+                            28.69
                         ],
                         [
-                            -17.19,
-                            28.2
+                            -17.88,
+                            28.59
                         ],
                         [
-                            -17.17,
-                            28.18
+                            -17.87,
+                            28.55
                         ],
                         [
-                            -17.12,
-                            28.15
+                            -17.84,
+                            28.56
                         ],
                         [
-                            -17.1,
-                            28.09
+                            -17.84,
+                            28.54
                         ],
                         [
-                            -17.18,
-                            28.03
+                            -17.79,
+                            28.52
                         ],
                         [
-                            -17.24,
-                            28.02
+                            -17.83,
+                            28.46
                         ],
                         [
-                            -17.31,
-                            28.05
+                            -17.85,
+                            28.46
                         ],
                         [
-                            -17.35,
-                            28.1
+                            -17.87,
+                            28.49
                         ],
                         [
-                            -17.34,
-                            28.15
+                            -17.88,
+                            28.55
+                        ],
+                        [
+                            -17.96,
+                            28.67
+                        ],
+                        [
+                            -17.98,
+                            28.73
+                        ],
+                        [
+                            -18.01,
+                            28.76
+                        ],
+                        [
+                            -18.0,
+                            28.78
+                        ],
+                        [
+                            -17.96,
+                            28.83
+                        ],
+                        [
+                            -17.92,
+                            28.85
+                        ],
+                        [
+                            -17.85,
+                            28.83
                         ]
                     ]
                 ]
             },
             "properties": {
-                "dia": 0,
-                "priority": 2,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. La Gomera</p><p><b>\u00c1rea:</b> La Gomera</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/03/2026 11:00</p><p><b>Fin:</b> 23/03/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#FF7F00"
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Oeste de La Palma</p><p><b>\u00c1rea:</b> Oeste de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
             }
         },
         {
@@ -642,6 +670,70 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Lanzarote</p><p><b>\u00c1rea:</b> Lanzarote</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/03/2026 11:00</p><p><b>Fin:</b> 24/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.87,
+                            28.55
+                        ],
+                        [
+                            -17.88,
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
+                        ],
+                        [
+                            -17.9,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Cumbres de La Palma</p><p><b>\u00c1rea:</b> Cumbres de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente a median\u00edas del norte y a zonas altas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -904,349 +996,93 @@
                 "coordinates": [
                     [
                         [
-                            0.09,
-                            40.48
+                            -17.85,
+                            28.83
                         ],
                         [
-                            0.08,
-                            40.5
+                            -17.86,
+                            28.76
                         ],
                         [
-                            0.1,
-                            40.54
+                            -17.9,
+                            28.74
                         ],
                         [
-                            0.08,
-                            40.57
+                            -17.92,
+                            28.69
                         ],
                         [
-                            0.12,
-                            40.59
+                            -17.88,
+                            28.59
                         ],
                         [
-                            0.15,
-                            40.57
+                            -17.87,
+                            28.55
                         ],
                         [
-                            0.19,
-                            40.6
+                            -17.84,
+                            28.56
                         ],
                         [
-                            0.16,
-                            40.61
+                            -17.84,
+                            28.54
                         ],
                         [
-                            0.16,
-                            40.65
+                            -17.79,
+                            28.52
                         ],
                         [
-                            0.27,
-                            40.66
+                            -17.83,
+                            28.46
                         ],
                         [
-                            0.28,
-                            40.63
+                            -17.85,
+                            28.46
                         ],
                         [
-                            0.33,
-                            40.61
+                            -17.87,
+                            28.49
                         ],
                         [
-                            0.39,
-                            40.61
+                            -17.88,
+                            28.55
                         ],
                         [
-                            0.43,
-                            40.58
+                            -17.96,
+                            28.67
                         ],
                         [
-                            0.44,
-                            40.55
+                            -17.98,
+                            28.73
                         ],
                         [
-                            0.52,
-                            40.52
+                            -18.01,
+                            28.76
                         ],
                         [
-                            0.49,
-                            40.48
+                            -18.0,
+                            28.78
                         ],
                         [
-                            0.42,
-                            40.4
+                            -17.96,
+                            28.83
                         ],
                         [
-                            0.39,
-                            40.34
+                            -17.92,
+                            28.85
                         ],
                         [
-                            0.32,
-                            40.27
-                        ],
-                        [
-                            0.3,
-                            40.32
-                        ],
-                        [
-                            0.19,
-                            40.39
-                        ],
-                        [
-                            0.21,
-                            40.42
-                        ],
-                        [
-                            0.11,
-                            40.46
-                        ],
-                        [
-                            0.09,
-                            40.48
+                            -17.85,
+                            28.83
                         ]
                     ]
                 ]
             },
             "properties": {
-                "dia": 2,
-                "priority": 2,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 90 km/h. Viento del noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#FF7F00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            0.27,
-                            40.82
-                        ],
-                        [
-                            0.33,
-                            40.85
-                        ],
-                        [
-                            0.37,
-                            40.89
-                        ],
-                        [
-                            0.37,
-                            40.93
-                        ],
-                        [
-                            0.4,
-                            40.96
-                        ],
-                        [
-                            0.44,
-                            40.96
-                        ],
-                        [
-                            0.47,
-                            41.03
-                        ],
-                        [
-                            0.5,
-                            41.06
-                        ],
-                        [
-                            0.56,
-                            41.12
-                        ],
-                        [
-                            0.61,
-                            41.14
-                        ],
-                        [
-                            0.61,
-                            41.17
-                        ],
-                        [
-                            0.65,
-                            41.18
-                        ],
-                        [
-                            0.71,
-                            41.22
-                        ],
-                        [
-                            0.69,
-                            41.25
-                        ],
-                        [
-                            0.72,
-                            41.3
-                        ],
-                        [
-                            0.75,
-                            41.32
-                        ],
-                        [
-                            0.76,
-                            41.33
-                        ],
-                        [
-                            0.82,
-                            41.33
-                        ],
-                        [
-                            0.97,
-                            41.36
-                        ],
-                        [
-                            1.0,
-                            41.33
-                        ],
-                        [
-                            1.07,
-                            41.33
-                        ],
-                        [
-                            1.14,
-                            41.29
-                        ],
-                        [
-                            1.14,
-                            41.24
-                        ],
-                        [
-                            1.1,
-                            41.23
-                        ],
-                        [
-                            1.06,
-                            41.24
-                        ],
-                        [
-                            1.02,
-                            41.2
-                        ],
-                        [
-                            1.04,
-                            41.18
-                        ],
-                        [
-                            1.02,
-                            41.14
-                        ],
-                        [
-                            0.95,
-                            41.11
-                        ],
-                        [
-                            0.92,
-                            41.13
-                        ],
-                        [
-                            0.9,
-                            41.1
-                        ],
-                        [
-                            0.92,
-                            41.06
-                        ],
-                        [
-                            0.91,
-                            41.03
-                        ],
-                        [
-                            0.85,
-                            41.03
-                        ],
-                        [
-                            0.81,
-                            41.05
-                        ],
-                        [
-                            0.78,
-                            41.0
-                        ],
-                        [
-                            0.82,
-                            40.94
-                        ],
-                        [
-                            0.75,
-                            40.93
-                        ],
-                        [
-                            0.67,
-                            40.95
-                        ],
-                        [
-                            0.61,
-                            40.93
-                        ],
-                        [
-                            0.61,
-                            40.9
-                        ],
-                        [
-                            0.67,
-                            40.87
-                        ],
-                        [
-                            0.61,
-                            40.81
-                        ],
-                        [
-                            0.61,
-                            40.76
-                        ],
-                        [
-                            0.51,
-                            40.74
-                        ],
-                        [
-                            0.44,
-                            40.74
-                        ],
-                        [
-                            0.35,
-                            40.66
-                        ],
-                        [
-                            0.33,
-                            40.61
-                        ],
-                        [
-                            0.28,
-                            40.63
-                        ],
-                        [
-                            0.27,
-                            40.66
-                        ],
-                        [
-                            0.29,
-                            40.69
-                        ],
-                        [
-                            0.24,
-                            40.7
-                        ],
-                        [
-                            0.22,
-                            40.73
-                        ],
-                        [
-                            0.17,
-                            40.73
-                        ],
-                        [
-                            0.27,
-                            40.82
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 2,
-                "priority": 2,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Prelitoral sur de Tarragona</p><p><b>\u00c1rea:</b> Prelitoral sur de Tarragona</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 100 km/h. Viento del noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#FF7F00"
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Oeste de La Palma</p><p><b>\u00c1rea:</b> Oeste de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente a median\u00edas del norte y a zonas altas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
             }
         },
         {
@@ -1398,6 +1234,214 @@
                 "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. La Gomera</p><p><b>\u00c1rea:</b> La Gomera</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 01:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.85,
+                            42.38
+                        ],
+                        [
+                            2.92,
+                            42.4
+                        ],
+                        [
+                            2.95,
+                            42.43
+                        ],
+                        [
+                            2.99,
+                            42.45
+                        ],
+                        [
+                            2.98,
+                            42.47
+                        ],
+                        [
+                            3.03,
+                            42.48
+                        ],
+                        [
+                            3.09,
+                            42.43
+                        ],
+                        [
+                            3.18,
+                            42.44
+                        ],
+                        [
+                            3.16,
+                            42.41
+                        ],
+                        [
+                            3.16,
+                            42.36
+                        ],
+                        [
+                            3.24,
+                            42.34
+                        ],
+                        [
+                            3.27,
+                            42.34
+                        ],
+                        [
+                            3.31,
+                            42.32
+                        ],
+                        [
+                            3.28,
+                            42.28
+                        ],
+                        [
+                            3.28,
+                            42.25
+                        ],
+                        [
+                            3.22,
+                            42.23
+                        ],
+                        [
+                            3.16,
+                            42.26
+                        ],
+                        [
+                            3.12,
+                            42.22
+                        ],
+                        [
+                            3.11,
+                            42.17
+                        ],
+                        [
+                            3.13,
+                            42.13
+                        ],
+                        [
+                            3.17,
+                            42.12
+                        ],
+                        [
+                            3.21,
+                            42.06
+                        ],
+                        [
+                            3.2,
+                            42.05
+                        ],
+                        [
+                            3.2,
+                            42.0
+                        ],
+                        [
+                            3.23,
+                            41.97
+                        ],
+                        [
+                            3.2,
+                            41.89
+                        ],
+                        [
+                            3.15,
+                            41.85
+                        ],
+                        [
+                            3.09,
+                            41.83
+                        ],
+                        [
+                            3.08,
+                            41.82
+                        ],
+                        [
+                            3.03,
+                            41.85
+                        ],
+                        [
+                            3.02,
+                            41.87
+                        ],
+                        [
+                            2.96,
+                            41.88
+                        ],
+                        [
+                            2.89,
+                            41.91
+                        ],
+                        [
+                            2.9,
+                            41.93
+                        ],
+                        [
+                            2.94,
+                            41.94
+                        ],
+                        [
+                            2.91,
+                            41.97
+                        ],
+                        [
+                            2.9,
+                            42.03
+                        ],
+                        [
+                            2.89,
+                            42.07
+                        ],
+                        [
+                            2.84,
+                            42.1
+                        ],
+                        [
+                            2.84,
+                            42.14
+                        ],
+                        [
+                            2.86,
+                            42.2
+                        ],
+                        [
+                            2.83,
+                            42.24
+                        ],
+                        [
+                            2.81,
+                            42.23
+                        ],
+                        [
+                            2.78,
+                            42.27
+                        ],
+                        [
+                            2.79,
+                            42.31
+                        ],
+                        [
+                            2.83,
+                            42.34
+                        ],
+                        [
+                            2.9,
+                            42.35
+                        ],
+                        [
+                            2.85,
+                            42.38
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Ampurd\u00e1n</p><p><b>\u00c1rea:</b> Ampurd\u00e1n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte y del noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 18:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1588,6 +1632,194 @@
                 "coordinates": [
                     [
                         [
+                            -0.24,
+                            40.72
+                        ],
+                        [
+                            -0.2,
+                            40.78
+                        ],
+                        [
+                            -0.14,
+                            40.79
+                        ],
+                        [
+                            -0.13,
+                            40.75
+                        ],
+                        [
+                            -0.06,
+                            40.73
+                        ],
+                        [
+                            0.02,
+                            40.73
+                        ],
+                        [
+                            0.04,
+                            40.69
+                        ],
+                        [
+                            0.11,
+                            40.73
+                        ],
+                        [
+                            0.17,
+                            40.73
+                        ],
+                        [
+                            0.22,
+                            40.73
+                        ],
+                        [
+                            0.24,
+                            40.7
+                        ],
+                        [
+                            0.29,
+                            40.69
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.02,
+                            40.44
+                        ],
+                        [
+                            -0.02,
+                            40.4
+                        ],
+                        [
+                            -0.03,
+                            40.36
+                        ],
+                        [
+                            -0.08,
+                            40.3
+                        ],
+                        [
+                            -0.1,
+                            40.31
+                        ],
+                        [
+                            -0.09,
+                            40.35
+                        ],
+                        [
+                            -0.18,
+                            40.36
+                        ],
+                        [
+                            -0.25,
+                            40.38
+                        ],
+                        [
+                            -0.28,
+                            40.37
+                        ],
+                        [
+                            -0.28,
+                            40.39
+                        ],
+                        [
+                            -0.35,
+                            40.44
+                        ],
+                        [
+                            -0.33,
+                            40.46
+                        ],
+                        [
+                            -0.27,
+                            40.48
+                        ],
+                        [
+                            -0.3,
+                            40.52
+                        ],
+                        [
+                            -0.29,
+                            40.54
+                        ],
+                        [
+                            -0.32,
+                            40.6
+                        ],
+                        [
+                            -0.38,
+                            40.63
+                        ],
+                        [
+                            -0.35,
+                            40.68
+                        ],
+                        [
+                            -0.32,
+                            40.66
+                        ],
+                        [
+                            -0.25,
+                            40.69
+                        ],
+                        [
+                            -0.24,
+                            40.72
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Interior norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Interior norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 100 km/h. Viento del noroeste. Es posible que a \u00faltimas horas del mi\u00e9rcoles o primeras horas del jueves se alcancen los 120 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -16.85,
                             28.27
                         ],
@@ -1767,6 +1999,210 @@
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Cumbres de La Palma</p><p><b>\u00c1rea:</b> Cumbres de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 01:00</p><p><b>Fin:</b> 25/03/2026 12:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.04,
+                            41.18
+                        ],
+                        [
+                            1.06,
+                            41.18
+                        ],
+                        [
+                            1.09,
+                            41.14
+                        ],
+                        [
+                            1.1,
+                            41.09
+                        ],
+                        [
+                            1.12,
+                            41.07
+                        ],
+                        [
+                            1.05,
+                            41.06
+                        ],
+                        [
+                            0.97,
+                            41.03
+                        ],
+                        [
+                            0.84,
+                            40.92
+                        ],
+                        [
+                            0.79,
+                            40.87
+                        ],
+                        [
+                            0.75,
+                            40.85
+                        ],
+                        [
+                            0.7,
+                            40.8
+                        ],
+                        [
+                            0.73,
+                            40.77
+                        ],
+                        [
+                            0.78,
+                            40.78
+                        ],
+                        [
+                            0.88,
+                            40.7
+                        ],
+                        [
+                            0.84,
+                            40.68
+                        ],
+                        [
+                            0.77,
+                            40.65
+                        ],
+                        [
+                            0.71,
+                            40.59
+                        ],
+                        [
+                            0.74,
+                            40.64
+                        ],
+                        [
+                            0.73,
+                            40.64
+                        ],
+                        [
+                            0.6,
+                            40.62
+                        ],
+                        [
+                            0.54,
+                            40.57
+                        ],
+                        [
+                            0.52,
+                            40.52
+                        ],
+                        [
+                            0.44,
+                            40.55
+                        ],
+                        [
+                            0.43,
+                            40.58
+                        ],
+                        [
+                            0.39,
+                            40.61
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.35,
+                            40.66
+                        ],
+                        [
+                            0.44,
+                            40.74
+                        ],
+                        [
+                            0.51,
+                            40.74
+                        ],
+                        [
+                            0.61,
+                            40.76
+                        ],
+                        [
+                            0.61,
+                            40.81
+                        ],
+                        [
+                            0.67,
+                            40.87
+                        ],
+                        [
+                            0.61,
+                            40.9
+                        ],
+                        [
+                            0.61,
+                            40.93
+                        ],
+                        [
+                            0.67,
+                            40.95
+                        ],
+                        [
+                            0.75,
+                            40.93
+                        ],
+                        [
+                            0.82,
+                            40.94
+                        ],
+                        [
+                            0.78,
+                            41.0
+                        ],
+                        [
+                            0.81,
+                            41.05
+                        ],
+                        [
+                            0.85,
+                            41.03
+                        ],
+                        [
+                            0.91,
+                            41.03
+                        ],
+                        [
+                            0.92,
+                            41.06
+                        ],
+                        [
+                            0.9,
+                            41.1
+                        ],
+                        [
+                            0.92,
+                            41.13
+                        ],
+                        [
+                            0.95,
+                            41.11
+                        ],
+                        [
+                            1.02,
+                            41.14
+                        ],
+                        [
+                            1.04,
+                            41.18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Litoral sur de Tarragona</p><p><b>\u00c1rea:</b> Litoral sur de Tarragona</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 100 km/h. Viento del noroeste. Es posible que a \u00faltimas horas del mi\u00e9rcoles o primeras horas del jueves se alcancen los 120 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
             }
         },
         {
@@ -2092,121 +2528,113 @@
                 "coordinates": [
                     [
                         [
-                            -16.85,
-                            28.27
+                            0.09,
+                            40.48
                         ],
                         [
-                            -16.79,
-                            28.31
+                            0.08,
+                            40.5
                         ],
                         [
-                            -16.7,
-                            28.27
+                            0.1,
+                            40.54
                         ],
                         [
-                            -16.68,
-                            28.21
+                            0.08,
+                            40.57
                         ],
                         [
-                            -16.64,
-                            28.2
+                            0.12,
+                            40.59
                         ],
                         [
-                            -16.55,
-                            28.25
+                            0.15,
+                            40.57
                         ],
                         [
-                            -16.54,
-                            28.28
+                            0.19,
+                            40.6
                         ],
                         [
-                            -16.5,
-                            28.31
+                            0.16,
+                            40.61
                         ],
                         [
-                            -16.48,
-                            28.35
+                            0.16,
+                            40.65
                         ],
                         [
-                            -16.44,
-                            28.39
+                            0.27,
+                            40.66
                         ],
                         [
-                            -16.39,
-                            28.34
+                            0.28,
+                            40.63
                         ],
                         [
-                            -16.36,
-                            28.34
+                            0.33,
+                            40.61
                         ],
                         [
-                            -16.36,
-                            28.31
+                            0.39,
+                            40.61
                         ],
                         [
-                            -16.42,
-                            28.2
+                            0.43,
+                            40.58
                         ],
                         [
-                            -16.44,
-                            28.14
+                            0.44,
+                            40.55
                         ],
                         [
-                            -16.49,
-                            28.08
+                            0.52,
+                            40.52
                         ],
                         [
-                            -16.55,
-                            28.03
+                            0.49,
+                            40.48
                         ],
                         [
-                            -16.6,
-                            28.03
+                            0.42,
+                            40.4
                         ],
                         [
-                            -16.64,
-                            28.0
+                            0.39,
+                            40.34
                         ],
                         [
-                            -16.68,
-                            28.0
+                            0.32,
+                            40.27
                         ],
                         [
-                            -16.71,
-                            28.01
+                            0.3,
+                            40.32
                         ],
                         [
-                            -16.71,
-                            28.05
+                            0.19,
+                            40.39
                         ],
                         [
-                            -16.74,
-                            28.05
+                            0.21,
+                            40.42
                         ],
                         [
-                            -16.74,
-                            28.09
+                            0.11,
+                            40.46
                         ],
                         [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.85,
-                            28.27
+                            0.09,
+                            40.48
                         ]
                     ]
                 ]
             },
             "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/03/2026 11:00</p><p><b>Fin:</b> 23/03/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
+                "dia": 2,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 90 km/h. Viento del noroeste. Es posible que a \u00faltimas horas del mi\u00e9rcoles o primeras horas del jueves se alcancen los 120 km/h en el interior de la zona.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
             }
         },
         {
@@ -2548,214 +2976,6 @@
                 "coordinates": [
                     [
                         [
-                            2.85,
-                            42.38
-                        ],
-                        [
-                            2.92,
-                            42.4
-                        ],
-                        [
-                            2.95,
-                            42.43
-                        ],
-                        [
-                            2.99,
-                            42.45
-                        ],
-                        [
-                            2.98,
-                            42.47
-                        ],
-                        [
-                            3.03,
-                            42.48
-                        ],
-                        [
-                            3.09,
-                            42.43
-                        ],
-                        [
-                            3.18,
-                            42.44
-                        ],
-                        [
-                            3.16,
-                            42.41
-                        ],
-                        [
-                            3.16,
-                            42.36
-                        ],
-                        [
-                            3.24,
-                            42.34
-                        ],
-                        [
-                            3.27,
-                            42.34
-                        ],
-                        [
-                            3.31,
-                            42.32
-                        ],
-                        [
-                            3.28,
-                            42.28
-                        ],
-                        [
-                            3.28,
-                            42.25
-                        ],
-                        [
-                            3.22,
-                            42.23
-                        ],
-                        [
-                            3.16,
-                            42.26
-                        ],
-                        [
-                            3.12,
-                            42.22
-                        ],
-                        [
-                            3.11,
-                            42.17
-                        ],
-                        [
-                            3.13,
-                            42.13
-                        ],
-                        [
-                            3.17,
-                            42.12
-                        ],
-                        [
-                            3.21,
-                            42.06
-                        ],
-                        [
-                            3.2,
-                            42.05
-                        ],
-                        [
-                            3.2,
-                            42.0
-                        ],
-                        [
-                            3.23,
-                            41.97
-                        ],
-                        [
-                            3.2,
-                            41.89
-                        ],
-                        [
-                            3.15,
-                            41.85
-                        ],
-                        [
-                            3.09,
-                            41.83
-                        ],
-                        [
-                            3.08,
-                            41.82
-                        ],
-                        [
-                            3.03,
-                            41.85
-                        ],
-                        [
-                            3.02,
-                            41.87
-                        ],
-                        [
-                            2.96,
-                            41.88
-                        ],
-                        [
-                            2.89,
-                            41.91
-                        ],
-                        [
-                            2.9,
-                            41.93
-                        ],
-                        [
-                            2.94,
-                            41.94
-                        ],
-                        [
-                            2.91,
-                            41.97
-                        ],
-                        [
-                            2.9,
-                            42.03
-                        ],
-                        [
-                            2.89,
-                            42.07
-                        ],
-                        [
-                            2.84,
-                            42.1
-                        ],
-                        [
-                            2.84,
-                            42.14
-                        ],
-                        [
-                            2.86,
-                            42.2
-                        ],
-                        [
-                            2.83,
-                            42.24
-                        ],
-                        [
-                            2.81,
-                            42.23
-                        ],
-                        [
-                            2.78,
-                            42.27
-                        ],
-                        [
-                            2.79,
-                            42.31
-                        ],
-                        [
-                            2.83,
-                            42.34
-                        ],
-                        [
-                            2.9,
-                            42.35
-                        ],
-                        [
-                            2.85,
-                            42.38
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 2,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Ampurd\u00e1n</p><p><b>\u00c1rea:</b> Ampurd\u00e1n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 90 km/h. Viento del norte y del noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 18:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -17.85,
                             28.83
                         ],
@@ -3006,210 +3226,6 @@
                 "dia": 2,
                 "priority": 2,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel naranja</h3><p><b>Titular:</b> Aviso de costeros de nivel naranja. Costa - Ampurd\u00e1n</p><p><b>\u00c1rea:</b> Costa - Ampurd\u00e1n</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del norte y noroeste de 60 a 80 km/h (fuerza 8 a 9) y olas de 4 a 5 metros.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 20:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#FF7F00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            1.04,
-                            41.18
-                        ],
-                        [
-                            1.06,
-                            41.18
-                        ],
-                        [
-                            1.09,
-                            41.14
-                        ],
-                        [
-                            1.1,
-                            41.09
-                        ],
-                        [
-                            1.12,
-                            41.07
-                        ],
-                        [
-                            1.05,
-                            41.06
-                        ],
-                        [
-                            0.97,
-                            41.03
-                        ],
-                        [
-                            0.84,
-                            40.92
-                        ],
-                        [
-                            0.79,
-                            40.87
-                        ],
-                        [
-                            0.75,
-                            40.85
-                        ],
-                        [
-                            0.7,
-                            40.8
-                        ],
-                        [
-                            0.73,
-                            40.77
-                        ],
-                        [
-                            0.78,
-                            40.78
-                        ],
-                        [
-                            0.88,
-                            40.7
-                        ],
-                        [
-                            0.84,
-                            40.68
-                        ],
-                        [
-                            0.77,
-                            40.65
-                        ],
-                        [
-                            0.71,
-                            40.59
-                        ],
-                        [
-                            0.74,
-                            40.64
-                        ],
-                        [
-                            0.73,
-                            40.64
-                        ],
-                        [
-                            0.6,
-                            40.62
-                        ],
-                        [
-                            0.54,
-                            40.57
-                        ],
-                        [
-                            0.52,
-                            40.52
-                        ],
-                        [
-                            0.44,
-                            40.55
-                        ],
-                        [
-                            0.43,
-                            40.58
-                        ],
-                        [
-                            0.39,
-                            40.61
-                        ],
-                        [
-                            0.33,
-                            40.61
-                        ],
-                        [
-                            0.35,
-                            40.66
-                        ],
-                        [
-                            0.44,
-                            40.74
-                        ],
-                        [
-                            0.51,
-                            40.74
-                        ],
-                        [
-                            0.61,
-                            40.76
-                        ],
-                        [
-                            0.61,
-                            40.81
-                        ],
-                        [
-                            0.67,
-                            40.87
-                        ],
-                        [
-                            0.61,
-                            40.9
-                        ],
-                        [
-                            0.61,
-                            40.93
-                        ],
-                        [
-                            0.67,
-                            40.95
-                        ],
-                        [
-                            0.75,
-                            40.93
-                        ],
-                        [
-                            0.82,
-                            40.94
-                        ],
-                        [
-                            0.78,
-                            41.0
-                        ],
-                        [
-                            0.81,
-                            41.05
-                        ],
-                        [
-                            0.85,
-                            41.03
-                        ],
-                        [
-                            0.91,
-                            41.03
-                        ],
-                        [
-                            0.92,
-                            41.06
-                        ],
-                        [
-                            0.9,
-                            41.1
-                        ],
-                        [
-                            0.92,
-                            41.13
-                        ],
-                        [
-                            0.95,
-                            41.11
-                        ],
-                        [
-                            1.02,
-                            41.14
-                        ],
-                        [
-                            1.04,
-                            41.18
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 2,
-                "priority": 2,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Litoral sur de Tarragona</p><p><b>\u00c1rea:</b> Litoral sur de Tarragona</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 100 km/h. Viento del noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#FF7F00"
             }
         },
@@ -3516,35 +3532,215 @@
                 "coordinates": [
                     [
                         [
-                            -0.24,
-                            40.72
+                            0.27,
+                            40.82
                         ],
                         [
-                            -0.2,
-                            40.78
+                            0.33,
+                            40.85
                         ],
                         [
-                            -0.14,
-                            40.79
+                            0.37,
+                            40.89
                         ],
                         [
-                            -0.13,
-                            40.75
+                            0.37,
+                            40.93
                         ],
                         [
-                            -0.06,
-                            40.73
+                            0.4,
+                            40.96
                         ],
                         [
-                            0.02,
-                            40.73
+                            0.44,
+                            40.96
                         ],
                         [
-                            0.04,
+                            0.47,
+                            41.03
+                        ],
+                        [
+                            0.5,
+                            41.06
+                        ],
+                        [
+                            0.56,
+                            41.12
+                        ],
+                        [
+                            0.61,
+                            41.14
+                        ],
+                        [
+                            0.61,
+                            41.17
+                        ],
+                        [
+                            0.65,
+                            41.18
+                        ],
+                        [
+                            0.71,
+                            41.22
+                        ],
+                        [
+                            0.69,
+                            41.25
+                        ],
+                        [
+                            0.72,
+                            41.3
+                        ],
+                        [
+                            0.75,
+                            41.32
+                        ],
+                        [
+                            0.76,
+                            41.33
+                        ],
+                        [
+                            0.82,
+                            41.33
+                        ],
+                        [
+                            0.97,
+                            41.36
+                        ],
+                        [
+                            1.0,
+                            41.33
+                        ],
+                        [
+                            1.07,
+                            41.33
+                        ],
+                        [
+                            1.14,
+                            41.29
+                        ],
+                        [
+                            1.14,
+                            41.24
+                        ],
+                        [
+                            1.1,
+                            41.23
+                        ],
+                        [
+                            1.06,
+                            41.24
+                        ],
+                        [
+                            1.02,
+                            41.2
+                        ],
+                        [
+                            1.04,
+                            41.18
+                        ],
+                        [
+                            1.02,
+                            41.14
+                        ],
+                        [
+                            0.95,
+                            41.11
+                        ],
+                        [
+                            0.92,
+                            41.13
+                        ],
+                        [
+                            0.9,
+                            41.1
+                        ],
+                        [
+                            0.92,
+                            41.06
+                        ],
+                        [
+                            0.91,
+                            41.03
+                        ],
+                        [
+                            0.85,
+                            41.03
+                        ],
+                        [
+                            0.81,
+                            41.05
+                        ],
+                        [
+                            0.78,
+                            41.0
+                        ],
+                        [
+                            0.82,
+                            40.94
+                        ],
+                        [
+                            0.75,
+                            40.93
+                        ],
+                        [
+                            0.67,
+                            40.95
+                        ],
+                        [
+                            0.61,
+                            40.93
+                        ],
+                        [
+                            0.61,
+                            40.9
+                        ],
+                        [
+                            0.67,
+                            40.87
+                        ],
+                        [
+                            0.61,
+                            40.81
+                        ],
+                        [
+                            0.61,
+                            40.76
+                        ],
+                        [
+                            0.51,
+                            40.74
+                        ],
+                        [
+                            0.44,
+                            40.74
+                        ],
+                        [
+                            0.35,
+                            40.66
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.28,
+                            40.63
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.29,
                             40.69
                         ],
                         [
-                            0.11,
+                            0.24,
+                            40.7
+                        ],
+                        [
+                            0.22,
                             40.73
                         ],
                         [
@@ -3552,140 +3748,8 @@
                             40.73
                         ],
                         [
-                            0.22,
-                            40.73
-                        ],
-                        [
-                            0.24,
-                            40.7
-                        ],
-                        [
-                            0.29,
-                            40.69
-                        ],
-                        [
                             0.27,
-                            40.66
-                        ],
-                        [
-                            0.16,
-                            40.65
-                        ],
-                        [
-                            0.16,
-                            40.61
-                        ],
-                        [
-                            0.19,
-                            40.6
-                        ],
-                        [
-                            0.15,
-                            40.57
-                        ],
-                        [
-                            0.12,
-                            40.59
-                        ],
-                        [
-                            0.08,
-                            40.57
-                        ],
-                        [
-                            0.1,
-                            40.54
-                        ],
-                        [
-                            0.08,
-                            40.5
-                        ],
-                        [
-                            0.09,
-                            40.48
-                        ],
-                        [
-                            0.02,
-                            40.44
-                        ],
-                        [
-                            -0.02,
-                            40.4
-                        ],
-                        [
-                            -0.03,
-                            40.36
-                        ],
-                        [
-                            -0.08,
-                            40.3
-                        ],
-                        [
-                            -0.1,
-                            40.31
-                        ],
-                        [
-                            -0.09,
-                            40.35
-                        ],
-                        [
-                            -0.18,
-                            40.36
-                        ],
-                        [
-                            -0.25,
-                            40.38
-                        ],
-                        [
-                            -0.28,
-                            40.37
-                        ],
-                        [
-                            -0.28,
-                            40.39
-                        ],
-                        [
-                            -0.35,
-                            40.44
-                        ],
-                        [
-                            -0.33,
-                            40.46
-                        ],
-                        [
-                            -0.27,
-                            40.48
-                        ],
-                        [
-                            -0.3,
-                            40.52
-                        ],
-                        [
-                            -0.29,
-                            40.54
-                        ],
-                        [
-                            -0.32,
-                            40.6
-                        ],
-                        [
-                            -0.38,
-                            40.63
-                        ],
-                        [
-                            -0.35,
-                            40.68
-                        ],
-                        [
-                            -0.32,
-                            40.66
-                        ],
-                        [
-                            -0.25,
-                            40.69
-                        ],
-                        [
-                            -0.24,
-                            40.72
+                            40.82
                         ]
                     ]
                 ]
@@ -3693,7 +3757,7 @@
             "properties": {
                 "dia": 2,
                 "priority": 2,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Interior norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Interior norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 100 km/h. Viento del noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel naranja</h3><p><b>Titular:</b> Aviso de vientos de nivel naranja. Prelitoral sur de Tarragona</p><p><b>\u00c1rea:</b> Prelitoral sur de Tarragona</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 100 km/h. Viento del noroeste. Es posible que a \u00faltimas horas del mi\u00e9rcoles o primeras horas del jueves se alcancen los 120 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/03/2026 15:00</p><p><b>Fin:</b> 25/03/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#FF7F00"
             }
         },
@@ -4007,6 +4071,90 @@
                 "priority": 2,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. La Gomera</p><p><b>\u00c1rea:</b> La Gomera</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/03/2026 16:00</p><p><b>Fin:</b> 24/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Este de La Palma</p><p><b>\u00c1rea:</b> Este de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Afectando principalmente a median\u00edas del norte y a zonas altas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
             }
         },
         {
@@ -4500,76 +4648,60 @@
                 "coordinates": [
                     [
                         [
-                            -18.05,
-                            27.69
+                            -17.86,
+                            28.76
                         ],
                         [
-                            -18.16,
-                            27.71
+                            -17.83,
+                            28.74
                         ],
                         [
-                            -18.15,
-                            27.75
+                            -17.84,
+                            28.7
                         ],
                         [
-                            -18.13,
-                            27.77
+                            -17.83,
+                            28.68
                         ],
                         [
-                            -18.07,
-                            27.75
+                            -17.82,
+                            28.64
                         ],
                         [
-                            -18.03,
-                            27.76
+                            -17.84,
+                            28.61
                         ],
                         [
-                            -17.99,
-                            27.8
+                            -17.84,
+                            28.56
                         ],
                         [
-                            -17.96,
-                            27.84
-                        ],
-                        [
-                            -17.92,
-                            27.85
+                            -17.87,
+                            28.55
                         ],
                         [
                             -17.88,
-                            27.8
+                            28.59
+                        ],
+                        [
+                            -17.92,
+                            28.69
                         ],
                         [
                             -17.9,
-                            27.78
+                            28.74
                         ],
                         [
-                            -17.93,
-                            27.73
-                        ],
-                        [
-                            -17.96,
-                            27.72
-                        ],
-                        [
-                            -17.97,
-                            27.65
-                        ],
-                        [
-                            -18.01,
-                            27.65
-                        ],
-                        [
-                            -18.05,
-                            27.69
+                            -17.86,
+                            28.76
                         ]
                     ]
                 ]
             },
             "properties": {
-                "dia": 0,
+                "dia": 1,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. El Hierro</p><p><b>\u00c1rea:</b> El Hierro</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/03/2026 11:00</p><p><b>Fin:</b> 23/03/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Cumbres de La Palma</p><p><b>\u00c1rea:</b> Cumbres de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -4655,6 +4787,90 @@
                 "priority": 2,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. Este de La Palma</p><p><b>\u00c1rea:</b> Este de La Palma</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm. Con alguna tormenta ocasional en el entorno.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -17.84,
+                            28.56
+                        ],
+                        [
+                            -17.84,
+                            28.61
+                        ],
+                        [
+                            -17.82,
+                            28.64
+                        ],
+                        [
+                            -17.83,
+                            28.68
+                        ],
+                        [
+                            -17.84,
+                            28.7
+                        ],
+                        [
+                            -17.83,
+                            28.74
+                        ],
+                        [
+                            -17.86,
+                            28.76
+                        ],
+                        [
+                            -17.85,
+                            28.83
+                        ],
+                        [
+                            -17.78,
+                            28.84
+                        ],
+                        [
+                            -17.76,
+                            28.79
+                        ],
+                        [
+                            -17.72,
+                            28.73
+                        ],
+                        [
+                            -17.77,
+                            28.67
+                        ],
+                        [
+                            -17.75,
+                            28.62
+                        ],
+                        [
+                            -17.75,
+                            28.59
+                        ],
+                        [
+                            -17.79,
+                            28.52
+                        ],
+                        [
+                            -17.84,
+                            28.54
+                        ],
+                        [
+                            -17.84,
+                            28.56
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Este de La Palma</p><p><b>\u00c1rea:</b> Este de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/03/2026 16:00</p><p><b>Fin:</b> 25/03/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
             }
         },
         {
