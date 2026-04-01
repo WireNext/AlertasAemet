@@ -8,6 +8,114 @@
                 "coordinates": [
                     [
                         [
+                            1.04,
+                            42.79
+                        ],
+                        [
+                            1.02,
+                            42.73
+                        ],
+                        [
+                            0.98,
+                            42.69
+                        ],
+                        [
+                            0.94,
+                            42.59
+                        ],
+                        [
+                            0.92,
+                            42.59
+                        ],
+                        [
+                            0.89,
+                            42.63
+                        ],
+                        [
+                            0.84,
+                            42.61
+                        ],
+                        [
+                            0.81,
+                            42.62
+                        ],
+                        [
+                            0.77,
+                            42.61
+                        ],
+                        [
+                            0.71,
+                            42.62
+                        ],
+                        [
+                            0.7,
+                            42.66
+                        ],
+                        [
+                            0.66,
+                            42.69
+                        ],
+                        [
+                            0.68,
+                            42.71
+                        ],
+                        [
+                            0.65,
+                            42.77
+                        ],
+                        [
+                            0.67,
+                            42.81
+                        ],
+                        [
+                            0.66,
+                            42.84
+                        ],
+                        [
+                            0.71,
+                            42.86
+                        ],
+                        [
+                            0.78,
+                            42.84
+                        ],
+                        [
+                            0.86,
+                            42.83
+                        ],
+                        [
+                            0.93,
+                            42.79
+                        ],
+                        [
+                            0.96,
+                            42.81
+                        ],
+                        [
+                            0.99,
+                            42.79
+                        ],
+                        [
+                            1.04,
+                            42.79
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udfd4\ufe0f Aviso de aludes de nivel amarillo</h3><p><b>Titular:</b> Aviso de aludes de nivel amarillo. Valle de Ar\u00e1n</p><p><b>\u00c1rea:</b> Valle de Ar\u00e1n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Peligro bajo.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 01/04/2026 17:00</p><p><b>Fin:</b> 02/04/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             3.08,
                             41.82
                         ],
@@ -1686,90 +1794,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. G\u00fadar y Maestrazgo</p><p><b>\u00c1rea:</b> G\u00fadar y Maestrazgo</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Viento del norte y noroeste.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 01/04/2026 09:00</p><p><b>Fin:</b> 01/04/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.78,
-                            41.74
-                        ],
-                        [
-                            2.85,
-                            41.76
-                        ],
-                        [
-                            2.85,
-                            41.82
-                        ],
-                        [
-                            2.86,
-                            41.85
-                        ],
-                        [
-                            2.94,
-                            41.87
-                        ],
-                        [
-                            2.96,
-                            41.88
-                        ],
-                        [
-                            3.02,
-                            41.87
-                        ],
-                        [
-                            3.03,
-                            41.85
-                        ],
-                        [
-                            3.08,
-                            41.82
-                        ],
-                        [
-                            3.07,
-                            41.8
-                        ],
-                        [
-                            2.97,
-                            41.75
-                        ],
-                        [
-                            2.94,
-                            41.72
-                        ],
-                        [
-                            2.85,
-                            41.7
-                        ],
-                        [
-                            2.79,
-                            41.67
-                        ],
-                        [
-                            2.78,
-                            41.65
-                        ],
-                        [
-                            2.76,
-                            41.68
-                        ],
-                        [
-                            2.78,
-                            41.74
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Litoral sur de Girona</p><p><b>\u00c1rea:</b> Litoral sur de Girona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Viento de componente norte.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 01/04/2026 08:00</p><p><b>Fin:</b> 01/04/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -7650,114 +7674,6 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca</p><p><b>\u00c1rea:</b> Costa - Norte y nordeste de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Oleaje del norte de 3 m.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 03/04/2026 04:00</p><p><b>Fin:</b> 03/04/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            1.04,
-                            42.79
-                        ],
-                        [
-                            1.02,
-                            42.73
-                        ],
-                        [
-                            0.98,
-                            42.69
-                        ],
-                        [
-                            0.94,
-                            42.59
-                        ],
-                        [
-                            0.92,
-                            42.59
-                        ],
-                        [
-                            0.89,
-                            42.63
-                        ],
-                        [
-                            0.84,
-                            42.61
-                        ],
-                        [
-                            0.81,
-                            42.62
-                        ],
-                        [
-                            0.77,
-                            42.61
-                        ],
-                        [
-                            0.71,
-                            42.62
-                        ],
-                        [
-                            0.7,
-                            42.66
-                        ],
-                        [
-                            0.66,
-                            42.69
-                        ],
-                        [
-                            0.68,
-                            42.71
-                        ],
-                        [
-                            0.65,
-                            42.77
-                        ],
-                        [
-                            0.67,
-                            42.81
-                        ],
-                        [
-                            0.66,
-                            42.84
-                        ],
-                        [
-                            0.71,
-                            42.86
-                        ],
-                        [
-                            0.78,
-                            42.84
-                        ],
-                        [
-                            0.86,
-                            42.83
-                        ],
-                        [
-                            0.93,
-                            42.79
-                        ],
-                        [
-                            0.96,
-                            42.81
-                        ],
-                        [
-                            0.99,
-                            42.79
-                        ],
-                        [
-                            1.04,
-                            42.79
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udfd4\ufe0f Aviso de aludes de nivel amarillo</h3><p><b>Titular:</b> Aviso de aludes de nivel amarillo. Valle de Ar\u00e1n</p><p><b>\u00c1rea:</b> Valle de Ar\u00e1n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 01/04/2026 12:00</p><p><b>Fin:</b> 01/04/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
