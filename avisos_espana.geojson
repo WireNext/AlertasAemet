@@ -820,6 +820,78 @@
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Rias Baixas</p><p><b>\u00c1rea:</b> Costa - Rias Baixas</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Mar combinada del oeste o noroeste de 4 a 5 m.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 16/04/2026 00:00</p><p><b>Fin:</b> 16/04/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.6,
+                            28.01
+                        ],
+                        [
+                            -15.54,
+                            28.04
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\u26a0\ufe0f Aviso de polvo en suspensi\u00f3n de nivel amarillo</h3><p><b>Titular:</b> Aviso de polvo en suspensi\u00f3n de nivel amarillo. Cumbres de Gran Canaria</p><p><b>\u00c1rea:</b> Cumbres de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Visibilidad: 3000 m. Calima afectando principalmente a median\u00edas y zonas altas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 18/04/2026 13:00</p><p><b>Fin:</b> 19/04/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
         }
     ]
 }
