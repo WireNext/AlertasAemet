@@ -6,106 +6,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        /* Base */
-        #map { height: 100vh; width: 100%; margin: 0; z-index: 1; }
+        /* Base Dark Mode */
+        #map { height: 100vh; width: 100%; margin: 0; z-index: 1; background-color: #0b0e14; }
         body { 
             margin: 0; 
             font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
             overflow: hidden; 
-            background-color: #f2f2f7;
+            background-color: #0b0e14;
         }
 
-        /* Selector de Días */
+        /* Selector de Días - Liquid Glass Dark */
         .selector-dias {
             position: absolute; top: 20px; left: 50%; transform: translateX(-50%); z-index: 1000;
-            background: rgba(255, 255, 255, 0.7); 
-            backdrop-filter: blur(20px) saturate(180%);
-            -webkit-backdrop-filter: blur(20px) saturate(180%);
-            padding: 5px; border-radius: 25px; 
-            border: 1px solid rgba(255, 255, 255, 0.4);
-            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            background: rgba(28, 28, 30, 0.6); 
+            backdrop-filter: blur(25px) saturate(180%);
+            -webkit-backdrop-filter: blur(25px) saturate(180%);
+            padding: 6px; border-radius: 30px; 
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 10px 40px rgba(0,0,0,0.5);
             display: flex; gap: 4px;
         }
 
         button { 
-            padding: 10px 20px; border: none; background: transparent; 
-            color: #1d1d1f; cursor: pointer; border-radius: 20px; 
+            padding: 10px 22px; border: none; background: transparent; 
+            color: #ebebf5; cursor: pointer; border-radius: 25px; 
             font-size: 13px; font-weight: 500;
-            transition: all 0.2s ease;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         button.active { 
-            background: #ffffff; color: #007AFF; 
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            background: rgba(255, 255, 255, 0.15); 
+            color: #ffffff; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
             font-weight: 600;
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
 
-        /* Modal Centrado - Liquid Glass */
+        /* Modal Centrado - Liquid Glass Dark */
         .modal {
             display: none; 
             position: fixed; 
             z-index: 2000;
             left: 0; top: 0; 
             width: 100%; height: 100%;
-            background-color: rgba(0,0,0,0.3); /* Fondo oscurecido sutil */
-            backdrop-filter: blur(8px);
-            -webkit-backdrop-filter: blur(8px);
-            
-            /* Centrado absoluto con Flexbox */
-            display: none; /* Cambia a flex en JS */
+            background-color: rgba(0,0,0,0.6); 
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
             align-items: center; 
             justify-content: center;
         }
 
         .modal-content {
-            background: rgba(255, 255, 255, 0.82);
-            backdrop-filter: blur(30px) saturate(190%);
-            -webkit-backdrop-filter: blur(30px) saturate(190%);
-            border: 1px solid rgba(255, 255, 255, 0.5);
+            background: rgba(30, 30, 32, 0.75);
+            backdrop-filter: blur(40px) saturate(200%);
+            -webkit-backdrop-filter: blur(40px) saturate(200%);
+            border: 1px solid rgba(255, 255, 255, 0.12);
             width: 90%; 
             max-width: 450px; 
-            max-height: 75vh; /* Evita que se salga de la pantalla */
-            border-radius: 30px;
-            box-shadow: 0 25px 60px rgba(0,0,0,0.3);
+            max-height: 75vh; 
+            border-radius: 35px;
+            box-shadow: 0 30px 70px rgba(0,0,0,0.6);
             display: flex;
             flex-direction: column;
             position: relative;
             animation: applePop 0.4s cubic-bezier(0.17, 0.89, 0.32, 1.15);
         }
 
-        /* Zona de contenido con Scroll */
+        /* Zona de contenido con Scroll Dark */
         .modal-body {
-            padding: 25px;
+            padding: 30px;
             overflow-y: auto;
-            color: #1d1d1f;
-            line-height: 1.5;
+            color: #ffffff;
+            line-height: 1.6;
         }
 
-        /* Estilo para el scroll interno */
-        .modal-body::-webkit-scrollbar { width: 5px; }
-        .modal-body::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.1); border-radius: 10px; }
+        /* Scrollbar personalizada para Dark Mode */
+        .modal-body::-webkit-scrollbar { width: 6px; }
+        .modal-body::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.2); border-radius: 10px; }
 
         @keyframes applePop {
-            from { opacity: 0; transform: scale(0.9) translateY(20px); }
+            from { opacity: 0; transform: scale(0.92) translateY(30px); }
             to { opacity: 1; transform: scale(1) translateY(0); }
         }
 
         .close-btn { 
-            position: absolute; top: 15px; right: 20px;
-            font-size: 24px; color: #8e8e93; cursor: pointer; z-index: 10;
+            position: absolute; top: 18px; right: 22px;
+            font-size: 24px; color: #98989d; cursor: pointer; z-index: 10;
+            transition: color 0.2s;
         }
-        .close-btn:hover { color: #000; }
+        .close-btn:hover { color: #fff; }
 
-        hr { border: 0; height: 1px; background: rgba(0,0,0,0.08); margin: 15px 0; }
-        h3 { margin-top: 0; font-size: 1.3rem; padding-right: 25px; letter-spacing: -0.02em; }
+        hr { border: 0; height: 1px; background: rgba(255,255,255,0.1); margin: 15px 0; }
+        h3 { margin-top: 0; font-size: 1.4rem; padding-right: 25px; letter-spacing: -0.02em; color: #fff; }
+
+        /* Ajuste para el mapa en modo oscuro */
+        .leaflet-container {
+            background: #0b0e14 !important;
+        }
     </style>
 </head>
 <body>
 
 <div class="selector-dias">
-    <button id="btn0" class="active" onclick="filtrarDia(0)">Hoy</button>
-    <button id="btn1" onclick="filtrarDia(1)">Mañana</button>
-    <button id="btn2" onclick="filtrarDia(2)">Pasado</button>
+    <button id="btn0" class="active" onclick="filtrarDia(0)">Avuí</button>
+    <button id="btn1" onclick="filtrarDia(1)">Demà</button>
+    <button id="btn2" onclick="filtrarDia(2)">Despús-demà</button>
 </div>
 
 <div id="miModal" class="modal" onclick="cerrarSiFuera(event)">
@@ -122,23 +127,25 @@
 <script>
     var map = L.map('map').setView([40.4167, -3.7037], 6);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; OpenStreetMap contributors'
+    // TileLayer con filtro oscuro vía CSS invertido para mejor estética dark
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 20
     }).addTo(map);
 
     var capaAvisos = L.geoJSON(null, {
         style: function(f) {
-        // Usamos 'fillColor' que es la propiedad real en tu JSON
-        let colorFinal = f.properties.fillColor || '#ffff00'; 
-        
-        return {
-            fillColor: colorFinal,
-            weight: 1.5,
-            opacity: 1,
-            color: 'white',
-            fillOpacity: 0.6
-        };
-    },
+            let colorFinal = f.properties.fillColor || '#ffff00'; 
+            
+            return {
+                fillColor: colorFinal,
+                weight: 1,
+                opacity: 0.8,
+                color: 'rgba(255,255,255,0.3)', // Borde sutil transparente
+                fillOpacity: 0.5
+            };
+        },
         onEachFeature: function(f, l) {
             l.on('click', function() { abrirModal(f.properties.popup_html); });
         }
@@ -150,27 +157,20 @@
         filtrarDia(0);
     });
 
-function filtrarDia(diaNum) {
-    document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
-    document.getElementById('btn' + diaNum).classList.add('active');
-    
-    capaAvisos.clearLayers();
-    if(!datosOriginales) return;
+    function filtrarDia(diaNum) {
+        document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+        document.getElementById('btn' + diaNum).classList.add('active');
+        
+        capaAvisos.clearLayers();
+        if(!datosOriginales) return;
 
-    // 1. Filtramos por día
-    var avisosDelDia = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
-
-    // 2. IMPORTANTE: No agrupamos para no borrar avisos. 
-    // Simplemente ordenamos por prioridad para que los más graves queden "encima" visualmente.
-    avisosDelDia.sort((a, b) => (a.properties.priority || 0) - (b.properties.priority || 0));
-    
-    // 3. Añadimos todos los avisos al mapa
-    capaAvisos.addData(avisosDelDia);
-}
+        var avisosDelDia = datosOriginales.features.filter(f => parseInt(f.properties.dia) === diaNum);
+        avisosDelDia.sort((a, b) => (a.properties.priority || 0) - (b.properties.priority || 0));
+        capaAvisos.addData(avisosDelDia);
+    }
 
     function abrirModal(contenido) {
         document.getElementById('modalBody').innerHTML = contenido;
-        // Forzamos display flex para centrar
         document.getElementById('miModal').style.display = "flex";
     }
 
