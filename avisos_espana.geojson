@@ -207,7 +207,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Interior norte de Valencia</p><p><b>\u00c1rea:</b> Interior norte de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden venir acompa\u00f1adas de chubascos fuertes localmente.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -483,257 +483,9 @@
                 ]
             },
             "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Pirineo de Girona</p><p><b>\u00c1rea:</b> Pirineo de Girona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Pueden venir acompa\u00f1adas de tormenta.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.45,
-                            40.22
-                        ],
-                        [
-                            3.52,
-                            40.29
-                        ],
-                        [
-                            3.59,
-                            40.33
-                        ],
-                        [
-                            3.66,
-                            40.36
-                        ],
-                        [
-                            3.75,
-                            40.38
-                        ],
-                        [
-                            3.92,
-                            40.4
-                        ],
-                        [
-                            3.99,
-                            40.42
-                        ],
-                        [
-                            4.08,
-                            40.43
-                        ],
-                        [
-                            4.17,
-                            40.42
-                        ],
-                        [
-                            4.26,
-                            40.4
-                        ],
-                        [
-                            4.37,
-                            40.36
-                        ],
-                        [
-                            4.44,
-                            40.32
-                        ],
-                        [
-                            4.48,
-                            40.28
-                        ],
-                        [
-                            4.58,
-                            40.23
-                        ],
-                        [
-                            4.64,
-                            40.17
-                        ],
-                        [
-                            4.68,
-                            40.11
-                        ],
-                        [
-                            4.73,
-                            39.99
-                        ],
-                        [
-                            4.75,
-                            39.93
-                        ],
-                        [
-                            4.76,
-                            39.87
-                        ],
-                        [
-                            4.75,
-                            39.81
-                        ],
-                        [
-                            4.68,
-                            39.66
-                        ],
-                        [
-                            4.64,
-                            39.6
-                        ],
-                        [
-                            4.58,
-                            39.55
-                        ],
-                        [
-                            4.52,
-                            39.52
-                        ],
-                        [
-                            4.44,
-                            39.49
-                        ],
-                        [
-                            4.36,
-                            39.47
-                        ],
-                        [
-                            4.27,
-                            39.47
-                        ],
-                        [
-                            4.18,
-                            39.48
-                        ],
-                        [
-                            4.09,
-                            39.5
-                        ],
-                        [
-                            4.02,
-                            39.53
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.859999,
-                            39.92
-                        ],
-                        [
-                            3.799999,
-                            39.68
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.45,
-                            40.22
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Menorca</p><p><b>\u00c1rea:</b> Costa - Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Olas de 2 m del norte.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 16/05/2026 03:00</p><p><b>Fin:</b> 16/05/2026 13:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Pirineo de Girona</p><p><b>\u00c1rea:</b> Pirineo de Girona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Pueden venir acompa\u00f1adas de tormenta.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -959,7 +711,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Prelitoral de Girona</p><p><b>\u00c1rea:</b> Prelitoral de Girona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Pueden venir acompa\u00f1adas de tormenta.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1083,7 +835,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Altiplano de Murcia</p><p><b>\u00c1rea:</b> Altiplano de Murcia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden producirse chubascos localmente fuertes.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1291,7 +1043,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Ampurd\u00e1n</p><p><b>\u00c1rea:</b> Ampurd\u00e1n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Pueden venir acompa\u00f1adas de tormenta.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1507,7 +1259,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Interior sur de Valencia</p><p><b>\u00c1rea:</b> Interior sur de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden venir acompa\u00f1adas de chubascos fuertes localmente.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1923,7 +1675,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. G\u00fadar y Maestrazgo</p><p><b>\u00c1rea:</b> G\u00fadar y Maestrazgo</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden venir acompa\u00f1adas de chubascos fuertes localmente.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2147,7 +1899,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Prepirineo de Barcelona</p><p><b>\u00c1rea:</b> Prepirineo de Barcelona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm. Pueden venir acompa\u00f1adas de tormenta.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2423,7 +2175,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Hell\u00edn y Almansa</p><p><b>\u00c1rea:</b> Hell\u00edn y Almansa</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Las tormentas pueden ir acompa\u00f1adas localmente de chubascos fuertes, granizo y rachas fuertes de viento.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2595,7 +2347,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Interior de Alicante</p><p><b>\u00c1rea:</b> Interior de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden venir acompa\u00f1adas de chubascos fuertes localmente.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 17/05/2026 14:00</p><p><b>Fin:</b> 17/05/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
