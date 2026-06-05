@@ -67,7 +67,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria</p><p><b>\u00c1rea:</b> Cumbres de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente en zonas expuestas de las cumbres y vertientes NW y SE. En el caso de El Hierro, especialmente en El Pinar.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -191,7 +191,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Alisio. Afectando principalmente en la vertiente SE y zonas altas de la vertiente W, sin descartarlas en la zona de Las Ca\u00f1adas. Localmente podr\u00e1n superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -391,597 +391,9 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Costa - Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), en el canal entre Tenerife y Gran Canaria, y en el sureste de Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 06:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -17.01,
-                            28.21
-                        ],
-                        [
-                            -17.00816091954023,
-                            28.210689655172416
-                        ],
-                        [
-                            -16.85,
-                            28.27
-                        ],
-                        [
-                            -16.84,
-                            28.21
-                        ],
-                        [
-                            -16.77,
-                            28.11
-                        ],
-                        [
-                            -16.74,
-                            28.09
-                        ],
-                        [
-                            -16.74,
-                            28.05
-                        ],
-                        [
-                            -16.71,
-                            28.05
-                        ],
-                        [
-                            -16.71,
-                            28.01
-                        ],
-                        [
-                            -16.68,
-                            28.0
-                        ],
-                        [
-                            -16.64,
-                            28.0
-                        ],
-                        [
-                            -16.6,
-                            28.03
-                        ],
-                        [
-                            -16.55,
-                            28.03
-                        ],
-                        [
-                            -16.49,
-                            28.08
-                        ],
-                        [
-                            -16.44,
-                            28.14
-                        ],
-                        [
-                            -16.42,
-                            28.2
-                        ],
-                        [
-                            -16.36,
-                            28.31
-                        ],
-                        [
-                            -16.36,
-                            28.34
-                        ],
-                        [
-                            -16.11,
-                            28.23
-                        ],
-                        [
-                            -16.05,
-                            28.21
-                        ],
-                        [
-                            -16.15,
-                            28.02
-                        ],
-                        [
-                            -16.18,
-                            27.9
-                        ],
-                        [
-                            -16.27,
-                            27.81
-                        ],
-                        [
-                            -16.31,
-                            27.77
-                        ],
-                        [
-                            -16.37,
-                            27.74
-                        ],
-                        [
-                            -16.43,
-                            27.71
-                        ],
-                        [
-                            -16.49,
-                            27.7
-                        ],
-                        [
-                            -16.65,
-                            27.68
-                        ],
-                        [
-                            -16.72,
-                            27.68
-                        ],
-                        [
-                            -16.79,
-                            27.69
-                        ],
-                        [
-                            -16.86,
-                            27.71
-                        ],
-                        [
-                            -16.92,
-                            27.74
-                        ],
-                        [
-                            -16.97,
-                            27.78
-                        ],
-                        [
-                            -16.94,
-                            27.88
-                        ],
-                        [
-                            -16.94,
-                            28.0
-                        ],
-                        [
-                            -16.95,
-                            28.1
-                        ],
-                        [
-                            -16.98,
-                            28.16
-                        ],
-                        [
-                            -17.01,
-                            28.21
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), en el canal entre Tenerife y Gran Canaria, y en el sureste de Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 05/06/2026 20:00</p><p><b>Fin:</b> 06/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.74,
-                            40.2
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.26,
-                            39.86
-                        ],
-                        [
-                            2.2,
-                            39.93
-                        ],
-                        [
-                            2.52,
-                            40.12
-                        ],
-                        [
-                            2.57,
-                            40.15
-                        ],
-                        [
-                            2.74,
-                            40.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Sierra Tramontana</p><p><b>\u00c1rea:</b> Costa - Sierra Tramontana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del nordeste de 40 a 50 km/h (fuerza 6) y olas de 2 a 3 m.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 05/06/2026 00:00</p><p><b>Fin:</b> 05/06/2026 13:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.74,
-                            40.2
-                        ],
-                        [
-                            3.04,
-                            40.28
-                        ],
-                        [
-                            3.12,
-                            40.29
-                        ],
-                        [
-                            3.21,
-                            40.29
-                        ],
-                        [
-                            3.29,
-                            40.28
-                        ],
-                        [
-                            3.37,
-                            40.26
-                        ],
-                        [
-                            3.45,
-                            40.22
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.78,
-                            39.44
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.74,
-                            40.2
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Norte y nordeste de Mallorca</p><p><b>\u00c1rea:</b> Costa - Norte y nordeste de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del nordeste de 40 a 50 km/h (fuerza 6) y olas de 2 a 3 m.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 05/06/2026 00:00</p><p><b>Fin:</b> 05/06/2026 13:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -16.18,
-                            27.9
-                        ],
-                        [
-                            -16.15,
-                            28.02
-                        ],
-                        [
-                            -16.05,
-                            28.21
-                        ],
-                        [
-                            -16.0,
-                            28.27
-                        ],
-                        [
-                            -15.99,
-                            28.28
-                        ],
-                        [
-                            -15.989450549450549,
-                            28.279494505494505
-                        ],
-                        [
-                            -15.74,
-                            28.05
-                        ],
-                        [
-                            -15.79,
-                            28.02
-                        ],
-                        [
-                            -15.81,
-                            28.02
-                        ],
-                        [
-                            -15.83,
-                            27.97
-                        ],
-                        [
-                            -15.83,
-                            27.91
-                        ],
-                        [
-                            -15.79,
-                            27.83
-                        ],
-                        [
-                            -15.67,
-                            27.75
-                        ],
-                        [
-                            -15.6,
-                            27.73
-                        ],
-                        [
-                            -15.56,
-                            27.76
-                        ],
-                        [
-                            -15.49,
-                            27.79
-                        ],
-                        [
-                            -15.42,
-                            27.81
-                        ],
-                        [
-                            -15.41,
-                            27.85
-                        ],
-                        [
-                            -15.38,
-                            27.86
-                        ],
-                        [
-                            -15.39,
-                            27.89
-                        ],
-                        [
-                            -15.38,
-                            27.97
-                        ],
-                        [
-                            -15.37,
-                            27.99
-                        ],
-                        [
-                            -15.39,
-                            28.03
-                        ],
-                        [
-                            -15.07,
-                            28.32
-                        ],
-                        [
-                            -15.04,
-                            28.23
-                        ],
-                        [
-                            -14.99,
-                            27.99
-                        ],
-                        [
-                            -14.99,
-                            27.92
-                        ],
-                        [
-                            -15.0,
-                            27.86
-                        ],
-                        [
-                            -15.02,
-                            27.79
-                        ],
-                        [
-                            -15.09,
-                            27.67
-                        ],
-                        [
-                            -15.12,
-                            27.62
-                        ],
-                        [
-                            -15.16,
-                            27.57
-                        ],
-                        [
-                            -15.21,
-                            27.54
-                        ],
-                        [
-                            -15.27,
-                            27.51
-                        ],
-                        [
-                            -15.44,
-                            27.44
-                        ],
-                        [
-                            -15.52,
-                            27.41
-                        ],
-                        [
-                            -15.59,
-                            27.41
-                        ],
-                        [
-                            -15.67,
-                            27.41
-                        ],
-                        [
-                            -15.74,
-                            27.43
-                        ],
-                        [
-                            -15.81,
-                            27.47
-                        ],
-                        [
-                            -16.01,
-                            27.59
-                        ],
-                        [
-                            -16.07,
-                            27.63
-                        ],
-                        [
-                            -16.11,
-                            27.69
-                        ],
-                        [
-                            -16.14,
-                            27.75
-                        ],
-                        [
-                            -16.16,
-                            27.81
-                        ],
-                        [
-                            -16.18,
-                            27.9
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Costa - Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), en el canal entre Tenerife y Gran Canaria, y en el sureste de Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 05/06/2026 20:00</p><p><b>Fin:</b> 06/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1051,257 +463,9 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Cumbres de Gran Canaria</p><p><b>\u00c1rea:</b> Cumbres de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente a vertientes W y SE, as\u00ed como en zonas expuestas de las cumbres.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 06:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            3.45,
-                            40.22
-                        ],
-                        [
-                            3.52,
-                            40.29
-                        ],
-                        [
-                            3.59,
-                            40.33
-                        ],
-                        [
-                            3.66,
-                            40.36
-                        ],
-                        [
-                            3.75,
-                            40.38
-                        ],
-                        [
-                            3.92,
-                            40.4
-                        ],
-                        [
-                            3.99,
-                            40.42
-                        ],
-                        [
-                            4.08,
-                            40.43
-                        ],
-                        [
-                            4.17,
-                            40.42
-                        ],
-                        [
-                            4.26,
-                            40.4
-                        ],
-                        [
-                            4.37,
-                            40.36
-                        ],
-                        [
-                            4.44,
-                            40.32
-                        ],
-                        [
-                            4.48,
-                            40.28
-                        ],
-                        [
-                            4.58,
-                            40.23
-                        ],
-                        [
-                            4.64,
-                            40.17
-                        ],
-                        [
-                            4.68,
-                            40.11
-                        ],
-                        [
-                            4.73,
-                            39.99
-                        ],
-                        [
-                            4.75,
-                            39.93
-                        ],
-                        [
-                            4.76,
-                            39.87
-                        ],
-                        [
-                            4.75,
-                            39.81
-                        ],
-                        [
-                            4.68,
-                            39.66
-                        ],
-                        [
-                            4.64,
-                            39.6
-                        ],
-                        [
-                            4.58,
-                            39.55
-                        ],
-                        [
-                            4.52,
-                            39.52
-                        ],
-                        [
-                            4.44,
-                            39.49
-                        ],
-                        [
-                            4.36,
-                            39.47
-                        ],
-                        [
-                            4.27,
-                            39.47
-                        ],
-                        [
-                            4.18,
-                            39.48
-                        ],
-                        [
-                            4.09,
-                            39.5
-                        ],
-                        [
-                            4.02,
-                            39.53
-                        ],
-                        [
-                            3.88,
-                            39.59
-                        ],
-                        [
-                            3.8,
-                            39.68
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.859999,
-                            39.92
-                        ],
-                        [
-                            3.799999,
-                            39.68
-                        ],
-                        [
-                            3.53,
-                            39.99
-                        ],
-                        [
-                            3.49,
-                            40.1
-                        ],
-                        [
-                            3.45,
-                            40.22
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Menorca</p><p><b>\u00c1rea:</b> Costa - Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del nordeste de 40 a 50 km/h (fuerza 6) y olas de 2 a 3 m.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 05/06/2026 00:00</p><p><b>Fin:</b> 05/06/2026 13:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1447,7 +611,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente en zonas expuestas de las cumbres y vertientes NW y SE. En el caso de El Hierro, especialmente en El Pinar.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1647,7 +811,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Costa - Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), en el canal entre Tenerife y Gran Canaria, y en el sureste de Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 20:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1727,7 +891,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. El Hierro</p><p><b>\u00c1rea:</b> El Hierro</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente a vertientes NW y E en La Gomera y El Pinar, en El Hierro, as\u00ed como en zonas expuestas de las cumbres.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 03:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1791,7 +955,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Cumbres de La Palma</p><p><b>\u00c1rea:</b> Cumbres de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Alisio. Afectando principalmente en cumbres expuestas, vertiente NW y extremo S. Localmente podr\u00e1n superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 06/06/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1875,7 +1039,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. \u00c1rea metropolitana de Tenerife</p><p><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Alisio. Afectando principalmente a la fachada S y zonas elevadas expuestas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 17:00</p><p><b>Fin:</b> 08/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2023,7 +1187,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente a vertientes W y SE, as\u00ed como en zonas expuestas de las cumbres.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 06:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2107,7 +1271,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. \u00c1rea metropolitana de Tenerife</p><p><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Alisio. Afectando principalmente a la fachada S y zonas elevadas expuestas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 18:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2275,7 +1439,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), en el canal entre Tenerife y Gran Canaria, y en el sureste de Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 06:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2443,7 +1607,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Costa - Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Nordeste de 50 a 61 km/h (fuerza 7), en el canal entre Tenerife y Gran Canaria, y en el sureste de Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 20:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2511,7 +1675,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. La Gomera</p><p><b>\u00c1rea:</b> La Gomera</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente a vertientes NW y E en La Gomera y El Pinar, en El Hierro, as\u00ed como en zonas expuestas de las cumbres.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 07/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 03:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2579,7 +1743,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. La Gomera</p><p><b>\u00c1rea:</b> La Gomera</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente en zonas expuestas de las cumbres y vertientes NW y SE. En el caso de El Hierro, especialmente en El Pinar.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2675,7 +1839,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Oeste de La Palma</p><p><b>\u00c1rea:</b> Oeste de La Palma</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Alisio. Afectando principalmente en cumbres expuestas, vertiente NW y extremo S. Localmente podr\u00e1n superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 06/06/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2755,7 +1919,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. El Hierro</p><p><b>\u00c1rea:</b> El Hierro</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Alisio. Afectando principalmente en zonas expuestas de las cumbres y vertientes NW y SE. En el caso de El Hierro, especialmente en El Pinar.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 06/06/2026 01:00</p><p><b>Fin:</b> 07/06/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
