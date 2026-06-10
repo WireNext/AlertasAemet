@@ -143,7 +143,155 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7).</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 13/06/2026 00:00</p><p><b>Fin:</b> 13/06/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.02,
+                            35.83
+                        ],
+                        [
+                            -5.96,
+                            35.92
+                        ],
+                        [
+                            -5.84,
+                            36.13
+                        ],
+                        [
+                            -5.8,
+                            36.08
+                        ],
+                        [
+                            -5.77,
+                            36.09
+                        ],
+                        [
+                            -5.71,
+                            36.06
+                        ],
+                        [
+                            -5.65,
+                            36.05
+                        ],
+                        [
+                            -5.61,
+                            36.01
+                        ],
+                        [
+                            -5.57,
+                            36.02
+                        ],
+                        [
+                            -5.48,
+                            36.06
+                        ],
+                        [
+                            -5.46,
+                            36.05
+                        ],
+                        [
+                            -5.42,
+                            36.08
+                        ],
+                        [
+                            -5.45,
+                            36.14
+                        ],
+                        [
+                            -5.43,
+                            36.18
+                        ],
+                        [
+                            -5.38,
+                            36.18
+                        ],
+                        [
+                            -5.34,
+                            36.15
+                        ],
+                        [
+                            -5.31,
+                            36.23
+                        ],
+                        [
+                            -5.29,
+                            36.25
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -4.9,
+                            36.12
+                        ],
+                        [
+                            -4.93,
+                            36.07
+                        ],
+                        [
+                            -4.92,
+                            36.06
+                        ],
+                        [
+                            -5.06,
+                            36.04
+                        ],
+                        [
+                            -5.24,
+                            36.01
+                        ],
+                        [
+                            -5.46,
+                            35.98
+                        ],
+                        [
+                            -5.46,
+                            35.91
+                        ],
+                        [
+                            -5.49,
+                            35.9
+                        ],
+                        [
+                            -5.54,
+                            35.84
+                        ],
+                        [
+                            -5.6,
+                            35.82
+                        ],
+                        [
+                            -5.74,
+                            35.81
+                        ],
+                        [
+                            -5.92,
+                            35.79
+                        ],
+                        [
+                            -5.93,
+                            35.78
+                        ],
+                        [
+                            -6.02,
+                            35.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Este de 50 a 61 km/h (fuerza 7).</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 00:00</p><p><b>Fin:</b> 11/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -391,7 +539,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Menorca</p><p><b>\u00c1rea:</b> Costa - Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del norte de 40 a 50 km/h (fuerza 6) y olas de 2 a 3 metros.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 03:00</p><p><b>Fin:</b> 11/06/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -535,7 +683,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Poniente y Almer\u00eda Capital</p><p><b>\u00c1rea:</b> Costa - Poniente y Almer\u00eda Capital</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del este y nordeste con intervalos de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 metros.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 12:00</p><p><b>Fin:</b> 11/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -675,9 +823,181 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Estrecho</p><p><b>\u00c1rea:</b> Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Viento de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.86,
+                            36.62
+                        ],
+                        [
+                            -6.48,
+                            36.76
+                        ],
+                        [
+                            -6.34,
+                            36.8
+                        ],
+                        [
+                            -6.44,
+                            36.74
+                        ],
+                        [
+                            -6.43,
+                            36.71
+                        ],
+                        [
+                            -6.39,
+                            36.63
+                        ],
+                        [
+                            -6.31,
+                            36.62
+                        ],
+                        [
+                            -6.27,
+                            36.58
+                        ],
+                        [
+                            -6.22,
+                            36.57
+                        ],
+                        [
+                            -6.24,
+                            36.51
+                        ],
+                        [
+                            -6.18,
+                            36.51
+                        ],
+                        [
+                            -6.19,
+                            36.5
+                        ],
+                        [
+                            -6.25,
+                            36.45
+                        ],
+                        [
+                            -6.22,
+                            36.39
+                        ],
+                        [
+                            -6.18,
+                            36.37
+                        ],
+                        [
+                            -6.14,
+                            36.3
+                        ],
+                        [
+                            -6.11,
+                            36.29
+                        ],
+                        [
+                            -6.05,
+                            36.2
+                        ],
+                        [
+                            -5.98,
+                            36.18
+                        ],
+                        [
+                            -5.92,
+                            36.19
+                        ],
+                        [
+                            -5.84,
+                            36.13
+                        ],
+                        [
+                            -5.96,
+                            35.92
+                        ],
+                        [
+                            -6.02,
+                            35.83
+                        ],
+                        [
+                            -6.05,
+                            35.85
+                        ],
+                        [
+                            -6.09,
+                            35.85
+                        ],
+                        [
+                            -6.17,
+                            35.87
+                        ],
+                        [
+                            -6.24,
+                            35.89
+                        ],
+                        [
+                            -6.31,
+                            35.93
+                        ],
+                        [
+                            -6.36,
+                            35.98
+                        ],
+                        [
+                            -6.47,
+                            36.09
+                        ],
+                        [
+                            -6.5,
+                            36.14
+                        ],
+                        [
+                            -6.57,
+                            36.2
+                        ],
+                        [
+                            -6.62,
+                            36.3
+                        ],
+                        [
+                            -6.68,
+                            36.37
+                        ],
+                        [
+                            -6.71,
+                            36.42
+                        ],
+                        [
+                            -6.74,
+                            36.45
+                        ],
+                        [
+                            -6.78,
+                            36.51
+                        ],
+                        [
+                            -6.82,
+                            36.56
+                        ],
+                        [
+                            -6.86,
+                            36.62
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7).</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 13/06/2026 00:00</p><p><b>Fin:</b> 13/06/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -939,7 +1259,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Rias Baixas</p><p><b>\u00c1rea:</b> Rias Baixas</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. En el Mi\u00f1o de Pontevedra, los umbrales se superar\u00e1n en el interior de la zona de aviso.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1303,7 +1623,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Villuercas y Mont\u00e1nchez</p><p><b>\u00c1rea:</b> Villuercas y Mont\u00e1nchez</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1451,7 +1771,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Este de 50 a 61 km/h (fuerza 7).</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1639,7 +1959,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Litoral gaditano</p><p><b>\u00c1rea:</b> Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de componente este.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 08:00</p><p><b>Fin:</b> 11/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1811,7 +2131,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Este de 50 a 61 km/h (fuerza 7).</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2011,7 +2331,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana</p><p><b>\u00c1rea:</b> Campi\u00f1a gaditana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Viento de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2187,7 +2507,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Pontevedra</p><p><b>\u00c1rea:</b> Mi\u00f1o de Pontevedra</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. En el Mi\u00f1o de Pontevedra, los umbrales se superar\u00e1n en el interior de la zona de aviso.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2331,7 +2651,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Poniente y Almer\u00eda Capital</p><p><b>\u00c1rea:</b> Costa - Poniente y Almer\u00eda Capital</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del este y nordeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 metros.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 22:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2487,7 +2807,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Levante almeriense</p><p><b>\u00c1rea:</b> Costa - Levante almeriense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del este y nordeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 metros.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 22:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2987,7 +3307,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vegas del Guadiana</p><p><b>\u00c1rea:</b> Vegas del Guadiana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 13:00</p><p><b>Fin:</b> 11/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -3487,7 +3807,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vegas del Guadiana</p><p><b>\u00c1rea:</b> Vegas del Guadiana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -3771,7 +4091,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Morena y Condado</p><p><b>\u00c1rea:</b> Morena y Condado</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -3959,7 +4279,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Litoral gaditano</p><p><b>\u00c1rea:</b> Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Viento de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 00:00</p><p><b>Fin:</b> 12/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -4159,7 +4479,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana</p><p><b>\u00c1rea:</b> Campi\u00f1a gaditana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de componente este.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 08:00</p><p><b>Fin:</b> 11/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -4407,7 +4727,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Menorca</p><p><b>\u00c1rea:</b> Costa - Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del norte con intervalos de 40 a 50 km/h (fuerza 6) y olas de 2 metros.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 08:00</p><p><b>Fin:</b> 12/06/2026 15:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -4523,9 +4843,373 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Costa granadina</p><p><b>\u00c1rea:</b> Costa - Costa granadina</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del este de 50 a 60 km/h (fuerza 7) y olas de 3 metros.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 06:00</p><p><b>Fin:</b> 12/06/2026 22:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.33,
+                            41.91
+                        ],
+                        [
+                            -1.32,
+                            41.89
+                        ],
+                        [
+                            -1.28,
+                            41.89
+                        ],
+                        [
+                            -1.22,
+                            41.86
+                        ],
+                        [
+                            -1.21,
+                            41.88
+                        ],
+                        [
+                            -1.11,
+                            41.89
+                        ],
+                        [
+                            -1.08,
+                            41.89
+                        ],
+                        [
+                            -1.01,
+                            41.92
+                        ],
+                        [
+                            -0.93,
+                            41.94
+                        ],
+                        [
+                            -0.94,
+                            42.01
+                        ],
+                        [
+                            -0.88,
+                            42.0
+                        ],
+                        [
+                            -0.8,
+                            41.96
+                        ],
+                        [
+                            -0.65,
+                            41.95
+                        ],
+                        [
+                            -0.63,
+                            41.91
+                        ],
+                        [
+                            -0.59,
+                            41.9
+                        ],
+                        [
+                            -0.52,
+                            41.84
+                        ],
+                        [
+                            -0.5,
+                            41.75
+                        ],
+                        [
+                            -0.46,
+                            41.72
+                        ],
+                        [
+                            -0.37,
+                            41.68
+                        ],
+                        [
+                            -0.35,
+                            41.63
+                        ],
+                        [
+                            -0.24,
+                            41.57
+                        ],
+                        [
+                            -0.2,
+                            41.6
+                        ],
+                        [
+                            -0.16,
+                            41.59
+                        ],
+                        [
+                            -0.16,
+                            41.54
+                        ],
+                        [
+                            -0.1,
+                            41.49
+                        ],
+                        [
+                            -0.07,
+                            41.37
+                        ],
+                        [
+                            -0.0,
+                            41.39
+                        ],
+                        [
+                            0.01,
+                            41.36
+                        ],
+                        [
+                            0.11,
+                            41.35
+                        ],
+                        [
+                            0.13,
+                            41.39
+                        ],
+                        [
+                            0.22,
+                            41.41
+                        ],
+                        [
+                            0.25,
+                            41.43
+                        ],
+                        [
+                            0.34,
+                            41.41
+                        ],
+                        [
+                            0.32,
+                            41.4
+                        ],
+                        [
+                            0.37,
+                            41.35
+                        ],
+                        [
+                            0.35,
+                            41.33
+                        ],
+                        [
+                            0.39,
+                            41.28
+                        ],
+                        [
+                            0.37,
+                            41.23
+                        ],
+                        [
+                            0.32,
+                            41.23
+                        ],
+                        [
+                            0.3,
+                            41.16
+                        ],
+                        [
+                            0.22,
+                            41.13
+                        ],
+                        [
+                            0.2,
+                            41.1
+                        ],
+                        [
+                            0.22,
+                            41.07
+                        ],
+                        [
+                            0.15,
+                            41.06
+                        ],
+                        [
+                            0.07,
+                            41.08
+                        ],
+                        [
+                            0.04,
+                            41.05
+                        ],
+                        [
+                            0.0,
+                            41.09
+                        ],
+                        [
+                            -0.01,
+                            41.12
+                        ],
+                        [
+                            -0.08,
+                            41.15
+                        ],
+                        [
+                            -0.1,
+                            41.15
+                        ],
+                        [
+                            -0.18,
+                            41.19
+                        ],
+                        [
+                            -0.22,
+                            41.19
+                        ],
+                        [
+                            -0.27,
+                            41.22
+                        ],
+                        [
+                            -0.31,
+                            41.26
+                        ],
+                        [
+                            -0.34,
+                            41.24
+                        ],
+                        [
+                            -0.4,
+                            41.27
+                        ],
+                        [
+                            -0.48,
+                            41.35
+                        ],
+                        [
+                            -0.49,
+                            41.35
+                        ],
+                        [
+                            -0.57,
+                            41.35
+                        ],
+                        [
+                            -0.63,
+                            41.4
+                        ],
+                        [
+                            -0.65,
+                            41.39
+                        ],
+                        [
+                            -0.78,
+                            41.42
+                        ],
+                        [
+                            -0.82,
+                            41.45
+                        ],
+                        [
+                            -0.87,
+                            41.49
+                        ],
+                        [
+                            -0.91,
+                            41.49
+                        ],
+                        [
+                            -0.92,
+                            41.43
+                        ],
+                        [
+                            -0.92,
+                            41.4
+                        ],
+                        [
+                            -0.96,
+                            41.39
+                        ],
+                        [
+                            -1.02,
+                            41.42
+                        ],
+                        [
+                            -1.03,
+                            41.45
+                        ],
+                        [
+                            -1.08,
+                            41.48
+                        ],
+                        [
+                            -1.04,
+                            41.53
+                        ],
+                        [
+                            -1.09,
+                            41.54
+                        ],
+                        [
+                            -1.08,
+                            41.56
+                        ],
+                        [
+                            -1.04,
+                            41.59
+                        ],
+                        [
+                            -1.04,
+                            41.61
+                        ],
+                        [
+                            -1.11,
+                            41.64
+                        ],
+                        [
+                            -1.14,
+                            41.64
+                        ],
+                        [
+                            -1.16,
+                            41.69
+                        ],
+                        [
+                            -1.27,
+                            41.72
+                        ],
+                        [
+                            -1.29,
+                            41.71
+                        ],
+                        [
+                            -1.33,
+                            41.74
+                        ],
+                        [
+                            -1.34,
+                            41.77
+                        ],
+                        [
+                            -1.32,
+                            41.8
+                        ],
+                        [
+                            -1.35,
+                            41.85
+                        ],
+                        [
+                            -1.36,
+                            41.89
+                        ],
+                        [
+                            -1.33,
+                            41.91
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Ribera del Ebro de Zaragoza</p><p><b>\u00c1rea:</b> Ribera del Ebro de Zaragoza</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 13/06/2026 13:00</p><p><b>Fin:</b> 13/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -4887,7 +5571,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campi\u00f1a sevillana</p><p><b>\u00c1rea:</b> Campi\u00f1a sevillana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -5143,7 +5827,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campi\u00f1a cordobesa</p><p><b>\u00c1rea:</b> Campi\u00f1a cordobesa</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Localmente se pueden alcanzar los 40 grados.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -5507,7 +6191,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campi\u00f1a sevillana</p><p><b>\u00c1rea:</b> Campi\u00f1a sevillana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 13:00</p><p><b>Fin:</b> 11/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -5647,7 +6331,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Estrecho</p><p><b>\u00c1rea:</b> Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Vientos de componente este.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 08:00</p><p><b>Fin:</b> 11/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -5987,7 +6671,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Valle del Guadalquivir de Ja\u00e9n</p><p><b>\u00c1rea:</b> Valle del Guadalquivir de Ja\u00e9n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -6151,7 +6835,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Ourense</p><p><b>\u00c1rea:</b> Mi\u00f1o de Ourense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 12/06/2026 13:00</p><p><b>Fin:</b> 12/06/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -6323,7 +7007,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento del Este de 50 a 61 km/h (fuerza 7).</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/06/2026 08:00</p><p><b>Fin:</b> 11/06/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
