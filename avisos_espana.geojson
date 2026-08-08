@@ -2972,6 +2972,194 @@
                 "coordinates": [
                     [
                         [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.78,
+                            39.64
+                        ],
+                        [
+                            2.85,
+                            39.57
+                        ],
+                        [
+                            2.83,
+                            39.55
+                        ],
+                        [
+                            2.89,
+                            39.52
+                        ],
+                        [
+                            2.94,
+                            39.53
+                        ],
+                        [
+                            2.97,
+                            39.52
+                        ],
+                        [
+                            2.97,
+                            39.46
+                        ],
+                        [
+                            3.01,
+                            39.46
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.1,
+                            39.42
+                        ],
+                        [
+                            3.07,
+                            39.38
+                        ],
+                        [
+                            3.09,
+                            39.36
+                        ],
+                        [
+                            3.07,
+                            39.3
+                        ],
+                        [
+                            3.03,
+                            39.29
+                        ],
+                        [
+                            2.99,
+                            39.34
+                        ],
+                        [
+                            2.96,
+                            39.36
+                        ],
+                        [
+                            2.91,
+                            39.36
+                        ],
+                        [
+                            2.85,
+                            39.37
+                        ],
+                        [
+                            2.79,
+                            39.36
+                        ],
+                        [
+                            2.74,
+                            39.41
+                        ],
+                        [
+                            2.75,
+                            39.44
+                        ],
+                        [
+                            2.72,
+                            39.48
+                        ],
+                        [
+                            2.75,
+                            39.5
+                        ],
+                        [
+                            2.72,
+                            39.54
+                        ],
+                        [
+                            2.67,
+                            39.56
+                        ],
+                        [
+                            2.63,
+                            39.57
+                        ],
+                        [
+                            2.62,
+                            39.55
+                        ],
+                        [
+                            2.54,
+                            39.52
+                        ],
+                        [
+                            2.52,
+                            39.46
+                        ],
+                        [
+                            2.48,
+                            39.48
+                        ],
+                        [
+                            2.45,
+                            39.54
+                        ],
+                        [
+                            2.37,
+                            39.53
+                        ],
+                        [
+                            2.35,
+                            39.59
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel naranja</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel naranja. Sur de Mallorca</p><p><b>\u00c1rea:</b> Sur de Mallorca</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Preferentemente al este de Palma y de Marratx\u00ed... En el resto, en general, temperaturas m\u00e1ximas de 33 a 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -5.05,
                             38.73
                         ],
@@ -11474,114 +11662,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Depresi\u00f3n central de Tarragona</p><p><b>\u00c1rea:</b> Depresi\u00f3n central de Tarragona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 08/08/2026 14:00</p><p><b>Fin:</b> 08/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.46,
-                            39.65
-                        ],
-                        [
-                            2.53,
-                            39.7
-                        ],
-                        [
-                            2.56,
-                            39.7
-                        ],
-                        [
-                            2.78,
-                            39.86
-                        ],
-                        [
-                            2.83,
-                            39.86
-                        ],
-                        [
-                            2.89,
-                            39.89
-                        ],
-                        [
-                            2.92,
-                            39.9
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sierra Tramontana</p><p><b>\u00c1rea:</b> Sierra Tramontana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -26732,6 +26812,126 @@
                 "coordinates": [
                     [
                         [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.95,
+                            39.76
+                        ],
+                        [
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            3.02,
+                            39.74
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.18,
+                            39.65
+                        ],
+                        [
+                            3.16,
+                            39.63
+                        ],
+                        [
+                            3.16,
+                            39.55
+                        ],
+                        [
+                            3.1,
+                            39.53
+                        ],
+                        [
+                            3.06,
+                            39.48
+                        ],
+                        [
+                            3.01,
+                            39.46
+                        ],
+                        [
+                            2.97,
+                            39.46
+                        ],
+                        [
+                            2.97,
+                            39.52
+                        ],
+                        [
+                            2.94,
+                            39.53
+                        ],
+                        [
+                            2.89,
+                            39.52
+                        ],
+                        [
+                            2.83,
+                            39.55
+                        ],
+                        [
+                            2.85,
+                            39.57
+                        ],
+                        [
+                            2.78,
+                            39.64
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.74,
+                            39.71
+                        ],
+                        [
+                            2.8,
+                            39.74
+                        ],
+                        [
+                            2.9,
+                            39.82
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel naranja</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel naranja. Interior de Mallorca</p><p><b>\u00c1rea:</b> Interior de Mallorca</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 39 \u00baC. Preferentemente en zonas del Raiguer, en el resto de la zona de 36 a 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.65,
                             41.96
                         ],
@@ -27363,6 +27563,154 @@
                 "priority": 2,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel naranja</h3><p><b>Titular:</b> Aviso de tormentas de nivel naranja. Pirineo oscense</p><p><b>\u00c1rea:</b> Pirineo oscense</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de rachas de viento muy fuertes y granizo que puede ser de tama\u00f1o grande.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 16:00</p><p><b>Fin:</b> 09/08/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.95,
+                            39.92
+                        ],
+                        [
+                            2.99,
+                            39.91
+                        ],
+                        [
+                            3.03,
+                            39.94
+                        ],
+                        [
+                            3.09,
+                            39.91
+                        ],
+                        [
+                            3.08,
+                            39.89
+                        ],
+                        [
+                            3.11,
+                            39.86
+                        ],
+                        [
+                            3.17,
+                            39.88
+                        ],
+                        [
+                            3.2,
+                            39.86
+                        ],
+                        [
+                            3.12,
+                            39.82
+                        ],
+                        [
+                            3.15,
+                            39.77
+                        ],
+                        [
+                            3.26,
+                            39.73
+                        ],
+                        [
+                            3.33,
+                            39.76
+                        ],
+                        [
+                            3.35,
+                            39.79
+                        ],
+                        [
+                            3.41,
+                            39.76
+                        ],
+                        [
+                            3.45,
+                            39.72
+                        ],
+                        [
+                            3.46,
+                            39.69
+                        ],
+                        [
+                            3.44,
+                            39.64
+                        ],
+                        [
+                            3.44,
+                            39.63
+                        ],
+                        [
+                            3.39,
+                            39.67
+                        ],
+                        [
+                            3.36,
+                            39.67
+                        ],
+                        [
+                            3.31,
+                            39.64
+                        ],
+                        [
+                            3.28,
+                            39.68
+                        ],
+                        [
+                            3.25,
+                            39.68
+                        ],
+                        [
+                            3.23,
+                            39.7
+                        ],
+                        [
+                            3.16,
+                            39.7
+                        ],
+                        [
+                            3.11,
+                            39.68
+                        ],
+                        [
+                            3.02,
+                            39.74
+                        ],
+                        [
+                            3.0,
+                            39.73
+                        ],
+                        [
+                            2.95,
+                            39.76
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte y nordeste de Mallorca</p><p><b>\u00c1rea:</b> Norte y nordeste de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
             }
         },
         {
@@ -33712,6 +34060,110 @@
                 "coordinates": [
                     [
                         [
+                            3.83,
+                            39.97
+                        ],
+                        [
+                            3.83,
+                            40.0
+                        ],
+                        [
+                            3.79,
+                            40.02
+                        ],
+                        [
+                            3.82,
+                            40.05
+                        ],
+                        [
+                            3.88,
+                            40.06
+                        ],
+                        [
+                            3.98,
+                            40.05
+                        ],
+                        [
+                            4.03,
+                            40.07
+                        ],
+                        [
+                            4.17,
+                            40.06
+                        ],
+                        [
+                            4.17,
+                            40.03
+                        ],
+                        [
+                            4.23,
+                            40.0
+                        ],
+                        [
+                            4.25,
+                            40.0
+                        ],
+                        [
+                            4.28,
+                            39.93
+                        ],
+                        [
+                            4.31,
+                            39.89
+                        ],
+                        [
+                            4.31,
+                            39.85
+                        ],
+                        [
+                            4.27,
+                            39.81
+                        ],
+                        [
+                            4.2,
+                            39.83
+                        ],
+                        [
+                            4.1,
+                            39.88
+                        ],
+                        [
+                            4.02,
+                            39.92
+                        ],
+                        [
+                            3.97,
+                            39.93
+                        ],
+                        [
+                            3.86,
+                            39.92
+                        ],
+                        [
+                            3.82,
+                            39.93
+                        ],
+                        [
+                            3.83,
+                            39.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Menorca</p><p><b>\u00c1rea:</b> Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -1.55,
                             43.04
                         ],
@@ -34678,194 +35130,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Interior sur de Valencia</p><p><b>\u00c1rea:</b> Interior sur de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 08/08/2026 13:00</p><p><b>Fin:</b> 08/08/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.44,
-                            39.64
-                        ],
-                        [
-                            2.49,
-                            39.63
-                        ],
-                        [
-                            2.51,
-                            39.59
-                        ],
-                        [
-                            2.57,
-                            39.61
-                        ],
-                        [
-                            2.57,
-                            39.64
-                        ],
-                        [
-                            2.6,
-                            39.66
-                        ],
-                        [
-                            2.66,
-                            39.66
-                        ],
-                        [
-                            2.71,
-                            39.65
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.78,
-                            39.64
-                        ],
-                        [
-                            2.85,
-                            39.57
-                        ],
-                        [
-                            2.83,
-                            39.55
-                        ],
-                        [
-                            2.89,
-                            39.52
-                        ],
-                        [
-                            2.94,
-                            39.53
-                        ],
-                        [
-                            2.97,
-                            39.52
-                        ],
-                        [
-                            2.97,
-                            39.46
-                        ],
-                        [
-                            3.01,
-                            39.46
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.1,
-                            39.42
-                        ],
-                        [
-                            3.07,
-                            39.38
-                        ],
-                        [
-                            3.09,
-                            39.36
-                        ],
-                        [
-                            3.07,
-                            39.3
-                        ],
-                        [
-                            3.03,
-                            39.29
-                        ],
-                        [
-                            2.99,
-                            39.34
-                        ],
-                        [
-                            2.96,
-                            39.36
-                        ],
-                        [
-                            2.91,
-                            39.36
-                        ],
-                        [
-                            2.85,
-                            39.37
-                        ],
-                        [
-                            2.79,
-                            39.36
-                        ],
-                        [
-                            2.74,
-                            39.41
-                        ],
-                        [
-                            2.75,
-                            39.44
-                        ],
-                        [
-                            2.72,
-                            39.48
-                        ],
-                        [
-                            2.75,
-                            39.5
-                        ],
-                        [
-                            2.72,
-                            39.54
-                        ],
-                        [
-                            2.67,
-                            39.56
-                        ],
-                        [
-                            2.63,
-                            39.57
-                        ],
-                        [
-                            2.62,
-                            39.55
-                        ],
-                        [
-                            2.54,
-                            39.52
-                        ],
-                        [
-                            2.52,
-                            39.46
-                        ],
-                        [
-                            2.48,
-                            39.48
-                        ],
-                        [
-                            2.45,
-                            39.54
-                        ],
-                        [
-                            2.37,
-                            39.53
-                        ],
-                        [
-                            2.35,
-                            39.59
-                        ],
-                        [
-                            2.44,
-                            39.64
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sur de Mallorca</p><p><b>\u00c1rea:</b> Sur de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC. Puntualmente se pueden alcanzar los 39 grados en el sur de Mallorca.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -37956,154 +38220,6 @@
                 "coordinates": [
                     [
                         [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.94,
-                            39.84
-                        ],
-                        [
-                            2.93,
-                            39.9
-                        ],
-                        [
-                            2.95,
-                            39.92
-                        ],
-                        [
-                            2.99,
-                            39.91
-                        ],
-                        [
-                            3.03,
-                            39.94
-                        ],
-                        [
-                            3.09,
-                            39.91
-                        ],
-                        [
-                            3.08,
-                            39.89
-                        ],
-                        [
-                            3.11,
-                            39.86
-                        ],
-                        [
-                            3.17,
-                            39.88
-                        ],
-                        [
-                            3.2,
-                            39.86
-                        ],
-                        [
-                            3.12,
-                            39.82
-                        ],
-                        [
-                            3.15,
-                            39.77
-                        ],
-                        [
-                            3.26,
-                            39.73
-                        ],
-                        [
-                            3.33,
-                            39.76
-                        ],
-                        [
-                            3.35,
-                            39.79
-                        ],
-                        [
-                            3.41,
-                            39.76
-                        ],
-                        [
-                            3.45,
-                            39.72
-                        ],
-                        [
-                            3.46,
-                            39.69
-                        ],
-                        [
-                            3.44,
-                            39.64
-                        ],
-                        [
-                            3.44,
-                            39.63
-                        ],
-                        [
-                            3.39,
-                            39.67
-                        ],
-                        [
-                            3.36,
-                            39.67
-                        ],
-                        [
-                            3.31,
-                            39.64
-                        ],
-                        [
-                            3.28,
-                            39.68
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte y nordeste de Mallorca</p><p><b>\u00c1rea:</b> Norte y nordeste de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             0.68,
                             42.08
                         ],
@@ -40147,126 +40263,6 @@
                 "priority": 2,
                 "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel naranja</h3><p><b>Titular:</b> Aviso de tormentas de nivel naranja. Ribera del Ebro de Zaragoza</p><p><b>\u00c1rea:</b> Ribera del Ebro de Zaragoza</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de rachas de viento muy fuertes y granizo que puede ser de tama\u00f1o grande. En Ribera del Ebro, el aviso se refiere a la parte m\u00e1s oriental.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 08/08/2026 14:00</p><p><b>Fin:</b> 08/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#FF7F00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            2.93,
-                            39.81
-                        ],
-                        [
-                            2.95,
-                            39.76
-                        ],
-                        [
-                            3.0,
-                            39.73
-                        ],
-                        [
-                            3.02,
-                            39.74
-                        ],
-                        [
-                            3.11,
-                            39.68
-                        ],
-                        [
-                            3.16,
-                            39.7
-                        ],
-                        [
-                            3.23,
-                            39.7
-                        ],
-                        [
-                            3.25,
-                            39.68
-                        ],
-                        [
-                            3.18,
-                            39.65
-                        ],
-                        [
-                            3.16,
-                            39.63
-                        ],
-                        [
-                            3.16,
-                            39.55
-                        ],
-                        [
-                            3.1,
-                            39.53
-                        ],
-                        [
-                            3.06,
-                            39.48
-                        ],
-                        [
-                            3.01,
-                            39.46
-                        ],
-                        [
-                            2.97,
-                            39.46
-                        ],
-                        [
-                            2.97,
-                            39.52
-                        ],
-                        [
-                            2.94,
-                            39.53
-                        ],
-                        [
-                            2.89,
-                            39.52
-                        ],
-                        [
-                            2.83,
-                            39.55
-                        ],
-                        [
-                            2.85,
-                            39.57
-                        ],
-                        [
-                            2.78,
-                            39.64
-                        ],
-                        [
-                            2.74,
-                            39.66
-                        ],
-                        [
-                            2.74,
-                            39.71
-                        ],
-                        [
-                            2.8,
-                            39.74
-                        ],
-                        [
-                            2.9,
-                            39.82
-                        ],
-                        [
-                            2.93,
-                            39.81
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Interior de Mallorca</p><p><b>\u00c1rea:</b> Interior de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC. Puntualmente se pueden alcanzar los 39 grados en el sur de Mallorca.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
             }
         },
         {
@@ -42706,6 +42702,126 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Interior norte de Valencia</p><p><b>\u00c1rea:</b> Interior norte de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 08/08/2026 14:00</p><p><b>Fin:</b> 08/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.3,
+                            38.97
+                        ],
+                        [
+                            1.28,
+                            39.0
+                        ],
+                        [
+                            1.3,
+                            39.03
+                        ],
+                        [
+                            1.37,
+                            39.07
+                        ],
+                        [
+                            1.42,
+                            39.08
+                        ],
+                        [
+                            1.45,
+                            39.1
+                        ],
+                        [
+                            1.53,
+                            39.12
+                        ],
+                        [
+                            1.56,
+                            39.09
+                        ],
+                        [
+                            1.6,
+                            39.09
+                        ],
+                        [
+                            1.59,
+                            39.06
+                        ],
+                        [
+                            1.61,
+                            39.03
+                        ],
+                        [
+                            1.58,
+                            38.99
+                        ],
+                        [
+                            1.53,
+                            38.98
+                        ],
+                        [
+                            1.53,
+                            38.95
+                        ],
+                        [
+                            1.47,
+                            38.91
+                        ],
+                        [
+                            1.44,
+                            38.92
+                        ],
+                        [
+                            1.41,
+                            38.89
+                        ],
+                        [
+                            1.4,
+                            38.85
+                        ],
+                        [
+                            1.38,
+                            38.83
+                        ],
+                        [
+                            1.34,
+                            38.87
+                        ],
+                        [
+                            1.31,
+                            38.86
+                        ],
+                        [
+                            1.22,
+                            38.88
+                        ],
+                        [
+                            1.22,
+                            38.91
+                        ],
+                        [
+                            1.24,
+                            38.94
+                        ],
+                        [
+                            1.22,
+                            38.96
+                        ],
+                        [
+                            1.3,
+                            38.97
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Ibiza y Formentera</p><p><b>\u00c1rea:</b> Ibiza y Formentera</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -59724,126 +59840,6 @@
                 "coordinates": [
                     [
                         [
-                            1.3,
-                            38.97
-                        ],
-                        [
-                            1.28,
-                            39.0
-                        ],
-                        [
-                            1.3,
-                            39.03
-                        ],
-                        [
-                            1.37,
-                            39.07
-                        ],
-                        [
-                            1.42,
-                            39.08
-                        ],
-                        [
-                            1.45,
-                            39.1
-                        ],
-                        [
-                            1.53,
-                            39.12
-                        ],
-                        [
-                            1.56,
-                            39.09
-                        ],
-                        [
-                            1.6,
-                            39.09
-                        ],
-                        [
-                            1.59,
-                            39.06
-                        ],
-                        [
-                            1.61,
-                            39.03
-                        ],
-                        [
-                            1.58,
-                            38.99
-                        ],
-                        [
-                            1.53,
-                            38.98
-                        ],
-                        [
-                            1.53,
-                            38.95
-                        ],
-                        [
-                            1.47,
-                            38.91
-                        ],
-                        [
-                            1.44,
-                            38.92
-                        ],
-                        [
-                            1.41,
-                            38.89
-                        ],
-                        [
-                            1.4,
-                            38.85
-                        ],
-                        [
-                            1.38,
-                            38.83
-                        ],
-                        [
-                            1.34,
-                            38.87
-                        ],
-                        [
-                            1.31,
-                            38.86
-                        ],
-                        [
-                            1.22,
-                            38.88
-                        ],
-                        [
-                            1.22,
-                            38.91
-                        ],
-                        [
-                            1.24,
-                            38.94
-                        ],
-                        [
-                            1.22,
-                            38.96
-                        ],
-                        [
-                            1.3,
-                            38.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Ibiza y Formentera</p><p><b>\u00c1rea:</b> Ibiza y Formentera</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -3.8,
                             39.88
                         ],
@@ -63040,110 +63036,6 @@
                 "coordinates": [
                     [
                         [
-                            3.83,
-                            39.97
-                        ],
-                        [
-                            3.83,
-                            40.0
-                        ],
-                        [
-                            3.79,
-                            40.02
-                        ],
-                        [
-                            3.82,
-                            40.05
-                        ],
-                        [
-                            3.88,
-                            40.06
-                        ],
-                        [
-                            3.98,
-                            40.05
-                        ],
-                        [
-                            4.03,
-                            40.07
-                        ],
-                        [
-                            4.17,
-                            40.06
-                        ],
-                        [
-                            4.17,
-                            40.03
-                        ],
-                        [
-                            4.23,
-                            40.0
-                        ],
-                        [
-                            4.25,
-                            40.0
-                        ],
-                        [
-                            4.28,
-                            39.93
-                        ],
-                        [
-                            4.31,
-                            39.89
-                        ],
-                        [
-                            4.31,
-                            39.85
-                        ],
-                        [
-                            4.27,
-                            39.81
-                        ],
-                        [
-                            4.2,
-                            39.83
-                        ],
-                        [
-                            4.1,
-                            39.88
-                        ],
-                        [
-                            4.02,
-                            39.92
-                        ],
-                        [
-                            3.97,
-                            39.93
-                        ],
-                        [
-                            3.86,
-                            39.92
-                        ],
-                        [
-                            3.82,
-                            39.93
-                        ],
-                        [
-                            3.83,
-                            39.97
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Menorca</p><p><b>\u00c1rea:</b> Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             2.93,
                             39.81
                         ],
@@ -63282,6 +63174,114 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte y nordeste de Mallorca</p><p><b>\u00c1rea:</b> Norte y nordeste de Mallorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 10/08/2026 12:00</p><p><b>Fin:</b> 10/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.44,
+                            39.64
+                        ],
+                        [
+                            2.46,
+                            39.65
+                        ],
+                        [
+                            2.53,
+                            39.7
+                        ],
+                        [
+                            2.56,
+                            39.7
+                        ],
+                        [
+                            2.78,
+                            39.86
+                        ],
+                        [
+                            2.83,
+                            39.86
+                        ],
+                        [
+                            2.89,
+                            39.89
+                        ],
+                        [
+                            2.92,
+                            39.9
+                        ],
+                        [
+                            2.93,
+                            39.9
+                        ],
+                        [
+                            2.94,
+                            39.84
+                        ],
+                        [
+                            2.93,
+                            39.81
+                        ],
+                        [
+                            2.9,
+                            39.82
+                        ],
+                        [
+                            2.8,
+                            39.74
+                        ],
+                        [
+                            2.74,
+                            39.71
+                        ],
+                        [
+                            2.74,
+                            39.66
+                        ],
+                        [
+                            2.71,
+                            39.65
+                        ],
+                        [
+                            2.66,
+                            39.66
+                        ],
+                        [
+                            2.6,
+                            39.66
+                        ],
+                        [
+                            2.57,
+                            39.64
+                        ],
+                        [
+                            2.57,
+                            39.61
+                        ],
+                        [
+                            2.51,
+                            39.59
+                        ],
+                        [
+                            2.49,
+                            39.63
+                        ],
+                        [
+                            2.44,
+                            39.64
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sierra Tramontana</p><p><b>\u00c1rea:</b> Sierra Tramontana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 12:00</p><p><b>Fin:</b> 09/08/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
