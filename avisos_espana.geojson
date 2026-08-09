@@ -3548,6 +3548,86 @@
                 "coordinates": [
                     [
                         [
+                            -0.27,
+                            39.28
+                        ],
+                        [
+                            0.18,
+                            39.25
+                        ],
+                        [
+                            0.22,
+                            39.17
+                        ],
+                        [
+                            0.23,
+                            39.15
+                        ],
+                        [
+                            0.36,
+                            39.11
+                        ],
+                        [
+                            0.44,
+                            39.08
+                        ],
+                        [
+                            0.51,
+                            39.04
+                        ],
+                        [
+                            0.56,
+                            38.98
+                        ],
+                        [
+                            0.61,
+                            38.9
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            -0.13,
+                            38.97
+                        ],
+                        [
+                            -0.2,
+                            39.06
+                        ],
+                        [
+                            -0.23,
+                            39.14
+                        ],
+                        [
+                            -0.24,
+                            39.16
+                        ],
+                        [
+                            -0.22,
+                            39.19
+                        ],
+                        [
+                            -0.27,
+                            39.28
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral sur de Valencia</p><p><b>\u00c1rea:</b> Costa - Litoral sur de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Asociado a las tormentas que se formen en tierra o en mar, viento variable predominando la componente oeste de 40 a 50 km/h con rachas que pueden superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 10/08/2026 14:00</p><p><b>Fin:</b> 10/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.6,
                             41.31
                         ],
@@ -11738,70 +11818,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Altiplano de Murcia</p><p><b>\u00c1rea:</b> Altiplano de Murcia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 13:00</p><p><b>Fin:</b> 09/08/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -0.27,
-                            39.28
-                        ],
-                        [
-                            -0.31,
-                            39.36
-                        ],
-                        [
-                            -0.33,
-                            39.42
-                        ],
-                        [
-                            -0.31,
-                            39.53
-                        ],
-                        [
-                            -0.27,
-                            39.58
-                        ],
-                        [
-                            -0.26,
-                            39.62
-                        ],
-                        [
-                            -0.22,
-                            39.65
-                        ],
-                        [
-                            -0.19,
-                            39.72
-                        ],
-                        [
-                            0.24,
-                            39.58
-                        ],
-                        [
-                            0.13,
-                            39.4
-                        ],
-                        [
-                            0.18,
-                            39.25
-                        ],
-                        [
-                            -0.27,
-                            39.28
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral norte de Valencia</p><p><b>\u00c1rea:</b> Costa - Litoral norte de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Asociado a las tormentas que se formen en tierra o en mar, viento variable predominando la componente oeste de 40 a 50 km/h con rachas que pueden superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 14:00</p><p><b>Fin:</b> 09/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -30460,114 +30476,6 @@
                 "coordinates": [
                     [
                         [
-                            -0.01,
-                            38.87
-                        ],
-                        [
-                            -0.04,
-                            38.89
-                        ],
-                        [
-                            0.61,
-                            38.9
-                        ],
-                        [
-                            0.64,
-                            38.86
-                        ],
-                        [
-                            0.65,
-                            38.81
-                        ],
-                        [
-                            0.66,
-                            38.71
-                        ],
-                        [
-                            0.64,
-                            38.65
-                        ],
-                        [
-                            0.61,
-                            38.58
-                        ],
-                        [
-                            0.57,
-                            38.53
-                        ],
-                        [
-                            0.51,
-                            38.48
-                        ],
-                        [
-                            0.43,
-                            38.44
-                        ],
-                        [
-                            0.29,
-                            38.38
-                        ],
-                        [
-                            0.26,
-                            38.34
-                        ],
-                        [
-                            -0.06,
-                            38.58
-                        ],
-                        [
-                            -0.02,
-                            38.63
-                        ],
-                        [
-                            0.03,
-                            38.63
-                        ],
-                        [
-                            0.07,
-                            38.64
-                        ],
-                        [
-                            0.2,
-                            38.73
-                        ],
-                        [
-                            0.22,
-                            38.76
-                        ],
-                        [
-                            0.2,
-                            38.77
-                        ],
-                        [
-                            0.17,
-                            38.81
-                        ],
-                        [
-                            0.09,
-                            38.85
-                        ],
-                        [
-                            -0.01,
-                            38.87
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Costa - Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Asociado a las tormentas que se formen en tierra o en mar, viento variable predominando la componente oeste de 40 a 50 km/h con rachas que pueden superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 14:00</p><p><b>Fin:</b> 09/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -2.41,
                             43.32
                         ],
@@ -37170,6 +37078,114 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Mancha conquense</p><p><b>\u00c1rea:</b> La Mancha conquense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/08/2026 13:00</p><p><b>Fin:</b> 11/08/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.01,
+                            38.87
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            0.61,
+                            38.9
+                        ],
+                        [
+                            0.64,
+                            38.86
+                        ],
+                        [
+                            0.65,
+                            38.81
+                        ],
+                        [
+                            0.66,
+                            38.71
+                        ],
+                        [
+                            0.64,
+                            38.65
+                        ],
+                        [
+                            0.61,
+                            38.58
+                        ],
+                        [
+                            0.57,
+                            38.53
+                        ],
+                        [
+                            0.51,
+                            38.48
+                        ],
+                        [
+                            0.43,
+                            38.44
+                        ],
+                        [
+                            0.29,
+                            38.38
+                        ],
+                        [
+                            0.26,
+                            38.34
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.02,
+                            38.63
+                        ],
+                        [
+                            0.03,
+                            38.63
+                        ],
+                        [
+                            0.07,
+                            38.64
+                        ],
+                        [
+                            0.2,
+                            38.73
+                        ],
+                        [
+                            0.22,
+                            38.76
+                        ],
+                        [
+                            0.2,
+                            38.77
+                        ],
+                        [
+                            0.17,
+                            38.81
+                        ],
+                        [
+                            0.09,
+                            38.85
+                        ],
+                        [
+                            -0.01,
+                            38.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Costa - Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Asociado a las tormentas que se formen en tierra o en mar, viento variable predominando la componente oeste de 40 a 50 km/h con rachas que pueden superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 10/08/2026 14:00</p><p><b>Fin:</b> 10/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -47280,86 +47296,6 @@
                 "coordinates": [
                     [
                         [
-                            -0.27,
-                            39.28
-                        ],
-                        [
-                            0.18,
-                            39.25
-                        ],
-                        [
-                            0.22,
-                            39.17
-                        ],
-                        [
-                            0.23,
-                            39.15
-                        ],
-                        [
-                            0.36,
-                            39.11
-                        ],
-                        [
-                            0.44,
-                            39.08
-                        ],
-                        [
-                            0.51,
-                            39.04
-                        ],
-                        [
-                            0.56,
-                            38.98
-                        ],
-                        [
-                            0.61,
-                            38.9
-                        ],
-                        [
-                            -0.04,
-                            38.89
-                        ],
-                        [
-                            -0.13,
-                            38.97
-                        ],
-                        [
-                            -0.2,
-                            39.06
-                        ],
-                        [
-                            -0.23,
-                            39.14
-                        ],
-                        [
-                            -0.24,
-                            39.16
-                        ],
-                        [
-                            -0.22,
-                            39.19
-                        ],
-                        [
-                            -0.27,
-                            39.28
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral sur de Valencia</p><p><b>\u00c1rea:</b> Costa - Litoral sur de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Asociado a las tormentas que se formen en tierra o en mar, viento variable predominando la componente oeste de 40 a 50 km/h con rachas que pueden superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/08/2026 14:00</p><p><b>Fin:</b> 09/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -4.54,
                             40.33
                         ],
@@ -47766,6 +47702,70 @@
                 "dia": 2,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Sur, Vegas y Oeste</p><p><b>\u00c1rea:</b> Sur, Vegas y Oeste</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 11/08/2026 13:00</p><p><b>Fin:</b> 11/08/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.27,
+                            39.28
+                        ],
+                        [
+                            -0.31,
+                            39.36
+                        ],
+                        [
+                            -0.33,
+                            39.42
+                        ],
+                        [
+                            -0.31,
+                            39.53
+                        ],
+                        [
+                            -0.27,
+                            39.58
+                        ],
+                        [
+                            -0.26,
+                            39.62
+                        ],
+                        [
+                            -0.22,
+                            39.65
+                        ],
+                        [
+                            -0.19,
+                            39.72
+                        ],
+                        [
+                            0.24,
+                            39.58
+                        ],
+                        [
+                            0.13,
+                            39.4
+                        ],
+                        [
+                            0.18,
+                            39.25
+                        ],
+                        [
+                            -0.27,
+                            39.28
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 1,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral norte de Valencia</p><p><b>\u00c1rea:</b> Costa - Litoral norte de Valencia</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Asociado a las tormentas que se formen en tierra o en mar, viento variable predominando la componente oeste de 40 a 50 km/h con rachas que pueden superar los 80 km/h.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 10/08/2026 14:00</p><p><b>Fin:</b> 10/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
