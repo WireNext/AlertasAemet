@@ -212,6 +212,122 @@
                 "coordinates": [
                     [
                         [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.28,
+                            40.63
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.39,
+                            40.61
+                        ],
+                        [
+                            0.43,
+                            40.58
+                        ],
+                        [
+                            0.44,
+                            40.55
+                        ],
+                        [
+                            0.52,
+                            40.52
+                        ],
+                        [
+                            0.49,
+                            40.48
+                        ],
+                        [
+                            0.42,
+                            40.4
+                        ],
+                        [
+                            0.39,
+                            40.34
+                        ],
+                        [
+                            0.32,
+                            40.27
+                        ],
+                        [
+                            0.3,
+                            40.32
+                        ],
+                        [
+                            0.19,
+                            40.39
+                        ],
+                        [
+                            0.21,
+                            40.42
+                        ],
+                        [
+                            0.11,
+                            40.46
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> </p><p><b>Inicio:</b> 21/08/2026 08:45</p><p><b>Fin:</b> 21/08/2026 08:45</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -2.41,
                             43.32
                         ],
@@ -3504,122 +3620,6 @@
                 "coordinates": [
                     [
                         [
-                            0.09,
-                            40.48
-                        ],
-                        [
-                            0.08,
-                            40.5
-                        ],
-                        [
-                            0.1,
-                            40.54
-                        ],
-                        [
-                            0.08,
-                            40.57
-                        ],
-                        [
-                            0.12,
-                            40.59
-                        ],
-                        [
-                            0.15,
-                            40.57
-                        ],
-                        [
-                            0.19,
-                            40.6
-                        ],
-                        [
-                            0.16,
-                            40.61
-                        ],
-                        [
-                            0.16,
-                            40.65
-                        ],
-                        [
-                            0.27,
-                            40.66
-                        ],
-                        [
-                            0.28,
-                            40.63
-                        ],
-                        [
-                            0.33,
-                            40.61
-                        ],
-                        [
-                            0.39,
-                            40.61
-                        ],
-                        [
-                            0.43,
-                            40.58
-                        ],
-                        [
-                            0.44,
-                            40.55
-                        ],
-                        [
-                            0.52,
-                            40.52
-                        ],
-                        [
-                            0.49,
-                            40.48
-                        ],
-                        [
-                            0.42,
-                            40.4
-                        ],
-                        [
-                            0.39,
-                            40.34
-                        ],
-                        [
-                            0.32,
-                            40.27
-                        ],
-                        [
-                            0.3,
-                            40.32
-                        ],
-                        [
-                            0.19,
-                            40.39
-                        ],
-                        [
-                            0.21,
-                            40.42
-                        ],
-                        [
-                            0.11,
-                            40.46
-                        ],
-                        [
-                            0.09,
-                            40.48
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 30 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/08/2026 18:00</p><p><b>Fin:</b> 21/08/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -1.98,
                             41.53
                         ],
@@ -4062,122 +4062,6 @@
                 "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Ib\u00e9rica zaragozana</p><p><b>\u00c1rea:</b> Ib\u00e9rica zaragozana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/08/2026 14:00</p><p><b>Fin:</b> 22/08/2026 21:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            0.09,
-                            40.48
-                        ],
-                        [
-                            0.08,
-                            40.5
-                        ],
-                        [
-                            0.1,
-                            40.54
-                        ],
-                        [
-                            0.08,
-                            40.57
-                        ],
-                        [
-                            0.12,
-                            40.59
-                        ],
-                        [
-                            0.15,
-                            40.57
-                        ],
-                        [
-                            0.19,
-                            40.6
-                        ],
-                        [
-                            0.16,
-                            40.61
-                        ],
-                        [
-                            0.16,
-                            40.65
-                        ],
-                        [
-                            0.27,
-                            40.66
-                        ],
-                        [
-                            0.28,
-                            40.63
-                        ],
-                        [
-                            0.33,
-                            40.61
-                        ],
-                        [
-                            0.39,
-                            40.61
-                        ],
-                        [
-                            0.43,
-                            40.58
-                        ],
-                        [
-                            0.44,
-                            40.55
-                        ],
-                        [
-                            0.52,
-                            40.52
-                        ],
-                        [
-                            0.49,
-                            40.48
-                        ],
-                        [
-                            0.42,
-                            40.4
-                        ],
-                        [
-                            0.39,
-                            40.34
-                        ],
-                        [
-                            0.32,
-                            40.27
-                        ],
-                        [
-                            0.3,
-                            40.32
-                        ],
-                        [
-                            0.19,
-                            40.39
-                        ],
-                        [
-                            0.21,
-                            40.42
-                        ],
-                        [
-                            0.11,
-                            40.46
-                        ],
-                        [
-                            0.09,
-                            40.48
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 60 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/08/2026 18:00</p><p><b>Fin:</b> 21/08/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -5002,122 +4886,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Pirineo de Girona</p><p><b>\u00c1rea:</b> Pirineo de Girona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/08/2026 00:00</p><p><b>Fin:</b> 21/08/2026 02:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            0.09,
-                            40.48
-                        ],
-                        [
-                            0.08,
-                            40.5
-                        ],
-                        [
-                            0.1,
-                            40.54
-                        ],
-                        [
-                            0.08,
-                            40.57
-                        ],
-                        [
-                            0.12,
-                            40.59
-                        ],
-                        [
-                            0.15,
-                            40.57
-                        ],
-                        [
-                            0.19,
-                            40.6
-                        ],
-                        [
-                            0.16,
-                            40.61
-                        ],
-                        [
-                            0.16,
-                            40.65
-                        ],
-                        [
-                            0.27,
-                            40.66
-                        ],
-                        [
-                            0.28,
-                            40.63
-                        ],
-                        [
-                            0.33,
-                            40.61
-                        ],
-                        [
-                            0.39,
-                            40.61
-                        ],
-                        [
-                            0.43,
-                            40.58
-                        ],
-                        [
-                            0.44,
-                            40.55
-                        ],
-                        [
-                            0.52,
-                            40.52
-                        ],
-                        [
-                            0.49,
-                            40.48
-                        ],
-                        [
-                            0.42,
-                            40.4
-                        ],
-                        [
-                            0.39,
-                            40.34
-                        ],
-                        [
-                            0.32,
-                            40.27
-                        ],
-                        [
-                            0.3,
-                            40.32
-                        ],
-                        [
-                            0.19,
-                            40.39
-                        ],
-                        [
-                            0.21,
-                            40.42
-                        ],
-                        [
-                            0.11,
-                            40.46
-                        ],
-                        [
-                            0.09,
-                            40.48
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Pueden ir acompa\u00f1adas de granizo y rachas de viento muy fuertes.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/08/2026 18:00</p><p><b>Fin:</b> 21/08/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -8784,6 +8552,122 @@
                 "coordinates": [
                     [
                         [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.28,
+                            40.63
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.39,
+                            40.61
+                        ],
+                        [
+                            0.43,
+                            40.58
+                        ],
+                        [
+                            0.44,
+                            40.55
+                        ],
+                        [
+                            0.52,
+                            40.52
+                        ],
+                        [
+                            0.49,
+                            40.48
+                        ],
+                        [
+                            0.42,
+                            40.4
+                        ],
+                        [
+                            0.39,
+                            40.34
+                        ],
+                        [
+                            0.32,
+                            40.27
+                        ],
+                        [
+                            0.3,
+                            40.32
+                        ],
+                        [
+                            0.19,
+                            40.39
+                        ],
+                        [
+                            0.21,
+                            40.42
+                        ],
+                        [
+                            0.11,
+                            40.46
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> </p><p><b>Inicio:</b> 21/08/2026 08:45</p><p><b>Fin:</b> 21/08/2026 08:45</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             1.04,
                             41.18
                         ],
@@ -9654,6 +9538,122 @@
                 "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Prelitoral norte de Tarragona</p><p><b>\u00c1rea:</b> Prelitoral norte de Tarragona</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/08/2026 00:00</p><p><b>Fin:</b> 22/08/2026 05:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.09,
+                            40.48
+                        ],
+                        [
+                            0.08,
+                            40.5
+                        ],
+                        [
+                            0.1,
+                            40.54
+                        ],
+                        [
+                            0.08,
+                            40.57
+                        ],
+                        [
+                            0.12,
+                            40.59
+                        ],
+                        [
+                            0.15,
+                            40.57
+                        ],
+                        [
+                            0.19,
+                            40.6
+                        ],
+                        [
+                            0.16,
+                            40.61
+                        ],
+                        [
+                            0.16,
+                            40.65
+                        ],
+                        [
+                            0.27,
+                            40.66
+                        ],
+                        [
+                            0.28,
+                            40.63
+                        ],
+                        [
+                            0.33,
+                            40.61
+                        ],
+                        [
+                            0.39,
+                            40.61
+                        ],
+                        [
+                            0.43,
+                            40.58
+                        ],
+                        [
+                            0.44,
+                            40.55
+                        ],
+                        [
+                            0.52,
+                            40.52
+                        ],
+                        [
+                            0.49,
+                            40.48
+                        ],
+                        [
+                            0.42,
+                            40.4
+                        ],
+                        [
+                            0.39,
+                            40.34
+                        ],
+                        [
+                            0.32,
+                            40.27
+                        ],
+                        [
+                            0.3,
+                            40.32
+                        ],
+                        [
+                            0.19,
+                            40.39
+                        ],
+                        [
+                            0.21,
+                            40.42
+                        ],
+                        [
+                            0.11,
+                            40.46
+                        ],
+                        [
+                            0.09,
+                            40.48
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral norte de Castell\u00f3n</p><p><b>\u00c1rea:</b> Litoral norte de Castell\u00f3n</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> </p><p><b>Inicio:</b> 21/08/2026 08:45</p><p><b>Fin:</b> 21/08/2026 08:45</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
