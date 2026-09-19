@@ -8,6 +8,146 @@
                 "coordinates": [
                     [
                         [
+                            -5.58,
+                            36.37
+                        ],
+                        [
+                            -5.45,
+                            36.37
+                        ],
+                        [
+                            -5.39,
+                            36.33
+                        ],
+                        [
+                            -5.32,
+                            36.33
+                        ],
+                        [
+                            -5.27,
+                            36.34
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -5.29,
+                            36.25
+                        ],
+                        [
+                            -5.31,
+                            36.23
+                        ],
+                        [
+                            -5.34,
+                            36.15
+                        ],
+                        [
+                            -5.38,
+                            36.18
+                        ],
+                        [
+                            -5.43,
+                            36.18
+                        ],
+                        [
+                            -5.45,
+                            36.14
+                        ],
+                        [
+                            -5.42,
+                            36.08
+                        ],
+                        [
+                            -5.46,
+                            36.05
+                        ],
+                        [
+                            -5.48,
+                            36.06
+                        ],
+                        [
+                            -5.57,
+                            36.02
+                        ],
+                        [
+                            -5.61,
+                            36.01
+                        ],
+                        [
+                            -5.65,
+                            36.05
+                        ],
+                        [
+                            -5.71,
+                            36.06
+                        ],
+                        [
+                            -5.77,
+                            36.09
+                        ],
+                        [
+                            -5.8,
+                            36.08
+                        ],
+                        [
+                            -5.84,
+                            36.13
+                        ],
+                        [
+                            -5.82,
+                            36.17
+                        ],
+                        [
+                            -5.78,
+                            36.22
+                        ],
+                        [
+                            -5.79,
+                            36.25
+                        ],
+                        [
+                            -5.76,
+                            36.27
+                        ],
+                        [
+                            -5.69,
+                            36.22
+                        ],
+                        [
+                            -5.68,
+                            36.25
+                        ],
+                        [
+                            -5.61,
+                            36.32
+                        ],
+                        [
+                            -5.57,
+                            36.34
+                        ],
+                        [
+                            -5.58,
+                            36.37
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Estrecho</p><p><b>\u00c1rea:</b> Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Vientos de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 12:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -6.02,
                             35.83
                         ],
@@ -145,7 +285,223 @@
             "properties": {
                 "dia": 2,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y \u00e1rea de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/09/2026 00:00</p><p><b>Fin:</b> 21/09/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y al sur de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/09/2026 00:00</p><p><b>Fin:</b> 21/09/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.99,
+                            38.32
+                        ],
+                        [
+                            -0.92,
+                            38.33
+                        ],
+                        [
+                            -0.83,
+                            38.36
+                        ],
+                        [
+                            -0.86,
+                            38.39
+                        ],
+                        [
+                            -0.83,
+                            38.4
+                        ],
+                        [
+                            -0.81,
+                            38.43
+                        ],
+                        [
+                            -0.73,
+                            38.44
+                        ],
+                        [
+                            -0.67,
+                            38.47
+                        ],
+                        [
+                            -0.63,
+                            38.5
+                        ],
+                        [
+                            -0.61,
+                            38.48
+                        ],
+                        [
+                            -0.5,
+                            38.48
+                        ],
+                        [
+                            -0.45,
+                            38.49
+                        ],
+                        [
+                            -0.43,
+                            38.53
+                        ],
+                        [
+                            -0.4,
+                            38.54
+                        ],
+                        [
+                            -0.41,
+                            38.57
+                        ],
+                        [
+                            -0.33,
+                            38.62
+                        ],
+                        [
+                            -0.27,
+                            38.59
+                        ],
+                        [
+                            -0.21,
+                            38.61
+                        ],
+                        [
+                            -0.19,
+                            38.61
+                        ],
+                        [
+                            -0.16,
+                            38.65
+                        ],
+                        [
+                            -0.08,
+                            38.62
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.07,
+                            38.54
+                        ],
+                        [
+                            -0.15,
+                            38.54
+                        ],
+                        [
+                            -0.32,
+                            38.48
+                        ],
+                        [
+                            -0.37,
+                            38.44
+                        ],
+                        [
+                            -0.4,
+                            38.41
+                        ],
+                        [
+                            -0.41,
+                            38.35
+                        ],
+                        [
+                            -0.44,
+                            38.36
+                        ],
+                        [
+                            -0.51,
+                            38.33
+                        ],
+                        [
+                            -0.52,
+                            38.3
+                        ],
+                        [
+                            -0.51,
+                            38.2
+                        ],
+                        [
+                            -0.54,
+                            38.19
+                        ],
+                        [
+                            -0.59,
+                            38.19
+                        ],
+                        [
+                            -0.63,
+                            38.14
+                        ],
+                        [
+                            -0.64,
+                            38.09
+                        ],
+                        [
+                            -0.65,
+                            37.99
+                        ],
+                        [
+                            -0.69,
+                            37.97
+                        ],
+                        [
+                            -0.7,
+                            37.94
+                        ],
+                        [
+                            -0.75,
+                            37.9
+                        ],
+                        [
+                            -0.76,
+                            37.85
+                        ],
+                        [
+                            -0.78,
+                            37.85
+                        ],
+                        [
+                            -0.85,
+                            37.88
+                        ],
+                        [
+                            -0.92,
+                            37.95
+                        ],
+                        [
+                            -0.96,
+                            38.01
+                        ],
+                        [
+                            -1.02,
+                            38.08
+                        ],
+                        [
+                            -1.04,
+                            38.14
+                        ],
+                        [
+                            -0.99,
+                            38.2
+                        ],
+                        [
+                            -0.97,
+                            38.26
+                        ],
+                        [
+                            -0.99,
+                            38.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral sur de Alicante</p><p><b>\u00c1rea:</b> Litoral sur de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 12:00</p><p><b>Fin:</b> 19/09/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -293,7 +649,155 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 06:00</p><p><b>Fin:</b> 19/09/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 12:00</p><p><b>Fin:</b> 19/09/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.02,
+                            35.83
+                        ],
+                        [
+                            -5.96,
+                            35.92
+                        ],
+                        [
+                            -5.84,
+                            36.13
+                        ],
+                        [
+                            -5.8,
+                            36.08
+                        ],
+                        [
+                            -5.77,
+                            36.09
+                        ],
+                        [
+                            -5.71,
+                            36.06
+                        ],
+                        [
+                            -5.65,
+                            36.05
+                        ],
+                        [
+                            -5.61,
+                            36.01
+                        ],
+                        [
+                            -5.57,
+                            36.02
+                        ],
+                        [
+                            -5.48,
+                            36.06
+                        ],
+                        [
+                            -5.46,
+                            36.05
+                        ],
+                        [
+                            -5.42,
+                            36.08
+                        ],
+                        [
+                            -5.45,
+                            36.14
+                        ],
+                        [
+                            -5.43,
+                            36.18
+                        ],
+                        [
+                            -5.38,
+                            36.18
+                        ],
+                        [
+                            -5.34,
+                            36.15
+                        ],
+                        [
+                            -5.31,
+                            36.23
+                        ],
+                        [
+                            -5.29,
+                            36.25
+                        ],
+                        [
+                            -5.25,
+                            36.31
+                        ],
+                        [
+                            -4.9,
+                            36.12
+                        ],
+                        [
+                            -4.93,
+                            36.07
+                        ],
+                        [
+                            -4.92,
+                            36.06
+                        ],
+                        [
+                            -5.06,
+                            36.04
+                        ],
+                        [
+                            -5.24,
+                            36.01
+                        ],
+                        [
+                            -5.46,
+                            35.98
+                        ],
+                        [
+                            -5.46,
+                            35.91
+                        ],
+                        [
+                            -5.49,
+                            35.9
+                        ],
+                        [
+                            -5.54,
+                            35.84
+                        ],
+                        [
+                            -5.6,
+                            35.82
+                        ],
+                        [
+                            -5.74,
+                            35.81
+                        ],
+                        [
+                            -5.92,
+                            35.79
+                        ],
+                        [
+                            -5.93,
+                            35.78
+                        ],
+                        [
+                            -6.02,
+                            35.83
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y al sur de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 11:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -492,136 +996,188 @@
                 "coordinates": [
                     [
                         [
-                            -6.02,
-                            35.83
+                            -6.12,
+                            36.86
                         ],
                         [
-                            -5.96,
-                            35.92
+                            -6.1,
+                            36.86
                         ],
                         [
-                            -5.84,
-                            36.13
+                            -5.97,
+                            36.84
+                        ],
+                        [
+                            -5.89,
+                            36.85
+                        ],
+                        [
+                            -5.88,
+                            36.9
                         ],
                         [
                             -5.8,
-                            36.08
+                            36.93
                         ],
                         [
-                            -5.77,
-                            36.09
+                            -5.72,
+                            36.92
                         ],
                         [
-                            -5.71,
-                            36.06
+                            -5.67,
+                            36.98
                         ],
                         [
-                            -5.65,
-                            36.05
+                            -5.58,
+                            36.92
                         ],
                         [
-                            -5.61,
-                            36.01
+                            -5.53,
+                            36.89
                         ],
                         [
-                            -5.57,
-                            36.02
+                            -5.53,
+                            36.84
                         ],
                         [
-                            -5.48,
-                            36.06
+                            -5.58,
+                            36.79
                         ],
                         [
-                            -5.46,
-                            36.05
+                            -5.58,
+                            36.76
                         ],
                         [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -4.9,
-                            36.12
-                        ],
-                        [
-                            -4.93,
-                            36.07
-                        ],
-                        [
-                            -4.92,
-                            36.06
-                        ],
-                        [
-                            -5.06,
-                            36.04
-                        ],
-                        [
-                            -5.24,
-                            36.01
-                        ],
-                        [
-                            -5.46,
-                            35.98
-                        ],
-                        [
-                            -5.46,
-                            35.91
-                        ],
-                        [
-                            -5.49,
-                            35.9
+                            -5.53,
+                            36.72
                         ],
                         [
                             -5.54,
-                            35.84
+                            36.67
+                        ],
+                        [
+                            -5.45,
+                            36.62
+                        ],
+                        [
+                            -5.46,
+                            36.59
+                        ],
+                        [
+                            -5.52,
+                            36.53
+                        ],
+                        [
+                            -5.57,
+                            36.55
+                        ],
+                        [
+                            -5.61,
+                            36.54
                         ],
                         [
                             -5.6,
-                            35.82
+                            36.51
                         ],
                         [
-                            -5.74,
-                            35.81
+                            -5.56,
+                            36.5
                         ],
                         [
-                            -5.92,
-                            35.79
+                            -5.57,
+                            36.44
                         ],
                         [
-                            -5.93,
-                            35.78
+                            -5.59,
+                            36.39
+                        ],
+                        [
+                            -5.58,
+                            36.37
+                        ],
+                        [
+                            -5.57,
+                            36.34
+                        ],
+                        [
+                            -5.61,
+                            36.32
+                        ],
+                        [
+                            -5.68,
+                            36.25
+                        ],
+                        [
+                            -5.69,
+                            36.22
+                        ],
+                        [
+                            -5.76,
+                            36.27
+                        ],
+                        [
+                            -5.79,
+                            36.25
+                        ],
+                        [
+                            -5.89,
+                            36.34
+                        ],
+                        [
+                            -5.99,
+                            36.37
+                        ],
+                        [
+                            -6.07,
+                            36.46
+                        ],
+                        [
+                            -5.98,
+                            36.52
+                        ],
+                        [
+                            -5.99,
+                            36.55
                         ],
                         [
                             -6.02,
-                            35.83
+                            36.55
+                        ],
+                        [
+                            -6.12,
+                            36.57
+                        ],
+                        [
+                            -6.14,
+                            36.62
+                        ],
+                        [
+                            -6.23,
+                            36.67
+                        ],
+                        [
+                            -6.25,
+                            36.71
+                        ],
+                        [
+                            -6.3,
+                            36.72
+                        ],
+                        [
+                            -6.27,
+                            36.78
+                        ],
+                        [
+                            -6.24,
+                            36.79
+                        ],
+                        [
+                            -6.22,
+                            36.82
+                        ],
+                        [
+                            -6.12,
+                            36.86
                         ]
                     ]
                 ]
@@ -629,7 +1185,7 @@
             "properties": {
                 "dia": 1,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y \u00e1rea de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 20/09/2026 00:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana</p><p><b>\u00c1rea:</b> Campi\u00f1a gaditana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 20/09/2026 00:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -798,146 +1354,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas</p><p><b>\u00c1rea:</b> Valle del Guadalent\u00edn, Lorca y \u00c1guilas</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Este aviso se refiere al litoral de la zona.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 03:00</p><p><b>Fin:</b> 19/09/2026 17:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Estrecho</p><p><b>\u00c1rea:</b> Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Vientos de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 20/09/2026 00:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1164,834 +1580,6 @@
                 "coordinates": [
                     [
                         [
-                            -0.3,
-                            38.88
-                        ],
-                        [
-                            -0.26,
-                            38.86
-                        ],
-                        [
-                            -0.15,
-                            38.86
-                        ],
-                        [
-                            -0.07,
-                            38.89
-                        ],
-                        [
-                            -0.04,
-                            38.89
-                        ],
-                        [
-                            -0.01,
-                            38.87
-                        ],
-                        [
-                            0.09,
-                            38.85
-                        ],
-                        [
-                            0.17,
-                            38.81
-                        ],
-                        [
-                            0.2,
-                            38.77
-                        ],
-                        [
-                            0.22,
-                            38.76
-                        ],
-                        [
-                            0.2,
-                            38.73
-                        ],
-                        [
-                            0.07,
-                            38.64
-                        ],
-                        [
-                            0.03,
-                            38.63
-                        ],
-                        [
-                            -0.02,
-                            38.63
-                        ],
-                        [
-                            -0.06,
-                            38.58
-                        ],
-                        [
-                            -0.08,
-                            38.62
-                        ],
-                        [
-                            -0.16,
-                            38.65
-                        ],
-                        [
-                            -0.19,
-                            38.61
-                        ],
-                        [
-                            -0.21,
-                            38.61
-                        ],
-                        [
-                            -0.27,
-                            38.59
-                        ],
-                        [
-                            -0.33,
-                            38.62
-                        ],
-                        [
-                            -0.33,
-                            38.65
-                        ],
-                        [
-                            -0.36,
-                            38.7
-                        ],
-                        [
-                            -0.44,
-                            38.69
-                        ],
-                        [
-                            -0.51,
-                            38.74
-                        ],
-                        [
-                            -0.53,
-                            38.77
-                        ],
-                        [
-                            -0.56,
-                            38.76
-                        ],
-                        [
-                            -0.59,
-                            38.8
-                        ],
-                        [
-                            -0.53,
-                            38.81
-                        ],
-                        [
-                            -0.47,
-                            38.8
-                        ],
-                        [
-                            -0.43,
-                            38.83
-                        ],
-                        [
-                            -0.38,
-                            38.83
-                        ],
-                        [
-                            -0.3,
-                            38.88
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 2,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 50 mm. Se espera que en las pr\u00f3ximas horas se alcancen los 50mm/h.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 03:00</p><p><b>Fin:</b> 19/09/2026 05:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#FF7F00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.86,
-                            36.62
-                        ],
-                        [
-                            -6.48,
-                            36.76
-                        ],
-                        [
-                            -6.34,
-                            36.8
-                        ],
-                        [
-                            -6.44,
-                            36.74
-                        ],
-                        [
-                            -6.43,
-                            36.71
-                        ],
-                        [
-                            -6.39,
-                            36.63
-                        ],
-                        [
-                            -6.31,
-                            36.62
-                        ],
-                        [
-                            -6.27,
-                            36.58
-                        ],
-                        [
-                            -6.22,
-                            36.57
-                        ],
-                        [
-                            -6.24,
-                            36.51
-                        ],
-                        [
-                            -6.18,
-                            36.51
-                        ],
-                        [
-                            -6.19,
-                            36.5
-                        ],
-                        [
-                            -6.25,
-                            36.45
-                        ],
-                        [
-                            -6.22,
-                            36.39
-                        ],
-                        [
-                            -6.18,
-                            36.37
-                        ],
-                        [
-                            -6.14,
-                            36.3
-                        ],
-                        [
-                            -6.11,
-                            36.29
-                        ],
-                        [
-                            -6.05,
-                            36.2
-                        ],
-                        [
-                            -5.98,
-                            36.18
-                        ],
-                        [
-                            -5.92,
-                            36.19
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.96,
-                            35.92
-                        ],
-                        [
-                            -6.02,
-                            35.83
-                        ],
-                        [
-                            -6.05,
-                            35.85
-                        ],
-                        [
-                            -6.09,
-                            35.85
-                        ],
-                        [
-                            -6.17,
-                            35.87
-                        ],
-                        [
-                            -6.24,
-                            35.89
-                        ],
-                        [
-                            -6.31,
-                            35.93
-                        ],
-                        [
-                            -6.36,
-                            35.98
-                        ],
-                        [
-                            -6.47,
-                            36.09
-                        ],
-                        [
-                            -6.5,
-                            36.14
-                        ],
-                        [
-                            -6.57,
-                            36.2
-                        ],
-                        [
-                            -6.62,
-                            36.3
-                        ],
-                        [
-                            -6.68,
-                            36.37
-                        ],
-                        [
-                            -6.71,
-                            36.42
-                        ],
-                        [
-                            -6.74,
-                            36.45
-                        ],
-                        [
-                            -6.78,
-                            36.51
-                        ],
-                        [
-                            -6.82,
-                            36.56
-                        ],
-                        [
-                            -6.86,
-                            36.62
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y zona de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 06:00</p><p><b>Fin:</b> 19/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.45,
-                            36.37
-                        ],
-                        [
-                            -5.39,
-                            36.33
-                        ],
-                        [
-                            -5.32,
-                            36.33
-                        ],
-                        [
-                            -5.27,
-                            36.34
-                        ],
-                        [
-                            -5.25,
-                            36.31
-                        ],
-                        [
-                            -5.29,
-                            36.25
-                        ],
-                        [
-                            -5.31,
-                            36.23
-                        ],
-                        [
-                            -5.34,
-                            36.15
-                        ],
-                        [
-                            -5.38,
-                            36.18
-                        ],
-                        [
-                            -5.43,
-                            36.18
-                        ],
-                        [
-                            -5.45,
-                            36.14
-                        ],
-                        [
-                            -5.42,
-                            36.08
-                        ],
-                        [
-                            -5.46,
-                            36.05
-                        ],
-                        [
-                            -5.48,
-                            36.06
-                        ],
-                        [
-                            -5.57,
-                            36.02
-                        ],
-                        [
-                            -5.61,
-                            36.01
-                        ],
-                        [
-                            -5.65,
-                            36.05
-                        ],
-                        [
-                            -5.71,
-                            36.06
-                        ],
-                        [
-                            -5.77,
-                            36.09
-                        ],
-                        [
-                            -5.8,
-                            36.08
-                        ],
-                        [
-                            -5.84,
-                            36.13
-                        ],
-                        [
-                            -5.82,
-                            36.17
-                        ],
-                        [
-                            -5.78,
-                            36.22
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Estrecho</p><p><b>\u00c1rea:</b> Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 80 km/h. Vientos de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 12:00</p><p><b>Fin:</b> 19/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -1.97,
-                            37.87
-                        ],
-                        [
-                            -1.97,
-                            37.88
-                        ],
-                        [
-                            -1.82,
-                            37.97
-                        ],
-                        [
-                            -1.78,
-                            37.95
-                        ],
-                        [
-                            -1.73,
-                            37.95
-                        ],
-                        [
-                            -1.67,
-                            37.9
-                        ],
-                        [
-                            -1.65,
-                            37.86
-                        ],
-                        [
-                            -1.6,
-                            37.9
-                        ],
-                        [
-                            -1.5,
-                            37.89
-                        ],
-                        [
-                            -1.41,
-                            37.91
-                        ],
-                        [
-                            -1.35,
-                            37.86
-                        ],
-                        [
-                            -1.28,
-                            37.91
-                        ],
-                        [
-                            -1.27,
-                            37.85
-                        ],
-                        [
-                            -1.29,
-                            37.83
-                        ],
-                        [
-                            -1.28,
-                            37.74
-                        ],
-                        [
-                            -1.37,
-                            37.72
-                        ],
-                        [
-                            -1.46,
-                            37.68
-                        ],
-                        [
-                            -1.46,
-                            37.62
-                        ],
-                        [
-                            -1.45,
-                            37.58
-                        ],
-                        [
-                            -1.46,
-                            37.56
-                        ],
-                        [
-                            -1.4,
-                            37.52
-                        ],
-                        [
-                            -1.46,
-                            37.48
-                        ],
-                        [
-                            -1.48,
-                            37.44
-                        ],
-                        [
-                            -1.52,
-                            37.43
-                        ],
-                        [
-                            -1.55,
-                            37.41
-                        ],
-                        [
-                            -1.59,
-                            37.4
-                        ],
-                        [
-                            -1.63,
-                            37.37
-                        ],
-                        [
-                            -1.63,
-                            37.38
-                        ],
-                        [
-                            -1.74,
-                            37.44
-                        ],
-                        [
-                            -1.81,
-                            37.45
-                        ],
-                        [
-                            -1.81,
-                            37.43
-                        ],
-                        [
-                            -1.84,
-                            37.46
-                        ],
-                        [
-                            -1.95,
-                            37.59
-                        ],
-                        [
-                            -2.01,
-                            37.67
-                        ],
-                        [
-                            -1.99,
-                            37.73
-                        ],
-                        [
-                            -2.01,
-                            37.78
-                        ],
-                        [
-                            -1.99,
-                            37.84
-                        ],
-                        [
-                            -1.97,
-                            37.87
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas</p><p><b>\u00c1rea:</b> Valle del Guadalent\u00edn, Lorca y \u00c1guilas</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 03:00</p><p><b>Fin:</b> 19/09/2026 17:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.12,
-                            36.86
-                        ],
-                        [
-                            -6.1,
-                            36.86
-                        ],
-                        [
-                            -5.97,
-                            36.84
-                        ],
-                        [
-                            -5.89,
-                            36.85
-                        ],
-                        [
-                            -5.88,
-                            36.9
-                        ],
-                        [
-                            -5.8,
-                            36.93
-                        ],
-                        [
-                            -5.72,
-                            36.92
-                        ],
-                        [
-                            -5.67,
-                            36.98
-                        ],
-                        [
-                            -5.58,
-                            36.92
-                        ],
-                        [
-                            -5.53,
-                            36.89
-                        ],
-                        [
-                            -5.53,
-                            36.84
-                        ],
-                        [
-                            -5.58,
-                            36.79
-                        ],
-                        [
-                            -5.58,
-                            36.76
-                        ],
-                        [
-                            -5.53,
-                            36.72
-                        ],
-                        [
-                            -5.54,
-                            36.67
-                        ],
-                        [
-                            -5.45,
-                            36.62
-                        ],
-                        [
-                            -5.46,
-                            36.59
-                        ],
-                        [
-                            -5.52,
-                            36.53
-                        ],
-                        [
-                            -5.57,
-                            36.55
-                        ],
-                        [
-                            -5.61,
-                            36.54
-                        ],
-                        [
-                            -5.6,
-                            36.51
-                        ],
-                        [
-                            -5.56,
-                            36.5
-                        ],
-                        [
-                            -5.57,
-                            36.44
-                        ],
-                        [
-                            -5.59,
-                            36.39
-                        ],
-                        [
-                            -5.58,
-                            36.37
-                        ],
-                        [
-                            -5.57,
-                            36.34
-                        ],
-                        [
-                            -5.61,
-                            36.32
-                        ],
-                        [
-                            -5.68,
-                            36.25
-                        ],
-                        [
-                            -5.69,
-                            36.22
-                        ],
-                        [
-                            -5.76,
-                            36.27
-                        ],
-                        [
-                            -5.79,
-                            36.25
-                        ],
-                        [
-                            -5.89,
-                            36.34
-                        ],
-                        [
-                            -5.99,
-                            36.37
-                        ],
-                        [
-                            -6.07,
-                            36.46
-                        ],
-                        [
-                            -5.98,
-                            36.52
-                        ],
-                        [
-                            -5.99,
-                            36.55
-                        ],
-                        [
-                            -6.02,
-                            36.55
-                        ],
-                        [
-                            -6.12,
-                            36.57
-                        ],
-                        [
-                            -6.14,
-                            36.62
-                        ],
-                        [
-                            -6.23,
-                            36.67
-                        ],
-                        [
-                            -6.25,
-                            36.71
-                        ],
-                        [
-                            -6.3,
-                            36.72
-                        ],
-                        [
-                            -6.27,
-                            36.78
-                        ],
-                        [
-                            -6.24,
-                            36.79
-                        ],
-                        [
-                            -6.22,
-                            36.82
-                        ],
-                        [
-                            -6.12,
-                            36.86
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf2c\ufe0f Aviso de vientos de nivel amarillo</h3><p><b>Titular:</b> Aviso de vientos de nivel amarillo. Campi\u00f1a gaditana</p><p><b>\u00c1rea:</b> Campi\u00f1a gaditana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Rachas m\u00e1ximas: 70 km/h. Vientos de levante.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 20/09/2026 00:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -0.99,
                             38.32
                         ],
@@ -2196,9 +1784,325 @@
             },
             "properties": {
                 "dia": 0,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. Litoral sur de Alicante</p><p><b>\u00c1rea:</b> Litoral sur de Alicante</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 50 mm. Se observan chubascos locales pero muy fuertes en la franja litoral.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 10:00</p><p><b>Fin:</b> 19/09/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.97,
+                            37.87
+                        ],
+                        [
+                            -1.97,
+                            37.88
+                        ],
+                        [
+                            -1.82,
+                            37.97
+                        ],
+                        [
+                            -1.78,
+                            37.95
+                        ],
+                        [
+                            -1.73,
+                            37.95
+                        ],
+                        [
+                            -1.67,
+                            37.9
+                        ],
+                        [
+                            -1.65,
+                            37.86
+                        ],
+                        [
+                            -1.6,
+                            37.9
+                        ],
+                        [
+                            -1.5,
+                            37.89
+                        ],
+                        [
+                            -1.41,
+                            37.91
+                        ],
+                        [
+                            -1.35,
+                            37.86
+                        ],
+                        [
+                            -1.28,
+                            37.91
+                        ],
+                        [
+                            -1.27,
+                            37.85
+                        ],
+                        [
+                            -1.29,
+                            37.83
+                        ],
+                        [
+                            -1.28,
+                            37.74
+                        ],
+                        [
+                            -1.37,
+                            37.72
+                        ],
+                        [
+                            -1.46,
+                            37.68
+                        ],
+                        [
+                            -1.46,
+                            37.62
+                        ],
+                        [
+                            -1.45,
+                            37.58
+                        ],
+                        [
+                            -1.46,
+                            37.56
+                        ],
+                        [
+                            -1.4,
+                            37.52
+                        ],
+                        [
+                            -1.46,
+                            37.48
+                        ],
+                        [
+                            -1.48,
+                            37.44
+                        ],
+                        [
+                            -1.52,
+                            37.43
+                        ],
+                        [
+                            -1.55,
+                            37.41
+                        ],
+                        [
+                            -1.59,
+                            37.4
+                        ],
+                        [
+                            -1.63,
+                            37.37
+                        ],
+                        [
+                            -1.63,
+                            37.38
+                        ],
+                        [
+                            -1.74,
+                            37.44
+                        ],
+                        [
+                            -1.81,
+                            37.45
+                        ],
+                        [
+                            -1.81,
+                            37.43
+                        ],
+                        [
+                            -1.84,
+                            37.46
+                        ],
+                        [
+                            -1.95,
+                            37.59
+                        ],
+                        [
+                            -2.01,
+                            37.67
+                        ],
+                        [
+                            -1.99,
+                            37.73
+                        ],
+                        [
+                            -2.01,
+                            37.78
+                        ],
+                        [
+                            -1.99,
+                            37.84
+                        ],
+                        [
+                            -1.97,
+                            37.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Litoral sur de Alicante</p><p><b>\u00c1rea:</b> Litoral sur de Alicante</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 20 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 03:00</p><p><b>Fin:</b> 19/09/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Valle del Guadalent\u00edn, Lorca y \u00c1guilas</p><p><b>\u00c1rea:</b> Valle del Guadalent\u00edn, Lorca y \u00c1guilas</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 03:00</p><p><b>Fin:</b> 19/09/2026 17:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.3,
+                            38.88
+                        ],
+                        [
+                            -0.26,
+                            38.86
+                        ],
+                        [
+                            -0.15,
+                            38.86
+                        ],
+                        [
+                            -0.07,
+                            38.89
+                        ],
+                        [
+                            -0.04,
+                            38.89
+                        ],
+                        [
+                            -0.01,
+                            38.87
+                        ],
+                        [
+                            0.09,
+                            38.85
+                        ],
+                        [
+                            0.17,
+                            38.81
+                        ],
+                        [
+                            0.2,
+                            38.77
+                        ],
+                        [
+                            0.22,
+                            38.76
+                        ],
+                        [
+                            0.2,
+                            38.73
+                        ],
+                        [
+                            0.07,
+                            38.64
+                        ],
+                        [
+                            0.03,
+                            38.63
+                        ],
+                        [
+                            -0.02,
+                            38.63
+                        ],
+                        [
+                            -0.06,
+                            38.58
+                        ],
+                        [
+                            -0.08,
+                            38.62
+                        ],
+                        [
+                            -0.16,
+                            38.65
+                        ],
+                        [
+                            -0.19,
+                            38.61
+                        ],
+                        [
+                            -0.21,
+                            38.61
+                        ],
+                        [
+                            -0.27,
+                            38.59
+                        ],
+                        [
+                            -0.33,
+                            38.62
+                        ],
+                        [
+                            -0.33,
+                            38.65
+                        ],
+                        [
+                            -0.36,
+                            38.7
+                        ],
+                        [
+                            -0.44,
+                            38.69
+                        ],
+                        [
+                            -0.51,
+                            38.74
+                        ],
+                        [
+                            -0.53,
+                            38.77
+                        ],
+                        [
+                            -0.56,
+                            38.76
+                        ],
+                        [
+                            -0.59,
+                            38.8
+                        ],
+                        [
+                            -0.53,
+                            38.81
+                        ],
+                        [
+                            -0.47,
+                            38.8
+                        ],
+                        [
+                            -0.43,
+                            38.83
+                        ],
+                        [
+                            -0.38,
+                            38.83
+                        ],
+                        [
+                            -0.3,
+                            38.88
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en 12 horas: 100 mm. Principalmente en la franja litoral.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 10:00</p><p><b>Fin:</b> 19/09/2026 14:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
             }
         },
         {
@@ -2567,9 +2471,9 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y \u00e1rea de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/09/2026 00:00</p><p><b>Fin:</b> 21/09/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y al sur de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 11:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -2960,144 +2864,308 @@
                 "coordinates": [
                     [
                         [
-                            -6.02,
-                            35.83
+                            -0.3,
+                            38.88
                         ],
                         [
-                            -5.96,
-                            35.92
+                            -0.26,
+                            38.86
                         ],
                         [
-                            -5.84,
-                            36.13
+                            -0.15,
+                            38.86
                         ],
                         [
-                            -5.8,
-                            36.08
+                            -0.07,
+                            38.89
                         ],
                         [
-                            -5.77,
-                            36.09
+                            -0.04,
+                            38.89
                         ],
                         [
-                            -5.71,
-                            36.06
+                            -0.01,
+                            38.87
                         ],
                         [
-                            -5.65,
-                            36.05
+                            0.09,
+                            38.85
                         ],
                         [
-                            -5.61,
-                            36.01
+                            0.17,
+                            38.81
                         ],
                         [
-                            -5.57,
-                            36.02
+                            0.2,
+                            38.77
                         ],
                         [
-                            -5.48,
-                            36.06
+                            0.22,
+                            38.76
                         ],
                         [
-                            -5.46,
-                            36.05
+                            0.2,
+                            38.73
                         ],
                         [
-                            -5.42,
-                            36.08
+                            0.07,
+                            38.64
                         ],
                         [
-                            -5.45,
-                            36.14
+                            0.03,
+                            38.63
                         ],
                         [
-                            -5.43,
-                            36.18
+                            -0.02,
+                            38.63
                         ],
                         [
-                            -5.38,
-                            36.18
+                            -0.06,
+                            38.58
                         ],
                         [
-                            -5.34,
-                            36.15
+                            -0.08,
+                            38.62
                         ],
                         [
-                            -5.31,
-                            36.23
+                            -0.16,
+                            38.65
                         ],
                         [
-                            -5.29,
-                            36.25
+                            -0.19,
+                            38.61
                         ],
                         [
-                            -5.25,
-                            36.31
+                            -0.21,
+                            38.61
                         ],
                         [
-                            -4.9,
-                            36.12
+                            -0.27,
+                            38.59
                         ],
                         [
-                            -4.93,
-                            36.07
+                            -0.33,
+                            38.62
                         ],
                         [
-                            -4.92,
-                            36.06
+                            -0.33,
+                            38.65
                         ],
                         [
-                            -5.06,
-                            36.04
+                            -0.36,
+                            38.7
                         ],
                         [
-                            -5.24,
-                            36.01
+                            -0.44,
+                            38.69
                         ],
                         [
-                            -5.46,
-                            35.98
+                            -0.51,
+                            38.74
                         ],
                         [
-                            -5.46,
-                            35.91
+                            -0.53,
+                            38.77
                         ],
                         [
-                            -5.49,
-                            35.9
+                            -0.56,
+                            38.76
                         ],
                         [
-                            -5.54,
-                            35.84
+                            -0.59,
+                            38.8
                         ],
                         [
-                            -5.6,
-                            35.82
+                            -0.53,
+                            38.81
                         ],
                         [
-                            -5.74,
-                            35.81
+                            -0.47,
+                            38.8
                         ],
                         [
-                            -5.92,
-                            35.79
+                            -0.43,
+                            38.83
                         ],
                         [
-                            -5.93,
-                            35.78
+                            -0.38,
+                            38.83
                         ],
                         [
-                            -6.02,
-                            35.83
+                            -0.3,
+                            38.88
                         ]
                     ]
                 ]
             },
             "properties": {
                 "dia": 0,
+                "priority": 2,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel naranja</h3><p><b>Titular:</b> Aviso de lluvias de nivel naranja. Litoral norte de Alicante</p><p><b>\u00c1rea:</b> Litoral norte de Alicante</p><p><b>Nivel:</b> <span style='color:#FF7F00; font-weight:bold;'>NARANJA</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 50 mm. Se observan chubascos locales pero muy fuertes en la franja litoral.</p><p><b>Instrucciones:</b> Est\u00e9 preparado. Tome precauciones y mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os graves a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 10:00</p><p><b>Fin:</b> 19/09/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#FF7F00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.26,
+                            42.32
+                        ],
+                        [
+                            -8.22,
+                            42.33
+                        ],
+                        [
+                            -8.22,
+                            42.38
+                        ],
+                        [
+                            -8.2,
+                            42.4
+                        ],
+                        [
+                            -8.13,
+                            42.39
+                        ],
+                        [
+                            -8.06,
+                            42.4
+                        ],
+                        [
+                            -8.0,
+                            42.4
+                        ],
+                        [
+                            -7.96,
+                            42.37
+                        ],
+                        [
+                            -7.91,
+                            42.4
+                        ],
+                        [
+                            -7.87,
+                            42.4
+                        ],
+                        [
+                            -7.84,
+                            42.37
+                        ],
+                        [
+                            -7.73,
+                            42.45
+                        ],
+                        [
+                            -7.7,
+                            42.43
+                        ],
+                        [
+                            -7.63,
+                            42.41
+                        ],
+                        [
+                            -7.62,
+                            42.38
+                        ],
+                        [
+                            -7.68,
+                            42.35
+                        ],
+                        [
+                            -7.71,
+                            42.37
+                        ],
+                        [
+                            -7.75,
+                            42.31
+                        ],
+                        [
+                            -7.79,
+                            42.3
+                        ],
+                        [
+                            -7.79,
+                            42.25
+                        ],
+                        [
+                            -7.82,
+                            42.22
+                        ],
+                        [
+                            -7.91,
+                            42.26
+                        ],
+                        [
+                            -7.96,
+                            42.25
+                        ],
+                        [
+                            -7.93,
+                            42.22
+                        ],
+                        [
+                            -7.95,
+                            42.19
+                        ],
+                        [
+                            -8.01,
+                            42.19
+                        ],
+                        [
+                            -8.07,
+                            42.22
+                        ],
+                        [
+                            -8.12,
+                            42.23
+                        ],
+                        [
+                            -8.12,
+                            42.15
+                        ],
+                        [
+                            -8.12,
+                            42.08
+                        ],
+                        [
+                            -8.18,
+                            42.07
+                        ],
+                        [
+                            -8.2,
+                            42.15
+                        ],
+                        [
+                            -8.17,
+                            42.17
+                        ],
+                        [
+                            -8.18,
+                            42.22
+                        ],
+                        [
+                            -8.22,
+                            42.23
+                        ],
+                        [
+                            -8.26,
+                            42.25
+                        ],
+                        [
+                            -8.26,
+                            42.32
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Estrecho</p><p><b>\u00c1rea:</b> Costa - Estrecho</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y zona de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 19/09/2026 06:00</p><p><b>Fin:</b> 19/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Ourense</p><p><b>\u00c1rea:</b> Mi\u00f1o de Ourense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/09/2026 13:00</p><p><b>Fin:</b> 21/09/2026 20:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -3267,9 +3335,9 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 2,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y \u00e1rea de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 20/09/2026 00:00</p><p><b>Fin:</b> 20/09/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Litoral gaditano</p><p><b>\u00c1rea:</b> Costa - Litoral gaditano</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Viento de Levante de 50 a 61 km/h (fuerza 7) en el Estrecho y al sur de Trafalgar mar adentro.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 21/09/2026 00:00</p><p><b>Fin:</b> 21/09/2026 11:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         }
