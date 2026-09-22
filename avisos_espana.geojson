@@ -143,7 +143,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. Afectando principalmente a las vertientes sur y oeste, donde localmente se podr\u00edan alcanzar 37 \u00baC. Se podr\u00edan alcanzar localmente 34 \u00baC en la cuenca de Tejeda y Valle de Agaete.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 12:00</p><p><b>Fin:</b> 23/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -311,9 +311,157 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Gipuzkoa interior</p><p><b>\u00c1rea:</b> Gipuzkoa interior</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 13:00</p><p><b>Fin:</b> 24/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -15.74,
+                            28.05
+                        ],
+                        [
+                            -15.72,
+                            28.03
+                        ],
+                        [
+                            -15.69,
+                            28.05
+                        ],
+                        [
+                            -15.65,
+                            28.04
+                        ],
+                        [
+                            -15.61,
+                            28.02
+                        ],
+                        [
+                            -15.64,
+                            28.0
+                        ],
+                        [
+                            -15.71,
+                            27.99
+                        ],
+                        [
+                            -15.75,
+                            27.96
+                        ],
+                        [
+                            -15.69,
+                            27.92
+                        ],
+                        [
+                            -15.65,
+                            27.92
+                        ],
+                        [
+                            -15.6,
+                            27.97
+                        ],
+                        [
+                            -15.59,
+                            27.95
+                        ],
+                        [
+                            -15.55,
+                            27.96
+                        ],
+                        [
+                            -15.55,
+                            27.99
+                        ],
+                        [
+                            -15.51,
+                            28.01
+                        ],
+                        [
+                            -15.42,
+                            28.04
+                        ],
+                        [
+                            -15.39,
+                            28.03
+                        ],
+                        [
+                            -15.37,
+                            27.99
+                        ],
+                        [
+                            -15.38,
+                            27.97
+                        ],
+                        [
+                            -15.39,
+                            27.89
+                        ],
+                        [
+                            -15.38,
+                            27.86
+                        ],
+                        [
+                            -15.41,
+                            27.85
+                        ],
+                        [
+                            -15.42,
+                            27.81
+                        ],
+                        [
+                            -15.49,
+                            27.79
+                        ],
+                        [
+                            -15.56,
+                            27.76
+                        ],
+                        [
+                            -15.6,
+                            27.73
+                        ],
+                        [
+                            -15.67,
+                            27.75
+                        ],
+                        [
+                            -15.79,
+                            27.83
+                        ],
+                        [
+                            -15.83,
+                            27.91
+                        ],
+                        [
+                            -15.83,
+                            27.97
+                        ],
+                        [
+                            -15.81,
+                            28.02
+                        ],
+                        [
+                            -15.79,
+                            28.02
+                        ],
+                        [
+                            -15.74,
+                            28.05
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente a median\u00edas y zonas bajas del sur de Gran Canaria y Tenerife. En Gran Canaria podr\u00e1 alcanzar localmente 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/09/2026 12:00</p><p><b>Fin:</b> 25/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -487,489 +635,9 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Pontevedra</p><p><b>\u00c1rea:</b> Mi\u00f1o de Pontevedra</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Estos valores se esperan en el entorno de Padr\u00f3n.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -8.91,
-                            42.9
-                        ],
-                        [
-                            -8.89,
-                            42.93
-                        ],
-                        [
-                            -8.91,
-                            43.04
-                        ],
-                        [
-                            -8.85,
-                            43.11
-                        ],
-                        [
-                            -8.81,
-                            43.12
-                        ],
-                        [
-                            -8.7,
-                            43.09
-                        ],
-                        [
-                            -8.67,
-                            43.12
-                        ],
-                        [
-                            -8.64,
-                            43.11
-                        ],
-                        [
-                            -8.61,
-                            43.14
-                        ],
-                        [
-                            -8.57,
-                            43.14
-                        ],
-                        [
-                            -8.52,
-                            43.12
-                        ],
-                        [
-                            -8.49,
-                            43.1
-                        ],
-                        [
-                            -8.44,
-                            43.16
-                        ],
-                        [
-                            -8.37,
-                            43.17
-                        ],
-                        [
-                            -8.34,
-                            43.14
-                        ],
-                        [
-                            -8.31,
-                            43.16
-                        ],
-                        [
-                            -8.28,
-                            43.13
-                        ],
-                        [
-                            -8.23,
-                            43.14
-                        ],
-                        [
-                            -8.21,
-                            43.13
-                        ],
-                        [
-                            -8.08,
-                            43.18
-                        ],
-                        [
-                            -8.11,
-                            43.21
-                        ],
-                        [
-                            -8.18,
-                            43.25
-                        ],
-                        [
-                            -8.19,
-                            43.28
-                        ],
-                        [
-                            -8.13,
-                            43.26
-                        ],
-                        [
-                            -8.1,
-                            43.29
-                        ],
-                        [
-                            -8.12,
-                            43.33
-                        ],
-                        [
-                            -8.09,
-                            43.33
-                        ],
-                        [
-                            -8.09,
-                            43.37
-                        ],
-                        [
-                            -8.11,
-                            43.4
-                        ],
-                        [
-                            -8.07,
-                            43.41
-                        ],
-                        [
-                            -8.1,
-                            43.45
-                        ],
-                        [
-                            -8.09,
-                            43.47
-                        ],
-                        [
-                            -8.0,
-                            43.47
-                        ],
-                        [
-                            -7.98,
-                            43.48
-                        ],
-                        [
-                            -7.98,
-                            43.54
-                        ],
-                        [
-                            -7.92,
-                            43.55
-                        ],
-                        [
-                            -7.9,
-                            43.58
-                        ],
-                        [
-                            -7.84,
-                            43.55
-                        ],
-                        [
-                            -7.83,
-                            43.57
-                        ],
-                        [
-                            -7.75,
-                            43.56
-                        ],
-                        [
-                            -7.75,
-                            43.51
-                        ],
-                        [
-                            -7.78,
-                            43.45
-                        ],
-                        [
-                            -7.82,
-                            43.4
-                        ],
-                        [
-                            -7.88,
-                            43.41
-                        ],
-                        [
-                            -7.9,
-                            43.39
-                        ],
-                        [
-                            -7.88,
-                            43.35
-                        ],
-                        [
-                            -7.89,
-                            43.33
-                        ],
-                        [
-                            -7.95,
-                            43.29
-                        ],
-                        [
-                            -7.92,
-                            43.27
-                        ],
-                        [
-                            -7.96,
-                            43.19
-                        ],
-                        [
-                            -7.94,
-                            43.11
-                        ],
-                        [
-                            -7.92,
-                            43.09
-                        ],
-                        [
-                            -7.94,
-                            43.07
-                        ],
-                        [
-                            -7.9,
-                            42.99
-                        ],
-                        [
-                            -7.91,
-                            42.93
-                        ],
-                        [
-                            -7.93,
-                            42.9
-                        ],
-                        [
-                            -7.98,
-                            42.88
-                        ],
-                        [
-                            -8.0,
-                            42.85
-                        ],
-                        [
-                            -8.04,
-                            42.83
-                        ],
-                        [
-                            -8.07,
-                            42.85
-                        ],
-                        [
-                            -8.15,
-                            42.85
-                        ],
-                        [
-                            -8.18,
-                            42.86
-                        ],
-                        [
-                            -8.21,
-                            42.82
-                        ],
-                        [
-                            -8.25,
-                            42.84
-                        ],
-                        [
-                            -8.33,
-                            42.79
-                        ],
-                        [
-                            -8.4,
-                            42.78
-                        ],
-                        [
-                            -8.43,
-                            42.75
-                        ],
-                        [
-                            -8.49,
-                            42.76
-                        ],
-                        [
-                            -8.57,
-                            42.74
-                        ],
-                        [
-                            -8.59,
-                            42.77
-                        ],
-                        [
-                            -8.62,
-                            42.77
-                        ],
-                        [
-                            -8.63,
-                            42.81
-                        ],
-                        [
-                            -8.67,
-                            42.81
-                        ],
-                        [
-                            -8.7,
-                            42.84
-                        ],
-                        [
-                            -8.78,
-                            42.83
-                        ],
-                        [
-                            -8.84,
-                            42.85
-                        ],
-                        [
-                            -8.87,
-                            42.87
-                        ],
-                        [
-                            -8.87,
-                            42.91
-                        ],
-                        [
-                            -8.91,
-                            42.9
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Interior de A Coru\u00f1a</p><p><b>\u00c1rea:</b> Interior de A Coru\u00f1a</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. En el Suroeste de La Coru\u00f1a, R\u00edas Bajas y Mi\u00f1o de Pontevedra los umbrales se alcanzar\u00e1n en el interior de las zonas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -15.74,
-                            28.05
-                        ],
-                        [
-                            -15.72,
-                            28.03
-                        ],
-                        [
-                            -15.69,
-                            28.05
-                        ],
-                        [
-                            -15.65,
-                            28.04
-                        ],
-                        [
-                            -15.61,
-                            28.02
-                        ],
-                        [
-                            -15.64,
-                            28.0
-                        ],
-                        [
-                            -15.71,
-                            27.99
-                        ],
-                        [
-                            -15.75,
-                            27.96
-                        ],
-                        [
-                            -15.69,
-                            27.92
-                        ],
-                        [
-                            -15.65,
-                            27.92
-                        ],
-                        [
-                            -15.6,
-                            27.97
-                        ],
-                        [
-                            -15.59,
-                            27.95
-                        ],
-                        [
-                            -15.55,
-                            27.96
-                        ],
-                        [
-                            -15.55,
-                            27.99
-                        ],
-                        [
-                            -15.51,
-                            28.01
-                        ],
-                        [
-                            -15.42,
-                            28.04
-                        ],
-                        [
-                            -15.39,
-                            28.03
-                        ],
-                        [
-                            -15.37,
-                            27.99
-                        ],
-                        [
-                            -15.38,
-                            27.97
-                        ],
-                        [
-                            -15.39,
-                            27.89
-                        ],
-                        [
-                            -15.38,
-                            27.86
-                        ],
-                        [
-                            -15.41,
-                            27.85
-                        ],
-                        [
-                            -15.42,
-                            27.81
-                        ],
-                        [
-                            -15.49,
-                            27.79
-                        ],
-                        [
-                            -15.56,
-                            27.76
-                        ],
-                        [
-                            -15.6,
-                            27.73
-                        ],
-                        [
-                            -15.67,
-                            27.75
-                        ],
-                        [
-                            -15.79,
-                            27.83
-                        ],
-                        [
-                            -15.83,
-                            27.91
-                        ],
-                        [
-                            -15.83,
-                            27.97
-                        ],
-                        [
-                            -15.81,
-                            28.02
-                        ],
-                        [
-                            -15.79,
-                            28.02
-                        ],
-                        [
-                            -15.74,
-                            28.05
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando principalmente al interior y sureste de la isla de Fuerteventura, y a median\u00edas del sur y zonas bajas del sureste en Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 12:00</p><p><b>Fin:</b> 22/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -1467,7 +1135,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vegas del Guadiana</p><p><b>\u00c1rea:</b> Vegas del Guadiana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC. Principalmente en el entorno de Badajoz.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1551,7 +1219,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. \u00c1rea metropolitana de Tenerife</p><p><b>\u00c1rea:</b> \u00c1rea metropolitana de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Gran Canaria, afectando de manera extensa a median\u00edas, y especialmente en vertientes norte y sur, incluyendo zonas bajas, donde localmente se podr\u00edan alcanzar 38 \u00baC. En Tenerife, especialmente en median\u00edas y zonas bajas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1671,7 +1339,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Tenerife</p><p><b>\u00c1rea:</b> Norte de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente en mitad sur y vertientes oeste de Lanzarote y Fuerteventura, median\u00edas y zonas bajas del este y sur de La Gomera y El Hierro, y zonas bajas del norte de Tenerife.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -1751,7 +1419,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. El Hierro</p><p><b>\u00c1rea:</b> El Hierro</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente en mitad sur y vertientes oeste de Lanzarote y Fuerteventura, median\u00edas y zonas bajas del este y sur de La Gomera y El Hierro, y zonas bajas del norte de Tenerife.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2251,7 +1919,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Vegas del Guadiana</p><p><b>\u00c1rea:</b> Vegas del Guadiana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC. Principalmente en el entorno de lBadajoz.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 13:00</p><p><b>Fin:</b> 24/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2383,9 +2051,133 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Lanzarote</p><p><b>\u00c1rea:</b> Lanzarote</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Localmente podr\u00edan alcanzarse 37 \u00baC, especialmente en la mitad sur de Lanzarote, y mitad sur y vertiente oeste de Fuerteventura.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 12:00</p><p><b>Fin:</b> 23/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.85,
+                            28.27
+                        ],
+                        [
+                            -16.79,
+                            28.31
+                        ],
+                        [
+                            -16.7,
+                            28.27
+                        ],
+                        [
+                            -16.68,
+                            28.21
+                        ],
+                        [
+                            -16.64,
+                            28.2
+                        ],
+                        [
+                            -16.55,
+                            28.25
+                        ],
+                        [
+                            -16.54,
+                            28.28
+                        ],
+                        [
+                            -16.5,
+                            28.31
+                        ],
+                        [
+                            -16.48,
+                            28.35
+                        ],
+                        [
+                            -16.44,
+                            28.39
+                        ],
+                        [
+                            -16.39,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.34
+                        ],
+                        [
+                            -16.36,
+                            28.31
+                        ],
+                        [
+                            -16.42,
+                            28.2
+                        ],
+                        [
+                            -16.44,
+                            28.14
+                        ],
+                        [
+                            -16.49,
+                            28.08
+                        ],
+                        [
+                            -16.55,
+                            28.03
+                        ],
+                        [
+                            -16.6,
+                            28.03
+                        ],
+                        [
+                            -16.64,
+                            28.0
+                        ],
+                        [
+                            -16.68,
+                            28.0
+                        ],
+                        [
+                            -16.71,
+                            28.01
+                        ],
+                        [
+                            -16.71,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.05
+                        ],
+                        [
+                            -16.74,
+                            28.09
+                        ],
+                        [
+                            -16.77,
+                            28.11
+                        ],
+                        [
+                            -16.84,
+                            28.21
+                        ],
+                        [
+                            -16.85,
+                            28.27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 2,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente a median\u00edas y zonas bajas del sur de Gran Canaria y Tenerife. En Gran Canaria podr\u00e1 alcanzar localmente 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 25/09/2026 12:00</p><p><b>Fin:</b> 25/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -2747,7 +2539,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Campi\u00f1a sevillana</p><p><b>\u00c1rea:</b> Campi\u00f1a sevillana</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 38 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -2879,273 +2671,9 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Lanzarote</p><p><b>\u00c1rea:</b> Lanzarote</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente en mitad sur y vertientes oeste de Lanzarote y Fuerteventura, median\u00edas y zonas bajas del este y sur de La Gomera y El Hierro, y zonas bajas del norte de Tenerife.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -8.74,
-                            42.65
-                        ],
-                        [
-                            -8.74,
-                            42.66
-                        ],
-                        [
-                            -8.73,
-                            42.69
-                        ],
-                        [
-                            -8.72,
-                            42.71
-                        ],
-                        [
-                            -8.64,
-                            42.72
-                        ],
-                        [
-                            -8.61,
-                            42.72
-                        ],
-                        [
-                            -8.59,
-                            42.7
-                        ],
-                        [
-                            -8.61,
-                            42.66
-                        ],
-                        [
-                            -8.6,
-                            42.6
-                        ],
-                        [
-                            -8.62,
-                            42.57
-                        ],
-                        [
-                            -8.6,
-                            42.52
-                        ],
-                        [
-                            -8.56,
-                            42.47
-                        ],
-                        [
-                            -8.58,
-                            42.45
-                        ],
-                        [
-                            -8.55,
-                            42.43
-                        ],
-                        [
-                            -8.49,
-                            42.43
-                        ],
-                        [
-                            -8.44,
-                            42.38
-                        ],
-                        [
-                            -8.48,
-                            42.32
-                        ],
-                        [
-                            -8.48,
-                            42.29
-                        ],
-                        [
-                            -8.53,
-                            42.26
-                        ],
-                        [
-                            -8.57,
-                            42.24
-                        ],
-                        [
-                            -8.59,
-                            42.18
-                        ],
-                        [
-                            -8.64,
-                            42.16
-                        ],
-                        [
-                            -8.69,
-                            42.14
-                        ],
-                        [
-                            -8.68,
-                            42.09
-                        ],
-                        [
-                            -8.73,
-                            42.06
-                        ],
-                        [
-                            -8.79,
-                            42.07
-                        ],
-                        [
-                            -8.81,
-                            42.04
-                        ],
-                        [
-                            -8.78,
-                            42.0
-                        ],
-                        [
-                            -8.8,
-                            41.97
-                        ],
-                        [
-                            -8.87,
-                            41.97
-                        ],
-                        [
-                            -8.88,
-                            41.96
-                        ],
-                        [
-                            -8.88,
-                            42.0
-                        ],
-                        [
-                            -8.9,
-                            42.11
-                        ],
-                        [
-                            -8.82,
-                            42.13
-                        ],
-                        [
-                            -8.83,
-                            42.15
-                        ],
-                        [
-                            -8.77,
-                            42.23
-                        ],
-                        [
-                            -8.74,
-                            42.23
-                        ],
-                        [
-                            -8.67,
-                            42.28
-                        ],
-                        [
-                            -8.61,
-                            42.3
-                        ],
-                        [
-                            -8.61,
-                            42.34
-                        ],
-                        [
-                            -8.64,
-                            42.35
-                        ],
-                        [
-                            -8.69,
-                            42.28
-                        ],
-                        [
-                            -8.74,
-                            42.27
-                        ],
-                        [
-                            -8.79,
-                            42.25
-                        ],
-                        [
-                            -8.85,
-                            42.26
-                        ],
-                        [
-                            -8.82,
-                            42.31
-                        ],
-                        [
-                            -8.83,
-                            42.33
-                        ],
-                        [
-                            -8.75,
-                            42.34
-                        ],
-                        [
-                            -8.74,
-                            42.38
-                        ],
-                        [
-                            -8.69,
-                            42.4
-                        ],
-                        [
-                            -8.74,
-                            42.41
-                        ],
-                        [
-                            -8.76,
-                            42.4
-                        ],
-                        [
-                            -8.86,
-                            42.41
-                        ],
-                        [
-                            -8.88,
-                            42.46
-                        ],
-                        [
-                            -8.91,
-                            42.48
-                        ],
-                        [
-                            -8.86,
-                            42.5
-                        ],
-                        [
-                            -8.83,
-                            42.48
-                        ],
-                        [
-                            -8.82,
-                            42.53
-                        ],
-                        [
-                            -8.83,
-                            42.55
-                        ],
-                        [
-                            -8.76,
-                            42.6
-                        ],
-                        [
-                            -8.77,
-                            42.62
-                        ],
-                        [
-                            -8.74,
-                            42.65
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Rias Baixas</p><p><b>\u00c1rea:</b> Rias Baixas</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. En el Suroeste de La Coru\u00f1a, R\u00edas Bajas y Mi\u00f1o de Pontevedra los umbrales se alcanzar\u00e1n en el interior de las zonas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -3339,7 +2867,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Bizkaia interior</p><p><b>\u00c1rea:</b> Bizkaia interior</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 13:00</p><p><b>Fin:</b> 24/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -3693,699 +3221,7 @@
             "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de C\u00e1ceres</p><p><b>\u00c1rea:</b> Norte de C\u00e1ceres</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. Principalmente en las zonas de menor altitud.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -6.86,
-                            40.27
-                        ],
-                        [
-                            -6.84,
-                            40.25
-                        ],
-                        [
-                            -6.75,
-                            40.25
-                        ],
-                        [
-                            -6.72,
-                            40.27
-                        ],
-                        [
-                            -6.67,
-                            40.26
-                        ],
-                        [
-                            -6.59,
-                            40.27
-                        ],
-                        [
-                            -6.55,
-                            40.29
-                        ],
-                        [
-                            -6.56,
-                            40.33
-                        ],
-                        [
-                            -6.53,
-                            40.35
-                        ],
-                        [
-                            -6.45,
-                            40.37
-                        ],
-                        [
-                            -6.42,
-                            40.4
-                        ],
-                        [
-                            -6.37,
-                            40.4
-                        ],
-                        [
-                            -6.34,
-                            40.44
-                        ],
-                        [
-                            -6.29,
-                            40.45
-                        ],
-                        [
-                            -6.24,
-                            40.49
-                        ],
-                        [
-                            -6.2,
-                            40.48
-                        ],
-                        [
-                            -6.11,
-                            40.44
-                        ],
-                        [
-                            -6.13,
-                            40.42
-                        ],
-                        [
-                            -6.07,
-                            40.4
-                        ],
-                        [
-                            -6.08,
-                            40.36
-                        ],
-                        [
-                            -6.05,
-                            40.34
-                        ],
-                        [
-                            -6.01,
-                            40.34
-                        ],
-                        [
-                            -6.0,
-                            40.31
-                        ],
-                        [
-                            -5.94,
-                            40.28
-                        ],
-                        [
-                            -5.91,
-                            40.29
-                        ],
-                        [
-                            -5.88,
-                            40.33
-                        ],
-                        [
-                            -5.85,
-                            40.33
-                        ],
-                        [
-                            -5.79,
-                            40.35
-                        ],
-                        [
-                            -5.76,
-                            40.28
-                        ],
-                        [
-                            -5.74,
-                            40.29
-                        ],
-                        [
-                            -5.69,
-                            40.29
-                        ],
-                        [
-                            -5.63,
-                            40.25
-                        ],
-                        [
-                            -5.62,
-                            40.22
-                        ],
-                        [
-                            -5.55,
-                            40.2
-                        ],
-                        [
-                            -5.5,
-                            40.2
-                        ],
-                        [
-                            -5.43,
-                            40.25
-                        ],
-                        [
-                            -5.34,
-                            40.26
-                        ],
-                        [
-                            -5.37,
-                            40.22
-                        ],
-                        [
-                            -5.37,
-                            40.16
-                        ],
-                        [
-                            -5.33,
-                            40.12
-                        ],
-                        [
-                            -5.37,
-                            40.1
-                        ],
-                        [
-                            -5.39,
-                            40.1
-                        ],
-                        [
-                            -5.46,
-                            40.07
-                        ],
-                        [
-                            -5.51,
-                            40.07
-                        ],
-                        [
-                            -5.64,
-                            40.02
-                        ],
-                        [
-                            -5.72,
-                            39.97
-                        ],
-                        [
-                            -5.76,
-                            39.97
-                        ],
-                        [
-                            -5.83,
-                            39.98
-                        ],
-                        [
-                            -5.83,
-                            40.02
-                        ],
-                        [
-                            -5.86,
-                            40.04
-                        ],
-                        [
-                            -5.91,
-                            40.02
-                        ],
-                        [
-                            -5.89,
-                            39.98
-                        ],
-                        [
-                            -5.9,
-                            39.97
-                        ],
-                        [
-                            -5.95,
-                            39.99
-                        ],
-                        [
-                            -5.94,
-                            40.02
-                        ],
-                        [
-                            -5.98,
-                            40.08
-                        ],
-                        [
-                            -6.03,
-                            40.1
-                        ],
-                        [
-                            -6.09,
-                            40.08
-                        ],
-                        [
-                            -6.12,
-                            40.06
-                        ],
-                        [
-                            -6.18,
-                            40.11
-                        ],
-                        [
-                            -6.23,
-                            40.12
-                        ],
-                        [
-                            -6.28,
-                            40.1
-                        ],
-                        [
-                            -6.32,
-                            40.12
-                        ],
-                        [
-                            -6.44,
-                            40.1
-                        ],
-                        [
-                            -6.49,
-                            40.12
-                        ],
-                        [
-                            -6.54,
-                            40.1
-                        ],
-                        [
-                            -6.6,
-                            40.11
-                        ],
-                        [
-                            -6.63,
-                            40.07
-                        ],
-                        [
-                            -6.68,
-                            40.11
-                        ],
-                        [
-                            -6.73,
-                            40.1
-                        ],
-                        [
-                            -6.73,
-                            40.07
-                        ],
-                        [
-                            -6.77,
-                            39.99
-                        ],
-                        [
-                            -6.78,
-                            39.95
-                        ],
-                        [
-                            -6.82,
-                            39.96
-                        ],
-                        [
-                            -6.87,
-                            40.01
-                        ],
-                        [
-                            -6.88,
-                            40.04
-                        ],
-                        [
-                            -6.92,
-                            40.07
-                        ],
-                        [
-                            -6.95,
-                            40.11
-                        ],
-                        [
-                            -7.01,
-                            40.13
-                        ],
-                        [
-                            -7.02,
-                            40.2
-                        ],
-                        [
-                            -7.01,
-                            40.23
-                        ],
-                        [
-                            -6.95,
-                            40.26
-                        ],
-                        [
-                            -6.91,
-                            40.26
-                        ],
-                        [
-                            -6.86,
-                            40.27
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 1,
-                "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de C\u00e1ceres</p><p><b>\u00c1rea:</b> Norte de C\u00e1ceres</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. Principalmente en las zonas de menor altitud.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -9.11,
-                            42.76
-                        ],
-                        [
-                            -9.1,
-                            42.79
-                        ],
-                        [
-                            -9.03,
-                            42.86
-                        ],
-                        [
-                            -8.98,
-                            42.86
-                        ],
-                        [
-                            -8.99,
-                            42.89
-                        ],
-                        [
-                            -8.91,
-                            42.89
-                        ],
-                        [
-                            -8.91,
-                            42.9
-                        ],
-                        [
-                            -8.87,
-                            42.91
-                        ],
-                        [
-                            -8.87,
-                            42.87
-                        ],
-                        [
-                            -8.84,
-                            42.85
-                        ],
-                        [
-                            -8.78,
-                            42.83
-                        ],
-                        [
-                            -8.7,
-                            42.84
-                        ],
-                        [
-                            -8.67,
-                            42.81
-                        ],
-                        [
-                            -8.63,
-                            42.81
-                        ],
-                        [
-                            -8.62,
-                            42.77
-                        ],
-                        [
-                            -8.59,
-                            42.77
-                        ],
-                        [
-                            -8.57,
-                            42.74
-                        ],
-                        [
-                            -8.61,
-                            42.72
-                        ],
-                        [
-                            -8.64,
-                            42.72
-                        ],
-                        [
-                            -8.72,
-                            42.71
-                        ],
-                        [
-                            -8.73,
-                            42.69
-                        ],
-                        [
-                            -8.75,
-                            42.65
-                        ],
-                        [
-                            -8.79,
-                            42.64
-                        ],
-                        [
-                            -8.81,
-                            42.66
-                        ],
-                        [
-                            -8.85,
-                            42.67
-                        ],
-                        [
-                            -8.87,
-                            42.61
-                        ],
-                        [
-                            -8.89,
-                            42.64
-                        ],
-                        [
-                            -8.99,
-                            42.56
-                        ],
-                        [
-                            -9.02,
-                            42.52
-                        ],
-                        [
-                            -9.05,
-                            42.57
-                        ],
-                        [
-                            -9.09,
-                            42.58
-                        ],
-                        [
-                            -9.08,
-                            42.58
-                        ],
-                        [
-                            -9.08,
-                            42.6
-                        ],
-                        [
-                            -9.07,
-                            42.6
-                        ],
-                        [
-                            -9.04,
-                            42.64
-                        ],
-                        [
-                            -9.03,
-                            42.7
-                        ],
-                        [
-                            -8.99,
-                            42.74
-                        ],
-                        [
-                            -8.98,
-                            42.78
-                        ],
-                        [
-                            -9.03,
-                            42.79
-                        ],
-                        [
-                            -9.06,
-                            42.76
-                        ],
-                        [
-                            -9.11,
-                            42.76
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Suroeste de A Coru\u00f1a</p><p><b>\u00c1rea:</b> Suroeste de A Coru\u00f1a</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. En el Suroeste de La Coru\u00f1a, R\u00edas Bajas y Mi\u00f1o de Pontevedra los umbrales se alcanzar\u00e1n en el interior de las zonas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -14.51,
-                            28.06
-                        ],
-                        [
-                            -14.49,
-                            28.1
-                        ],
-                        [
-                            -14.45,
-                            28.1
-                        ],
-                        [
-                            -14.38,
-                            28.11
-                        ],
-                        [
-                            -14.33,
-                            28.13
-                        ],
-                        [
-                            -14.25,
-                            28.19
-                        ],
-                        [
-                            -14.21,
-                            28.22
-                        ],
-                        [
-                            -14.21,
-                            28.29
-                        ],
-                        [
-                            -14.2,
-                            28.33
-                        ],
-                        [
-                            -14.16,
-                            28.37
-                        ],
-                        [
-                            -14.15,
-                            28.43
-                        ],
-                        [
-                            -14.1,
-                            28.47
-                        ],
-                        [
-                            -14.06,
-                            28.55
-                        ],
-                        [
-                            -14.03,
-                            28.59
-                        ],
-                        [
-                            -14.04,
-                            28.61
-                        ],
-                        [
-                            -14.01,
-                            28.68
-                        ],
-                        [
-                            -14.02,
-                            28.71
-                        ],
-                        [
-                            -13.98,
-                            28.73
-                        ],
-                        [
-                            -13.88,
-                            28.76
-                        ],
-                        [
-                            -13.84,
-                            28.73
-                        ],
-                        [
-                            -13.83,
-                            28.69
-                        ],
-                        [
-                            -13.82,
-                            28.61
-                        ],
-                        [
-                            -13.83,
-                            28.52
-                        ],
-                        [
-                            -13.87,
-                            28.48
-                        ],
-                        [
-                            -13.85,
-                            28.41
-                        ],
-                        [
-                            -13.88,
-                            28.32
-                        ],
-                        [
-                            -13.9,
-                            28.28
-                        ],
-                        [
-                            -13.93,
-                            28.23
-                        ],
-                        [
-                            -13.99,
-                            28.23
-                        ],
-                        [
-                            -14.04,
-                            28.2
-                        ],
-                        [
-                            -14.22,
-                            28.16
-                        ],
-                        [
-                            -14.26,
-                            28.11
-                        ],
-                        [
-                            -14.32,
-                            28.05
-                        ],
-                        [
-                            -14.34,
-                            28.04
-                        ],
-                        [
-                            -14.48,
-                            28.08
-                        ],
-                        [
-                            -14.51,
-                            28.06
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Fuerteventura</p><p><b>\u00c1rea:</b> Fuerteventura</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando principalmente al interior y sureste de la isla de Fuerteventura, y a median\u00edas del sur y zonas bajas del sureste en Gran Canaria.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 12:00</p><p><b>Fin:</b> 22/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -4487,7 +3323,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Norte de Gran Canaria</p><p><b>\u00c1rea:</b> Norte de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Gran Canaria, afectando de manera extensa a median\u00edas, y especialmente en vertientes norte y sur, incluyendo zonas bajas, donde localmente se podr\u00edan alcanzar 38 \u00baC. En Tenerife, especialmente en median\u00edas y zonas bajas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -4651,7 +3487,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Ourense</p><p><b>\u00c1rea:</b> Mi\u00f1o de Ourense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -4719,173 +3555,9 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. La Gomera</p><p><b>\u00c1rea:</b> La Gomera</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente en mitad sur y vertientes oeste de Lanzarote y Fuerteventura, median\u00edas y zonas bajas del este y sur de La Gomera y El Hierro, y zonas bajas del norte de Tenerife.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -8.26,
-                            42.32
-                        ],
-                        [
-                            -8.22,
-                            42.33
-                        ],
-                        [
-                            -8.22,
-                            42.38
-                        ],
-                        [
-                            -8.2,
-                            42.4
-                        ],
-                        [
-                            -8.13,
-                            42.39
-                        ],
-                        [
-                            -8.06,
-                            42.4
-                        ],
-                        [
-                            -8.0,
-                            42.4
-                        ],
-                        [
-                            -7.96,
-                            42.37
-                        ],
-                        [
-                            -7.91,
-                            42.4
-                        ],
-                        [
-                            -7.87,
-                            42.4
-                        ],
-                        [
-                            -7.84,
-                            42.37
-                        ],
-                        [
-                            -7.73,
-                            42.45
-                        ],
-                        [
-                            -7.7,
-                            42.43
-                        ],
-                        [
-                            -7.63,
-                            42.41
-                        ],
-                        [
-                            -7.62,
-                            42.38
-                        ],
-                        [
-                            -7.68,
-                            42.35
-                        ],
-                        [
-                            -7.71,
-                            42.37
-                        ],
-                        [
-                            -7.75,
-                            42.31
-                        ],
-                        [
-                            -7.79,
-                            42.3
-                        ],
-                        [
-                            -7.79,
-                            42.25
-                        ],
-                        [
-                            -7.82,
-                            42.22
-                        ],
-                        [
-                            -7.91,
-                            42.26
-                        ],
-                        [
-                            -7.96,
-                            42.25
-                        ],
-                        [
-                            -7.93,
-                            42.22
-                        ],
-                        [
-                            -7.95,
-                            42.19
-                        ],
-                        [
-                            -8.01,
-                            42.19
-                        ],
-                        [
-                            -8.07,
-                            42.22
-                        ],
-                        [
-                            -8.12,
-                            42.23
-                        ],
-                        [
-                            -8.12,
-                            42.15
-                        ],
-                        [
-                            -8.12,
-                            42.08
-                        ],
-                        [
-                            -8.18,
-                            42.07
-                        ],
-                        [
-                            -8.2,
-                            42.15
-                        ],
-                        [
-                            -8.17,
-                            42.17
-                        ],
-                        [
-                            -8.18,
-                            42.22
-                        ],
-                        [
-                            -8.22,
-                            42.23
-                        ],
-                        [
-                            -8.26,
-                            42.25
-                        ],
-                        [
-                            -8.26,
-                            42.32
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Ourense</p><p><b>\u00c1rea:</b> Mi\u00f1o de Ourense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 37 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -5043,7 +3715,7 @@
                 ]
             },
             "properties": {
-                "dia": 1,
+                "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Fuerteventura</p><p><b>\u00c1rea:</b> Fuerteventura</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Localmente podr\u00edan alcanzarse 37 \u00baC, especialmente en la mitad sur de Lanzarote, y mitad sur y vertiente oeste de Fuerteventura.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 12:00</p><p><b>Fin:</b> 23/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -5407,185 +4079,9 @@
                 ]
             },
             "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Villuercas y Mont\u00e1nchez</p><p><b>\u00c1rea:</b> Villuercas y Mont\u00e1nchez</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. Principalmente en las zonas de menor altitud.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -8.88,
-                            41.96
-                        ],
-                        [
-                            -8.87,
-                            41.97
-                        ],
-                        [
-                            -8.8,
-                            41.97
-                        ],
-                        [
-                            -8.78,
-                            42.0
-                        ],
-                        [
-                            -8.81,
-                            42.04
-                        ],
-                        [
-                            -8.79,
-                            42.07
-                        ],
-                        [
-                            -8.73,
-                            42.06
-                        ],
-                        [
-                            -8.68,
-                            42.09
-                        ],
-                        [
-                            -8.69,
-                            42.14
-                        ],
-                        [
-                            -8.64,
-                            42.16
-                        ],
-                        [
-                            -8.59,
-                            42.18
-                        ],
-                        [
-                            -8.57,
-                            42.24
-                        ],
-                        [
-                            -8.53,
-                            42.26
-                        ],
-                        [
-                            -8.48,
-                            42.29
-                        ],
-                        [
-                            -8.4,
-                            42.29
-                        ],
-                        [
-                            -8.4,
-                            42.2
-                        ],
-                        [
-                            -8.35,
-                            42.15
-                        ],
-                        [
-                            -8.28,
-                            42.15
-                        ],
-                        [
-                            -8.22,
-                            42.18
-                        ],
-                        [
-                            -8.23,
-                            42.21
-                        ],
-                        [
-                            -8.22,
-                            42.23
-                        ],
-                        [
-                            -8.18,
-                            42.22
-                        ],
-                        [
-                            -8.17,
-                            42.17
-                        ],
-                        [
-                            -8.2,
-                            42.15
-                        ],
-                        [
-                            -8.24,
-                            42.14
-                        ],
-                        [
-                            -8.33,
-                            42.08
-                        ],
-                        [
-                            -8.37,
-                            42.09
-                        ],
-                        [
-                            -8.42,
-                            42.07
-                        ],
-                        [
-                            -8.44,
-                            42.08
-                        ],
-                        [
-                            -8.53,
-                            42.08
-                        ],
-                        [
-                            -8.56,
-                            42.05
-                        ],
-                        [
-                            -8.63,
-                            42.05
-                        ],
-                        [
-                            -8.66,
-                            42.03
-                        ],
-                        [
-                            -8.68,
-                            41.99
-                        ],
-                        [
-                            -8.74,
-                            41.97
-                        ],
-                        [
-                            -8.75,
-                            41.94
-                        ],
-                        [
-                            -8.83,
-                            41.9
-                        ],
-                        [
-                            -8.85,
-                            41.88
-                        ],
-                        [
-                            -8.88,
-                            41.88
-                        ],
-                        [
-                            -8.88,
-                            41.96
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Mi\u00f1o de Pontevedra</p><p><b>\u00c1rea:</b> Mi\u00f1o de Pontevedra</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. En el Suroeste de La Coru\u00f1a, R\u00edas Bajas y Mi\u00f1o de Pontevedra los umbrales se alcanzar\u00e1n en el interior de las zonas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Villuercas y Mont\u00e1nchez</p><p><b>\u00c1rea:</b> Villuercas y Mont\u00e1nchez</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC. Principalmente en las zonas de menor altitud.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -5731,7 +4227,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Gran Canaria</p><p><b>\u00c1rea:</b> Este, sur y oeste de Gran Canaria</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Gran Canaria, afectando de manera extensa a median\u00edas, y especialmente en vertientes norte y sur, incluyendo zonas bajas, donde localmente se podr\u00edan alcanzar 38 \u00baC. En Tenerife, especialmente en median\u00edas y zonas bajas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -5855,7 +4351,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Este, sur y oeste de Tenerife</p><p><b>\u00c1rea:</b> Este, sur y oeste de Tenerife</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 35 \u00baC. En Gran Canaria, afectando de manera extensa a median\u00edas, y especialmente en vertientes norte y sur, incluyendo zonas bajas, donde localmente se podr\u00edan alcanzar 38 \u00baC. En Tenerife, especialmente en median\u00edas y zonas bajas.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
@@ -6035,141 +4531,9 @@
                 ]
             },
             "properties": {
-                "dia": 1,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Suroeste de A Coru\u00f1a</p><p><b>\u00c1rea:</b> Suroeste de A Coru\u00f1a</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Estos valores se esperan en el entorno de Padr\u00f3n.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -7.93,
-                            42.58
-                        ],
-                        [
-                            -7.87,
-                            42.51
-                        ],
-                        [
-                            -7.81,
-                            42.49
-                        ],
-                        [
-                            -7.75,
-                            42.45
-                        ],
-                        [
-                            -7.73,
-                            42.45
-                        ],
-                        [
-                            -7.84,
-                            42.37
-                        ],
-                        [
-                            -7.87,
-                            42.4
-                        ],
-                        [
-                            -7.91,
-                            42.4
-                        ],
-                        [
-                            -7.96,
-                            42.37
-                        ],
-                        [
-                            -8.0,
-                            42.4
-                        ],
-                        [
-                            -8.06,
-                            42.4
-                        ],
-                        [
-                            -8.13,
-                            42.39
-                        ],
-                        [
-                            -8.2,
-                            42.4
-                        ],
-                        [
-                            -8.22,
-                            42.38
-                        ],
-                        [
-                            -8.22,
-                            42.33
-                        ],
-                        [
-                            -8.26,
-                            42.32
-                        ],
-                        [
-                            -8.28,
-                            42.32
-                        ],
-                        [
-                            -8.32,
-                            42.37
-                        ],
-                        [
-                            -8.32,
-                            42.38
-                        ],
-                        [
-                            -8.35,
-                            42.48
-                        ],
-                        [
-                            -8.3,
-                            42.49
-                        ],
-                        [
-                            -8.24,
-                            42.54
-                        ],
-                        [
-                            -8.22,
-                            42.53
-                        ],
-                        [
-                            -8.17,
-                            42.57
-                        ],
-                        [
-                            -8.15,
-                            42.55
-                        ],
-                        [
-                            -8.09,
-                            42.56
-                        ],
-                        [
-                            -8.01,
-                            42.54
-                        ],
-                        [
-                            -7.99,
-                            42.57
-                        ],
-                        [
-                            -7.93,
-                            42.58
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
                 "dia": 0,
                 "priority": 1,
-                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Noroeste de Ourense</p><p><b>\u00c1rea:</b> Noroeste de Ourense</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 36 \u00baC.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 22/09/2026 13:00</p><p><b>Fin:</b> 22/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Suroeste de A Coru\u00f1a</p><p><b>\u00c1rea:</b> Suroeste de A Coru\u00f1a</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Estos valores se esperan en el entorno de Padr\u00f3n.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 23/09/2026 13:00</p><p><b>Fin:</b> 23/09/2026 18:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -6327,7 +4691,7 @@
                 ]
             },
             "properties": {
-                "dia": 2,
+                "dia": 1,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf21\ufe0f Aviso de temperaturas m\u00e1ximas de nivel amarillo</h3><p><b>Titular:</b> Aviso de temperaturas m\u00e1ximas de nivel amarillo. Fuerteventura</p><p><b>\u00c1rea:</b> Fuerteventura</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Temperatura m\u00e1xima: 34 \u00baC. Afectando especialmente en mitad sur y vertientes oeste de Lanzarote y Fuerteventura, median\u00edas y zonas bajas del este y sur de La Gomera y El Hierro, y zonas bajas del norte de Tenerife.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 24/09/2026 12:00</p><p><b>Fin:</b> 24/09/2026 19:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
