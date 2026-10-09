@@ -248,6 +248,42 @@
                 "coordinates": [
                     [
                         [
+                            -5.38,
+                            35.91
+                        ],
+                        [
+                            -5.33,
+                            35.89
+                        ],
+                        [
+                            -5.34,
+                            35.87
+                        ],
+                        [
+                            -5.37,
+                            35.88
+                        ],
+                        [
+                            -5.38,
+                            35.91
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Ceuta</p><p><b>\u00c1rea:</b> Ceuta</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> </p><p><b>Inicio:</b> 09/10/2026 08:05</p><p><b>Fin:</b> 09/10/2026 08:05</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             -13.87,
                             28.85
                         ],
@@ -370,78 +406,6 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Lanzarote</p><p><b>\u00c1rea:</b> Lanzarote</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm. Chubascos fuertes que pueden ir acompa\u00f1ados de alguna tormenta aislada.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/10/2026 16:00</p><p><b>Fin:</b> 10/10/2026 00:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\u26c8\ufe0f Aviso de tormentas de nivel amarillo</h3><p><b>Titular:</b> Aviso de tormentas de nivel amarillo. Ceuta</p><p><b>\u00c1rea:</b> Ceuta</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/10/2026 06:00</p><p><b>Fin:</b> 09/10/2026 17:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
-                "fillColor": "#f3f702"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -5.38,
-                            35.91
-                        ],
-                        [
-                            -5.33,
-                            35.89
-                        ],
-                        [
-                            -5.34,
-                            35.87
-                        ],
-                        [
-                            -5.37,
-                            35.88
-                        ],
-                        [
-                            -5.38,
-                            35.91
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "dia": 0,
-                "priority": 1,
-                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Ceuta</p><p><b>\u00c1rea:</b> Ceuta</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Precipitaci\u00f3n acumulada en una hora: 15 mm.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/10/2026 06:00</p><p><b>Fin:</b> 09/10/2026 17:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
@@ -690,6 +654,42 @@
                 "dia": 0,
                 "priority": 1,
                 "popup_html": "<h3>\ud83c\udf0a Aviso de costeros de nivel amarillo</h3><p><b>Titular:</b> Aviso de costeros de nivel amarillo. Costa - Menorca</p><p><b>\u00c1rea:</b> Costa - Menorca</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> Olas de 3 metros del norte.</p><p><b>Instrucciones:</b> Est\u00e9 atento. Mant\u00e9ngase informado de la predicci\u00f3n meteorol\u00f3gica m\u00e1s actualizada. Se pueden producir da\u00f1os moderados a personas y bienes, especialmente a aquellos vulnerables o en zonas expuestas al fen\u00f3meno.</p><p><b>Inicio:</b> 09/10/2026 15:00</p><p><b>Fin:</b> 09/10/2026 23:59</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
+                "fillColor": "#f3f702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.38,
+                            35.91
+                        ],
+                        [
+                            -5.33,
+                            35.89
+                        ],
+                        [
+                            -5.34,
+                            35.87
+                        ],
+                        [
+                            -5.37,
+                            35.88
+                        ],
+                        [
+                            -5.38,
+                            35.91
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "dia": 0,
+                "priority": 1,
+                "popup_html": "<h3>\ud83c\udf27\ufe0f Aviso de lluvias de nivel amarillo</h3><p><b>Titular:</b> Aviso de lluvias de nivel amarillo. Ceuta</p><p><b>\u00c1rea:</b> Ceuta</p><p><b>Nivel:</b> <span style='color:#f3f702; font-weight:bold;'>AMARILLO</span></p><hr><p><b>Descripci\u00f3n:</b> </p><p><b>Instrucciones:</b> </p><p><b>Inicio:</b> 09/10/2026 08:05</p><p><b>Fin:</b> 09/10/2026 08:05</p><p><a href='https://www.aemet.es/es/eltiempo/prediccion/avisos' target='_blank' style='color:#0078A8;'>Ver en AEMET</a></p>",
                 "fillColor": "#f3f702"
             }
         },
