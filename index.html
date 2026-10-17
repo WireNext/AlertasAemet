@@ -15,6 +15,11 @@
             background-color: #0b0e14;
         }
 
+        /* Filtro CSS para invertir y oscurecer OpenStreetMap de forma nativa */
+        .dark-osm {
+            filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3);
+        }
+
         /* Selector de Días - Liquid Glass Dark */
         .selector-dias {
             position: absolute; top: 20px; left: 50%; transform: translateX(-50%); z-index: 1000;
@@ -80,7 +85,6 @@
             line-height: 1.6;
         }
 
-        /* Scrollbar personalizada para Dark Mode */
         .modal-body::-webkit-scrollbar { width: 6px; }
         .modal-body::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.2); border-radius: 10px; }
 
@@ -99,7 +103,6 @@
         hr { border: 0; height: 1px; background: rgba(255,255,255,0.1); margin: 15px 0; }
         h3 { margin-top: 0; font-size: 1.4rem; padding-right: 25px; letter-spacing: -0.02em; color: #fff; }
 
-        /* Ajuste para el mapa en modo oscuro */
         .leaflet-container {
             background: #0b0e14 !important;
         }
@@ -116,8 +119,7 @@
 <div id="miModal" class="modal" onclick="cerrarSiFuera(event)">
     <div class="modal-content" onclick="event.stopPropagation()">
         <span class="close-btn" onclick="cerrarModal()">&times;</span>
-        <div id="modalBody" class="modal-body">
-            </div>
+        <div id="modalBody" class="modal-body"></div>
     </div>
 </div>
 
@@ -127,10 +129,11 @@
 <script>
     var map = L.map('map').setView([40.4167, -3.7037], 6);
 
-    // Mapa base oscuro gratuito (sin claves de ningún tipo)
-    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
-        maxZoom: 20,
-        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+    // Usamos OpenStreetMap estándar aplicando la clase CSS para pasarlo a modo oscuro
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        className: 'dark-osm'
     }).addTo(map);
 
     var capaAvisos = L.geoJSON(null, {
